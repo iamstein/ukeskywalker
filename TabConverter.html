@@ -3,16 +3,12 @@
 
 function getLineType(s) { // categorizes line as "blank", "chord" or "lyrics". 
 
- if (s.length==0) {
-  return "blank"
- }
+ if (s.length==0) { return "blank" }
  
  //count the number of white spaces and compute white space fraction
   var NumWhiteSpace = 0;
   for (var i=0; i<s.length; i++) {
-   if (s[i] == " " || s[i] == "\t") {
-    NumWhiteSpace++
-   }
+   if (s[i] == " " || s[i] == "\t") {NumWhiteSpace++}
   }
   var WhiteSpaceFraction = NumWhiteSpace/s.length;
   
