@@ -121,5 +121,3 @@ function compressTab() {
   //var s_output = s_linetype;
   document.getElementById("TabOutput").value = s_output;
  }
-
-</script>
