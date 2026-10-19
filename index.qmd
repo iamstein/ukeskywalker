@@ -9,17 +9,16 @@ listing:
     contents: songs/*.qmd
     type: table
     sort: "sort_title"
-    sort-ui: [title, artist, key, difficulty, added]
+    sort-ui: [title, artist, key, added]
     filter-ui: [title, artist, key]
     page-size: 500
     table-striped: true
     table-hover: true
-    fields: [title, artist, key, difficulty, added]
+    fields: [title, artist, key, added]
     field-display-names:
       title: "Song"
       artist: "Artist"
       key: "Key"
-      difficulty: "Difficulty"
       added: "Added"
 ---
 
