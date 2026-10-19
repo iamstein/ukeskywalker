@@ -38,8 +38,8 @@ website:
           - href: libraries/kids.qmd
             text: Kid Songs
           - text: "---"
-          - href: libraries/song-sheet.qmd
-            text: Printable Song Sheet
+          - href: libraries/sanctuary-boston-2026-10-retreat.qmd
+            text: Sanctuary Boston Oct 2026 Retreat
       - href: tools/compressor.qmd
         text: Compressor
       - href: tools/transposer.qmd

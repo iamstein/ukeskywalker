@@ -1,5 +1,7 @@
 ---
-title: "Printable Song Sheet"
+title: "Sanctuary Boston Oct 2026 Retreat"
+aliases:
+  - song-sheet.html
 toc: false
 filters:
   - ../_filters/songbook.lua
@@ -23,8 +25,8 @@ Four songs on one sheet of paper, printed front and back.
 <label class="form-check-label" for="chords-switch">Chords</label>
 </div>
 
-<a class="btn btn-primary" href="song-sheet.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF with chords</a>
-<a class="btn btn-outline-primary" href="song-sheet-lyrics.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF, lyrics only</a>
+<a class="btn btn-primary" href="sanctuary-boston-2026-10-retreat.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF with chords</a>
+<a class="btn btn-outline-primary" href="sanctuary-boston-2026-10-retreat-lyrics.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF, lyrics only</a>
 <button class="btn btn-outline-secondary" type="button" onclick="window.print()"><i class="bi bi-printer"></i> Print</button>
 :::
 

@@ -40,7 +40,7 @@ The navbar, left to right:
 | Tab | Page | Content |
 |---|---|---|
 | Songs | `index.qmd` | Every song, A–Z, in a searchable, sortable table |
-| Libraries | menu | All Songs, Spiritual Songs, Andy Originals, Trendy Wendy and the Yeastbombs, Kid Songs, Printable Song Sheet |
+| Libraries | menu | All Songs, Spiritual Songs, Andy Originals, Trendy Wendy and the Yeastbombs, Kid Songs, Sanctuary Boston Oct 2026 Retreat (a printable song sheet) |
 | Compressor | `tools/compressor.qmd` | Chords-over-lyrics in, inline `[C]` chords out |
 | Transposer | `tools/transposer.qmd` | Paste a song, pick a new key |
 | About | page | `about.qmd`: what the site is, how to read a song page and the melody numbers. This specification is not in the navbar; it is at `specification.html` and in the repo. |
@@ -73,7 +73,7 @@ songs/files/<slug>.xlsx   # old spreadsheet arrangements, linked from the song p
 _templates/song.qmd       # blank song with every field; copy to start a new song
 _notes/                   # working notes kept in the repo, not on the site
 libraries/<name>.qmd      # one listing page per library
-libraries/song-sheet.qmd  # printable song sheet; its songbook: list names the songs
+libraries/sanctuary-boston-2026-10-retreat.qmd  # printable song sheet; its songbook: list names the songs
 tools/compressor.qmd
 tools/transposer.qmd
 songs/_metadata.yml       # settings every song page shares: filter, CSS, scripts
@@ -306,8 +306,9 @@ home page.
 
 ### Printable song sheet
 
-`libraries/song-sheet.qmd` prints four songs on one sheet of paper, front and
-back: Love Will Hold Us Together on the front; The Rose, I've Got Peace Like a
+The Sanctuary Boston Oct 2026 Retreat page,
+`libraries/sanctuary-boston-2026-10-retreat.qmd`, prints four songs on one
+sheet of paper, front and back: Love Will Hold Us Together on the front; The Rose, I've Got Peace Like a
 River and This Little Light of Mine in two columns on the back. Its
 `songbook:` front matter lists the printed pages and the song files on each,
 so changing the songs is an edit to that list. `_filters/songbook.lua` reads
@@ -318,8 +319,9 @@ A Chords switch (on by default) hides the chords, the lines that hold only
 chords, and the extra hyphen in words like `re-[Em]-member`. Print uses
 whatever the switch shows. The publish workflow runs `_scripts/make_pdfs.sh`
 after rendering, which prints the page with headless Chrome to
-`song-sheet.pdf` and, with `?chords=off`, to `song-sheet-lyrics.pdf`. The PDFs
-are not committed; locally, run the script after `quarto render` to make
+`sanctuary-boston-2026-10-retreat.pdf` and, with `?chords=off`, to
+`sanctuary-boston-2026-10-retreat-lyrics.pdf`. The old address
+`libraries/song-sheet.html` redirects to the page. The PDFs are not committed; locally, run the script after `quarto render` to make
 them.
 
 ## Tools
