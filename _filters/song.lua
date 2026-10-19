@@ -3,7 +3,7 @@
 -- A ```{.song} block becomes HTML: one row per line, lyrics with chords on the
 -- left and melody on the right. The song's details from the front matter
 -- (artist, key, Andy's voice, links) go in a box above it. assets/song.js
--- adds the toolbar: melody switch, key menu and chord layout.
+-- adds the toolbar: chords (inline, above, off), melody switch and key menu.
 
 local R = dofile(pandoc.path.join({ pandoc.path.directory(PANDOC_SCRIPT_FILE), "song-render.lua" }))
 local esc, str, song_html = R.esc, R.str, R.song_html

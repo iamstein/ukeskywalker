@@ -75,9 +75,10 @@ local function song_html(code, opts)
       if lyr == nil then lyr, mel = line, nil end
       if opts.melody == false then mel = nil end
       if mel then has_melody = true end
-      -- A line with only chords on it (and maybe "x2") is hidden with the chords.
+      -- A line with only chords on it (and maybe "x2") and no melody is hidden
+      -- with the chords.
       local words = lyr:gsub("%[[^%]]*%]", ""):gsub("[xX]%d+", "")
-      local line_cls = words:match("%a") and "song-line" or "song-line chords-only"
+      local line_cls = (words:match("%a") or mel) and "song-line" or "song-line chords-only"
       -- re-[Em]-member: the second hyphen is only there for the chord.
       lyr = lyr:gsub("%-(%[[^%]]*%])%-", "-%1\1")
       out[#out + 1] = '<div class="' .. line_cls .. '"><div class="song-lyrics">' .. lyrics_html(lyr)

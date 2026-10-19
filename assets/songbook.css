@@ -14,10 +14,6 @@
 .sheet-title a { color: inherit; text-decoration: none; }
 .sheet-about { color: var(--bs-secondary-color); font-size: 0.9rem; margin-bottom: 0.5rem; }
 
-/* Chords switch off: lyrics only. */
-.no-chords .chord, .no-chords .chord-hyphen, .no-chords .chords-only { display: none !important; }
-.no-chords .song-lyrics, .no-chords .ly { white-space: normal; }
-
 @media (min-width: 900px) {
   .sheet-columns { columns: 2; column-gap: 3rem; }
 }

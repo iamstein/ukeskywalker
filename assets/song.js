@@ -1,4 +1,4 @@
-// Song page toolbar: melody switch, key menu, chord layout.
+// Song page toolbar: chords (inline, above, off), melody switch, key menu.
 // The song HTML comes from _filters/song.lua; chord names from assets/chords.js.
 (function () {
   const song = document.querySelector(".song");
@@ -68,15 +68,26 @@
     setKey(original);
   }
 
-  // ---- chord layout ----
+  // ---- chords: inline, above the lyrics, or off. First in the toolbar. ----
   if (chords.length) {
-    const input = el("input", { type: "checkbox", role: "switch", id: "above-switch", class: "form-check-input" });
-    input.checked = load("layout", "inline") === "above";
-    const apply = () => song.classList.toggle("chords-above", input.checked);
-    input.addEventListener("change", () => { save("layout", input.checked ? "above" : "inline"); apply(); });
+    const modes = [["inline", "Inline"], ["above", "Above"], ["off", "Off"]];
+    let mode = load("layout", "inline");
+    if (!modes.some(([m]) => m === mode)) mode = "inline";
+    const apply = () => {
+      song.classList.toggle("chords-above", mode === "above");
+      song.classList.toggle("no-chords", mode === "off");
+    };
+    const group = el("div", { class: "btn-group btn-group-sm", role: "group", "aria-label": "Chords" });
+    modes.forEach(([m, text]) => {
+      const input = el("input", { type: "radio", class: "btn-check", name: "chords-mode", id: "chords-" + m, autocomplete: "off" });
+      input.checked = m === mode;
+      input.addEventListener("change", () => { mode = m; save("layout", m); apply(); });
+      group.appendChild(input);
+      group.appendChild(el("label", { class: "btn btn-outline-secondary", for: "chords-" + m, text }));
+    });
     apply();
-    bar.appendChild(el("div", { class: "form-check form-switch song-tool" }, [
-      input, el("label", { class: "form-check-label", for: "above-switch", text: "Chords above lyrics" }),
-    ]));
+    bar.insertBefore(el("div", { class: "song-tool song-chords" }, [
+      el("span", { class: "song-tool-label", text: "Chords" }), group,
+    ]), bar.firstChild);
   }
 })();

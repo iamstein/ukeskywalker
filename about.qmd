@@ -10,8 +10,8 @@ earns nothing. It is mainly for learning and for playing with friends.
 ## Reading a song page
 
 Chords are in square brackets just before the syllable where they change:
-`[G] Abigail, can you feel my [C] heart`. The switch at the top shows the
-chords above the lyrics instead.
+`[G] Abigail, can you feel my [C] heart`. The Chords buttons at the top
+switch between Inline, Above (chords over the lyrics) and Off (lyrics only).
 
 The key menu at the top of each song changes the key. The song's own key and
 any other keys Andy plays it in come first.

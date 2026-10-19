@@ -41,6 +41,7 @@
 .song-key { display: flex; align-items: center; gap: 0.35rem; }
 .song-key label { margin-right: 0.15rem; }
 .song-key select { width: auto; }
+.song-chords { display: flex; align-items: center; gap: 0.5rem; }
 
 /* Two columns: lyrics and melody. Each line's two cells sit in the song grid,
    so every melody starts at the same left edge. */
@@ -73,6 +74,10 @@
 .song .chord::after { content: "]"; font-weight: 400; color: var(--bs-secondary-color); }
 .song .ly { white-space: pre-wrap; }
 .song .mark { color: var(--bs-secondary-color); }
+
+/* Chords off: lyrics only. Also used by the printable sheets. */
+.no-chords .chord, .no-chords .chord-hyphen, .no-chords .chords-only { display: none !important; }
+.no-chords .song-lyrics, .no-chords .ly { white-space: normal; }
 
 /* Chords above lyrics */
 .song.chords-above .ch {
