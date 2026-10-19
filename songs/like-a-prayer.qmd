@@ -2,6 +2,8 @@
 title: "Like a Prayer"
 sort_title: "Like a Prayer"
 artist: "Madonna"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=TpkwNJYonjg"
 libraries: ["all"]
 difficulty: 2
 practice: 1
@@ -11,5 +13,69 @@ poppy: 3
 happy: 3
 added: "2011-06"
 pages: 2
-other_links: ["https://docs.google.com/document/pub?id=1HgmJoI5-_xI-29RPftZ-8z-CwNDf4GywiNWQ_Qvnplg"]
+source_doc: "https://docs.google.com/document/d/1HgmJoI5-_xI-29RPftZ-8z-CwNDf4GywiNWQ_Qvnplg/edit"
 ---
+
+```{.song}
+Refrain: melody = [111721, 1111721, 333243, 11321]
+[Dm] Life is a [C] myster-[Dm]-y, everyone must [C]stand al-[Dm]one.
+I hear you [C] call my [F?] name and it feels like
+[Dm] Home.
+
+Chorus: melody = [33332, 222221, 2221 111321
+[F] When you call my [C] name, it's like a little
+[Bb] Prayer. I'm down on my [Am] knees, I wanna take you
+[F] there. In the midnight [C] hour, I can feel your
+[Bb] Power. Just like a [Am] prayer, you know I'll [C] take you there
+
+Verse: melody = [6611, 2213161, 66113212 2343]
+[Bb] I hear your [F] voice, [C] it's like an [Dm] angel sighing.
+[Bb] I have no [F] choice, I hear your [C] voice, feels like flying.
+[Bb] I close my [F] eyes, [C] oh God, I [Dm] think I'm falling
+[Bb] out of the [F] sky. I close my [C] eyes, Heaven
+Help me.
+
+Chorus: F C Bb Am
+
+Verse:
+[Bb] Like a [F] child, [C] you whisper [Dm] softly to me.
+[Bb] You're in con-[F]-trol just like a [C] child, now I'm dancing.
+[Bb] It's like a [F] dream, [C] no end and [Dm] no beginning.
+[Bb] You're here with [F] me, it's like a [C] dream. Let the choir sing.
+
+Chorus: F C Bb Am
+
+Refrain: Dm C
+
+Bridge:
+Just like a prayer, your voice can take me
+There. Just like a muse to me , you are a
+Mystery. Just like a dream, you are not what
+You seem. Just like a prayer, no choice,
+Your voice can take me there.
+
+Intermediate:
+Just like a prayer, I'll take you there. It's
+Like a dream to me. Just like a prayer, I'll
+Take you there. It's like a dream to me. Just
+Like a prayer, I'll take you there. It's like
+A dream to me. Just like a prayer, I'll take
+You there. It's like a dream to me.
+
+(Medley)
+
+Bridge:
+Just like a prayer, your voice can take me
+There. Just like a muse to me, you are a
+Mystery. Just like a dream, you are not what
+You seem. Just like a prayer, no choice,
+Your voice can take me there.
+
+Intermediate:
+Just like a prayer, I'll take you there. It's
+Like a dream to me. Just like a prayer, I'll
+Take you there. It's like a dream to me. Just
+Like a prayer, I'll take you there. It's like
+A dream to me. Just like a prayer, I'll take
+You there. It's like a dream to me.
+```

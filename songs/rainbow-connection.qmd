@@ -2,7 +2,69 @@
 title: "Rainbow Connection"
 sort_title: "Rainbow Connection"
 artist: "Jim Henson"
+key: "A"
 libraries: ["all"]
 added: "2026-02"
 pages: 2
+source_doc: "https://docs.google.com/document/d/1y9Ydh9drW4yonJasXTG1wtA1eDIFBps7dI9uJUYb03Y/edit"
 ---
+
+```{.song}
+Dmaj7 = 0222
+G#m = 464444
+F# = xx4320
+Eb = xx1333
+
+Intro:
+[Intro]
+    A           D
+e|-----------------------------|
+B|------2---2--------3---------|
+G|------2---2--------2---------|
+D|----2---2---2----0-----------|  x4
+A|--0------------0-------------|
+E|-----------------------------|
+
+Verse:
+[A] Why are there [F#m] so many [Bm] songs about [E] rainbows
+And [A] what's on the [F#m] other [Bm] side? [E]
+[A] Rainbows are [F#m] visions, but [Bm] only ill-[E]-usions
+And [A] rainbows have [F#m] nothing to [Bm] hide [E]
+
+[Dmaj7] So we've been told, and some choose to believe it
+[G#m] I know they're wrong, wait and see.
+
+Chorus:
+[Bm] Someday we'll [E] find it, the [C#m] rainbow con-[F#]-nection
+[Bm] The lovers, the [E] dreamers, and [A-intro] me. [D-intro] [A-intro] [D-intro]
+
+Verse:
+[A] Who said that [F#m] every wish would [Bm] be heard and [E] answered
+When [A] wished on the [F#m] morning [Bm] star? [E]
+[A] Somebody [F#m] thought of that, and [Bm] someone be-[E]-lieved it
+And [A] look what it's [F#m] done so [Bm] far. [E]
+
+[Dmaj7] What's so amazing that keeps us stargazing
+And [G#m] what do we think we might see?
+
+Chorus:
+[Bm] Someday we'll [E] find it, the [C#m]  rainbow con-[F#]-nection
+[Bm] The lovers, the [E] dreamers, and [A] me,
+[E] All of us [A] under its [A] spell.
+We [D] know that it's [A] probably [E] ma-[F]-gic.
+
+Verse - up half a step:
+[Bb] Have you been [Gm] half asleep and [Cm] have you heard [F] voices?
+[Bb] I've heard them [Gm] calling my [Cm] name. [F]
+[Bb] Is this the [Gm] sweet sound that [Cm] calls the young [F] sailors?
+The [Bb] voice might be [Gm] one and the [Cm] same.[F]
+
+[Eb] I've heard it too many times to ignore it.
+[Dm] It's something that I'm supposed to be.
+
+[Chorus]
+[Cm] Someday we'll [F] find it, the [Dm] rainbow [G] connection,
+[Cm] the lovers, the [F] dreamers and [Bb] me.
+
+F        Gm        Bb       Eb         F            Bb
+```

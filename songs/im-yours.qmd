@@ -2,6 +2,8 @@
 title: "I'm Yours"
 sort_title: "I'm Yours"
 artist: "Jason Mraz"
+key: "B"
+youtube: "http://www.youtube.com/watch?v=91mmAbFq--4"
 libraries: ["all"]
 difficulty: 2
 practice: 1
@@ -10,5 +12,49 @@ poppy: 3
 happy: 3
 added: "2011-06"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1bZrdItDZnZvh3HCgjbhuEtrl77Xans40VKEfvK93HTU"]
+source_doc: "https://docs.google.com/document/d/1bZrdItDZnZvh3HCgjbhuEtrl77Xans40VKEfvK93HTU/edit"
 ---
+
+```{.song}
+B=4322, F#=3121, G#m = 3231, E = 4442
+Melody: [XX88888889X, X7777777789, 889876, 544YX] (X=10, Y=11)
+
+Well [B] you done done me and you bet I felt it
+I [F#] tried to be chill but you're so hot that I melted
+I [G#m] fell right through the cracks and [E] i'm trying to get back
+Before the [B] cool done run out I'll be giving it my bestest
+An' [F#] nothin's going to stop me but Divine Intervention
+I [G#m] reckon it's again my turn to [E] win some or learn some
+
+Chorus:
+[B] I won't hesi [F#] tate no more
+No [G#m] more it cannot [E] wait, I'm yours
+
+Solo: B F# G#m E,  (G D, Em C)
+
+Well open up your mind and see like me
+Open up your plans and damn you're free
+Look into your heart and you'll find * love love love
+Listen to the music of the moment maybe sing with me
+Ah la peaceful melody
+It's your godforsaken right to be loved love loved love love
+
+Chorus:
+There's no need to complicate, Our time is short
+This is our fate, I'm yours
+
+Solo: C G Am
+
+I been spending way too long checking my tongue in the mirror
+And bendin' over backwards just to try to see it clearer
+My breath fogged up the glass so I drew a new face and laughed
+I guess what i'm sayin is there ain't no better reason
+To rid yourself of vanity and just go with the seasons
+It's what we aim to do our name is our virtue
+
+Chorus:
+
+There's no need to complicate
+Our time is short
+It cannot wait, I'm yours
+```

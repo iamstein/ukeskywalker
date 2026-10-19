@@ -2,7 +2,55 @@
 title: "Wherever is Your Heart"
 sort_title: "Wherever is Your Heart"
 artist: "Brandi Carlile"
+key: "G"
 libraries: ["all"]
 added: "2026-03"
 pages: 1
+source_doc: "https://docs.google.com/document/d/1trg2aMMua20ReTZdL0sRhkGk9Nr4MDjcT60Bdb6ezQo/edit"
 ---
+
+```{.song}
+Capo on 2nd fret: https://www.youtube.com/watch?v=VSZjEN3W7mk
+
+Verse:
+I [G] think it's time we [C] found a way back [G] home
+You [C] lose so many [C/B] things you love as you [G] grow
+I [G] missed the days when [C] I was just a [G] kid
+My [C] fear became my [C/B] shadow, I [G] swear it did
+
+Chorus:
+[Em] Wherever is your [C] heart I call [G] home
+[Em] Wherever is your [C] heart I call [G] home
+Though your [Em] feet may take you [C] far from me, I [G] know
+Wher-[Em]-ever is your [C] heart I call.. [G] home
+
+Verse:
+You [G] made me feel like [Am] I was always [G] falling
+Always [C] falling down [C/B] without a place to [G] land
+[G] Somewhere in the [Am] distance I heard you [G] calling
+Oh it [C] hurts so bad to [C/B] let go of your [G] hand
+
+Chorus:
+
+Verse:
+[G] Even when you're [C] high, you can [G] get low
+[C] Even with your [C/B] friends you love, you're [G] still alone
+We [G] always find the [C] darkest place to [G] go
+[C] God forgive our [C/B] minds, we were [G] born to roam
+
+Chorus:
+
+Bridge:
+Em C G G
+
+[Em] Oh God forgive my mind, oh [C] God forgive my mind
+When I come [G] home, when I come home
+Oh [Em] God forgive my mind
+There's a [C] road that's long and winding, it hollers [G] home, I'm calling home
+Oh [Em] God forgive my mind, oh [C] God forgive my mind
+When I come [G] home, when I come home
+Oh [Em] God forgive my mind, oh [C] God forgive my mind
+When I come [G] home, when I come home
+
+Chorus:
+```

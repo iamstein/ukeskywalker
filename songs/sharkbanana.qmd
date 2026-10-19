@@ -2,7 +2,9 @@
 title: "Sharkbanana"
 sort_title: "Sharkbanana"
 artist: "Andy Stein - Firefly"
-libraries: ["all", "andy-original"]
+key: "Am"
+youtube: "http://www.youtube.com/watch?v=ZgWMCxWwtuA"
+libraries: ["all", "andy-original", "kids"]
 difficulty: 2
 fun: 3
 skill: 5
@@ -10,5 +12,39 @@ poppy: 3
 happy: 3
 added: "2010-07"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1oWhhZPvq9h9sPzcHk9TuPN_POyyh6HZxHC1iQj7dutw"]
+source_doc: "https://docs.google.com/document/d/1oWhhZPvq9h9sPzcHk9TuPN_POyyh6HZxHC1iQj7dutw/edit"
 ---
+
+```{.song}
+Made for Camp Sharkbanana
+
+I [Am] woke up in an under water [C] jungle.  Don't
+[Am] ask me how I got there I don't [C] know.  The
+[Am] sea monkeys started giving me [C] trouble, when the
+[Am] killer crabs surprised me from [C] below. I
+[Am] climbed a tree to try to es-[C]-cape them.  But the
+[Am] crabs were patient--they wouldn't [C]go.  But
+
+[F] lucky for me there was a [G] shark banana tree.  And the
+[F] sharks said you need saving so, tally [G] ho!
+
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] Here to save the [F] day.
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] Chase the jungle [C] fiends away.  Now the
+
+[Am] shark bananas are with me, when-[C]-ever there's a fight. And I've
+[Am] fashioned to twin holsters on my [C] left and on my right.  And when the
+
+[F] sabertooth manatees at-[G]-tack.  The
+[F] shark bananas, they've got my [G] back.
+
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] Here to save the [F] day.
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] Chase the jungle [C] fiends away.  Now the
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] Whenever there's a [F] fight.
+[C] Shark... Baaaa-[Bb]-naaaa-[F]-na.
+[Bb] My potassium blue [C] knight.
+```

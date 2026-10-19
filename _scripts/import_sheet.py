@@ -33,7 +33,7 @@ FIELDS = ["sheet_title", "artist", "doc_id", "docs_label", "other_links", "key",
           "happy", "spiritual", "protest", "added", "pages", "source", "libraries"]
 
 HYPERLINK = re.compile(r'hyperlink\("([^"]*)"\s*[,;]\s*"([^"]*)"\)', re.I)
-DOC_ID = re.compile(r"/document/d/([A-Za-z0-9_-]+)")
+DOC_ID = re.compile(r"/document/(?:d/|pub\?id=)([A-Za-z0-9_-]+)")
 
 
 def fetch(url):
@@ -50,7 +50,8 @@ def read_sheet():
 
     # cell ref -> link target, from HYPERLINK formulas
     links = {}
-    for ref, body in re.findall(r'<c r="([A-Z]+\d+)"[^>]*>(.*?)</c>', sheet_xml, re.S):
+    # Empty cells are self-closing (<c r="A5" s="3"/>) and have no body.
+    for ref, body in re.findall(r'<c r="([A-Z]+\d+)"[^>]*?(?:/>|>(.*?)</c>)', sheet_xml, re.S):
         f = re.search(r"<f>(.*?)</f>", body, re.S)
         if f:
             m = HYPERLINK.search(html.unescape(f.group(1)))

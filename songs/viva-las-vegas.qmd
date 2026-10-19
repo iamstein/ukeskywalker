@@ -3,6 +3,7 @@ title: "Viva Las Vegas"
 sort_title: "Viva Las Vegas"
 artist: "Elvis"
 key: "G"
+youtube: "http://www.youtube.com/watch?v=3Knbh7TkX6A"
 libraries: ["all"]
 difficulty: 3
 practice: 3
@@ -13,5 +14,42 @@ voice_low: "D3"
 voice_high: "E4"
 added: "2011-03"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1BkmaW8-GiUkg3Oq40PlHP0aE0bqY-PnNC8sK8IemQLs"]
+source_doc: "https://docs.google.com/document/d/1BkmaW8-GiUkg3Oq40PlHP0aE0bqY-PnNC8sK8IemQLs/edit"
 ---
+
+```{.song}
+Verse 1:
+[G] Bright light city gonna set my soul gonna set my soul on fire {d e g e d b a g; d d b a g d g g}
+Got a [G] whole lot of money that's ready to burn so set my stakes up higher
+There's a [Em] thousand pretty women waiting out there {e e e e e e e e e g e g e}
+[Em] They're all living and the devil may care {e e e e e e g e g e}
+[Em] And I'm just a devil with love to spare {e e e e e e e g g e}
+
+[C] Viva Las [G] Vegas, [C] Viva Las [G] Vegas { e^ e^ e^ d^ g}
+
+Verse 2:
+[G] How I wish that there were more than 24 hours in the day
+But [G] even if there were 40 more, I wouldn't sleep a minute away
+Oh, there's [Em] black jack and poker and the roulette wheel
+A fortune and lost on every deal
+All you need's a strong heart and nerves of steel
+
+[C] Viva Las [G] Vegas, [C] Viva Las [G] Vegas
+
+Bridge:
+[C] Viva Las vegas with your neon flashin and your one armed bandits crashing and
+[G] All those hopes down the drain
+[C]  Viva Las Vegas turnin' day into nighttime turnin night into day time
+[A] If you see it once you'll [D] never be the same again
+
+Verse 3:
+[G] I'm gonna keep on the run I'm gonna have me some fun if it costs me my very last dime
+If I [G] wind up broke up well I'll always remember that I had a swingin' time
+[Em] I'm gonna give it everything I've got
+[Em] Lady luck please let the dice stay hot
+[Em] Let me shoot a seven with every shot
+
+[C] Viva Las [G] Vegas, [C] Viva Las [G] Vegas
+
+[C] Viva, [D] Viva Las [G] Viva
+```

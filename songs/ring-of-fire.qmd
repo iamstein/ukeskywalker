@@ -11,5 +11,35 @@ poppy: 3
 happy: 2
 added: "2012-04"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1waVB3payT6cQQpO6reqEQI1jYT9dKuP4khdI6rSApk0"]
+source_doc: "https://docs.google.com/document/d/1waVB3payT6cQQpO6reqEQI1jYT9dKuP4khdI6rSApk0/edit"
 ---
+
+```{.song}
+INTRO: G    C  G    C
+TRUMPETS | (line 1+3):        ddddd e c d
+TRUMPETS | (line 2):         bbbbb c a b
+(line 4): | bbbbb a a g
+
+[G] Love is a [C] burning [G] thing
+and it [G] makes a [C] firery [G] ring
+[G] Bound by [C] wild de-[G]-sire.
+[G] I fell into a [C] ring of [G] fire.
+
+Chorus: | (line 1+2):                d f# a^, a^ a^ g g g g e d
+                (line 3):                G G G b d  [and it burns burns burns]
+                (line 4): | b c a b d, G a F# G
+
+[D] I fell into a [C] burning ring of [G] fire.
+I went [D] down, down, down and the [C] flames went [G] higher.
+And it [G] burns burns burns
+The [C] ring of [G] fire, the [C] ring of [G] fire
+
+The [G] taste of [C] love is [G] sweet,
+when [G] hearts like [C] ours [G] meet.
+[G] I fell for you [C] like a [G] child.
+[G] Oh, but the [C] fire went [G] wild.
+
+JAM TIME
+
+Repeat Chorus
+```

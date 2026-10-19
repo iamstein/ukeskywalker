@@ -2,6 +2,7 @@
 title: "Hey Soul Sister"
 sort_title: "Hey Soul Sister"
 artist: "Train"
+key: "E"
 libraries: ["all"]
 difficulty: 2
 fun: 1
@@ -10,5 +11,35 @@ poppy: 3
 happy: 3
 added: "2011-02"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1ehLdcwhvRvp6v6REqCgrFMBHG-YxAOtQPcrFqMns-aU"]
+source_doc: "https://docs.google.com/document/d/1ehLdcwhvRvp6v6REqCgrFMBHG-YxAOtQPcrFqMns-aU/edit"
 ---
+
+```{.song}
+Melody in key of E-major
+
+Song[E]  Hey-[B] ay, Hey-ay-AY-ay-ay, [C#m] Hey-ay-AY-ay-[A] ay
+Your [E] lipstick stains [B]  on the front lobe of my [C#m] left side brains[A] I knew I wouldn't for-
+[E] get you and so I went and [B] let you blow my [C#m] mind[A] [B] Your
+[E] sweet moonbeam [B]  the smell of you in every [C#m] single dream I [A] dreamI knew when we col-[E]-lided you're the one I have de-[B] cided who's one of my [C#m] kind[A] [B]
+
+[A] Hey soul sister [B] ain't that mister [E] mister [B] on the [A] radio stereo.
+The [B] way you move aint [E] fair you [B] know
+[A] Hey soul sister [B] I don't want to [E] miss a [B] single [A] thing you do[B]
+
+To-[E] night Hey-[B] ay, Hey-ay-AY-ay-[C#m] ay, Hey-ay-AY-ay-[A] ay
+[E] Just in ti-i-i-[B] ime I'm so glad you have a [C#m] one track mind like [A] meYou gave my love dir-[E] ection a game show love con-[B] nection we can't de-[C#m] ny-i-[A] iii[B] I'm
+[E] so obsessed [B]  my heart is bound to beat right [C#m] outta my untrimmed [A] chestI believe in [E] you like a virgin you're Ma-[B] donna and I'm always gonna [C#m] wannablow your [A] mind [B]
+
+[A] Hey soul sister [B] ain't that mister [E] mister [B] on the [A] radio stereo
+The [B] way you move aint [E] fair you [B] know
+[A] Hey soul sister [B] I don't want to [E] miss a [B] single [A] thing you do[B]  To-
+
+[E] night The way you can't cut a rug[B] Watching you's the only drug I [C#m] need You're so gangster I'm so thugYou're the [A] only one I'm dreaming of you
+[E] seeI can be myself now final-[B] lyIn fact there's nothing I can't [C#m] beI want the world to see you [A] be with [B]  me
+
+[A] Hey soul sister [B] ain't that mister [E] mister [B] on the [A] radio stereoThe [B] way you move aint [E] fair you [B] know
+[A] Hey soul sister [B] I don't want to [E] miss a [B] single [A] thing you do to-[B] night[E] [B]
+[A] Hey soul sister [B] I don't want to [E] miss a [B] single [A] thing you do-[B] oooo
+To-[E] night Hey-[B] ay, Hey-ay-AY-ay-[C#m] ay, Hey-ay-AY-ay-[A] ay[B] To-
+[E] night Hey-[B] ay, Hey-ay-AY-ay-[C#m] ay, Hey-ay-AY-ay-[A] ay[B] Ton-[E] ight
+```

@@ -2,7 +2,66 @@
 title: "Come on up to the house"
 sort_title: "Come on up to the house"
 artist: "Tom Waits"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=XqZsoesa55w"
 libraries: ["all"]
 added: "2023-04"
 pages: 1
+source_doc: "https://docs.google.com/document/d/1G8E_N_nKd0E3JjM1BdQbVL0noAb9mEf9Nqoctu-7Wug/edit"
 ---
+
+```{.song}
+Verse 1:
+Well, the [C] moon is [Am] broken And the [F] sky is [C] cracked.
+[C] Come on up to the [Am] house
+The only [C] things that you can [Am] see is [F] all that you [C] lack.
+[C] Come on [G] up to the [C] house
+
+[C] All your [Am] cryin' don't [F] do no [C] good. [C] Come on up to the [Am] house
+Come [C] down off the [Am] cross. We can [F] use the [C] wood.
+You gotta [C] come on [G] up to the [C] house
+
+Chorus:
+[C] Come on up to the house. Come on up to the [Am] house
+The world is [C] not my [Am] home. I'm just a [F] passin' [C] thru.
+[C] Come on [G] up to the [C] house
+
+Verse 2:
+There's no [C] light in the [Am] tunnel, no [F] irons in the [C] fire. [C] Come on up to the [Am] house
+And you're [C] singin' lead [Am] soprano in a [F] junkman's [C] choir.
+You gotta [C] come on [G] up to the [C] house
+
+Does [C] life seem [Am] nasty, [F] brutish and [C] short
+[C] Come on up to the [Am] house
+The  [C] seas are [Am] stormy and you can't [F] find no [C] port
+Got to [C] come on [G] up to the [C] house
+
+Chorus x2:
+
+Verse 3:
+There's [C] nothin' in the [Am] world that [F] you can [C] do
+You gotta [C] come on up to the [Am] house
+And you been [C] whipped by the [Am] forces that are [F] inside [C] you
+Gotta [C] come on [G] up to the [C] house
+
+Well, you're [C] high on [Am] top of your [F] mountain of [C] woe
+Gotta [C] come on up to the [Am] house
+Well, you [C] know you should [Am] surrender but you [F] can't let it [C] go
+You gotta [C] come on [G] up to the [C] house
+
+Chorus + Outro (repeat come on up to the house 2 more times.  Then "Ah [C] yeah
+
+Melody
+
+Verse:
+5 6 1' 1' 6 5 3 2 1 1 1         when the moon is broken and the sky is cracked)
+1 1 3 5 5 6         come on up to the house
+5 5 6 1' 1' 6 5 3 2 1 1 1         the only thing you can see is all that you lack)
+1 1 3 2 1         come on up to the house
+
+Chorus:
+1 1 1 5. 5. 5. 6. 1        come on up to the house
+1 1 3 5 5 6        come on up to the house
+5 5 6 1' 1' 6-5, 5 1 1 1         the world is not my own, i'm just passing on
+1 1 3 2 1        come on up to the house
+```

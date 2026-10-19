@@ -2,6 +2,7 @@
 title: "Shake it like Jesus"
 sort_title: "Shake it like Jesus"
 artist: "Andy Stein"
+key: "G"
 libraries: ["all", "andy-original"]
 difficulty: 0
 fun: 3
@@ -11,5 +12,31 @@ happy: 3
 spiritual: 0.1
 added: "2011-06"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1E5GkjOOCk7n4KKkFcTOVjl-jXNbeg9djw7XBKWbnxh4"]
+source_doc: "https://docs.google.com/document/d/1E5GkjOOCk7n4KKkFcTOVjl-jXNbeg9djw7XBKWbnxh4/edit"
 ---
+
+```{.song}
+Same rhythm as "This Little Light of Mine."  The Chorus was not my idea.  It came from a panhandler in Minneapolis on a cold winter night.
+
+Chorus:
+[G] Shake, shake, shake.  Shake it like Jesus.
+[C] Shake, shake, shake.  Shake it like [G] Jesus.
+[G] Shake, shake, shake.  Shake it like Jesus.
+Praise the [D] lord, praise the [C] lord, praise the [G] lord.
+
+Verse 1:
+[G] I went down town, looking for Jesus.
+[C] But he was not around, where was my [G] Jesus.
+[G] He had gone to ground, that's where my Jesus went.
+To [D] hide from the [C] tornadoes sweeping the [G] country.
+
+Chorus:
+
+Verse 2:
+And [G] deep under the earth, he met a race of mole men.
+[C] And they had not heard, the wisdom of his [G] sermon.
+So he [G] brought an age of peace and stopped the war with the dragon
+Praise the [D] lord, praise the [C] lord, praise the [G] lord.
+
+Chorus:
+```

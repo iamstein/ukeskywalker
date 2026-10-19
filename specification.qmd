@@ -374,7 +374,7 @@ with `source` set to `site`. The CSV is committed.
    Doc that would not download.
 
 Rows with no Google Doc still get a song page, with the details and links and
-no song text: 28 songs on the first run.
+no song text: 28 songs on the first run, 12 after the fixes below.
 
 The old spreadsheets are copied into the repository as Excel files, in
 `songs/files/<slug>.xlsx`, and listed in the song's `files:` field. The song
@@ -395,6 +395,23 @@ links and are not copied.
 Result of the first run on 2026-10-19: 260 songs (254 from the sheet, 6 only
 on the Google Site), 233 Google Docs, of which 232 downloaded and 1 is
 private. `data/import-report.md` lists 147 things to check, in 106 songs.
+
+Second run, the same day, after two import fixes found 16 more Docs:
+
+- Older Doc links (`docs.google.com/document/pub?id=…`) are now read as
+  Docs. 12 songs, among them Sharkbanana, Hey Soul Sister and Ring of Fire.
+- The sheet reader lost the title link on some rows: an empty cell is stored
+  as a self-closing tag, and the old pattern ran past it into the next cell.
+  4 songs: Come On Up to the House, Rainbow Connection, The Frog Commandments
+  of Frog, Wherever Is Your Heart.
+
+That makes 249 Google Docs, 248 downloaded and 1 private (Tummy Time). The
+report now has 145 lines. The 12 songs still without song text: 6 old
+spreadsheets that refuse to download (Aloha Oe, Bryn, In the Ghetto, No
+Surprises, The Good the Bad and the Ugly, Use Me), Apache (a spreadsheet in
+`songs/files/`), 2 Power Tab printouts on Google Drive (Thriller, While My
+Guitar Gently Weeps), Africa (a PDF on ukulelehunt.com), Tummy Time (private
+Doc), and Chugga Chugga Choo Choo (no link in the sheet).
 
 **After the import, the repository is the record and Google is retired.**
 The song files are plain text that any editor can open and Quarto is open

@@ -2,7 +2,29 @@
 title: "The Frog Commandments of Frog"
 sort_title: "Frog Commandments of Frog, The"
 artist: "Andy and Michelle"
+key: "G"
+youtube: "https://youtu.be/KB710aIbvi4"
 libraries: ["all", "andy-original"]
 added: "2025-08"
 pages: 1
+source_doc: "https://docs.google.com/document/d/116x4wR_jyTioNITLY860uK1eQ1kVrIiMize909OOoao/edit"
 ---
+
+```{.song}
+[Am'] = x453
+
+You gotta [G] pet your frog. <ribbit, ribbit>
+Give [F] water to your frog. <ribbit, ribbit>
+Give [C] food to your frog. <ribbit, ribbit>
+And [G] play with your frog.
+
+[G] *F* [Am-high] *R* [F] *O* *G*. That's [G] frog.
+[G] *D* [Am-high'] *O* [F] *G* noooo! That's [G] dog.
+
+You gotta [G] pet your frog. <ribbit, ribbit>
+Give [F] water to your frog. <ribbit, ribbit>
+Give [C] food to your frog. <ribbit, ribbit>
+And [G] play with your frog.
+
+<other words>. Dog, hog, jog, smog
+```

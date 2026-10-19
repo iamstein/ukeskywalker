@@ -3,6 +3,7 @@ title: "The Bird Song"
 sort_title: "Bird Song, The"
 artist: "Victoria Vox"
 key: "Bb"
+youtube: "http://youtu.be/Glx3sAEx6Nc?t=12s"
 libraries: ["all"]
 difficulty: 1
 fun: 3
@@ -13,5 +14,35 @@ voice_low: "Bb2"
 voice_high: "Bb3"
 added: "2011-03"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1K48IzLU4DsZAV3_NcS9tHfnsPoDfd3NdHC8LwiMyEXs"]
+source_doc: "https://docs.google.com/document/d/1K48IzLU4DsZAV3_NcS9tHfnsPoDfd3NdHC8LwiMyEXs/edit"
 ---
+
+```{.song}
+[CHORUS] = 1564
+I'm gonna sing: Bb (3211)
+sing like a bird: F (2010)
+a bird in the sky: Gm (0231)
+the sky so high: D# (0331)
+
+And I'm gonna send: Bb
+send you a song: F
+a song from my heart: D#
+my heart full of love: Bb
+
+[Verse] = 1564
+When you look in the mirror: Bb
+tell me what do you see? F
+Do you see me: Gm
+in you eyes? D#
+
+Although I can't be there: Bb
+every day: F
+you can hear me if you: Gm
+try D#
+
+[Chorus]
+[Mouth trumpet]
+[Chorus]
+A song from my heart
+My heart full of love
+```

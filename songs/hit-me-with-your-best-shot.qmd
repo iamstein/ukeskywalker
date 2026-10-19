@@ -2,6 +2,7 @@
 title: "Hit Me with your Best Shot"
 sort_title: "Hit Me with your Best Shot"
 artist: "Pat Benitar"
+key: "Em"
 libraries: ["all"]
 difficulty: 2
 fun: 2
@@ -10,5 +11,81 @@ poppy: 3
 happy: 2
 added: "2011-05"
 pages: 2
-other_links: ["https://docs.google.com/document/pub?id=1D3w_uHMFBwc68cTc2GUfnodxPSBiDyuB8LFkAygx9Tk"]
+source_doc: "https://docs.google.com/document/d/1D3w_uHMFBwc68cTc2GUfnodxPSBiDyuB8LFkAygx9Tk/edit"
 ---
+
+```{.song}
+E 4442 / B 4322 / Cm 6444 / A 2100 / B 4322
+
+Intro:
+E, A, C#, B / E, A, C#, B, A, B
+
+Verse 1:
+Well you're a [Em] real tough cookie with a [C#m] long history
+Of [B] breaking little hearts, like the one in me.
+[E] That's O.K., lets [C#m] see how you do it
+[B] Put up your dukes, lets get down to it.
+
+Chorus:
+[E] Hit me with your [A] best shot. [C#m] [B]
+Why don't you [E] hit me with your [A] best shot. [B] [A] [B]
+[E] Hit me with your [A] best shot. [C#m] [B]
+Fire away! [E] [A] [C#m] [B] [A] [B]
+
+Verse 2:
+You [Em] come on with a "come on", you [C#m] don't fight fair
+[B] That's O.K., see if I care.
+[E] Knock me down, it's [A] all in vain,
+[B] I'll get right back on my feet again.
+
+Guitar Solo (page 2)
+
+Chorus:
+
+Verse 3:
+Well you're a real tough cookie with a long history
+Of breaking little hearts, like the one in me
+Before I put another notch in my lipstick case
+You better make sure you put me in my place
+
+Chorus x2:
+
+Guitar solo: (you'll need sustain)
+
+-12h14p12-11h12p11-9h11p9-7---------------------
+------------------------------------------------
+------------------------------999s8-888s6-666-4-
+------------------------------------------------
+------------------------------------------------
+------------------------------------------------
+
+------------------------------------------------------------------
+-0tr2--0tr4--0tr5-0tr7--5h7(repeat for measure)--7-6-4------------
+---------------------------------------------------------6b8-6--4-
+------------------------------------------------------------------
+------------------------------------------------------------------
+------------------------------------------------------------------
+
+-14---14--14---14--14--14-------------------------------------
+----12--12---12---12--12--12----------------------------------
+----------------------------------11b13-----9---9----9----9---
+------------------------------------------s9--s9--s9--s11-----
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+------------------12--------------------
+------------------15----0------0-2-4-5--
+----(4)b6r4------------2b4--------------
+----------------------------------------
+----------------------------------------
+-0--------------------------------------
+
+Over the start of the third verse play the E as a C chord
+barred on the 4th fret, and pick notes
+--------------------------------------------------------
+---5-----5-4------2-------------------------------------
+--------------4--4--4--4--------6--4--------4-----------
+-----6---------4-----2-----4--6-----4-----4--4----------
+-------7------------------4------------2--2-----2--4--6-
+--------------------------------------------------------
+```

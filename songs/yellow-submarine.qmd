@@ -13,7 +13,6 @@ happy: 3
 added: "2011-05"
 pages: 1
 source_doc: "https://docs.google.com/document/d/1uVE15vzqXNkeglpTuPn8FiMNMCMZGda3QvyvQ5_SquI/edit"
-other_links: ["https://docs.google.com/document/pub?id=1uVE15vzqXNkeglpTuPn8FiMNMCMZGda3QvyvQ5_SquI"]
 ---
 
 ```{.song}

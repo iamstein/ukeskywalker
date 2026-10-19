@@ -2,6 +2,7 @@
 title: "Lulu's Back in Town"
 sort_title: "Lulu's Back in Town"
 artist: "Fats Waller"
+key: "C"
 libraries: ["all"]
 difficulty: 2
 fun: 2
@@ -10,5 +11,45 @@ poppy: 3
 happy: 3
 added: "2011-03"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1VWYBqDddXYw6Arndfff6N32zFgC8_vQcdasFEpeQSqU"]
+source_doc: "https://docs.google.com/document/d/1VWYBqDddXYw6Arndfff6N32zFgC8_vQcdasFEpeQSqU/edit"
 ---
+
+```{.song}
+C | 0003                Ab7         1323                G7        0212                F#dim        1212
+F | 2010                Fm        1013                A7        0100                D7        2223
+
+Verses:
+[C] Where's that [Ab7] careless [G7] chamber-[C]-maid?
+[C] Where'd she [Ab7] put my [G7] razor [C] blade?
+[F] She mis-[Fm]-laid it, [C] I'm a-[A7] fraid,
+It's [D7] got [G7]to  be [C] foun'! [G7]
+
+Ask her when she cleaned my room
+What she did with my perfume;
+I just can't lose it, I've gotta use it,
+'Cause Lulu's back in town..
+
+Chorus:
+You can [F] tell [F#dim] all my [C] pets,
+All my [F] Har-[F#dim]-lem co-[C]-quettes;
+Mister [F] O-[F#dim]-tis re-[C]-grets [A7]
+That [D7] he won't [Dm7] be a-[G7]-roun'.
+
+You can tell the mailman not to call,
+I ain't comin' home until the fall,
+And I might not get back home at all,
+Lulu's back in town.
+
+Verses:
+Gotta get my old tuxedo pressed,
+Gotta sew a button on my vest,
+'Cause tonight I've gotta look my best,
+Lulu's back in town.
+
+Gotta get a half a buck somewhere,
+Gotta shine my shoes and slick my hair,
+Gotta get myself a boutonniere,
+Lulu's back in town.
+
+Chorus:
+```

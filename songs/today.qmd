@@ -3,6 +3,7 @@ title: "Today"
 sort_title: "Today"
 artist: "Smashing Pumpkins"
 key: "D"
+youtube: "http://www.youtube.com/watch?v=yCSLK0WCUd8"
 libraries: ["all"]
 difficulty: 2
 fun: 3
@@ -12,5 +13,54 @@ happy: 2
 voice_high: "D4"
 added: "2010-07"
 pages: 1
-other_links: ["https://docs.google.com/document/pub?id=1WRv1zfWKL-DhSNrdBy59FtOt7vVOxJNNcSNVoGQTwYo"]
+source_doc: "https://docs.google.com/document/d/1WRv1zfWKL-DhSNrdBy59FtOt7vVOxJNNcSNVoGQTwYo/edit"
 ---
+
+```{.song}
+Note, I think the song is really in E-flat, but it's easier to think about in D
+riff: d a e a d a g e d (highest two strings)
+Uke Chord Tabs
+D = 7655,  A  = 6454, G = 4232,  B = 8676
+E' = 4442, G' = 0232,  B' = 4322, D' = 2220, A'=2100
+
+Chorus: DAG(B) = 1,5,4
+[D] To-[A]-day is the [G] greatest day I've ever known
+[D] Can't [A] live for to-[G]-morrow, tomorrow's much too long
+[D] I'll [A] burn my [G] eyes out
+[D] Be-[A]-fore I [B] get out
+
+Verse: E'G'B'(D) = 2,4,6
+[E'] I [G'] wanted [B'] more
+[E'] Than [G'] life could [B'] ever grant me
+[E'] Bored [G'] by the [B'] chore
+[E'] Of [G'] saving [D] face
+
+Chorus: DAG(B) = 1,5,4
+[D] To-[A]-day is the [G] greatest day I've ever known.
+[D] Can't [A] WAIT for to-[G]-morrow, I might not have that long.
+[D] I'll [A] tear my [G] heart out
+[D] Be-[A]-fore I [B] get out.
+
+Verse 2: EG'D'A'(D) = 2,4,1,5
+[E'] Pink [G'] ribbon [D'] scars that [A'] never forget.
+[E'] I [G'] tried so [D'] hard to [A'] cleanse these regrets.
+[E'] My [G'] angel [D'] wings were [A'] bruised and restrained.
+[E'] My [G'] belly [D] stings
+
+Chorus Varient: DADGx2,
+[D] Today is, [A] today is [D] today is the [G] greatest day
+[D] Today is, [A] today is [D] today is the [G] greatest day
+[D][A][D][G], [D][A][D][B]
+
+Verse 3 E'G'B':
+[E'] I want to [G'] turn you [B'] on
+[E'] I want to [G'] turn you [B'] on
+[E'] I want to [G'] turn you [B'] on
+[E'] I want to [G'] turn you [B'] on
+
+Outro DADG:
+[D] To-[A]day is [D] the [G] greatest
+[D] To-[A]day is [D] the [G] greatest
+[D] To-[A]day is [D] the [G] greatest
+[D] day, that [A] I have [D] ever [G] really [D] known
+```
