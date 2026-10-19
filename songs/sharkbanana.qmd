@@ -2,7 +2,7 @@
 title: "Sharkbanana"
 sort_title: "Sharkbanana"
 artist: "Andy Stein - Firefly"
-libraries: ["all"]
+libraries: ["all", "andy-original"]
 difficulty: 2
 fun: 3
 skill: 5

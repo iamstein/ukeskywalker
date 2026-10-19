@@ -4,7 +4,7 @@ sort_title: "Dear Michelle"
 artist: "Andy Stein and Emily Eagan"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=bKMVT76oVVU"
-libraries: ["all", "kids"]
+libraries: ["all", "andy-original", "kids"]
 difficulty: 1
 fun: 2
 skill: 3
