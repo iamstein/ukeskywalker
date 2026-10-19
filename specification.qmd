@@ -48,7 +48,7 @@ The navbar, left to right:
 **Landing page: the full A–Z table.** Most visits are to find one song, and a
 table with a search box finds it in one step. The library pages are the same
 table filtered to one library. The table shows Song (linked to the song page),
-Artist, Key, Difficulty and Added, and each can be sorted. The rating columns
+Artist, Key, Difficulty and Added (the home page leaves out Difficulty), and each can be sorted. The rating columns
 stay in the song files but are not shown; Quarto's table listing has no
 show-or-hide toggle, so adding a column means adding it to the listing's
 `fields:`.
