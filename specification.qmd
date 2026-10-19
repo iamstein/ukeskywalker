@@ -43,7 +43,7 @@ The navbar, left to right:
 | Libraries | menu | All Songs, Spiritual Songs, Andy Originals, Trendy Wendy and the Yeastbombs, Kid Songs |
 | Compressor | `tools/compressor.qmd` | Chords-over-lyrics in, inline `[C]` chords out |
 | Transposer | `tools/transposer.qmd` | Paste a song, pick a new key |
-| About | menu | `about.qmd` (what the site is, how to read a song page and the melody numbers) and this specification |
+| About | page | `about.qmd`: what the site is, how to read a song page and the melody numbers. This specification is not in the navbar; it is at `specification.html` and in the repo. |
 
 **Landing page: the full A–Z table.** Most visits are to find one song, and a
 table with a search box finds it in one step. The library pages are the same

@@ -14,6 +14,7 @@ website:
   title: "Uke Skywalker"
   site-url: "https://www.ukeskywalker.com"
   repo-url: "https://github.com/iamstein/ukeskywalker"
+  repo-branch: master
   repo-actions: [source, issue]
   page-navigation: true
   back-to-top-navigation: true
@@ -40,12 +41,8 @@ website:
         text: Compressor
       - href: tools/transposer.qmd
         text: Transposer
-      - text: About
-        menu:
-          - href: about.qmd
-            text: About this site
-          - href: specification.qmd
-            text: Specification
+      - href: about.qmd
+        text: About
     right:
       - icon: github
         href: "https://github.com/iamstein/ukeskywalker"
