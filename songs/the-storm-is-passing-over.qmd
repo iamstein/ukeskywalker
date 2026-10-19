@@ -1,0 +1,31 @@
+---
+title: "The Storm is Passing Over"
+sort_title: "Storm is Passing Over, The"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1yARbUkC3qVMQwyEwoHfefxMDexCnDt4Cps765i77rbA/edit"
+---
+
+```{.song}
+http://play.riffstation.com/?v=8kexEbg_Qho
+[G] Take courage my soul, and [C] let us journey [G] on,
+[G] Though the night is [C] dark,
+[C] And I am [Am] far from [G] home.
+[G] Thanks be to [D] God, the [C] morning light ap-[G]-pears.
+
+[G] The storm is passing over.
+[Am] The storm is passing over.
+[Bm] The storm is passing [D] over. Halle-[G]-lu.
+
+[G] Hallelu-[D]-jah Hallelu-[C]-jah Hallelu-[G]-jah.
+
+[G] The storm is passing [D] over. Halle-[G]-lu.
+```

@@ -1,0 +1,60 @@
+---
+title: "Wildflowers"
+sort_title: "Wildflowers"
+artist: "Tom Petty"
+key: "C"
+youtube: "https://youtu.be/QI3pMk1keTw?t=334"
+libraries: ["all", "kids"]
+difficulty: 3
+fun: 3
+skill: 1
+poppy: 3
+happy: 3
+added: "2021-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11X7V941clX5IBsOro5fqn615ZL5w_cR1_h1FIMjaM9M/edit"
+---
+
+```{.song}
+Capo Fifth Fret (Guitar)
+F9 = F+G (
+
+Intro: F9 C G C // F9 C G
+
+Chorus:
+[F9] You be-[C]-long a-[G]-mong the wild-[C]-flowers
+[F9] You be-[C]-long in a [G] boat out at [C] sea
+[F9] Sail a-[C]-way, [G] kill off the [C] hours
+[F9] You be-[C]-long somewhere [G] you feel [C] free
+
+Verse:
+[F9] Run a-[C]-way, [G] find you a [C] lover
+[F9] Go a-[C]-way somewhere [G] all bright and new
+[F9] I have [C] seen[G] no [C] other
+[F9] Who [C] com-[G]-pares with [C] you
+
+Chorus:
+[F9] You be-[C]-long a-[G]-mong the wild-[C]-flowers
+[F9] You be-[C]-long in a [G] boat out at [C] sea
+[F9] Sail a-[C]-way, [G] kill off the [C] hours
+[F9] You be-[C]-long somewhere [G] you feel [C] free
+
+F9 C Am D G // F9 Am G
+F9 C Am D G // F9 Am G
+
+Verse:
+[F9] Run [C] away, go [G] find a [C] lover
+[F9] Run [C] away, let your [G] heart be your [C] guide
+[F9] You [C] deserve the [G] deepest of [C] cover
+[F9] You [C] belong in that [G] home by and [C] by
+
+Chorus/Outro:
+[F9] You [C] belong [G] among the [C] wildflowers
+[F9] You [C] belong somewhere [G] close to me
+[F9] Far [C] away from your [G] trouble and [C] worry
+[F9] You [C] belong somewhere [G] you feel [C] free
+[F9] You [C] belong somewhere [G] you feel [C] free
+
+F9 C Am D G // F9 Am G
+F9 C Am D G // F9 Am G
+```

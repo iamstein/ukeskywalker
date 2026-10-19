@@ -1,0 +1,59 @@
+---
+title: "This Too Shall Pass"
+sort_title: "This Too Shall Pass"
+artist: "OK Go"
+key: "C"
+libraries: ["all", "spiritual"]
+difficulty: 0
+practice: 3
+fun: 3
+skill: 3
+poppy: 2
+happy: 3
+spiritual: 2
+voice_low: "E4"
+voice_high: "C5"
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/12-Kz9HIftyKEmIkoukTV1hzYmNdqpt5tIoWM1d4Htkc/edit"
+---
+
+```{.song}
+Marching Band: https://www.youtube.com/watch?v=UJKythlXAIY
+Rube Goldberg: https://www.youtube.com/watch?v=qybUFnY7Y8w
+
+Intro: [C] [F] [G] [F] [x2] Ooooh
+
+You know you [C] can't keep lettin' it [F] get you down | 1'1'1' 5 5 5 5 5 4 4
+And you [G] can't keep draggin' [F] that dead weight a-[C]-round [F] [G] [F] | 5 5 5 4 4 4 4 4 4 4 4 3
+If there [C] ain't all that much to [F] lug around | 1'1'1'1' 5 5 5 5 4 4
+Better [G] run like hell when [F] you hit the ground [C] [F] [G] [F] | 5 5 5 4 4 4 4 4 4 4 3
+[F] When the morning [C] comes [F] [G] [F] | 4 4 4 4 3
+[F] When the morning [C] comes  [F] [G] [F] | 4 4 4 4 3
+
+[F] You can't stop these [C] kids from dancin [F] Why would you want to | 1'1'1' 5 5 5 5 5 4 4
+[Es-[G]-pecially when you're [F] already gettin' [C] good (c c f f g g f f) | 5 5 5 4 4 4 4 4 4 4 4 3
+'Cause if your [C] mind don't move and your [F] knees don't bend | 1'1'1' 5 5 5 5 5 4 4
+well [G] don't go blamin' the [F] kids again [C]  (c c f f g g f f) | 5 5 5 4 4 4 4 4 4 4 4 3
+
+When the morning [C] comes  [F] [G] [F] | 4 4 4 4 3
+[F] When the morning [C] comes [F] [G] [F] | 4 4 4 4 3
+[F] When the morning [C] comes [F] [G] [F] | 4 4 4 4 3
+[F] When the morning [G] comes | 4 4 4 4 5
+[F] When the morning [G] comes | 4 4 4 4 5
+[F] When the morning [G] comes | 4 4 4 4 5
+
+Xylophone Fill: c' (x12) g g g g f f
+Let it go, this too shall pass. | 3 5 3 1 5. 1 2
+Let it go, this [G] too [G] shall [F] pass | 3 5 3 1 5. 1 2
+
+[F] You know you [C] can't keep lettin' it get you down. | 1'1'1' 5 5 5 5 5 4 4
+No, you [F] can't keep lettin' it get you down [G] [F] | 1'1'1' 5 5 5 5 5 4 4
+[C] You know you can't keep lettin' it get you down. | 1'1'1' 5 5 5 5 5 4 4
+No, you [F] can't keep lettin' it get you down [G] [F] | 1'1'1' 5 5 5 5 5 4 4
+
+[F] When the morning [C] comes [F] [G] [F] | 4 4 4 4 3
+[F] When the morning [C] comes  [F] [G] [F] | 4 4 4 4 3
+
+[C] [F] [G] [F] [C] (finish with quick strum)
+```

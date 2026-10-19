@@ -1,0 +1,44 @@
+---
+title: "Abigail, Belle of Kilronan"
+sort_title: "Abigail, Belle of Kilronan"
+artist: "Magnetic Fields"
+key: "G"
+alt_keys: ["C"]
+key_note: "original key"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 1
+voice_low: "E2"
+voice_high: "E3"
+added: "2012-07"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1RWALFjB8i_oDnFNpQMQCjqDNSTxSTcnnQLAtvjtbRNI/edit"
+---
+
+```{.song}
+[G] Abigail, can you feel my [C] heart in the [G] palm of your [D] hand | 3 2 1    1 1 1-2 3 4 6 6 5 4 3 2
+and do you [Em] understand [C] why I can't sta-[G]-aa-[D]-aay | 3 2 1 1 6. 6.-1    6. 1 2 3-2
+[G] Abigail an evil [C] wind is blow-[G]-ing through the [D] land | 3 2 1    1 1 1 2 3 4 6 6 5 4 3 2
+and they need [Em] every man [C] to drive it a-[G]-waa-[D]-aay | 3 2 1 1 6. 6.-1    6. 1 2 3-2
+
+When I come [C] home if I come [Em] home | 1 2 3 4   4 3 2 3
+you'll be a [G] grown wo-[D]-man | 1 2 3 3 3 2
+When I come [C] home if I come [Em] home | 1 2 3 4   4 3 2 3
+don't be [C] alone, Abigail, [G] belle of [D] Kilro-[G]-nan. | 3 4 5 6-5-4   4 3 2 3 2 1 2 1
+
+[G] Abigail's gonna be [C] beauty of [G] County Gal-[D]-way | 3 2 1    1 2 3 4 6 6 5 4 3 2
+and she will [Em] live alwa-[C]-ays in a [G] world of [D] love | 3 2 1 1 6. 6.-1    6. 1 2 3 2
+
+[G] Abigail, I'm off to the [C] war but you can be [Em] sure | 3 2 1    1 1 2 3 4   4 4 3 2 3
+I'll know that [G] you're what I'm fighting [D] for | 1 2 3 4   4 4 3 2 3
+I'm off to the [C] war but you can be [Em] sure | 1 1 2 3 4   4 4 3 2 3
+I'll know that [G] you're what I'm fighting [D] for | 1 2 3 4   4 4 3 2 3
+
+When I come [C] home if I come [Em] home | 1 2 3 4   4 3 2 3
+you'll be a [G] grown wo-[D]-man | 1 2 3 3 3 2
+When I come [C] home if I come [Em] home | 1 2 3 4   4 3 2 3
+don't be [C] alone, Abigail, [G] belle of [D] Kilro-[G]-nan. | 3 4 5 6 5 4 3 2 1 2 1
+```

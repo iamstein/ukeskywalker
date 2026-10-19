@@ -1,0 +1,104 @@
+---
+title: "The Cave"
+sort_title: "Cave, The"
+artist: "Mumford and Sons"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=r7PetnlfHSs"
+libraries: ["all"]
+difficulty: 3
+practice: 2
+skill: 0
+poppy: 3
+happy: 2
+added: "2012-06"
+pages: 2
+source_doc: "https://docs.google.com/document/d/10hHXrZ63AT5nww9A3nBIyRWpp6fX1to59b-uWeSUq7E/edit"
+---
+
+```{.song}
+http://tabs.ultimate-guitar.com/m/mumford_and_sons/the_cave_ver4_crd.htm - tab link
+
+  F | Bb*                   C                  Dm
+A|-0-                A|-1-                A|-3-                A|-0-|
+E|-1-                E|-0-                E|-0-                E|-1-|
+C|-0-                C|-0-                C|-0-                C|-2-|
+G|-2-                G|-0-                G|-0-                G|-2-|
+
+Intro/Verse 1:
+A|------------0-------0-------0---|
+E|5-3-------1---1---1---1---1---1-|
+C|----5-0-2-------2-------0-------| | (x3)
+G|--------------------------------|
+
+A|----0-------0-------1---0-------|
+E|--1---1---1---1---0-0---1-------|
+C|0-------4-------4---0---0-------|
+G|--------------------0---2-------|
+
+It's empty in the valley of your heart
+The sun, it rises slowly as you walk
+Away from all the fears
+And all the faults you've left behind
+
+The harvest left no food for you to eat
+You cannibal, you meat-eater, you see
+But I have seen the same
+I know the shame in your defeat
+
+Chorus:
+But [F] I will [Bb*] hold on [F] hope
+And [F] I won't [Bb*] let you [F] choke
+[Bb*] On the noose a-[F]-round your [C] neck
+
+And [Dm] I'll find [Bb*] strength in [F] pain
+And [Dm] I will [Bb*] change my [F] ways
+I'll [Bb*] know my [F] name as it's [C] called again
+
+A|-------------|
+E|5-3-5-3------|
+C|--------5-0--| | (post-chorus fill)
+G|-------------|
+
+Bridge 1:
+[F] [F] [Bb*] [F] (x4  - Heavy)
+Verse 2:
+'Cause I have other [Dm] things to fill my [F] time
+You take what is [Dm] yours and I'll take [F] mine
+Now let me at the [Dm] truth
+Which will re-[F]-fresh my [C] broken [F] mind [Bb*] [F]
+
+So tie me to a [Dm] post and block my [F] ears
+I can see widows and [Dm] orphans through my [F] tears
+I know my call de-[Dm]-spite my faults
+And des-[F]-pite my [C] growing [F] fears [Bb*] [F]
+
+Repeat Chorus: (miss out post-chorus fill, end on an F and let ring )
+
+Verse 3:
+So come out of your [Dm] cave walking on your [F] hands
+And see the world [Dm] hanging upside [F] down
+You can understand de-[Dm]-pendence
+When you [F] know the [C] maker's [F] hand [Bb*] [F]
+
+So [F] make your [Bb*] siren's [F] call
+And [F] sing [Bb*] all you [F] want
+I [Bb*] will not [F] hear what you [C] have to say
+
+Cause [Dm] I need [Bb*] freedom [F] now
+And [Dm] I need [Bb*] to know [F] how
+To [Bb*] live my [F] life as it's [G] meant to be
+
+A|-------------|
+E|5-3-5-3------|
+C|--------5-0--| | (post-chorus fill)
+G|-------------|
+
+Bridge 2:
+[F]     [F] [Bb*] [F]
+[F]     [F] [Bb*] [F]
+[Bb*] [F] [C]   [C]
+
+Final Chorus:
+
+End of [F]
+```

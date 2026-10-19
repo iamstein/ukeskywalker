@@ -1,0 +1,99 @@
+/* Song pages. The HTML comes from _filters/song.lua. */
+
+.song-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.25rem;
+  align-items: baseline;
+  margin: -0.5rem 0 1rem;
+  font-size: 0.95rem;
+}
+.song-detail-label { color: var(--bs-secondary-color); }
+.song-detail-note { color: var(--bs-secondary-color); font-size: 0.85em; }
+.song-links { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; }
+.song-links a { text-decoration: none; }
+.song-libraries { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.song-library {
+  font-size: 0.8rem;
+  padding: 0.05rem 0.55rem;
+  border-radius: 1rem;
+  background: var(--bs-secondary-bg);
+  color: var(--bs-body-color);
+  text-decoration: none;
+}
+
+.song-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  align-items: center;
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+  border-top: 1px solid var(--bs-border-color);
+  border-bottom: 1px solid var(--bs-border-color);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bs-body-bg);
+}
+.song-toolbar:empty { display: none; }
+.song-tool { margin: 0; }
+.song-key { display: flex; align-items: center; gap: 0.35rem; }
+.song-key label { margin-right: 0.15rem; }
+.song-key select { width: auto; }
+
+/* Two columns: lyrics and melody. Each line's two cells sit in the song grid,
+   so every melody starts at the same left edge. */
+.song {
+  display: grid;
+  grid-template-columns: minmax(0, max-content) minmax(8rem, 1fr);
+  column-gap: 2.5rem;
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+.song:not(.has-melody), .song.hide-melody { grid-template-columns: minmax(0, 1fr); }
+.song.hide-melody .song-melody, .song:not(.has-melody) .song-melody { display: none; }
+.song-line { display: contents; }
+.song-label, .song-note, .song-gap { grid-column: 1 / -1; }
+.song-gap { height: 0.9rem; }
+.song-label { font-weight: 600; margin-top: 0.25rem; }
+.song-note { font-style: italic; color: var(--bs-secondary-color); }
+.song-lyrics { white-space: pre-wrap; }
+.song-melody {
+  font-family: var(--bs-font-monospace);
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+  color: var(--bs-secondary-color);
+  align-self: end;
+}
+
+/* Inline chords: [G] Abigail */
+.song .chord { font-weight: 700; color: var(--bs-primary); }
+.song .chord::before { content: "["; font-weight: 400; color: var(--bs-secondary-color); }
+.song .chord::after { content: "]"; font-weight: 400; color: var(--bs-secondary-color); }
+.song .ly { white-space: pre-wrap; }
+.song .mark { color: var(--bs-secondary-color); }
+
+/* Chords above lyrics */
+.song.chords-above .ch {
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: bottom;
+}
+.song.chords-above .chord::before, .song.chords-above .chord::after { content: none; }
+.song.chords-above .chord { padding-right: 0.5em; line-height: 1.2; }
+.song.chords-above .ch:not(:has(.chord))::before { content: "\00a0"; line-height: 1.2; }
+.song.chords-above .ly:empty::after { content: "\00a0"; }
+
+@media (max-width: 640px) {
+  .song { grid-template-columns: minmax(0, 1fr); }
+  .song-melody { padding-left: 1.5rem; margin-bottom: 0.25rem; font-size: 0.8rem; }
+}
+
+@media print {
+  .song-toolbar, .song-libraries, #quarto-header, .nav-footer, #quarto-margin-sidebar { display: none !important; }
+  .song { font-size: 10.5pt; line-height: 1.35; }
+  .song-gap { height: 0.5rem; }
+  .song .chord { color: #000; }
+  main.content { margin-top: 0 !important; }
+}

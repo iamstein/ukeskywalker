@@ -1,0 +1,25 @@
+---
+title: "Andy Originals"
+toc: false
+listing:
+  - id: andy-originals
+    contents: ../songs/*.qmd
+    type: table
+    sort: "sort_title"
+    sort-ui: [title, artist, key, difficulty, added]
+    filter-ui: [title, artist, key]
+    page-size: 500
+    table-striped: true
+    table-hover: true
+    fields: [title, artist, key, difficulty, added]
+    field-display-names:
+      title: "Song"
+      artist: "Artist"
+      key: "Key"
+      difficulty: "Difficulty"
+      added: "Added"
+    include:
+      libraries: andy-original
+---
+
+Songs written by Andy Stein.

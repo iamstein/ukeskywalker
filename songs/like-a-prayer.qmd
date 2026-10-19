@@ -1,0 +1,15 @@
+---
+title: "Like a Prayer"
+sort_title: "Like a Prayer"
+artist: "Madonna"
+libraries: ["all"]
+difficulty: 2
+practice: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2011-06"
+pages: 2
+other_links: ["https://docs.google.com/document/pub?id=1HgmJoI5-_xI-29RPftZ-8z-CwNDf4GywiNWQ_Qvnplg"]
+---

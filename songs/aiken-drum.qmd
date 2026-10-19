@@ -1,0 +1,42 @@
+---
+title: "Aiken Drum"
+sort_title: "Aiken Drum"
+artist: "Raffi"
+key: "C"
+libraries: ["all", "kids"]
+added: "2024-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1TRVlyxcE-PipfAfRnVzQfJXsorVAA2JXlj0JCDcdz8s/edit"
+---
+
+```{.song}
+[C] There was a man lived [F] in the moon, [C] in the moon, [G7] in the moon.
+[C] There was a man lived [F] in the moon and his [C] name was [G7] Aiken [C] Drum.
+
+(CHORUS)
+And he  [C] played upon a [F] ladle, a [C] ladle, a [G7] ladle,
+He [C] played upon a [F] ladle, and his [C] name was [G7] Aiken [C] Drum.
+
+And [C] his hair was made of [F] spaghetti [C] spaghetti [G7] spaghetti.
+His [C] hair was made of [F] spaghetti and his [C] name was [G7] Aiken [C] Drum.
+
+And [C] his eyes were made of [F] meatballs [C] meatballs [G7] meatballs.
+His [C] eyes were made of [F] meatballs and his [C] name was [G7] Aiken [C] Drum.
+
+(CHORUS)
+And [C] he played upon a [F] ladle, a [C] ladle, a [G7] ladle,
+He [C] played upon a [F] ladle, and his [C] name was [G7] Aiken [C] Drum.
+
+And [C] his nose was made of [F] cheese [C] cheese [G7] cheese.
+His [C] nose was made of [F] cheese and his [C] name was [G7] Aiken [C] Drum.
+
+And [C] his mouth was made of [F] pizza [C] pizza [G7] pizza.
+His [C] mouth was made of [F] pizza and his [C] name was [G7] Aiken [C] Drum.
+
+(CHORUS)
+And [C] he played upon a [F] ladle, a [C] ladle, a [G7] ladle,
+He [C] played upon a [F] ladle, and his [C] name was [G7] Aiken [C] Drum.
+
+[C] There was a man lived [F] in the moon, [C] in the moon, [G7] in the moon.
+[C] There was a man lived [F] in the moon and his [C] name was [G7] Aiken [C] Drum.
+```

@@ -1,0 +1,39 @@
+---
+# Copy this file to songs/<title-of-song>.qmd and fill in what you know.
+# Only `title` is required. Leave any other field empty, or delete it, and the
+# song page skips it.
+
+title: ""
+sort_title: ""        # how it sorts, e.g. "Banana Boat Song, The"; empty = title
+artist: ""
+key: ""               # key the song is written in below, e.g. G or Em
+alt_keys: []          # other keys to list first in the key menu, e.g. [C]
+key_note: ""          # e.g. "easier for Andy to sing"
+youtube: ""           # full YouTube URL
+libraries: [all]      # add any of: spiritual, andy-original, yeastbombs, kids, kids-motions
+
+difficulty:           # 0–5
+practice:             # 1–7: how much Andy wants to practise it
+fun:                  # 1–3: how fun it is to play
+skill:                # how well Andy plays it
+poppy:                # 1–3
+happy:                # 1–3
+spiritual:            # 1–3
+protest:              # 1–3
+
+voice_low: ""         # Andy's Voice: lowest note sung, e.g. G2 (C4 = middle C)
+voice_high: ""        # Andy's Voice: highest note sung, e.g. D4
+
+added: ""             # year and month, e.g. 2026-10
+other_links: []       # links to elsewhere, e.g. a PDF
+files: []             # files kept here, e.g. [files/my-song.xlsx]
+---
+
+```{.song}
+Verse 1:
+[G] Lyrics with [C] chords in square [D] brackets | 1 2 3  3 2 1  5. 1
+A line can have a melody after " | ", or not
+
+Chorus:
+# A line starting with # is a note, e.g. # Strum: D DU UDU
+```

@@ -1,0 +1,47 @@
+---
+title: "I Can See Clearly Now"
+sort_title: "I Can See Clearly Now"
+artist: "Johnny Nash"
+key: "D"
+libraries: ["all", "spiritual"]
+difficulty: 2
+practice: 1
+fun: 2
+skill: 4
+poppy: 2
+happy: 3
+spiritual: 1
+voice_low: "A2"
+voice_high: "A3"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1iU58PHm6a1av-1fG3oMT-m8HSFaLnZyjJl-jggSq1JY/edit"
+---
+
+```{.song}
+C#m = 110x
+
+Verse 1:
+[D] I can see [G] clearly now the [D] rain has gone | 1 2 3 4 3 2 1 3 1 5.
+I can see [G] all obstacles [A] in my way | 1 2 3 4 3 2 1 7. 1 2
+[D] Gone are the [G] dark clouds that [D] had me blind | 1 2 3 4 3 2 1 3 1 5.
+It's gonna be a [C] bright, bright [G] bright sunshiney [D] day | 5. 5. 5. 1 7m. 1 2 2 1
+
+Verse 2:
+[D] I think I can [G] make it now the [D] pain has gone | (repeat)
+All of the [G] bad feelings have [A] disappeared
+[D] Here is the [G] rainbow I've been [D] praying for
+It's gonna be a [C] bright, bright [G] bright sunshiney [D] day
+
+Bridge: | (key change to F - but use D numbers)
+[F] Look all around there's nothing but [C] blue skies | 5 4 3m 5 3m 5 4 3 4 2
+[F] Look straight ahead nothing but [A] blue skies… | 5 4 3m 5 3m 3m 3m 3m 5 5
+[C#m] ...[A] ...[C#m] ...[A] ...[C] ...[Bm] ...[A] | 5-5m-5-5m-4-3-2
+
+Verse 3:
+[D] I can see [G] clearly now the [D] rain has gone | (repeat)
+I can see [G] all obstacles [A] in my way
+[D] Gone are the [G] dark clouds that [D] had me blind
+It's gonna be a [C] bright, bright [G] bright sunshiney [D] day
+It's gonna be a [C] bright, bright [G] bright sunshiney [D] day
+```

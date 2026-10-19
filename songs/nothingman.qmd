@@ -1,0 +1,56 @@
+---
+title: "Nothingman"
+sort_title: "Nothingman"
+artist: "Pearl Jam"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=Chr2Hg5qNl4"
+libraries: ["all"]
+difficulty: 2
+practice: 2
+fun: 2
+skill: 3
+poppy: 1
+happy: 1
+added: "2013-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1lwN8xMQ7ApV5y4_jy1qlMADeZ7T2uiIOSA9f2sHrAEQ/edit"
+---
+
+```{.song}
+Verse:
+[F] Once divided, [Dm] [C] nothing left [Dm] to [Bb] subtract | 1 1 1 5.        5. 5. 1 1
+[F] Some words when spoken [Dm] [C] can't be [Dm] taken [Bb] back
+[F] Walks on his own [Dm] with [C] thoughts he [Dm] can't help [Bb] thinking
+[F] Future's above, [Dm] but in the [C] past he's [Dm] slow and [Bb] [Dm] sinking
+[Bb] Caught a bolt of lightning, [C] cursed the [Bb] day he let it [A5] [Bb] [C] go
+
+Chorus:
+[F] Nothingman, [C] nothingman
+[F] Isn't it something? [C] Nothingman
+
+Verse:
+[F] She once believed [Dm] in every [C] story he [Dm] had to [Bb] tell
+[F] One day she stiffened, [Dm] [C] took the [Dm] other [Bb] side
+[F] Empty stares [Dm] from each [C] corner of a [Dm] shared prison [Bb] cell
+[F] One just escapes, [Dm] one's [C] left [Dm] inside the [Bb] [Dm] well
+[Bb] And he who forgets [C] will be [Bb] destined to [A5] remember [Bb] oh oh [C] oh
+
+Chorus:
+[F] Nothingman, [Bb] nothing-[C]-man
+[F] Isn't it something? [Bb] Nothing-[C]-man
+
+Bridge:
+[Dm] Oh, she don't [Bb] want him (she don't [C] want him)
+Oh, she won't [Bb] feed him, [Dm] after he's [Bb] flown [C] [Dm] away
+Oh, [Bb] into the sun, yeah into the [A5] [Bb] sun
+Burn, burn, burn [C] burn
+
+Chorus:
+[F] Nothingman, [Bb] [C] nothingman
+[F] Isn't it something? [Bb] [C] Nothingman
+[F] Nothingman, [Bb] [C] nothingman
+[F] Coulda been something, [Bb] [C] nothingman
+
+Outro:
+F | Bb   F   Bb   F   Bb   F
+```

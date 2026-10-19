@@ -1,0 +1,63 @@
+---
+title: "Tubthumping"
+sort_title: "Tubthumping"
+artist: "Chumbawamba"
+key: "D"
+libraries: ["all", "spiritual"]
+difficulty: 0
+practice: 3
+fun: 4
+skill: 4
+poppy: 3
+happy: 3
+spiritual: 2
+added: "2016-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1MoGQW32QFHpGg36mHj6ejDJ09jJUA4LNoy-B1UYzCiY/edit"
+---
+
+```{.song}
+Podcast: https://gimletmedia.com/episode/tubthumping/
+
+Intro:
+[A] [A] [Bb] [C] x2
+[A] The [Bb] truth is I thought it mattered
+I [C] thought that music [A] mattered.
+But does it? Bullocks.  [Bb] Not compared to how [C] people matter.
+[D] We'll be singing when we're winning.  We'll be singing. [A]
+
+Chorus:
+I get knocked [D] down, but I get [G] up again.
+You're [D] never gonna keep me [G] down.
+I get knocked [D] down, but I get [G] up again.
+You're [A] never gonna keep me down. (x2)
+
+Verse:
+[Em] [G] Pissing the [Bm] night a-[A]-way.
+[Em] [G] Pissing the [Bm] night a-[A]-way.
+
+He drinks a [D] whisky drink.  He drinks a [G] vodka drink.
+He drinks a [D] lagger drink.  He drinks a [G] cider drink.
+He sings the [D] songs that remind him of the [G] good times.
+He sings the [A] songs that remind of the better times.
+
+Verse-end #1:
+[D] Oh.  [G] Danny [D] boy.  [G] Danny [D] boy. [G] Danny [A] boy.
+
+Chorus:
+
+Verse:
+
+Verse-end #2:
+[D] Don't [G] cry for [D] me, [G] next door [D] neighbor [G] [A]
+
+Chorus:
+
+Interlude:
+[Em] [G] [Bm] [A]
+[Em] [G] [Bm] [A]
+[D] [G] [D] [G]
+[D] [G] [A]
+
+Chorus Repeat:
+```

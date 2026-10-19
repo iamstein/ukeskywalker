@@ -1,0 +1,26 @@
+---
+title: "This Little Light of Mine"
+sort_title: "This Little Light of Mine"
+artist: "-"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+spiritual: 3
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1gYyUrQenxDb3ZLJB72gwX3ifX6ZO688kYwQHxPI7elw/edit"
+---
+
+```{.song}
+[G] This little light of mine, I'm gonna let it shine.
+[C] This little light of mine, I'm gonna let it [G] shine.
+[G] This little light of mine, I'm gonna let it [Em] shine.
+[Em] Let it [G] shine. Let it [D] shine. Let it [G] shine.
+
+Everywhere I go,...
+Building up a world,...
+```

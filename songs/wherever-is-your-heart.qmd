@@ -1,0 +1,8 @@
+---
+title: "Wherever is Your Heart"
+sort_title: "Wherever is Your Heart"
+artist: "Brandi Carlile"
+libraries: ["all"]
+added: "2026-03"
+pages: 1
+---

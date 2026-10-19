@@ -1,0 +1,23 @@
+---
+title: "Row Row Row Your Boat"
+sort_title: "Row Row Row Your Boat"
+key: "C"
+libraries: ["all", "kids"]
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/10bmqpcQUzEQNxr9YpoUryB3D9lWaNjPD21dcE0UgwuQ/edit"
+---
+
+```{.song}
+[C] Row, row, row your boat, gently down the stream
+[F] merrily, merrily, [C] merrily, merrily [G] life is but a [C] dream.
+
+[C] Row, row, row your boat, gently up the creek
+[F] If you see a [C] little mouse [G] don't forget to [C] squeek.
+
+[C] Row, row, row your boat, gently down the stream
+[F] If you see a [C] crocodile[G] don't forget to [C] scream.
+
+[C] Row, row, row your boat, gently to the shore
+[F] If you see a, [C] lion there [G] don't forget to [C] roar.
+```

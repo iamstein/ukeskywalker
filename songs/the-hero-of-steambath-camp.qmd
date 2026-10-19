@@ -1,0 +1,53 @@
+---
+title: "The Hero of Steambath Camp"
+sort_title: "Hero of Steambath Camp, The"
+artist: "Firefly"
+key: "E"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 3
+happy: 3
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1_Du1awUpnCcJuDZQ5ssppC6M0qcs2ULvn2yWnl1qm5o/edit"
+---
+
+```{.song}
+[E] All of the Fireflies were [D] covered in ticks.
+The [A] dirt and the grime was makin' me sick.
+[E] We all were filthy, don't [D] know what to do.
+The [A] hippies and burners all smelled like a zoo.
+Then a-[A]-long came a man named [C] Payne.  John [D] Payne.
+John [A] Payne, John [C] Payne, John [D] Payne.
+
+[E] A tongue and groove structure, he's [D] layin' the pipes.
+Bringing [A] gallons of water up to new heights.
+[E] Torch up the fire, [D] wind up the cranks
+Start [A] pitchin' your tents and hoist up those tanks.
+Bob [A] Darmin do you have [C] anymore pro-[D]-pane?
+Pro-[A]-pane, pro-[C]-pane, pro-[D]-pane.
+
+[E] Don't piss, cum, or bleed in the [D] icosahedron.
+[A] It's not a safe place for leavin' your weed in.
+They [E] come for their blessing, they [D] come for destressing
+[A] Everyone's guessing.  Now get to undressing.
+John [A] Payne, John [C] Payne, John [D] Payne.
+John [A] Payne, John [C] Payne, John [D] Payne.
+
+[Bridge]
+
+When the [G] well has run [D] dry and the [C] pipes are all [D] crusted.
+When the [G] fire's gone [D] out and the [C] front door is [D] busted.
+There's a [G] hero near-[D]-by [C] watching over Fire-[D]-fly.
+His [G] name, is [D] Payne, John [C] Payne
+His [G] name, is [D] Payne, John [G] Payne
+
+<pan pipe solo>
+
+He's a [G] panpipe mu-[D]-sician, a [C] mathemag-[D]-ician.
+He's a [G] renaissance [D] man, a [C] man on a [D] mission, and
+His [G] name, is [D] Payne, John [C] Payne
+His [G] name, is [D] Payne, John [G] Payne.
+```

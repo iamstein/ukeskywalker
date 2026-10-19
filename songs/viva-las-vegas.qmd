@@ -1,0 +1,17 @@
+---
+title: "Viva Las Vegas"
+sort_title: "Viva Las Vegas"
+artist: "Elvis"
+key: "G"
+libraries: ["all"]
+difficulty: 3
+practice: 3
+skill: 2
+poppy: 3
+happy: 2
+voice_low: "D3"
+voice_high: "E4"
+added: "2011-03"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1BkmaW8-GiUkg3Oq40PlHP0aE0bqY-PnNC8sK8IemQLs"]
+---

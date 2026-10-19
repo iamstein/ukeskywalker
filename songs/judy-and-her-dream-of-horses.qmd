@@ -1,0 +1,49 @@
+---
+title: "Judy and her Dream of Horses"
+sort_title: "Judy and her Dream of Horses"
+artist: "Belle and Sebastian"
+libraries: ["all"]
+difficulty: 1
+practice: 1
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+added: "2013-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1YuE8LE4OT_0HjZ5sRg4dQV0MGNAx02LqPt4pAcIqiyc/edit"
+---
+
+```{.song}
+Amaj7 = x02120;        Dmaj7 = x57675;        E = x79997;                D = x57775;        A = x02220?
+
+[Amaj7] Judy wrote the saddest song.  She [Dmaj7] showed it a boy in [Amaj7] school today
+[Amaj7] Judy where did you go wrong? You [Dmaj7] used to make me smile and [Amaj7] laugh all day
+[Amaj7] Judy was a teenage rebel. She [Dmaj7] did it with a boy when [Amaj7] she was young
+[Amaj7] She gave herself to books and learning.  She [Dmaj7] gave herself to being [Amaj7] number one
+[E] Judy I don't know you [D] if you're going to show me [Amaj7] everything
+[E] Judy I don't know you [D] if you're going to show me [Amaj7] everything
+
+[Amaj7] Judy got a book at school.  She [Dmaj7] went under the covers [Amaj7] with her torch.
+[Amaj7] She fell asleep to 'til it was morning. She [Dmaj7] dreamt about the girl who [Amaj7] stole a horse
+[E] Judy never felt so [D] good except when she was [A] sleeping
+[E] Judy never felt so [D] good except when she was [A] sleeping yeah
+
+Trumpet solo:  [A] [D] [A] [E]
+
+[A] Judy let's go for a walk [D] We can kiss and do [A] whatever you want
+[A] But you will be disappointed [D] You will fall asleep with [A] ants in your pants
+[E] Judy you're just trying to [D] find and keep the dream of [A] horses
+[E] And the song she wrote was [D] Judy and the dream of...
+[A] [D] Horses.... Dream of [A] [D] horses… Dream of horses… Dream of [A] horses
+
+[A] The best looking boys are taken. The [D] best looking girls are staying in-[A]-side
+[A] So Judy where does that leave you?  Walking the [D] streets from morning to [A]night
+[A] With a star above your shoulder [D] lighting up the path as [A] you walk
+[A] With a parrot on your shoulder [D] saying everything that you [A] talk
+[E] If you're ever feeling [D] blue than write another...
+[A] Song about your dream of [D] horses Write a [A] song about your dream of [D] horses
+Call it [A] 'Judy and the Dream of [D] Horses' Call it 'Judy and the Dream of Horses'
+Dream of horses la la la la Dream of horses la la la la
+Dream of [A] horses
+```

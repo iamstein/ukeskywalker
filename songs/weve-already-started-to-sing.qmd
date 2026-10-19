@@ -1,0 +1,26 @@
+---
+title: "We've Already Started to Sing"
+sort_title: "We've Already Started to Sing"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+spiritual: 3
+voice_low: "D4"
+voice_high: "G3"
+added: "2016-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ZicNd3qIwjMI5xdPtOoOlkTQLYjdxEX50QaLXutdWjw/edit"
+---
+
+```{.song}
+[G] We are going
+To a place where music
+Falls and fills up every-[D]-thing.
+Though it might be a [G] long time,
+I know it's gonna be [C] alright
+'Cause we've [G] already started to sing
+```

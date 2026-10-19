@@ -1,0 +1,50 @@
+---
+title: "The Bear and the Maiden Fair"
+sort_title: "Bear and the Maiden Fair, The"
+artist: "The Hold Steady"
+key: "G"
+libraries: ["all"]
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1VyZf8SNXSTwoRPjzWQ8l_5a1aguLY1ZCAZy5r_gY8Vc/edit"
+---
+
+```{.song}
+Verse 1:
+A [G] bear there was, a bear a [C] bear
+[G] All black and brown and [D] covered in hair
+[G] Three boys, a goat, and a dancing [C] bear
+[Am] They danced and spun up [D] to the fair
+
+Oh! [G] Sweet she was, and pure and [C] fair
+[G] The maid with honey up in her [D] hair
+[G] He smelled her all on the summer [C] air
+[Am] The maid with honey up in [C] her hair [D]
+
+Chorus:
+[Em] From there, to [C] here, from [Em] here to [C] there
+All [G] black and brown [D] and covered in  [C] hair
+[Em] Smelt that [C] girl on the [Em] summer [C] air
+The [G] bear, the [D] bear, and the [G] maiden fair
+
+Verse 2:
+Oh [G] I'm a maid and I'm pure and [C] fair
+[G] I'll never dance with a [D] hairy bear
+[G] I called the knight, but [C] you're a bear
+[Am] All black and brown and [D] covered in hair
+
+[G] He lifted her high [C] in the air
+[G] He stepped and roared and he [D] started there
+[G] She kicked and railed the [C] maid so fair
+[G] He licked the honey all up [D] in her hair
+
+Chorus, + The [G] bear, the [D] bear, and the [G] maiden fair (x2)
+
+Bridge:
+She siged and she squealed as she kicked the air
+She sang my bear, my bear, my bear so fair
+And of they went into she summer air
+The bear, the bear and the maiden fair
+
+Solo, then Chorus + The [G] bear, the [D] bear, and the [G] maiden fair (x3)
+```

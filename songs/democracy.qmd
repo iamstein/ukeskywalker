@@ -1,0 +1,103 @@
+---
+title: "Democracy"
+sort_title: "Democracy"
+artist: "Leonard Cohen"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=uqFr7dI3RKw"
+libraries: ["all", "spiritual"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 5
+poppy: 2
+happy: 2
+spiritual: 2
+voice_low: "C3"
+voice_high: "E4"
+added: "2011-11"
+pages: 2
+source_doc: "https://docs.google.com/document/d/19iyETNmeyPIpyfZbqCj-4UDclny70KyYMooVWDEaPHg/edit"
+---
+
+```{.song}
+Original: http://youtu.be/DU-RuR-qO4Y
+
+C5 = 0033, G4 = 0233, Ch = 0433,
+C = 0003, F5 = 2013
+Em = 0432, Fh = 5553
+G = 0232, F = 2010,
+
+Verse 1:
+It's [C5] coming through a [G4] hole in the [Ch] air | 1 1 1 1 1 2 1 2 3
+from those [C5] nights in tian[G4]anmen [C5]square | 1 1 1 1 1 3 2 3 1
+It's [C] coming from the feel that [F5] ain't exactly [C] real | 3 3 3 3 3 3 3 4 4 4 4 3
+Or it's [C5] real, but it [G4] ain't exactly [C] there | 3 3 1 1 2 1 2 1 1
+
+From the [Em] wars against disorder, from the [Fh] sirens night and day | 1 1 3 3 3 3 3 3    3 3 4 4 4 4 4
+From the [Em] fires of the homeless from the [Fh] ashes of the gay | 4 4 3 3 3 3 3 3    3 3 4 4 4 4 4
+Democracy [G] is coming [F] to the U. S. [C] A. | 1 5 5 5 5 5 5       2 3 4 3 1
+
+Verse 2:
+Its [C5] coming through a [G4] crack in the [Ch] wall | (repeat)
+On a [C5] visionary [G4] flood of alco-[C5]-hol
+From the [C] staggering account of the [F5] sermon on the [C] mount
+Which I [C5] don't pretend to [G4] understand at [C] all
+
+It's [Em] coming from the silence on the [Fh] dock of the bay
+From the [Em] brave, the bold, the battered [Fh] Heart of chevrolet
+[G] Democracy is coming [F] to the U. S. [C] A.
+
+Verse 3:
+It's [C5] coming from the [G4] sorrow on the [Ch] street | (repeat)
+The [C5] holy places [G4] where the races [C5] meet
+From [C] the homicidal bitchin' that goes [F5] down in every [C] kitchen
+To [C5] determine who will [G4] serve and who will [C5] eat
+
+From the [Em] wells of disappointment where the [Fh] women kneel to pray
+For the [Em] grace of God in the desert here and the [Fh] desert far away
+[G] Democracy is coming [F] to the U. S. [C] A.
+
+Chorus:
+Sail [G] on, sail [F] on. | 1 5    5 6 4
+O [C] mighty ship of state! | 4 3 1 1 1 1
+To the [G] shores of need Past the [F] reefs of greed | 1 1 5 5 5 5 6 4 4 4
+Through the [C] squalls of hate | 4 5 3 1 1
+Sail [G] on, sail [F] on, sail [C] on… | 1 5    5 6 4  3-2 1
+
+Verse 4:
+It's [C5] coming to A-[G4]merica [Ch] First | (repeat)
+The [C5] cradle of the [G4] best and of the [C5] worst
+It's [C] here they got the range and the [F5] machinery for [C] change
+And its [C5] here they got the [G4] spiritual [C5] thirst
+
+Its [Em] here the family's broken and its [Fh] here the lonely say
+That the [Em] heart has got to open in a [Fh] fundamental way
+[G] Democracy is coming [F] to the U. S. [C] A.
+
+Verse 5:
+It's [C5] coming from the [G4] women and the [Ch] men | 1 1 1 1 1 2 1 2 3
+O [C5] baby, we'll be [G4] making love [C5] again | 1 1 1 1 1 3 2 3 1
+We'll be [C] going down so deep that the [F5] rivers going to [C] weep | 3 3 3 3 3 3 3 4 4 4 4 3
+And the [C5] mountains going to [G4] shout a-[C5]-men! | 3 3 1 1 1 3 5 1'-6 1'
+
+Its [Em] coming like the tidal flood be-[Fh-]neath the lunar sway | 7 7 7 7 7 7 7 7 7 1' '1' 1' 1' 1'
+Im-[Em]-perial, mysterious in [Fh] amorous array | 7 7 7 7 7 7 7 7 7 1' '1' 1' 1' 1'
+[G] Democracy is coming [F] oh it's comin' boy to the U. S. [C] A. | 1' 2' 2' 2' 2' 2' 2' 2' 1' 1' 1' 1' 1' 1'
+
+Chorus again:
+Sail [G] on, sail [F] on | 5 2'   2' 3' 1'
+O [C] mighty ship of state! | 1' 1' 1' 1' 1' 1' 1'
+To the [G] shores of need past the [F] reefs of greed | 5 5 2' 2' 2'   2' 3' 1' 1' 1'
+Through the [C] squalls of hate | 1' 3' 1' 1' 1'
+Sail [G] on, sail [F] on, sail [C] on… | 5 2'   2' 3' 1'   1' 1' 1'
+
+Verse 6:
+I'm senti-[C5]-mental, if you [G4] know what I [Ch] mean | 1' 1' 1' 1' 1' 1' 1' 2' 2' 2' 3'
+I love the [C5] country but [G4] I cant stand the [C5] scene | 1' 1' 1' 1' 1' 1' 2' 2' 2' 2' 1'
+And though I'm [C] neither left or right. I just [F5] stay home [C] tonight | 3' 3' 3' 3' 3' 3' 3' 3' 3' 4' 4' 4' 4' 3'
+Getting [C5] lost in that [G4] hopeless little [C] screen | 3'3' 1' 1' 1' 2' 2' 2' 1' 1'
+
+But [Em] I'm stubborn as those garbage bags That [Fh] time cannot decay | 1' 1' 7 7 7 7 7 7 7 7 1' 1' 1' 1' 1'
+I'm [Em] junk but I'm still holding up this [Fh] little wild bouquet | 1' 7 7 7 7 7 7 7 7 1' 1' 1' 1' 1'
+[G] Democracy is coming [F] to the U. S. [C] A. | 1' 2' 2' 2' 2' 2' 2' 1' 1' 1' 1' 1'
+```

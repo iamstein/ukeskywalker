@@ -1,0 +1,55 @@
+---
+title: "Peggy Sue"
+sort_title: "Peggy Sue"
+artist: "Buddy Holly"
+key: "A"
+youtube: "https://www.youtube.com/watch?v=BMCCHVYV1BA"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "D3"
+voice_high: "D4"
+added: "2015-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1525TNs6stPYXNFh2DQ1c4S7oqhFJtefJ88z6I4ZsgzI/edit"
+---
+
+```{.song}
+[A] [D] [A] [E]
+[A] Ooh [D] Ooh [A] Ooh [E] Ooh
+
+[A] If you knew [D] Peggy Sue, [A] then you'd [D] know why [A] I feel blue | 1 1 3 6. 1 1   5. 5. 6. 1 3 2 1
+About [D] Peggy, 'bout Peggy [A] Sue [D] [A] [E] | 5. 6. 1           4 4 4 3 2 1
+Oh, well, I [E] love you gal, yes, [D] I love you Peggy [A] Sue [D] [A] [E]. | 1 1 1 7. 5. 5. 5. 5. 6. 1 2 2 1
+
+[A] Peggy Sue [D] Peggy Sue, [A] Oh how [D] my heart [A] yearns for you | 1 1 3 6. 1 1   5. 5. 6. 1 3 2 1
+Oh [D] Peggy, My Peggy [A] Sue [D] [A] [E] | 5. 6. 1           4 4 4 3 2 1
+Oh, well, I [E] love you gal and I, [D] need you Peggy [A] Sue [D] [A] [E]. | 1 1 1 7. 5. 5. 5. 5. 6. 1 2 2 1
+
+[A] Peggy Sue, Peggy Sue, [F] pretty, pretty, pretty, pretty, [A] Peggy Sue, | 1 2 1   1 2 1   6m...6m 1 2 1
+Oh [D] Peggy, My Peggy [A] Sue [D] [A] [E] | 5. 6. 1           4 4 4 3 2 1
+Oh, well, I [E] love you gal and I, [D] need you Peggy [A] Sue [D] [A] [E]. | 1 1 1 7. 5. 5. 5. 5. 6. 1 2 2 1
+
+[A] I love you [D] Peggy Sue, [A] with a love [D] so rare [A] and true,
+[D] Oh, Peggy, My Peggy [A] Sue.  [D] [A] [E]
+Oh, well, I [E] love you gal, yes, I [D] want you, Peggy [A] Sue [D] [A] [E]
+
+(jam)
+[A] [A] [D] [D]        [A] [A] [D] [A] [D] [A] [D] [A]
+[Dh] [Dh] [Dh] [Dh]        [A] [D] [A] [D]
+[E] [E] [E] [E]         [A] [D] [A] [E]
+
+[A] Peggy Sue, Peggy Sue, [F] pretty, pretty, pretty, pretty, [A] Peggy Sue, | 1 2 1   1 2 1   6m...6m 1 2 1
+Oh [D] Peggy, My Peggy [A] Sue [D] [A] [E] | 5. 6. 1           4 4 4 3 2 1
+Oh, well, I [E] love you gal yes I, [D] need you Peggy [A] Sue [D] [A] [E]. | 1 1 1 7. 5. 5. 5. 5. 6. 1 3 2 1
+
+[A] I love you [D] Peggy Sue, [A] with a [D] love so [A] rare and true, | 1 1 3 6. 1 1   5. 5. 6. 1 3 2 1
+[D] Oh, Peggy, My Peggy [A] Sue.  [D] [A] [E] | 5. 6. 1           4 4 4 3 2 1
+Oh, well, I [E] love you gal, yes, I [D] want you, Peggy [A] Sue [D] [A] [E] | 1 1 1 7. 5. 5. 5. 5. 6. 1 2 2 1
+
+Well, I [E] love you gal, yes, I [D] want you, Peggy [A] Sue [D] [A] | 1 1 7. 5. 5. 5. 5. 4. 4. 3. 2. 1.
+```

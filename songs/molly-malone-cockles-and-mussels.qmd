@@ -1,0 +1,47 @@
+---
+title: "Molly Malone (Cockles and Mussels"
+sort_title: "Molly Malone (Cockles and Mussels"
+artist: "James Yorkston"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=SoIiZSgs08Q"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1KxqdGtsBDuWwGTIO-7AiItYGY3OsULoSLOe33YydbO8/edit"
+---
+
+```{.song}
+C6 = 0000
+
+Verse 1:
+In [G] Dublin's fair city, where the [C6] Girls are so pretty,
+I [G] first set my eyes, on sweet Molly Ma-[D]-lone,
+As she [G] wheeled her wheel-barrow, through the [C6] streets broad and narrow,
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+
+[G] Alive alive oh! A-[C6]-live alive oh!
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+
+Verse 2:
+She [G] was a fishmonger, and [C6] sure it was no wonder,
+For [G] so were her father and [C6] mother be-[D]-fore,
+They [G] both wheeled their barrow, through [C6] streets broad and narrow,
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+
+[G] Alive alive oh! A-[C6]-live alive oh!
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+
+Verse 3:
+She [G] died of a fever, And [C6] no-one could save her,
+And [G] that was the end of sweet [C6] Molly Ma-[D]-lone,
+But her [G] ghost wheels her barrow, through the [C6] streets broad and narrow,
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+
+[G] Alive alive oh! A-[C6]-live alive oh!
+Crying [G] cockles and [Em] mussels, a-[D7]-live alive [G] oh!
+```

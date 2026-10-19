@@ -1,0 +1,56 @@
+---
+title: "Rest in Peace"
+sort_title: "Rest in Peace"
+artist: "Joss Whedon (Spike)"
+key: "Em"
+youtube: "http://www.youtube.com/watch?v=6wF6khBKrmQ"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2014-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1v_-vhVhtB-rfqL219-MAphGhRrb8iS1vz-Y-7QLIHsI/edit"
+---
+
+```{.song}
+I [Em] died so many [Bm] years ago. [D] You can make me [A] feel
+[C] like it isn't [G] so. [Bm] And why you come to [C] be with me,
+I [D] think I finally [Em] know.  [A7] Hmmmhmmmm.
+
+You're [Em] scared, ashamed of what you [Bm] feel.
+And [D] you can't tell the [A] ones you love, You [C] know they couldn't [G] deal.
+[Bm] Whisper in a [C] dead man's ear, It [D] doesn't make it [Em] real [A7] .
+
+That's [Em] great but I don't wanna [Bm] play,
+'Cause [D] being with you [A] touches me, [C] More than I can [G] say.
+And [Bm] since I'm only [C] dead to you, I'm [D] sayin' stay [Em] away.
+
+And [D] let me [G] rest [F#m] in [E] peace.
+
+Let me [F#5] rest in [A5] peace,  let me [E(5)] get some sleep.
+Let me [F#5] take my love and [A5] bury it In a [E] hole six-foot [D] deep.
+I can [F#m] lay my body [B] down But I can't [C#m] find my sweet [G] release.
+So [D] let me [G5] rest [F#m] in [E] peace.
+
+You [Em] know you got a willing [Bm] slave
+And [D] you just love to [A] play the thought That [C] you might [G] misbehave.
+[Bm] Until you do, I'm [C] tellin' you, Stop [D] visiting my [Em] grave
+And [D] let me [G5] rest [F#m] in [E] peace.
+
+I [Bm] know I should [C#] go
+But I [G#] follow you like a [C] man [C#] possessed.
+There's a [G#] traitor here [C] beneath my [C#] breast
+And it [G#] hurts me more than you've [C] ever [C#] guessed.
+If my [G#] heart could beat, it would [C] break my [C#] chest.
+But [C#m] I can see you're [G#] unimpressed, So [E] leave me be and
+
+Let me [F#] rest in [A] peace, let me [E] get some sleep.
+Let me [F#] take my love and [A] bury it In a [E] hole six-foot [D] deep.
+I can [F#m] lay my body [B] down But I can't [C#m] find my sweet [G] release.
+So [D] let me [G] rest [F#m] in [E] peace.
+
+Why won't you [D] let me [G] rest [F#m] in [E] peace?
+```

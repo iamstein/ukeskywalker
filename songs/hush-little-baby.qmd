@@ -1,0 +1,34 @@
+---
+title: "Hush Little Baby"
+sort_title: "Hush Little Baby"
+artist: "-"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 1
+skill: 5
+poppy: 1
+happy: 1
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/12gdtK8K--1bdz0RG4cwrsH0G6UkBrtdeaR9-sph4WEU/edit"
+---
+
+```{.song}
+[C] Hush little baby don't [G] say a word
+[G] Mama's (Papa's) gonna buy you a [C] mockingbird.
+[C] And if that [G] mockingbird don't sing
+[G] Mama's gonna buy you a [C] diamond ring.
+[C] And if that diamond [G] ring turns brass
+[G] Mama's gonna buy you a [C] looking glass.
+[C] And if that looking [G] glass gets broke
+[G] Mama's gonna buy you a [C] billy goat.
+[C] And if that billy [G] goat wont pull
+[G] Mama's gonna buy you a [C] cart and bull.
+[C] And if that cart and [G] bull turn over
+[G] Mama's gonna buy you a [C] dog named Rover.
+[C] And if that dog named [G] Rover won't bark
+[G] Mama's gonna to buy you a [C] horse and cart.
+[C] And if that horse and [G] cart fall down
+[G] Well you'll still be the sweetest little [C] baby in town.
+```

@@ -1,0 +1,53 @@
+---
+title: "Bird on a Wire"
+sort_title: "Bird on a Wire"
+artist: "Leonard Cohen"
+key: "A"
+youtube: "https://www.youtube.com/watch?v=FwnAg2tZKFk"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 2
+skill: 3
+poppy: 1
+happy: 1
+spiritual: 3
+voice_low: "A2"
+voice_high: "C#4"
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Oyj5opxIKlTGeqUxhGRnLzZIvtNXhZ42hhVhqfi8ZrQ/edit"
+---
+
+```{.song}
+Chords 1-5-1-4-1-5-1 /// 4-1-2-5 4-1-2-5
+
+Verse 1:
+Like a [A] bird on a [E7] wire, like a [A] drunk in a midnight [D] choir | 3 2 1 3 1 2     1 1 3 3 3 3 4 5 5 4
+I have [A] tried in my [E7] way to be [A] free [Asus4]  [A] | 1 2 3   4 3 2   3 2 1
+Like a [A] worm on a [E7] hook, | (repeat)
+like a [A] knight from some old-fashioned [D] book
+I have [A] saved all my [E7] ribbons for [A] thee. [Asus4]  [A]
+
+Chorus 1        Up an octave:
+If [D] I, if I have been un-[A]-kind | 1' 1'           1' 1' 2' 1' 2' 3'
+I [B7] hope that you can just let it go [E7] by | 1' 1' 7 6         6 6 1' 6 1' 6 5
+If [D] I, if I have been un-[A]-true, | 1' 1'           1' 1' 2' 1' 2' 3'
+I [B7] hope you know it was never to [E7] you. [E7+5] | 1' 1' 7 6         6 6 1' 6 1' 6' 5'
+
+Verse 2:
+Like a [A] baby still-[E7]-born, like a [A] beast with his [D] horn
+I have [A] torn every-[E7]-one who reached out for [A] me.
+But I [A] swear by this [E7] song
+and by [A] all that I have done [D] wrong
+I will [A] make it [E7] all up to [A] thee. [Asus4]  [A]
+
+Chorus 2:
+I [D] saw a beggar leaning on his wooden [A] crutch
+[B7] He said to me, "You must not ask for so [E7] much."
+And [D] a pretty woman leaning in her darkened [A] door,
+She [B7] cried to me, "Hey, why not ask for [E7] more?" [E7+5]
+
+Ending:
+Like a [A] bird on a [E7] wire, like a [A] drunk in a midnight [D] choir
+I have [A] tried in my [E7] way to be [D] free. [A]
+```

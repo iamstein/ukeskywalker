@@ -1,0 +1,34 @@
+---
+title: "The Best Ukulele Strum in the World (+)"
+sort_title: "Best Ukulele Strum in the World (+), The"
+artist: "Andy Stein"
+key: "G"
+youtube: "http://www.youtube.com/watch?v=9AwFQNppA-8"
+libraries: ["all", "andy-original"]
+difficulty: 2
+fun: 2
+skill: 5
+poppy: 2
+happy: 2
+added: "2010-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1sVxor4G3BGfjYnlkCC2sPyb6Ov7WO20JG4ut4lWs8HU/edit"
+---
+
+```{.song}
+http://www.youtube.com/watch?v=wTgqW6hqpfA - original
+
+G6         - 0202
+Cmaj7         - 0002
+G6
+Cmaj7
+C4maj7        - 0012
+F4        - 2012
+D6        - 2222
+C        - 0003
+G        - 0232
+C
+G
+Dh        - 7655
+repeat
+```

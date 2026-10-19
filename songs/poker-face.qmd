@@ -1,0 +1,14 @@
+---
+title: "Poker Face"
+sort_title: "Poker Face"
+artist: "Lady Gaga"
+libraries: ["all"]
+difficulty: 2
+practice: 1
+skill: 2
+poppy: 2
+happy: 2
+added: "2011-05"
+pages: 2
+other_links: ["https://docs.google.com/document/pub?id=1DeiydyjfaVIthVgB3dOLPd2AslWopYwNaTfGQXjZLVY"]
+---

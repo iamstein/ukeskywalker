@@ -1,0 +1,86 @@
+---
+title: "Chord Compressor"
+toc: false
+aliases:
+  - /compressor
+include-after-body:
+  - text: |
+      <script src="../assets/chords.js"></script>
+      <script src="../assets/compressor.js"></script>
+---
+
+Paste a song written with the chords on their own line above the lyrics, the
+way most chord websites show it. The compressor puts each chord in square
+brackets in front of the word it was over, as in `[G] Abigail`. The result
+takes half the lines and usually fits on one printed page.
+
+```{=html}
+<div class="tool">
+  <label for="compress-input" class="form-label">Chords above lyrics</label>
+  <textarea id="compress-input" class="form-control font-monospace" rows="16" spellcheck="false">E
+I'm scratching at the surface now
+
+C#m
+And I'm trying hard to work it out
+
+E
+So much has gone misunderstood
+
+C#m
+This mystery only leads to doubt
+
+F#m
+And I didn't understand
+
+Abm                                 Am
+When you reached out to take my hand
+
+Abm                          F#m
+And if you have something to say
+
+B
+You'd better say it now
+
+E                         Abm
+Cause this is what you've waited for
+C#m                        A
+Your chance to even up the score
+E                Abm           C#m
+And as these shadows fall on me now
+A
+I will somehow
+
+E                              Abm
+Cause I'm picking up a message Lord
+C#m                               A
+And I'm closer than I've ever been before
+
+E                          B                  A
+So if you have something to say Say it to me now
+B              A
+Say it to me now
+B              A
+Say it to me now
+</textarea>
+  <div class="tool-actions">
+    <button id="compress-button" type="button" class="btn btn-primary">Compress</button>
+    <div class="form-check form-switch">
+      <input class="form-check-input" type="checkbox" role="switch" id="compress-as-file">
+      <label class="form-check-label" for="compress-as-file">As a new song file</label>
+    </div>
+  </div>
+  <div id="compress-file-fields" class="tool-fields" hidden>
+    <input id="compress-title" class="form-control" placeholder="Title">
+    <input id="compress-artist" class="form-control" placeholder="Artist">
+  </div>
+  <label for="compress-output" class="form-label">Inline chords</label>
+  <textarea id="compress-output" class="form-control font-monospace" rows="16" spellcheck="false"></textarea>
+  <div class="tool-actions">
+    <button id="compress-copy" type="button" class="btn btn-outline-secondary btn-sm">Copy</button>
+  </div>
+</div>
+```
+
+With **As a new song file** on, the output is a complete song file: save it in
+the `songs/` folder as `title-of-song.qmd` and it appears on the site. See
+`_templates/song.qmd` for the other fields a song can have.

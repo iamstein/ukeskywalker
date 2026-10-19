@@ -1,0 +1,14 @@
+---
+title: "Lulu's Back in Town"
+sort_title: "Lulu's Back in Town"
+artist: "Fats Waller"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 3
+happy: 3
+added: "2011-03"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1VWYBqDddXYw6Arndfff6N32zFgC8_vQcdasFEpeQSqU"]
+---

@@ -1,0 +1,62 @@
+---
+title: "It's None of Your Business (School)"
+sort_title: "It's None of Your Business (School)"
+artist: "Trendy Wendy and the Yeastbombs"
+key: "G"
+youtube: "http://www.youtube.com/watch?v=PuKwvEsFtpg"
+libraries: ["all", "yeastbombs"]
+difficulty: 1
+fun: 3
+skill: 5
+poppy: 2
+happy: 1
+voice_low: "G2"
+voice_high: "C4"
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1rjWFhd93ZMDSFRC_3NV3HiS_pcg7UPME0F_wBSjp97U/edit"
+---
+
+```{.song}
+Verse 1 (slow):
+Well we [C] had so many [Em] good times to-[G]-gether
+Through [C] thick and thin what-[Em]-ever the [G] weather
+But in [C] two years time I [Em] know I won't re-[G]-member
+
+Chorus:
+Cause [D] I'm goin' to [C] Business school.  It's none of your [G] business school.
+
+Verse 2 (speed it up):
+We were [C] gonna take our [Em] startup to I-P-[G]-O
+But then you [C] had to go off and [Em] sleep with the C-E-[G]-O
+We [C] had a five year [Em] plan, but it had to [G] go
+
+Chorus:
+
+Verse 3:
+I'm gonna [C] network every [Em] hour of every [G] day
+I'm gonna [C] take your market [Em] share and make you [G] pay
+And the [C] whole time I won't [Em] care if you're [G] ok.
+
+Chorus:
+
+Verse 4:
+So I [C] took my corpor-[Em]-ation to the top of the [G] Dow
+To all the [C] haters and the nay [Em] sayers, I just say [G] Blau!
+H-[C]-R said you want a [Em] job, no way no [G] how.
+
+Chorus x2:
+
+Verse 5 (slow down):
+Now [C] I've long since retired, and [Em] cashed in my 401-[G]-k
+All the [C] women, the cocaine, the [Em] mergers, it's all a [G] haze.
+[C] Was it all just for [Em] revenge?  I just can't [G] say.
+
+Outro:
+Cause [D] I, I went to [C] business school.  It's none of your [G] business... school
+
+OLD VERSE | BONUS VERSE
+I was gonna bring the wine but I forgot                                You're name was next to mine on the org chart
+I was gonna pay you back, but now I'm not | But then you screwed the man above us and it shattered my heart
+I was gonna clean out the fridge but I'll let it rot                        And I curse the day cupid hit me with his poison dart
+```

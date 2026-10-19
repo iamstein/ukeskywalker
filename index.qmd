@@ -1,0 +1,28 @@
+---
+title: "Uke Skywalker"
+subtitle: "Ukulele songs with chords and melody"
+toc: false
+aliases:
+  - /home
+listing:
+  - id: all-songs
+    contents: songs/*.qmd
+    type: table
+    sort: "sort_title"
+    sort-ui: [title, artist, key, difficulty, added]
+    filter-ui: [title, artist, key]
+    page-size: 500
+    table-striped: true
+    table-hover: true
+    fields: [title, artist, key, difficulty, added]
+    field-display-names:
+      title: "Song"
+      artist: "Artist"
+      key: "Key"
+      difficulty: "Difficulty"
+      added: "Added"
+---
+
+Every song on the site, A to Z. Type in the box to find a song by title,
+artist or key, or use the search in the top bar to find one by a line of its
+lyrics. Click a column heading to sort.

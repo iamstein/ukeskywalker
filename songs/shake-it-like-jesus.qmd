@@ -1,0 +1,15 @@
+---
+title: "Shake it like Jesus"
+sort_title: "Shake it like Jesus"
+artist: "Andy Stein"
+libraries: ["all", "andy-original"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+spiritual: 0.1
+added: "2011-06"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1E5GkjOOCk7n4KKkFcTOVjl-jXNbeg9djw7XBKWbnxh4"]
+---

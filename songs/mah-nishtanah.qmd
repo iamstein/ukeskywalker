@@ -1,0 +1,53 @@
+---
+title: "Mah Nishtanah"
+sort_title: "Mah Nishtanah"
+key: "Dm"
+libraries: ["all", "spiritual"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 1
+happy: 2
+spiritual: 1
+voice_low: "A2"
+voice_high: "C4"
+added: "2015-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/17qZ5EPXbDovprru2AFB3G0DqrCMwrwxLMU6xE6VgO0g/edit"
+other_links: ["https://drive.google.com/file/d/0B5zelX434ytYdUxCdS1hWjZxSm8/view?usp=sharing"]
+---
+
+```{.song}
+[Dm] Ma nishtanah halailah hazeh
+mi-[C]-kol halei-[F]-lot? Mi-[C]-kol halei-[F]-lot?
+
+Sheb'-[Dm]-khol haleilot anu okhlin
+ha-[C]-metz umat-[F]-zah; ha-[C]-metz umat-[F]-zah;
+Ha-[Dm]-lailah ha-[Gm]-zeh, ha-[Dm]-lailah hazeh,
+ku-[A7]-loh mat-[Dm]-zah (x2)
+
+Sheb'-[Dm]-khol haleilot anu okhlin
+sh'-[C]-ar y'ra-[F]-kot; sh'-[C]-ar y'ra-[F]-kot;
+Ha-[Dm]-lailah ha-[Gm]-zeh, ha-[Dm]-lailah hazeh,
+ha-[A7]-lailah hazeh, ma-[Dm]-ror (x2)
+
+Sheb'-[Dm]-khol haleilot ein anu matbilin
+a-[C]-filu pa'am e-[F]-hat;  a-[C]-filu pa'am e-[F]-hat;
+Ha-[Dm]-lailah ha-[Gm]-zeh, ha-[Dm]-lailah hazeh,
+sh-[A7]-tei f'a-[Dm]-mim. (x2)
+
+Sheb'-[Dm]-khol haleilot anu okhlin
+bein yosh-[C]-vin uvein m'su-[F]-bin;  bein yosh-[C]-vin uvein m'su-[F]-bin;
+Ha-[Dm]-lailah ha-[Gm]-zeh, ha-[Dm]-lailah hazeh,
+ku-[A7]-lanu m'su-[Dm]-bin.
+
+מַה נִּשְּׁתַּנָה הַלַּיְלָה הַזֶּה מִכָּל הַלֵּילוֹת
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה,
+-הַלַּיְלָה הַזֶּה כּוּלוֹ מַצָּה.
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת,
+- הַלַּיְלָה הַזֶּה מָרוֹר.
+שֶׁבְּכָל הַלֵּילוֹת אֵין אֶנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת,
+- הַלַּיְלָה הַזֶּה שְׁתֵּי פְעָמִים.
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין,
+- הַלַּיְלָה הַזֶּה כֻּלָנו מְסֻבִּין
+```

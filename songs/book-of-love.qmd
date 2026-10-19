@@ -1,0 +1,60 @@
+---
+title: "Book of Love"
+sort_title: "Book of Love"
+artist: "The Magnetic Fields"
+key: "G"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 3
+poppy: 1
+happy: 1
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1HSopzDTAds5QA_ViB5QKE4jvgGHd3lfLiy07rze5StQ/edit"
+---
+
+```{.song}
+Intro:
+[G] [C] [D] [G]
+
+Verse:
+[G] The book [C] of love is [D] long and [G] boring
+[G] No one [C] can lift the [D] damn thing [G]
+[G] It's full [C] of charts and [D] facts and [G] figures
+[G] And [C] instructions for [D] dancing [G] but
+
+Chorus:
+[G] [C] [D] [G] I...
+[G] I love [C] it when you [D] read to [G] me and
+[G] [C] [D] [G] You...
+[G] You can [C] read me [D] [G] anything
+
+Verse:
+[G] The book of [C] love has [D] music in [G] it
+[G] In fact [C] that's where [D] music comes [G] from
+[G] Some of it [C] is just [D] [G] transcendental
+[G] Some of it [C] is just [D] really dumb [G] but
+
+Chorus:
+[G] I-[C]-I-[D]-I-[G]
+[G] I love [C] it when you [D] sing to [G] me and
+[G] [C] [D] [G] You...
+[G] You can [C] sing me [D] [G] anything
+
+Verse:
+[G] The book of [C] love is [D] long and [G] boring
+[G] And written [C] very [D] long [G] ago
+[G] It's full of [C] flowers and [D] heart-shaped [G] boxes
+[G] And things we're [C] all too [D] young to [G] know but
+
+Chorus:
+[G] I-[C]-I-[D]-I-[G]
+[G] I love it [C] when you [D] give me [G] things and
+[G] [C] [D] [G] You...
+[G] You ought to [C] give me [D] wedding [G] rings
+[G] [C] [D] [G] I...
+[G] I love it [C] when you [D] give me [G] things and
+[G] [C] [D] [G] You...
+[G] You ought to [C] give me [D] wedding [G] rings
+```

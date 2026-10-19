@@ -1,0 +1,51 @@
+---
+title: "I Still Haven't Found what I'm Looking For"
+sort_title: "I Still Haven't Found what I'm Looking For"
+artist: "U2"
+key: "C"
+libraries: ["all", "spiritual"]
+difficulty: 0
+fun: 2
+skill: 4
+poppy: 3
+happy: 2
+spiritual: 1
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1QHYZR5mO8pTbM5w0kIOvXfKqcUVt9sM_VQeFYZk0vc0/edit"
+---
+
+```{.song}
+Verse 1:
+[C] I have climbed highest mountains I have run through the fields
+only to [F] be with you, only to [C] be with you
+I have [C] run, i have crawled
+I have scaled these city walls, these city [F] walls
+only to [C] be with you
+
+Chorus:
+But I [G] still haven't [F] found what i'm [C] looking for
+But I [G] still haven't [F] found what i'm [C] looking for
+
+Verse 2:
+[C] I have kissed honey lips felt the feeling in her fingertips
+it burned like [F] fire, this burning [C] desire
+I have [C] spoke with the tongue off angels
+I have held the hand of the devil
+It was warm in the [F] night, i was cold as a [C] stone
+
+Chorus:
+
+Solo C (6 bars) F (2 bars) C:
+
+Verse 3:
+[C] I believe in the kingdom come then all the colours they will
+bleed into one, bleed into [F] one but yes I'm still [C] running
+you broke the [C] bonds and you loosed the chains
+carried the cross of, of my shame, of my [F] shame
+You know I [C] believe it.
+
+Chorus x2:
+
+Outro: C (4 bars) F (2bars) C (repeat to fade)
+```

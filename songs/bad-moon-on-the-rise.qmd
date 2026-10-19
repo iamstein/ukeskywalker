@@ -1,0 +1,48 @@
+---
+title: "Bad Moon on the Rise"
+sort_title: "Bad Moon on the Rise"
+artist: "Creedence Clearwater Revival"
+key: "D"
+libraries: ["all"]
+difficulty: 0
+fun: 2
+skill: 4
+poppy: 2
+happy: 2
+voice_low: "D3"
+voice_high: "G3"
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1HFfF_lG8cfd63A3sFeXBvStRWBPPNyoTO6DO0O-UrY0/edit"
+---
+
+```{.song}
+[D] I see the [A] bad [G] moon a-[D]-rising. | 3 3 3 2 2 1 3 1
+[D] I see [A] trouble [G] on the [D] way. | 3 3 3 2 1 3 2 1
+[D] I see [A] earth-[G]-quakes and [D] lightnin'. | 3 3 2 2 1 3 1
+[D] I see [A] bad [G] times to-[D]-day. | 3 3 2 3 2 1
+
+Chorus:
+Well [G] don't go around tonight, | 4 4 4 3 2
+It's [D] bound to take your life, | 2 3 3 3 2 1
+[A] There's a [G] bad moon on the [D] rise. | 2 2 2 2 1 1 1 1
+
+[D] I hear [A] hurri-[G]-canes a-[D]-blowing.
+[D] I know the [A] end is [G] coming [D] soon.
+[D] I fear [A] rivers [G] over-[D]-flowing.
+[D] I hear the [A] voice of [G] rage and [D] ruin.
+
+Chorus:
+
+[D] Hope you [A] got your [G] things to-[D]-gether.
+[D] Hope you are [A] quite pre-[G]-pared to [D] die.
+[D] Looks like we're [A] in for [G] nasty [D] weather.
+[D] One eye is [A] taken [G] for an [D] eye.
+
+Chorus:
+
+Outro:
+Well [G] don't go around tonight,
+It's [D] bound to take your life,
+[A] There's a [G] bad moon on the [D] rise.
+```

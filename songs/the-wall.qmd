@@ -1,0 +1,38 @@
+---
+title: "The Wall"
+sort_title: "Wall, The"
+artist: "Johnny Cash"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 1
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1vzGQB6H8z2v28McGlwtpx0olViMyLJWSuukT6pZxHPE/edit"
+---
+
+```{.song}
+[G] There's a lot of strange men in cell block ten  but the strangest of them all  was a
+[C] friend of mine who [G] spent his time
+[C] staring at the [G] wall. [C]  Staring at the [G] wall
+
+[C] As he looked at that wall so [G] strong and tall  you could
+[C] hear him softly [G] curse no-[C]-body at all  ever [G] climbed that wall but
+[C] i'm gonna be the [G] first.   Yeah [C] I'm gonna be the [G] first
+
+[G] The warden walked by and said son don't try  I'd hate to see you fall.  For there
+[C] is no doubt they'll [G] carry you out  if you
+[C] ever touch that [G] wall .  If you [C] ever touch that [G] wall.
+
+[G] Well a year's gone by since he made his try , but I can still recall...  how
+[C] hard he tried and the [G] way he died  but he
+[C] never made that [G] wall.   He [C] never made that [G] wall.  There's
+
+[C] never been a man ever [G] shook this can  but
+[C] I know a man who [G] tried.  The
+[C] newspapers called it a [G] jail break plan but I
+[C] know it was sui-[G]-cide  I [C] know it was sui-[G]-cide
+```

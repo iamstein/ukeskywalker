@@ -1,0 +1,45 @@
+---
+title: "Adam's Song"
+sort_title: "Adam's Song"
+artist: "Blink 182"
+key: "C"
+libraries: ["all"]
+difficulty: 2
+poppy: 3
+happy: 2
+added: "2018-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1RjYTv6Liznek_q5rne8HW0Od6pJcs2kiM4V4d_lLJyc/edit"
+---
+
+```{.song}
+[C] I never [F] thought I'd die [Am] alone | 1 3 5 3   1 3 5 3
+I laughed the [F] loudest who'd have [C] known? | 1 2 3 4 3 2 3 1
+I trace the [F] cord back to the [Am] wall | 1 3 5 3 2 1 2 3
+No wonder it was [F] never plugged in at [C] all | 1 1 1 1 1 3 3 2 1 2 1
+I took my [F] time, I [Am] hurried up | 1 3 5 3   1 3 5 3
+The choice was [F] mine I didn't think [C] enough | 1 2 3 4 3 1 3 1
+I'm too [F] depressed to go [Am] on | 1 3 5 3   3 5 3
+You'll be [F] sorry when I'm [C] gone | 2 3 2 1 2 1
+
+Chorus:
+[C] I never [Dm] conquered, rarely [Am] came | 3 3 5 3 2 1 2 3
+16 just [F] held such better [C] days | 3 2 3 4 3 1 2 1
+Days when [Dm] I still felt [Am] alive | 3 5 3 2 1 2 3
+We couldn't [F] wait to get [C] outside | 1 1 2 4 3 2 3 3
+The world was [Dm] wide, too late to [Am] try | 3 3 5 3 3 3 5 3
+The tour was [F] over we'd [C] survived | 1 2 3 4 3 1 2 1
+I couldn't [Dm] wait till I got [Am] home | 1 3 5 3   1 3 5 3
+To pass the [F] time in my room [C] alone | 1 2 3 4 4 3 2 3 1
+
+[C] I never [F] thought I'd die [Am] alone
+Another six [F] months I'll be [C] unknown
+Give all my [F] things to all my [Am] friends
+You'll never step [F] foot in my room [C] again
+You'll close it [F] off, board it [Am] up
+Remember the [F] time that I spilled the [C] cup
+Of apple [F] juice in the [Am] hall
+Please tell [F] mom this is not her [C] fault
+
+Chorus x2:
+```

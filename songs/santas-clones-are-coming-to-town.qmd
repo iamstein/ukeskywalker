@@ -1,0 +1,45 @@
+---
+title: "Santa's Clones are Coming to Town"
+sort_title: "Santa's Clones are Coming to Town"
+artist: "Trendy Wendy and the Yeastbombs"
+key: "G"
+youtube: "http://youtu.be/r0iTXLqKUsU"
+libraries: ["all", "yeastbombs"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2012-12"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Y2H4mmCKbJ_CP7gobJ5a_dfTRDwOCAuU_IOmdIwuMXw/edit"
+---
+
+```{.song}
+Verse 1:
+[G] The kids are all nuts
+[C] The in-laws are here
+[G] We need to escape
+[C] It's that that time of year
+[G] Santa's [Em] clones are [Am] coming to [G] town
+
+Verse 2:
+[G] We're putting on hats
+[C] and bleaching our beards
+[G] We're stuffing our guts
+[C] and mounting our deers
+[G] Santa's [Em] clones are [Am] coming to [G] town [G7]
+
+Bridge:
+[G7] We'll spend the whole night [C] drinking
+[G7] We'll go from bar to [C] bar
+And [A7] when the night is [D] over
+We'll [A7] pass out in a [D] car [D7] Ohhhhh.
+
+Verse 1:
+[G] The kids are all nuts
+[C] The in-laws are here
+[G] We need to escape
+[C] It's that that time of year
+[G] Santa's [Em] clones are [Am] coming to [G] town
+```

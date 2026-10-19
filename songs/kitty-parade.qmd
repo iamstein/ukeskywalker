@@ -1,0 +1,51 @@
+---
+title: "Kitty Parade"
+sort_title: "Kitty Parade"
+artist: "Trendy Wendy and the Yeastbombs"
+key: "A"
+youtube: "http://www.youtube.com/watch?v=sddKXBW1JzQ"
+libraries: ["all", "yeastbombs"]
+difficulty: 1
+practice: 2
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1r6rEj9qrYe2coqab-riW9oMEURLkKoan1jFQeOVEm8A/edit"
+---
+
+```{.song}
+[A] I wanna to [C] tell you [D] [E] about my [A] cat [C] [D] [E]
+[A] I can't tell my [C] family, [D] cause [E] they ain't down with [A] that. [C] [D] [E]
+I'm [A] locked in a [C] kitty pa-[D]-rade till i [E] am an old [A] maid. [C] [D] [E]
+[A] Toxoplas-[C]-mosis be [D] damned, [E] I'm not a-[A]-fraid. [C] [D] [E]
+
+[C] I [A] don't  want you to know
+[C] I don't want my [D] cat to show
+[E] I'm keeping my [D] cat in the [A] closet
+x2
+
+[A] People always [C] worry [D]  that I'll [E] end up [A] alone.  [C] [D] [E]
+[A] They don't know my [C] furry friend [D] [E] that shares my [A] home.  [C] [D] [E]
+[A] I just want [C] sit alone [D] with my [E] kitty on my [A] lap.  [C] [D] [E]
+[A] And if I get [C] tired, [D] then we'll [E] take a cat [A] nap. [C] [D] [E]
+
+[A] kitty cat what's [C] wrong with that
+[D] there's nothing [E] wrong with that
+[D] hold your [C] kitty up [A] proud
+and [E] scream your [D] cat's name out [A] loud
+
+[A] I can't keep this [C] secret no more [D] Now I open [E] up the door
+[D] So my [C] cat can [A] explore
+[E] The cat  is [D] out of the [A] bag
+
+[A] Now there's cat hair [C] all around.  The [D] baby birds can-[E]-not be found
+[D] Neighborhood [C] songbirds [A] beware.
+[E] My cat is [D] prowling out [A] there.
+
+[A] Kitty cat what's [C] wrong with you.  [D] Birds and mice are [E] people too.
+[D] Keep your [C] cat in the [A] closet.
+[E] Cats be-[D]-long in the [A] closet.
+```

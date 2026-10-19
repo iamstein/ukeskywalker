@@ -1,0 +1,27 @@
+---
+title: "If It Be Your Will"
+sort_title: "If It Be Your Will"
+artist: "Leonard Cohen"
+key: "E"
+alt_keys: ["A"]
+youtube: "https://www.youtube.com/watch?v=wKhGKB6faW0"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 4
+fun: 2
+skill: 4
+poppy: 1
+happy: 1
+spiritual: 3
+voice_low: "A2"
+voice_high: "D4"
+added: "2014-08"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1ECbTsIV5lUK9OdOhvLPKL7aBgjCxW3A1z47EKhbiwnQ/edit"
+---
+
+```{.song}
+Original Key of E (transposed down to A on page 2)
+
+Need to transpose Page 2 back when I get a chance.  But I'm still making sure I have the melody right.
+```

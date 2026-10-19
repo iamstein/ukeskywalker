@@ -1,0 +1,14 @@
+---
+title: "I'm Yours"
+sort_title: "I'm Yours"
+artist: "Jason Mraz"
+libraries: ["all"]
+difficulty: 2
+practice: 1
+skill: 0
+poppy: 3
+happy: 3
+added: "2011-06"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1bZrdItDZnZvh3HCgjbhuEtrl77Xans40VKEfvK93HTU"]
+---

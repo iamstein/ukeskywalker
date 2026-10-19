@@ -1,0 +1,23 @@
+---
+title: "Happy Birthday"
+sort_title: "Happy Birthday"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 3
+fun: 1
+skill: 2
+poppy: 3
+happy: 3
+added: "2010-12"
+pages: 0
+source_doc: "https://docs.google.com/document/d/1zSql-05Av8IqWjwT4wqIAjE1Ftut7HadLgbgtdAAzho/edit"
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdHp1VmtMekVocUd6ZE9xOGVMLXFwbXc&hl=en&output=html"]
+---
+
+```{.song}
+Happy [C] Birthday to [G] you
+Happy [G] Birthday to [C] you.
+Happy [C] Birthday dear [F] NAME.
+Happy [C] Birthday [G] to [C] you.
+```

@@ -1,0 +1,14 @@
+---
+title: "The Good, The Bad, The Ugly"
+sort_title: "Good, The Bad, The Ugly, The"
+artist: "Ennio Morricone"
+libraries: ["all"]
+difficulty: 3
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+added: "2011-05"
+pages: 0
+other_links: ["https://spreadsheets.google.com/pub?hl=en&hl=en&key=0ApzelX434ytYdHhCbWlHQVMtckJzU3o2Z3JVWTlEQnc&output=html"]
+---

@@ -1,0 +1,58 @@
+---
+title: "This Land is Your Land"
+sort_title: "This Land is Your Land"
+artist: "Woodie Guthrie"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 0
+fun: 1
+skill: 4
+poppy: 3
+happy: 2
+spiritual: 3
+protest: 3
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/16uKGdYCW9us9TBIlWZlSNQ43-E4cVqkXwXPKod0YS0E/edit"
+---
+
+```{.song}
+Chords: 1-4-1-5- 1-4-1-5-1
+
+Chorus:
+[G] this land is [C] your land this land is [G] my land
+from cali-[D]-fornia to the new york [G] island
+from the redwood [C] forests to the gulf stream [G] waters
+[D] this land was made for you and [G] me
+
+Verse:
+[G] as I went [C] walking that ribbon of [G] highway
+I saw a-[D]-bove me that endless [G] skyway
+I saw bel-[C]-ow me that golden [G] valley
+[D] this land was made for you and [G] me
+
+[G] I've roamed and [C] rambled and I followed my [G] footsteps
+to the sparkling [D] sands of her diamond [G] deserts
+and all a-[C]-round me a voice was [G] sounding
+[D] this land was made for you and [G] me
+
+[G] when the sun came [C] shining and I was [G] walking
+and the wheat fields [D] waving and the dust clouds [G] rolling
+as the fog was [C] lifting a voice was [G] chanting
+[D] this land was made for you and [G] me
+
+[G] As I went [C] walking I saw a [G] sign there
+and on the [D] sign it said "No [G] Trespassing"
+but on the [C] other side it didn't say [G] nothing
+[D] that side was made for you and [G] me
+
+[G] In the squares of the [C] city in the shadow of the [G] steeple
+by the relief [D] office I seen my [G] people
+as they stood there [C] hungry I stood there [G] asking
+[D] is this land made for you and [G] me?
+
+[G] Nobody [C] living can ever [G] stop me
+as I go [D] walking that freedom [G] highway
+nobody [C] living can ever make me [G] turn back
+[D] this land was made for you and [G] me
+```

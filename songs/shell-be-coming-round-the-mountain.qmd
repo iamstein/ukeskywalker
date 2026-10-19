@@ -1,0 +1,40 @@
+---
+title: "She'll be Coming 'round the Mountain (Jesus' Chariot)"
+sort_title: "She'll be Coming 'round the Mountain (Jesus' Chariot)"
+artist: "?, Neil Young and Crazy Horse"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 4
+poppy: 2
+happy: 2
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1fAUbVwa9mgUlejvdnvGwVd4-lQ6ABY8bPfUnpHJZONg/edit"
+---
+
+```{.song}
+Classic Version
+In C
+She'll be [C] coming 'round the mountain when she comes.
+She'll be [C] coming 'round the mountain when she [G7] comes.
+She'll be [C] coming 'round the mountain, She'll be [F] coming 'round the mountain,
+She'll be [G7] coming 'round the mountain when she [C] comes.
+
+Neil Young and Crazy Horse version
+In F#m (same chords as A)
+http://www.youtube.com/watch?v=0NghGoIdv-E&feature=relmfu
+She'll be [F#m] coming 'round the [E] mountain when she [F#m] comes, (when she comes).
+She'll be [F#m] coming 'round the [E] mountain when she [F#m] comes, (when she comes).
+She'll be [A] coming 'round the [E] mountain, She'll be [Bm] coming 'round the [F#m] mountain,
+She'll be [A] coming 'round the [E] mountain when she [F#m] comes, (when she comes).
+
+Subsequent Verses
+She'll be drivin' six white horses ...
+We'll all go out to meet her...
+We'll kill the big red rooster ...
+She will take us to the portals ...
+We'll all sing "Hallelujah" ...
+She'll be coming 'round the mountain ...
+```

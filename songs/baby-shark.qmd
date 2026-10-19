@@ -1,0 +1,39 @@
+---
+title: "Baby Shark"
+sort_title: "Baby Shark"
+artist: "Pink Fong"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=XqZsoesa55w"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+added: "2019-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1HjZV-aAFk3uFwWvdSd673HPV6aP_IYDIV6menI9V5iA/edit"
+---
+
+```{.song}
+Chords: 1-4-6-5
+
+Intro:
+d d# (x6)
+g e. g a g e. d. e. (x3)
+g e. g a g e. d. g g f#.
+
+Baby [G] shark, doo doo doo, doo doo doo doo doo
+Baby [C] shark, doo doo doo, doo doo doo doo doo
+Baby [Em] shark, doo doo doo, doo doo doo doo doo
+Baby [D] shark
+
+Mommy shark
+Daddy shark
+Grandma shark
+Grandpa shark
+Let's go hunt
+Run away
+Safe at last
+It's the end
+```

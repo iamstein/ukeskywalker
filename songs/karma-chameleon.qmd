@@ -1,0 +1,52 @@
+---
+title: "Karma Chameleon"
+sort_title: "Karma Chameleon"
+artist: "Culture Club"
+key: "G"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "D3"
+voice_high: "D4"
+added: "2015-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1U6mLBbPtQdx2YPw7f5gzvKVRL9fRUEt6ApSuR6n3c6U/edit"
+---
+
+```{.song}
+Verse 1:
+Desert [G] loving in your [D] eyes all the [G] way. | 5. 6. 1 1 1 3 2 3 2 1
+If I [G] listen to your [D] lies would you [G] say. | 5. 6. 1 1 1 3 2 3 2 1
+I'm a [C] man without con-[D]-viction. | 3 2 1 6. 6. 1 2 3
+I'm a [C] man who doesn't [D] know
+How to [C] sell a contra-[D]-diction. | 3 2 1 6. 6. 1 2 3
+You come and [C] go.  You come and [Em] go-[D]-o. | 3 3 2 1 3 3 2 1-2-3-2
+
+Chorus:
+[G] Karma karma karma karma [D] karma chamele-[Em]-on. | 3 3 3 3 3 3 3 3 2 2 2 3 2 1
+You come and [Am] go.  You come and [G] go-[D]-o | 3 3 2 1    3 3 2 1-2-3-2
+[G] Loving would be easy if your [D] colors were like my [Em] dreams. | 3 3 3 3 3 3 3 3 2 2 2 3 2 1
+Red gold and [Am] green. Red gold and [G] gree-[D]-een. | 3 3 2 1    3 3 2 1-2-3-2
+
+Verse 2:
+Didn't [G] hear the wicked [D] words every [G] day. | (same)
+And you [G] used to be so [D] sweet I heard you [G] say.
+That my [C] love was an ad-[D]-diction.
+When we [C] cling our love is [D] strong
+When you [C] go, you're gone for-[D]-ever.
+You string a-[C]-long.  You string a-[Em]-loo-[D]-ong
+
+Chorus:
+
+Bridge:
+[C] Everyday is like sur-[Bm]-vival. | 4 4 5 4 4 5 4 3
+[C] You're my lover not my [Em] rival. | 4 4 5 4 4 5 4 3
+[C] Everyday is like sur-[Bm]-vival. | 4 4 5 4 4 5 4 3
+[C] You're my lover not my [Em] ri-[D]-val. | 4 4 5 4 3 4 3 2
+
+Chorus:
+```

@@ -1,0 +1,48 @@
+---
+title: "Tip Toe through the Tulips"
+sort_title: "Tip Toe through the Tulips"
+artist: "Tiny Tim"
+libraries: ["all"]
+difficulty: 2
+practice: 2
+fun: 1
+skill: 3
+poppy: 3
+happy: 3
+added: "2010-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1px8xKEV1qWijAAcM2AP0GG_PkEtf0sfXhE3rVzcOPzs/edit"
+---
+
+```{.song}
+       Eb      Eb(ii)  Eb7     Ab      Ab(ii)  Abm     Abm(ii)
+a------6-------1-------4-------6-------3-------2-------6
+e------3-------3-------3-------4-------4-------4-------4
+c------3-------3-------3-------3-------3-------3-------3
+g------3-------3-------3-------5-------5-------4-------4
+
+       Bb7 | Bb7(ii) Gm      Gm(ii)  C7      F       Adim
+a------5-------1-------5-------1-------3-------3-------3-(6)
+e------4-------1-------3-------3-------3-------5-------5
+c------5-------2-------2-------2-------4-------5-------3
+g------3-------1-------3-------3-------3-------5-------5
+
+Verse 1:
+[Ebii] Tiptoe through the [Bb7] window
+By the [Eb] window, [Eb7] that is [Ab] where I'll [Abm] be
+Come [Eb] tiptoe through the [Bb7] tulips with me [Eb] [Abii] [Eb],  [Bb7] Oh
+
+Verse 2:
+[Ebii] Tiptoe from the [Bb7] garden
+By the [Eb] garden, [Eb7] of the [Ab] willow [Abm] tree
+Come [Eb] tiptoe through the [Bb7] tulips with me [Eb] [Abii] [Eb],  [Bb7]
+
+Bridge:
+[Abii] Knee deep in [Gmii] flowers we'll [C7] stray
+[Gm] We'll keep the [F] showers [Bb7] away
+
+Verse 3:
+And if I [Ebii] kiss you in the [Bb7] garden
+In the [Eb] moonlight, [Eb7] will you [Ab] pardon [Abm] me?
+And [Eb] tiptoe through the [Bb7] tulips with [Ebii] me [Bb7] [Eb]
+```

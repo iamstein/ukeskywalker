@@ -1,0 +1,60 @@
+---
+title: "Try Not to Breathe"
+sort_title: "Try Not to Breathe"
+artist: "R. E. M."
+key: "Am"
+key_note: "?"
+youtube: "https://www.youtube.com/watch?v=RokyGRQP0no"
+libraries: ["all"]
+difficulty: 1
+practice: 5
+fun: 3
+skill: 3
+poppy: 3
+happy: 1
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1nRkNE432lN3o-p_6brQPfY-AC6InLCHCzbqmBjPUYOg/edit"
+---
+
+```{.song}
+Intro: [D] [Am] [C] [G] [Dsus4] [Am] [C] [G]
+
+I will [D] try not to [Am] breathe, I can [C] hold my head [G] still with my | 1-1 3 1 7m 2 1 7m
+[Dsus4] hands at my [Am] knees these [C] eyes are the [G] eyes of the [D] old, [Am] [C] | 1-1 3 1 7m 2 1 7m 1
+[G] shiver and [Dsus4] fold [Am] [C] [G] . | 2 1 7m 1
+
+I will [D] try not to [Am] breathe, this [C] decision is [G] mine | 1-1 5 4 2 4
+I have lived [Dsus4] a full [Am] life and [C] these are the [G] eyes | 2 7m 1-1
+that [Am] I want you to [C] remember
+
+[G] Oh..... [D] [G] [D] [Am] I need something to fly
+[G] over my [D] grave again [G] [D] [Am] I need something to [C] breathe
+
+I will [D] try not to [Am] burden you. [C] I can hold [G] these inside.
+[Dsus4] I will hold my [Am] breath [C] until all these [G] shivers [D] [Am] [C] subside
+Just [G] look in my [Dsus4] eyes [Am] [C] [G]
+
+I will [D] try not to [Am] worry you. [C] I have seen [G] things that you
+[Dsus4] will never [Am] see. [C] Leave it to [G] memory [D] me.
+[Am] [C] I [G] shudder to [Dsus4] breathe [Am] [C] [G]
+
+[Am] I want you to [C] remember. [G] Oh, [D] (you [G] will never [D] see).
+[Am] I need something to fly [G] Over my [D] grave again (you [G] will never [D] see)
+[Am] I need something to breathe [G] Baby don't [D] shiver now, [G] Why do you [D] shiver now
+[Am] I need something to fly [G] Over my [D] grave [D] again [G] [D]
+[Am] I need something to breathe
+
+Bridge:  [Em] [Am] Oh.......... [Em] oh....... [Am] Oh....... [C] oh.......
+
+I will [D] try not to [Am] worry you. [C] I have seen [G] things
+that you [Dsus4] will never [Am] see. [C] Leave it to [G] memory me.
+[D] [Am] [C] Don't [G] dare me to [Dsus4] breathe [Am] [C] [G]
+
+[Am] I want you to [C] remember. [G] Oh, [D] (you [G] will never [D] see).
+[Am] I need something to fly  (something to fly) [G] Over my [D] grave again (you [G] will never [D] see)
+[Am] I need something to breathe [G] Baby don't [D] shiver now, [G] Why do you [D] shiver now
+[Am] I need something to fly [G] Over my [D] grave again [G] [D]
+[Am] I need something to breathe [G] (I have seen [D] things you [G] will never [D] see.)
+[Am] I want you to [C] remember [G]
+```

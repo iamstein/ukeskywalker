@@ -1,0 +1,35 @@
+---
+title: "Run Baby Run"
+sort_title: "Run Baby Run"
+artist: "Caspar Baby Pants"
+key: "D"
+youtube: "https://www.youtube.com/watch?v=Y4iWpsRCkJo&ab_channel=Joshy%27sStorytime"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EZ0hIzGdtWf3QOeXfehg72rMoCOydMVmNWJpTPh-kFM/edit"
+---
+
+```{.song}
+[D] Run baby run, run run run run run
+[G] Run baby run, [D] run run run run run
+[A] Run baby run, [D] run run run run [N.C.] run
+[A] Run baby run, [D] run run run run [N.C.] run
+
+Jump baby jump, jump jump jump jump jump
+Spin baby spin, round and round and round
+Sing baby sing, la la la la la
+Clap baby clap, clap clap clap clap clap
+Dance baby dance, dance dance dance dance dance
+Swing baby swing, swing swing swing swing swing
+Run baby run, run run run run run
+
+[Outro]
+[A] Run baby run
+[G] Run baby [D] [G] [D] [G] [D] [G] [D] [G] [D] run
+```

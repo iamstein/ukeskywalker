@@ -1,0 +1,50 @@
+---
+title: "Anyone Can Be Friends"
+sort_title: "Anyone Can Be Friends"
+artist: "Sesame Street"
+key: "B"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+spiritual: 1
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1qKc9hiYvWwDstgcQo06MQwX1QFf1fmibRiEsUsd62os/edit"
+---
+
+```{.song}
+[no chords for first part]
+Anyone anyone anyone can be
+Anyone anyone anyone can be friends
+
+[A] Anyone anyone anyone can be
+[A] Anyone anyone anyone can be [Dsus4] frie-eee-[Dsus2]-eee-eee-[E]-eends
+
+[nochords]
+And making friends can be as easy as this.  Check it out.
+
+[Am] Do you want to be friends?  Yes, Yes.
+[Am] Do you want to be friends?  Uh huh, Uh huh.
+Then [Am] let's be friends. Yes Yes.
+[E] Anyone can be friends.
+
+[Am] Do you want to be friends?  Yes, Yes.
+[Am] Do you want to be friends?  Uh huh, Uh huh.
+Then [Am] let's be friends. Yes Yes.
+[E] Anyone can be friends.
+
+[Am] Wonderful, now we know there are so many different kinds of people.
+Yes, anyone can be friends.
+Mission ac-[E]-complished.
+
+[A] Anyone anyone anyone can be
+[A] Anyone anyone anyone can be [Dsus4] frie-eee-[Dsus2]-eee-eee-[E]-eends
+Uh-huh Uh-huh
+
+[A] Anyone anyone anyone can be
+[A] Anyone anyone anyone can be [Dsus4] frie-eee-[Dsus2]-eee-eee-[E]-eends
+Uh-huh Uh-huh
+```

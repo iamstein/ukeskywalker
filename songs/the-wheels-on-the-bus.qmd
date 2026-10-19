@@ -1,0 +1,28 @@
+---
+title: "The Wheels on the Bus"
+sort_title: "Wheels on the Bus, The"
+artist: "Raffi"
+key: "D"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+fun: 2
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1IBx3KL58XCkHozO3kQK3lZrQ968tFM07QXx0OsCEuR8/edit"
+---
+
+```{.song}
+Key of: D
+
+[D] The wheels on the bus go round and round
+[A] Round and round, [D] round and round
+[D] The wheels on the bus go round and round
+[A] All around the [D] town
+
+The wipers on the bus go swish, swish, swish…
+The driver on the bus goes 'move on back'...
+The people on the bus go up and down….
+The horn on the bus goes beep, beep, beep…
+The baby on the bus goes 'whaa whaa whaa'...
+The parents on the bus go 'shh, shh, shh'...
+```

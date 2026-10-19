@@ -1,0 +1,48 @@
+---
+title: "One Tin Soldier"
+sort_title: "One Tin Soldier"
+artist: "Original Castle"
+key: "C"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 1
+fun: 2
+skill: 2
+poppy: 3
+happy: 2
+spiritual: 3
+protest: 2
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1A8qkIETy5j2AYoBd8F8jqx2vHy5mrP59bZUWAjuEwrs/edit"
+---
+
+```{.song}
+Verse I:
+[C] Listen children [G] to a story [Am] that was written long ago
+[F] 'Bout a kingdom [C] on a mountain, [F] and the valley [G] folk below
+[C] On the mountain [G] was a treasure [Am] buried deep beneath a stone
+[F] And the valley [C] people swore they'd [F] have it for their [G] very [C] own.
+
+Chorus:
+[C] Go ahead and hate your [Em] neighbor, [F] go ahead and cheat a [C] friend
+[C] Do it in the name of [Em] heaven, you can [F] justify it in the [C] end
+There [C] won't be any trumpets [Em] blowing, [F] come the judgment [C] day
+[C] On the bloody morning af-[G]-ter [x][x][x] one tin [F] soldier rides [C] away.
+
+Verse II:
+[C] So the people [G] of the valley [Am] sent a message up the hill
+[F] Asking for the [C] buried treasure, [F] tons of gold for [G] which they'd kill
+[C] Came an answer [G] from the kingdom: [Am] "With our brothers we will share
+[F] All the secrets [C] of our mountain, [F] all the riches [G] buried [C] there."
+
+Chorus:
+
+Verse III:
+[C] Now the valley [G] cried with anger, [Am] mount your horses, draw your sword!
+[F] And they killed the [C] mountain people, [F] so they'd won their [G] just reward
+[C] Now they stood be-[G]-side the treasure [Am] on the mountain dark and red
+[F] Turned the stone and [C] looked beneath it [F] "Peace on Earth" was [G] all it [C] said.
+
+Chorus:
+```

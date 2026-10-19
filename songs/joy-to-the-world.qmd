@@ -1,0 +1,66 @@
+---
+title: "Joy to the World"
+sort_title: "Joy to the World"
+artist: "Three Dog Night"
+key: "D"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+spiritual: 2
+added: "2021-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1S_oXL_9TOxiIh-ejY6GEvie0OZmnr7rTn5f7mIFEHyg/edit"
+---
+
+```{.song}
+Verse:
+[none] Jeremiah was a bullfrog [C] [C#] [D]
+[none] Was a good friend of mine [C] [C#] [D]
+I [D] never under-[D7]-stood a single [G] word he [Bb] said
+But I [D] helped him [A7] drink his [D] wine
+And he [G7] always had some [A7] mighty fine [D] wine
+
+Chorus:
+Singin'… [D] Joy to the world
+[A7] All the boys and [D] girls, now
+[D] Joy to the [D7] fishes in the [G] deep blue [Bb] sea
+[D] Joy to [A7] you and [D] [C] [C#] [D] me
+
+Verse 2:
+[none] If I were the king of the world [C] [C#] [D]
+[none] Tell you what I'd do [C] [C#] [D]
+I'd [D] throw away the [D7] cars and the [G] bars and the [Bb] wars
+And [D] make sweet [A7] love to [D] you
+
+Chorus:
+Singin'… [D] Joy to the world
+[A7] All the boys and [D] girls
+[D] Joy to the [D7] fishes in the [G] deep blue [Bb] sea
+[D] Joy to [A7] you and [D] me
+
+Solo: D      D      A7     D --- D  D7  G  Bb  D  A7  D --- C C#  D
+
+Verse:
+[none] You know I love the ladies [C] [C#] [D]
+[none] I love to have my fun [C] [C#] [D]
+[D] I'm a high life [D7] flyer and a [G] rainbow [Bb] rider
+A [D] straight shootin' [A7] son-of-a-[D]-gun
+I said, a [G7] straight shootin' [A7] son-of-a-[D]-gun
+
+Chorus:
+Singin'… [D] Joy to the world
+[A7] All the boys and [D] girls
+[D] Joy to the [D7] fishes in the [G] deep blue [Bb] sea
+[D] Joy to [A7] you and [D] me
+
+Bridge:
+[E] Joy…........ [D] to the [A] world
+[E] All…........ the [D] boys and [A] girls
+[E] Joy…........ [D] to the [A] world
+[E] Joy….........to [D] you and [A] me
+
+Chorus x4 → fadeout:
+```

@@ -1,0 +1,50 @@
+---
+title: "America"
+sort_title: "America"
+artist: "Simon and Garfunkel"
+key: "D"
+libraries: ["all"]
+difficulty: 3
+practice: 4
+fun: 2
+skill: 2
+poppy: 3
+happy: 2
+added: "2016-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Mmw3VizeZChPehyEIcwplZn4b_Xh-mSXFI87qZltV5A/edit"
+---
+
+```{.song}
+Bm7 = 2222, Dmaj7=2224
+        Melody
+[D] Mmm mmm mmm mmm m mmmm | 2-3 3 3 3 2 1 2 3 1
+
+[D] Let us be lovers we'll [Bm] marry our [D] fortunes to-[G]-gether | 3 5 6 5 3 1 1  3 4 3 1  5. 6. 1
+[D] I got some real estate [Bm] here in my [Bm7] bank. | 5. 1 1 1-2-3 3 1' 1' 1'
+[Fm] So we bought a pack of [B7] cigarettes | 7 7 7 7 6 5 7 6  5 3
+And [Fm] Mrs. Wagner [B7] pies. | 2 3 3 3 2 3 2 1
+And [E] walked [D] off to [G] look for A-[C]-meri-[Bm]-ca [Bm7] [G]. | 2 2 3 2 2 5 3-3 2 1
+
+[D] Cathy I said as we [Bm] boarded the [C] greyhound in [G] Pittsburgh | 3 5 6 5 3 1 1  3 4 3 1  5. 6. 1
+[D] Michigan City's like a [Bm] dream to me [Bm7] now | 5. 1 1 1 1 2 3 3 3  1' 1' 1'
+[A] It took me four days to hitchhike from [Fm] Saginaw | 1 3 3 3 5 4 5 2' 2' 2' 1'-6
+[E] I've [A] come to [E] look for A-[Dmaj7]-meric-[D]-a | 6 7  5 5 1 2' 7-7-6-5
+
+[C] Laughing on the bus | 6 5 4 3 3
+playing [D] games with their faces | 6 6 6 5 4 3 5
+[C] She said the man in the gabardine suit was a [Bm] spy. [D] | 6 6 6 6 6 6 6 6 6 6 5 4 3
+[G] I said be careful his [G7] bowtie is really a [D] camera [Bm] [C] [Bm] [G] | 7 6 6 7 6 6 7 6 6 7 6 7 1-6-5
+
+[D] Toss me a cigarette [Bm] I think there's [D] one in my [G] raincoat
+[D] We smoked the last one an [Bm] hour a-[Bm7]-go
+[Fm] So I looked at the [B7] scenery.  [Fm] She read [B7] her magazine [Fm]
+And the [E] moon [D] rose [A] over an [D] open [Bm] field [D] [G]
+
+[D] Cathy I'm lost I [Bm] said though I [D] knew she was [G] sleeping.
+I'm [D] empty and aching and [Bm] I don't know [Bm7] why.
+[A] Counting the cars on the New Jersey [Fm] Turnpike
+They've [E] all [A] come to [E] look for [Dmaj7] America
+They've [E] all [A] come to [E] look for [Dmaj7] America
+They've [E] all [A] come to [E] look for [Dmaj7] America
+```

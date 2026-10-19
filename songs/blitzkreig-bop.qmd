@@ -1,0 +1,49 @@
+---
+title: "Blitzkreig Bop"
+sort_title: "Blitzkreig Bop"
+artist: "The Ramones"
+key: "C"
+key_note: "on youtube link, Key of A by Ramones"
+youtube: "http://www.youtube.com/watch?v=kNFpOh2seqo&feature=plcp"
+libraries: ["all"]
+difficulty: 1
+practice: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "D3"
+voice_high: "G3"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1QA0GzaF89_Z3oWrYbsqNrU4wakaVPNF5U_HS7Ie3C6k/edit"
+other_links: ["http://ukulelehunt.com/wp-content/uploads/2008/04/gugugbop.pdf"]
+---
+
+```{.song}
+[C][F][G]x3
+[C][F][C]
+
+[x] Hey ho, let's go.  Hey ho, let's go [F][G]
+[C] Hey ho, let's go.  Hey ho, let's go [F][G]
+
+They're [C] forming in straight line [F][G]
+They're [C] going through a tight wind [F][G]
+The [C] kids are losing their minds [F][G]
+The Blitzkrieg [C] Bop [F][C]
+
+They're [C] piling in the back seat [F][G]
+They're [C] generating steam heat [F][G]
+Pul-[C]-sating to the back beat [F][G]
+The Blitzkrieg [C] Bop [F][C]
+
+[F] Hey ho, let's go
+[C] Shoot'em in the back now [F][C]
+[F] What they want, I don't know
+They're [D] all reved up and [F] ready to [G] go
+
+*** Repeat two more times ***
+
+[x] Hey ho, let's go.  Hey ho, let's go
+[x] Hey ho, let's go.  Hey ho, let's go
+```

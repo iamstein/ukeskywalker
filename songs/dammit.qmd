@@ -1,0 +1,61 @@
+---
+title: "Dammit"
+sort_title: "Dammit"
+artist: "Blink 182"
+key: "G"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 1
+voice_low: "G3"
+voice_high: "D4"
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1AvON-o8Yt6MEdYejamo8XXJolMNOPhdVZgIBqO1gMDw/edit"
+---
+
+```{.song}
+version 1 http://www.youtube.com/watch?v=ItQdTydWs6Q&feature=related (in C)
+tutorial 1 http://www.youtube.com/watch?v=iV7ENMSgyQI&t=30s (in C)
+version 2 http://www.youtube.com/watch?v=-vkZ-0j9XSk&t=15s (in G - I like this one better)
+tutorial 3 http://www.youtube.com/watch?v=ahAgLDENai8&t=5m41s (in C, lead+chrds together)
+INTRO in C or G:
+c-c d-d e (a string         = 3a/5a/7a)                g-g a-a b (e->a string = 3e/0a/2a)
+g-g d-d e (e->a string         = 3e/5a/7a)                d-d a-a b (c->a string = 2c/0a/2a)
+a-a d-d e (a string         = 0a/5a/7a)                e-e a-a b (e->a string = 0e/0a/2a)
+f-f   e-e d (c->a string         = 5c/7a/5a)                 c-c b-b a (c->a string = 0c/2a/0a)
+
+CHORDS (C, G, Am, F) or (G=4232, D=2220, Em=4322, C=0003)
+VERSE: 1564
+[G] It's alright [D] to tell me [Em] what you think [C] about me | 1 2 3  1 2 3  1 2 3  1 3 2
+[G] I won't try [D] to argue [Em] or hold it [C] against you | 1 2 3  1 2 3  1 2 3  1 3 2
+[G] I know that [D] you're leaving [Em] you must have [C] your reasons | 5 5 4 1 2 3   5 5 4 1 2 3
+[G] The season [D] is calling and [Em] your pictures [C] are falling [G] down | 1 2 3  1 2 3  1 2 3  1 3 2 1
+
+[G] The steps that [D] I retrace [Em] the sad look [C] on your face | same as above
+[G] The timing [D] and structure [Em] did you hear [C] he ****ed her?
+[G] A day late [D] a buck short [Em] I'm writing [C] the report
+[G] On losing [D] and failing [Em] when I move [C] I'm flailing [G] now
+
+CHORUS:
+[G] And it's happened once ag-[D]-ain | 1 1 5 5 4 3 2
+I'll turn to a [Em] friend | 5 5 3 3 2 1
+Someone that under-[C]-stands | 1 5 5 4 3 2
+Sees through the master [G] plan | 5 5 3 3 2 1
+
+[G] But everybody's [D] gone | 1 5 5 4 3 2
+[D] And I've been here for too [Em] long | 5 5 5 3 2 1
+[Em] To face this on my [C] own | 1 5 5 4 3 2
+[C] Well I guess [D] this is growing [G] up | 1 1 1 2 3 4-3-2 1
+[D] [Em] Well I guess [C] this is growing [G] up
+
+VERSE:
+[G] And maybe [D] I'll see you [Em] at a movie [C] sneak preview
+[G] You'll show up [D] and walk by [Em] on the arm [C] of that guy
+[G] And I'll smile [D] and you'll wave [Em] we'll pretend [C] it's okay
+[G] The charade [D] it won't last [Em] when he's gone [C] I won't come [G] back
+
+CHORUS:
+```

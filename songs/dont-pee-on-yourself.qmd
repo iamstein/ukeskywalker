@@ -1,0 +1,56 @@
+---
+title: "Don't Pee on Yourself"
+sort_title: "Don't Pee on Yourself"
+artist: "Andy Stein"
+key: "C"
+youtube: "https://youtu.be/uIrLLXUnwnI"
+libraries: ["all", "andy-original"]
+added: "2020-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/12g4KlInBWEDauejNURYnrK21ADa64CBzMfE1-UxfJbM/edit"
+---
+
+```{.song}
+Verse 1:
+[Am] I lay my baby [F] down to [C] sleep
+I do it [Am] right and she [F] don't make a [C] peep
+I'm [Am] getting used to [F] this re-[C]-sponsibility
+I [Am] got this, for [F] I am [C] dad.
+
+[Am] Sitting in my [F] rockin [C] chair
+A [Am] cry cuts [F] through the [C] air
+The [Am] smell says it's [F] time to [C] change her diaper
+I [Am] got this, just [F] one thing I [C] ask
+
+Chorus:
+Don't [C] pee on yourself, [G] whatever you do
+Don't [Am] pee on yourself [F] my sweet baboo
+I'll [C] clean your pee. I'll [G] clean up your poo
+I'll [Am] do anything you [F] ask me to
+
+Just don't [C] pee on yourself, [G] I'm beggin' you please
+[Am] Your closet is bare, you got [F] no more onesies
+[C] I pray to you [G] holy jeez.
+[Am] Stop your peein', [F] I believe in
+[C] Youuuu-[G]-hooo
+[Am] You can stop your peein' [F] till your next feedin'
+[C] Baaa [G] beee
+[Am] I'm believin' You can [F] stop your peein' [F]
+[Am] [F] [C]
+
+Verse 2:
+And [Am] everytime [F] I change [C] her
+I [Am] try to wait [F] till she's [C] done
+But [Am] sometimes the [F] act of [C] changing a diaper
+Makes [Am] more [F] pee and poo [C] come
+
+Five [Am] outfits are [F] all soaked in [C] pee
+We got [Am] no more [F] time to [C] do no more laundry
+So [Am] pee on your-[F]-self [C] again.
+You're [Am] naked till the [F] week-[C]-end.
+
+Chorus:
+
+Outro:
+[C] Baaaaa [G] be [Am] I so love you [F] please don't pee right [C] now
+```

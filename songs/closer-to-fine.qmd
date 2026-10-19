@@ -1,0 +1,90 @@
+---
+title: "Closer to Fine"
+sort_title: "Closer to Fine"
+artist: "Indigo Girls"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+spiritual: 3
+added: "2021-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jwU4vf8UuI5qXJDZ4ZmrBSmHjXaO3Frj_mLg0MJPNPQ/edit"
+---
+
+```{.song}
+G | 320033
+A7sus4 | 002033
+Cadd9 | 030033
+Dsus4           xx0233
+D               xx0232
+Dsus2           x00230
+C/G | 33201x
+Dadd4/A | 55403x
+
+Intro:  [G] [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D]  x2
+
+Verse:
+I'm [G] trying to tell you [A7sus4] something about my [Cadd9] life [Dsus4] [D] [Dsus2] [D]
+Maybe [G] give me insight [A7sus4] between black and [Cadd9] white [Dsus4] [D] [Dsus2] [D]
+and the [Dadd4/A] best thing you've ever done for [C/G] me
+is to [Dadd4/A] help me take my life less [C/G] seriously
+It's only life [G] after all [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D]
+
+Well, [G] darkness has a [A7sus4] hunger that's in-[Cadd9]-satiable [Dsus4] [D] [Dsus2] [D]
+and [G] lightness has a [A7sus4] call that's hard to [Cadd9] hear  [Dsus4] [D] [Dsus2] [D]
+and I [Dadd4/A] wrap my fear around me like a [C/G] blanket
+I [Dadd4/A] sailed my ship of safety till I [C/G] sank it
+I'm [C] crawling on your [G] shores
+
+Chorus:
+I [D] went to the doctor, I [Cadd9] went to the [G] mountains
+I [D] looked to the children, I [Cadd9] drank from the [G] fountains
+There's [Dadd4/A] more than one answer to these [C/G] questions pointing me in a [G] crooked line
+and the [Dadd4/A] less I seek my source for some [C/G] definitive
+The closer I [G] am to fine [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D]
+The closer I [G] am to fine [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D]
+
+Verse:
+I [G] went to see the [A7sus4] doctor of phil-[Cadd9]-osophy [Dsus4] [D] [Dsus2] [D]
+With a [G] poster of Ras-[A7sus4]-putin and a [Cadd9] beard down to his knee [Dsus4] [D] [Dsus2] [D]
+He [Dadd4/A] never did marry or [C/G] see a B-grade movie
+He [Dadd4/A] graded my performance, he  [C/G] said he could see through me
+I spent [G] four years prostrate [D] to the higher [Cadd9] mind, got my [D] paper and I was [G] free [A7sus4] [G]
+
+[Chorus]
+I [D] went to the doctor, I [Cadd9] went to the [G] mountains
+I [D] looked to the children, I [Cadd9] drank from the [G] fountains
+There's [Dadd4/A] more than one answer to these [C/G] questions
+pointing me in a [G] crooked line
+and the [Dadd4/A] less I seek my source for some [C/G] definitive
+The closer I [G] am to [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D] fine
+The closer I [G] am to [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D] fine
+
+[Interlude]
+|Dadd4/A   |C/G  |Dadd4/A   |C/G  |
+
+[Bridge]
+I [G] stopped by the [A7sus4] bar at 3 [Cadd9] a.m. [Dsus4] [D] [Dsus2] [D]
+[G] To seek solace in a [A7sus4] bottle or [Cadd9] possibly a friend [Dsus4] [D] [Dsus2] [D]
+I woke [Dadd4/A] up with a headache like my [C/G] head against a board
+Twice [Dadd4/A] as cloudy as I'd been the night [C/G] before
+I went in seeking [G] clarity
+
+[Chorus]
+I [D] went to the doctor, I [Cadd9] went to the [G] mountains
+I [D] looked to the children, I [Cadd9] drank from the [G] fountains
+We [D] go to the doctor, we [Cadd9] go to the [G] mountains
+We [D] look to the children, we [Cadd9] drink from the [G] fountains
+We [D] go to the bible, we go [Cadd9] through the [G] workout
+We read [Dadd4/A] up on revival and we stand up [C/G] for the lookout
+There's [Dadd4/A] more than one answer to these [C/G] questions
+pointing me in a [G] crooked [D] [G] line
+and the [Dadd4/A] less I seek my source for some [C/G] definitive
+The closer I [G] am to [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D] fine
+The closer I [G] am to [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D] fine
+The closer I [G] am to [A7sus4] [Cadd9] [Dsus4] [D] [Dsus2] [D] [G] fine
+```

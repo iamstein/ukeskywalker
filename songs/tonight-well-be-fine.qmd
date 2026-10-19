@@ -1,0 +1,58 @@
+---
+title: "Tonight We'll Be Fine"
+sort_title: "Tonight We'll Be Fine"
+artist: "Leonard Cohen"
+key: "F"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 1
+happy: 1
+voice_low: "E3"
+voice_high: "C4"
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1-DPaekWo29m0VlGW449cbEpqN5qVtuepEvR1jjmYd90/edit"
+---
+
+```{.song}
+Verse:
+[F] Sometimes I find I get to [C] thinking of the [F] past | 3 3 3 3 2 1 2 1 7. 1
+When we [F] swore to each other that our [C] love would [F] last | 3 3 3 3 3 3 2 1 2 1 7. 1
+[F] You kept right on loving, and [C] I went on a [Bb] fast | 3 3 5 5 5 5 3 1 2 2 1 1
+Now I [F] am too thin and your [C] love is too [F] vast | 1 2 3 3 3 2 1 2 3 2 1
+
+Chorus:
+But I [Bb] know from your [F] eyes | 5 5 4 1 2 3
+And I [Bb] know from your [F] smile | 5 5 4 1 2 3 2
+That to-[Bb]-night, that tonight will be [F] fine | 1 2 3 1 2 3 1 2 3
+Will be fine, will be fine, will be [C] fi-[C7]-ne for a [F] while | 1 2 3-2-1-7. 1 1 1
+
+Verse:
+Well, I [F] choose the rooms that I [C] live in with [F] care | (repeat)
+The [F] windows are small and the [C] walls are [F] bare
+There is [F] only one bed, there is [C] one [Bb] prayer
+And I [F] wait every night for your [C] step on the [F] stair
+
+Chorus:
+
+Some-[F]-times I see her un-[C]-dressing for [F] me
+She's the [F] soft naked lady that love [C] meant her to [F] be
+And she's [F] moving her body so [C] brave and so [Bb] free
+If I've [F] got to remember that's a [C] fine memo-[F]-ry
+
+Chorus:
+
+Bonus Verses
+
+I've [F] looked into mirrors in [C] numberless [F] places
+They [F] all smile back with their [C] troublesome [F] faces
+And the [F] cards that they dealt me, there [C] weren't any [Bb] aces
+And the [F] horses never listen to [C] me at the [F] races
+
+There's [F] still one or two of us [C] walking the [F] street
+No [F] arrows of direction painted [C] under our [F] feet
+No [F] angels to warn us a-[C]-way from the [Bb] heat
+And no [F] honey to keep us [C] where it is [F] sweet
+```

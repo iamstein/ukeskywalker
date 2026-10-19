@@ -1,0 +1,36 @@
+---
+title: "Sheena is a Punk Rocker"
+sort_title: "Sheena is a Punk Rocker"
+artist: "The Ramones"
+key: "C"
+key_note: "on youtube link, Key of A by Ramones"
+youtube: "https://www.youtube.com/watch?v=5eunpQobt_o"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 1
+poppy: 3
+happy: 3
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1QW1foo0leF6b_jSl9Iu4zisovqOUS2eG7Evuq6yHOzQ/edit"
+---
+
+```{.song}
+Play the whole thing through twice
+
+[C] Well they are all hopped up and ready to go
+[C] they are ready to go now
+[G] they've got their surfboards
+and they are going to the [C] disquotheque a go go
+
+[A] But she just [F] couldn't stay
+[A] She had to [F] break away
+[C] well, new york city really has it [G] all, oh yea, o yea
+
+[C] sheena is [F] a punk [G] rocker (x3)
+[C] [F] [G] now.
+
+[C] well she's a
+[F] [-] punk- [C] [-] [G] punk- a [-] [A#] punk rocker :|(4x) [C] now.
+```

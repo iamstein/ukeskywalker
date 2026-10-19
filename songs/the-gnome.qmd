@@ -1,0 +1,46 @@
+---
+title: "The Gnome"
+sort_title: "Gnome, The"
+artist: "Pink Floyd"
+key: "D"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 5
+fun: 3
+skill: 1
+poppy: 1
+happy: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1LoGI18adJ_x9Ymx0ocdDhI6Mlkng1uhASrjE2LYU0Aw/edit"
+---
+
+```{.song}
+Bb7 = 1 3 1 2 1 1 (guitar)
+
+Verse 1:
+I [D] want to [A] tell you a [D] story 'bout a [C] little [A] man, [C] if I [A] can,
+A [D] gnome named [A] Grimble [D] Gromble. And [C] little [A] gnomes stay [C] in their [A] homes,
+[G] Eat-[D]-ing, [Bb7] sleep-[C]-ing, [F] drink-[A7]-ing their [D] wine.
+
+Verse 2:
+He [D] wore a [A] scarlet [D] tunic, a [C] bluegreen [A] hood; it [C] looked quite [A] good.
+He [D] had a [A] big [D] adventure [C] amidst the [A] grass, fresh [C] air at [A] last.
+[G] Win-[D]-ing, [Bb7] din-[C]-ing, [F] bid-[A7]-ing his [D] time.
+
+Chorus:
+And [G] then one day, [C/G] hoo-[F]-ray,
+[A/E] another [E] way for [G] gnomes to [D] say,
+[G] "Oooooooh [D] my"
+
+Verse 3:
+Look [D] at the [A] sky; look [D] at the river. [C] Isn't it [A] good?
+Look [D] at the [A] sky; look [D] at the river. [G] Isn't it [A] good?
+[G] Wind-[D]-ing, [Bb7] find-[C]-ing [F] place-[A7]-s to [D] go.
+
+Outro:
+And [G] then one day, [C/G] hoo-[F]-ray,
+[A/E] another [E] way for [G] gnomes to [D] say,
+[G] "Oooooooh [D] my"
+[G] "Oooooooh [D] my"
+```

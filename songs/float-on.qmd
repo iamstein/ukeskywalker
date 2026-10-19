@@ -1,0 +1,59 @@
+---
+title: "Float On"
+sort_title: "Float On"
+artist: "Modest Mouse"
+key: "F"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 1
+poppy: 3
+happy: 2
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1mKFXSq5bOb1CaMijhrAw-xPX56ZN8HgRW8bQarRiipY/edit"
+---
+
+```{.song}
+[F] [Am] [Dm] [Bb]
+http://www.youtube.com/watch?v=LyhJwAz52HQ&feature=youtu.be&t=38s
+http://www.youtube.com/watch?v=ioQVRJGc0xs&t=1m48s
+
+I backed my car into a cop car the other day
+Well he just drove off sometimes life's ok
+I ran my mouth off a bit too much oh what did I say
+Well you just laughed it off it was all ok
+
+And we'll all float on ok
+And we'll all float on ok
+And we'll all float on ok
+And we'll all float on any way well
+
+Well, a fake Jamaican took every last dime with that scam
+It was worth it just to learn from sleight-of-hand
+Bad news comes don't you worry even when it lands
+Good news will work its way to all them plans
+We both got fired on the exactly the same day
+Well we'll float on good news is on the way
+
+And we'll all float on ok
+And we'll all float on ok
+And we'll all float on ok
+And we'll all float on alright
+Already we'll all float on
+Now don't you worry we'll all float on
+Alright already we'll all float on
+Alright don't worry we'll all float on
+
+And we'll all float on alright
+Already we'll all float on
+Aliright don't worry even if things end up a bit to heavy
+We'll all float on alright
+Already we'll all float on
+Alright already we'll all float on
+Ok don't worry we'll all float on
+Even if things get heavy we'll all float on
+Alright already we'll all float on
+Don't you worry we'll all float on
+All float on
+```

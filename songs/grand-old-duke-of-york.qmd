@@ -1,0 +1,20 @@
+---
+title: "Grand Old Duke of York"
+sort_title: "Grand Old Duke of York"
+key: "D"
+libraries: ["all", "kids", "kids-motions"]
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1KvuG43rCf6tpZ2wTUzIoyb__g5mlQjcOF1yRafBU0ws/edit"
+---
+
+```{.song}
+[D] Oh the grand old Duke of York
+He [A] had ten thousand men
+He [D] marched them [G] up to the [D] top of the [A] hill
+And he [D] marched them [A] down a-[D]-gain
+And [D] when they were up they were up
+And [A] when they were down they were down
+And [D] when they were [G] only [D] half way [A] up
+They were [D] neither [A] up nor [D] down
+```

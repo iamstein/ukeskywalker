@@ -1,0 +1,38 @@
+---
+title: "Bring a Cup (lyrics)"
+sort_title: "Bring a Cup (lyrics)"
+artist: "Firefly"
+key: "A"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 2
+poppy: 2
+happy: 2
+voice_low: "A2"
+voice_high: "F3"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1OMJSxvEe5o8_5iwu6Z_buyaYBZdr25AmQLAhwgFva1k/edit"
+---
+
+```{.song}
+Bring a cup, bring a cup, bring a cup, yeah. <guitar solo>
+Bring a cup, bring a cup, get fucked up, yeah. <guitar solo>
+
+The mothership's comin', it's comin' for me.
+Traveled halfway across the galaxy.
+Those little green men are mean and angry. <guitar solo>
+But they didn't bring a cup so they're goin' home empty. <guitar solo>
+
+Bring a cup, bring a cup, bring a cup, yeah. <guitar solo>
+Bring a cup, bring a cup, get fucked up, yeah. <guitar solo>
+
+So you wanna get into the Speakeasy
+And you've got the password that was writ on the tree
+The bouncer lets you in and you head to the bar for a drink <guitar solo>
+But you didn't bring a cup, so you don't get nuthin'. <guitar solo>
+
+Bring a cup, bring a cup, bring a cup, yeah.
+Bring a cup, bring a cup, bring a cup.
+```

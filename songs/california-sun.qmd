@@ -1,0 +1,51 @@
+---
+title: "California Sun"
+sort_title: "California Sun"
+artist: "Rivieras, Ramones"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=cxjWaRcilsk"
+libraries: ["all"]
+difficulty: 2
+practice: 3
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "C3"
+voice_high: "C4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11OPLiC6Qj-NqmG6P7QqqdcXlLi0j6PmlAvs8JNPiSKM/edit"
+other_links: ["http://ukulelehunt.com/wp-content/uploads/2008/11/californiasun.pdf"]
+---
+
+```{.song}
+[riff] = c e g g g a c^ g
+
+[C] [F] x4
+[C] [Am] [F] [G] [C]
+
+[x] Well, I'm goin' out west where I belong . [riff]
+[x] Where the days are short and the nights are long . [riff]
+
+CHORUS:
+Where they [C] walk and I'll [F] walk
+ They [C] twist and I'll [F] twist
+They [C] shimmy and I'll [F] shimmy
+They [C] fly and I'll [F] fly
+Well they're [C] out there a'havin' [Am] fun
+ In that [F] warm Cali-[G]-fornia [C] sun.
+
+[x] Well, I'm goin' out west out on the coast  [riff]
+[x] Where the California girls are really the most [riff]
+
+CHORUS:
+
+[x] Well the girls are frisky in old 'Frisco  [riff]
+[x] A pretty little chick wherever you go [riff]
+
+CHORUS:
+
+ Yeah they're out there a'havin' fun
+ In that warm California sun
+```

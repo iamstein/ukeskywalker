@@ -1,0 +1,62 @@
+---
+title: "The Egg Money"
+sort_title: "Egg Money, The"
+artist: "Susan Werner"
+key: "F#m"
+key_note: "Susan plays it in Dm"
+youtube: "https://www.youtube.com/watch?v=BZ2tcQpSMJo"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 2
+poppy: 2
+happy: 1
+voice_low: "A2"
+voice_high: "B3"
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1oPx2dELsYtIu-Xl2DXaqFEr2XlE9SrxXWabfAfsRwEs/edit"
+---
+
+```{.song}
+He wore a [F#m] straw hat on his [A] head | 7m. 7. 1 1 1 1 3m
+And a [F#m] tomcat on his [A] smile | 7m. 7. 1 1 1 1 3m.
+I told him he should [F#m] understand [A] this | 7m. 7. 1 1 1 1 3m
+Before he [F#m] walk me down the [A] aisle | 7m. 7. 1 1 1 1 3m.
+You can have the [F#m] money from the [A] goats, | 7m. 7m. 7. 7. 1 1 1 1 3m
+the [B] money from the [A] cow | 1 4 4 4 4 4-3m
+The [F#m] money from the [A] oats | 1 1 1 1 1 3m
+and the [B] money from the [F#m] sow. | 4 3m 5 5 5 5-4-3m
+
+[E] But don't you ever touch the [F#m] egg money. | 7m. 7m. 7. 7. 1 7. 3m 1 3m
+[B] That's [A] crossing the [F#m] line | 4 3m 1 1 1
+Don't you ever touch the egg money. | 7m. 7m. 7. 7. 1 7. 3m 1 3m
+The [B] egg [A] money is [F#m] mine. | 3m 4 3m 3m 1 1
+
+We had [F#m] seven good [A] years,
+Then the [F#m] trouble all be-[A]-gan
+First he started [F#m] nipping at the [A] gin,
+Then he started [F#m] seeing Mari-[A]-anne
+Then he started [F#m] gambling [A] dice
+lost the [B] horses and the [A] cow
+I [F#m] looked behind the [A] stove,
+there was [B] nothing there [F#m] now.
+
+[E] He had taken all the [F#m] egg money, [B] that's [A] crossing the [F#m] line.
+Don't you ever touch the egg money.  The [B] egg [A] money is [F#m] mine.
+
+[B] Leaving would have [Dm] been the thing to [A] do. | 4 4 5 5 6m 5 4 3m 5
+[F#m] But no one left in 192-[Gm]-2. | 1 3m 3m 3m 3m 4 4 3m 2 2
+
+So the [F#m] angel that I [A] am
+Poured the [F#m] coffee in his [A] cup.
+Served his toast with [F#m] butter and [A] jam.
+And his eggs were [F#m] sunny side [A] up.
+And the eggs were [F#m] maybe too [B] old,
+and the eggs had [F#m] maybe gone [B] bad
+Three days and the [F#m] body went [B] cold,
+The doctors said it's [F#m] terribly [B] sad.
+
+The [F#m] egg money, [B] that's [A] crossing the [F#m] line.
+Don't you ever touch the egg money.  The [B] egg [A] money is [F#m] mine.
+```

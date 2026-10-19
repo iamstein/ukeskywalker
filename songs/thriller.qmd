@@ -1,0 +1,13 @@
+---
+title: "Thriller"
+sort_title: "Thriller"
+artist: "Michael Jackson / Jake Shimabukuru"
+libraries: ["all"]
+difficulty: 4
+skill: 2
+poppy: 3
+happy: 2
+added: "2010-09"
+pages: 0
+other_links: ["https://docs.google.com/open?id=0B5zelX434ytYYVdhU0F6QmwzSHM"]
+---

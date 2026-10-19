@@ -1,0 +1,50 @@
+---
+title: "Needing/Getting"
+sort_title: "Needing/Getting"
+artist: "OK Go"
+key: "D"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 2
+happy: 1
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ZyvEp-uILyYxo42Fg7VyQzusCTy-fXIs5SikZohlals/edit"
+---
+
+```{.song}
+full uke version: http://www.youtube.com/watch?v=mZCai4vNWaQ
+chords+tabs here: http://ukulelehunt.com/2012/03/20/ok-go-needing-getting-chords-tab/
+
+INTRO (RIFF):
+gbda (0-11-10-0)x6 // gdaa (0-6-5-0) x6 //
+(0-11-10-0)x2 / (0-13-12-0) / (0-11-10-0)x2 / (0-4-3-0) // (0-6-5-0)x6
+
+VERSE 1:
+I've been [D] waiting for months, [A] waiting for years, [Bm] waiting for you to [G] change.
+Oh but there [D] ain't much thats dumber, there [A] ain't much thats dumber
+Than [D] pinning your hopes on a [G] change in another.
+And [D] I, yeah I still [Bb] need you, but [Bm] what good's that [G] gonna do?
+[D] Needing is [A] one thing, and [G] getting, getting's [RIFF] another
+
+VERSE 2:
+So I been [D] sitting around, [A] wasting my time, [Bm] wondering what you been [G] doing
+Oh and it [D] ain't real forgiving, it [A] ain't real forgiving
+[D] Sitting here picturing [G] someone else living.
+[D] And I, yeah I still [Bb] need you, [Bm] but what good's that [G] gonna do?
+[D] Needing is [A] one thing, and [G] getting, getting's [RIFF] another
+
+GUITARS HANGING FROM A FENCE SOLO
+B (6M)     G (4)     D (1)      Bb (5.5)
+Em (2)  Em (2)  G (4)     G (4)
+D (1)     D (1)     Bb (5.5)     A (5)
+
+VERSE 3:
+I've been [D] hoping for months, [A] hoping for years, [Bm] hoping I might [G] forget.
+Aw, but it [D] don't get much dumber, it [A] don't get much dumber
+Than [D] trying to forget a [G] girl when you love her.
+And [D] I, yeah I still [Bb] need you, but [Bm] what good's that [G] gonna do?
+[D] Needing is [A] one thing, and [G] getting, getting's a-[RIFF]-nother
+```

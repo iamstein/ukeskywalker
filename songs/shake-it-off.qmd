@@ -1,0 +1,96 @@
+---
+title: "Shake It Off"
+sort_title: "Shake It Off"
+artist: "Taylor Swift"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=nfWlot6h_JM"
+libraries: ["all", "spiritual"]
+difficulty: 0
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+spiritual: 2
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1gV1sKBy1t0sh-DPLo3o_erM0Hlq36yBYVzkD9ifhHqQ/edit"
+---
+
+```{.song}
+Strumming pattern D DUD DUD DUDUDUD DUD DUD DUDUDUD
+
+I stay out too [Am] late.  Got nothing in my [C] brain
+That's what people [G] say, mmm .  That's what people say, mmm
+
+I go on too many [Am] dates.  But I can't make 'em [C] stay
+At least that's what people [G] say, mmm. That's what people say, mmm
+
+But I keep [Am] cruisin' Can't stop won't stop [C] moving
+It's like I got this [G] music in my mind. Saying [G] it's gonna be alright
+
+Cause the [Am] players gonna play, play, play, play, play.
+And the [C] haters gonna hate, hate, hate, hate, hate baby
+[G] I'm just gonna shake, shake, shake, shake, shake.
+Shake it off, I shake it off
+
+Heart [Am] breakers gonna break, break, break, break, break
+And the [C] fakers gonna fake, fake, fake, fake, fake baby
+[G] I'm just gonna shake, shake, shake, shake, shake.
+Shake it off, I shake it off
+
+I never miss a [Am] beat.  I'm lightening on my [C] feet
+And that's what they don't [G] see, mmm. That's what they dont' see, mmm
+
+I'm dancing on my [Am] own (dancing on my own). I'll make the moves up as I [C] go (moves up as I go)
+And that's what they don't [G] know, mmm.  That's what they don't know, mmm
+
+But I keep [Am] cruisin'. Can't stop won't stop [C] groovin'
+It's like I got this [G] music in my mind. Saying [G/mute] it's gonna be alright
+
+Cause the [Am] players gonna play, play, play, play, play
+And the [C] haters gonna hate, hate, hate, hate, hate baby
+[G] I'm just gonna shake, shake, shake, shake, shake
+Shake it off, I shake it off
+
+Heart [Am] breakers gonna break, break, break, break, break
+And the [C] fakers gonna fake, fake, fake, fake, fake baby
+[G] I'm just gonna shake, shake, shake, shake, shake
+Shake it off, I shake it off (oooh oooh oooh oooh)
+
+[Am] Shake it off, I shake it off, I I.
+I [C] shake it off, I shake it off, I I
+I [G] shake it off, I shake it off, I
+I I shake it off, I shake it off
+
+Hey, hey, hey, just think
+While you've been gettin' down and out
+About the liars and dirty, dirty cheats of the world
+You could've been gettin' down to this sick beat
+
+[Am] My ex man brought his [C] new girlfriend
+She's like [G] "Oh my God"
+[G] I 'm just gonna shake it
+To the [Am] fella over there with the [C] hella good hair
+Won't you [G] come on over baby we could [G/mute] shake shake shake
+
+Ye--ah ohhh!
+
+Cause the [Am] players gonna play play play play play
+And the [C] haters gonna hate, hate, hate, hate hate baby
+[G] I'm just gonna shake shake shake
+Shake it off, shake it off
+
+Heart [Am] breakers gonna break, break, break, break, break
+And the [C] fakers gonna fake, fake, fake, fake, fake baby
+[G] I'm just gonna shake, shake, shake, shake, shake
+Shake it off, shake it off (oooh oooh oooh oooh)
+[Am] Shake it off, I shake it off, I I
+I [C] shake it off, I shake it off, I I
+I [G] shake it off, I shake it off, I I
+I shake it off, I shake it off
+
+[Am] Shake it off, I shake it off, I I
+I [C] shake it off, I shake it off, I I
+I [G] shake it off, I shake it off, I I
+I shake it off, I shake it off
+```

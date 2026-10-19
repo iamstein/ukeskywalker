@@ -1,0 +1,13 @@
+---
+title: "Pat-a-cake"
+sort_title: "Pat-a-cake"
+libraries: ["all", "kids", "kids-motions"]
+source_doc: "https://docs.google.com/document/d/1aGyIZbuENleV-9hWzfR5bHAp607vj7XhUkSQV7hlRoo/edit"
+---
+
+```{.song}
+Pat-a-cake, pat-a-cake, baker's man.
+Bake me a cake as fast as you can.
+Roll it, and pat it, and mark it with an "B"
+Put it in the oven for baby and me!
+```

@@ -1,0 +1,15 @@
+---
+title: "No Surprises"
+sort_title: "No Surprises"
+artist: "Radiohead"
+libraries: ["all"]
+difficulty: 3
+practice: 1
+fun: 1
+skill: 2
+poppy: 1
+happy: 1
+added: "2010-08"
+pages: 0
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdDdtNy1OQ203RTUtWURqZlo5Vjd3UGc&hl=en&output=html"]
+---

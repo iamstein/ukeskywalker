@@ -1,0 +1,95 @@
+---
+title: "Whatever you Like"
+sort_title: "Whatever you Like"
+artist: "Anya Marina"
+key: "Dm"
+youtube: "http://www.youtube.com/watch?v=_0BPnJUx_Yw"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 4
+poppy: 3
+happy: 2
+added: "2013-07"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1jGAOKSj3KtW9C3KH5MJPecsoQoHduMlUqmPOoI1DwVQ/edit"
+---
+
+```{.song}
+Intro [single strums]
+Stacks on [Dm] deck, patrón on [Bb] ice
+We can pop [F] bottles all night. Baby, [A] you can have whatever you like
+
+[picking]
+[Dm] [Bb] You can have whatever you like, [F] [A] yeah
+Late night [Dm] sex so wet so [Bb] tight
+Gas up the [F] jet for you tonight, baby, [A] you can go wherever you like
+[Dm] [Bb] You can go wherever you like [F][A]
+
+Verse:
+[Dm] Any time you want to pick [Bb] up the telephone
+You [F] know it ain't nothin' drop a [A] couple stacks on you
+You [Dm] want it? You can get it, my [Bb] dear
+Five million dollar [F] homes, drop Bentleys I [A] swear
+
+Chorus:
+I [Dm] want your body, [Bb] need your body
+Long as [F] you got me, won't [A] need nobody
+You [Dm] want it, I got it, go [Bb] get it, I'll buy it
+Tell them [F] other broke brothas "Be [A-1strum] quiet! "
+
+[multi-strums]
+Stacks on [Dm] deck, patrón on [Bb] ice
+We can pop [F] bottles all night Baby, [A] you can have whatever you like
+[Dm] [Bb] You can have whatever you like, [F] [A] yeah
+Late night [Dm] sex so wet so [Bb] tight
+Gas up the [F] jet for you tonight, baby, [A] you can go wherever you like
+[Dm] [Bb] You can go wherever you like [F][A-1strum]
+
+Verse [single-strums]
+[Dm] Shawty, you the hottest, I [Bb] love the way you drop it
+[F] Brain so good coulda [A] swore you went to college
+
+[picking]
+[Dm] Hundred K deposit, va-[Bb]-cations in the tropics
+'Cause [F] everybody know it ain't [A] trickin' if ya got it
+[Dm] You ain't never ever gotta [Bb] go in your wallet
+Long as [F] I got rubber band [A] banks in my pocket
+[Dm] Five six rides with [Bb] rims and a body kit
+[F] Ya ain't gotta downgrade; [A] you can get what I get
+
+[multi-strums]
+[Dm] My chick can have [Bb] what she want
+[F] Go in any store, buy [A] anything she want
+I [Dm] know you ain't never had a [Bb] man like that
+To [F] buy you anything your heart de-[A]-sires like that
+
+Chorus [picking]
+I [Dm] want your body, [Bb] need your body
+Long as [F] you got me, won't [A] need nobody
+You [Dm] want it, I got it, go [Bb] get it, I'll buy it
+Tell them [F] other broke brothas "Be [A-1strum] quiet! "
+
+[multi-strums]
+Stacks on [Dm] deck, patrón on [Bb] ice
+We can pop [F] bottles all night Baby, [A] you can have whatever you like
+[Dm] [Bb] You can have whatever you like, [F] [A] yeah
+Late night [Dm] sex so wet so [Bb] tight
+Gas up the [F] jet for you tonight, baby, [A-1stum] you can go wherever you like
+
+[finger picking]
+[Dm] [Bb] You can go wherever you like [F][A]
+
+Verse:
+[multi-strums]
+I'm talkin' big boy [Dm] rides in big boy [Bb] ice
+Let me put this [F] big boy in your [A] life
+Wherever you [Dm] like, Wherever you [Bb] like,
+Wherever you [F] like, Wherever you [A] like--
+You can go wherever you [Dm] like, {Ba da Ba da da's start}.  Wherever you [Bb] like,
+Wherever you [F] like, Wherever you [A] like
+You can go wherever you [Dm] like.  Wherever you [Bb] like,
+Wherever you [F] like, Wherever you [A-1strum] like
+Ba da Ba da.  Ba da Ba da.
+Ba da Ba da.  Ba da Ba da.
+```

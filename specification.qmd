@@ -1,0 +1,446 @@
+---
+title: "Specification: moving Uke Skywalker to GitHub"
+date: 2026-10-19
+date-modified: last-modified
+toc: true
+---
+
+## Scope
+
+This document specifies how www.ukeskywalker.com moves from Google Sites to a
+Quarto site built from this repository and served by GitHub Pages. It covers
+the song file format, the melody notation, the import from Google, the page
+layout, the two tools, and the domain cutover.
+
+Out of scope: audio playback, sheet-music rendering, user accounts, and any
+editing in the browser. Songs are edited as text files in the repository.
+
+## Current state
+
+The sources, measured on 2026-10-19:
+
+| Source | What it holds | Size |
+|---|---|---|
+| [Song sheet](https://docs.google.com/spreadsheets/d/1J4-ljjHTRQOX2olV-pJLCB6aqwrzKT2Yxj2s_01-tLM/edit) | One tab, `Songs`. One row per song with ratings; the title cell links to the song's Google Doc. | 254 rows, 229 distinct Google Doc links |
+| Song Google Docs | Title line, often a key line and a YouTube link, then lyrics with inline chords such as `[G]`, and on many songs a melody after a tab. | 229 from the sheet, plus about 10 linked only from the site |
+| [Google Site](https://sites.google.com/d/16YGbSXwlg8tCWyJs305TM0rLBXxvfWcW/p/1NsRxPE8a-rKKeuuVeW-j_OPPOHjXKz_E/edit) | Pages `/home`, `/compressor`, `/transposer`. The home page lists "Kids Songs with Dance Moves or Motions", "All Kid-Friendly Songs" and a "Songs to add" list. | 105 Doc links on the home page |
+| This repository (before the move) | `index.html` and `compressTab.js`, an older copy of the chord compressor. | 2 files |
+
+The sheet and both Google Docs sampled are readable without signing in, so the
+import can run from a script with no Google credentials.
+
+DNS today: `www.ukeskywalker.com` is a CNAME to `ghs.google.com` (Google
+Sites); the bare domain points at GoDaddy forwarding addresses. The registrar is
+GoDaddy.
+
+## Site layout
+
+The navbar, left to right:
+
+| Tab | Page | Content |
+|---|---|---|
+| Songs | `index.qmd` | Every song, A–Z, in a searchable, sortable table |
+| Libraries | menu | All Songs, Spiritual Songs, Andy Originals, Trendy Wendy and the Yeastbombs, Kid Songs |
+| Compressor | `tools/compressor.qmd` | Chords-over-lyrics in, inline `[C]` chords out |
+| Transposer | `tools/transposer.qmd` | Paste a song, pick a new key |
+| About | menu | `about.qmd` (what the site is, how to read a song page and the melody numbers) and this specification |
+
+**Landing page: the full A–Z table.** Most visits are to find one song, and a
+table with a search box finds it in one step. The library pages are the same
+table filtered to one library. The table shows Song (linked to the song page),
+Artist, Key, Difficulty and Added, and each can be sorted. The rating columns
+stay in the song files but are not shown; Quarto's table listing has no
+show-or-hide toggle, so adding a column means adding it to the listing's
+`fields:`.
+
+**Search** comes in two forms, both built into Quarto:
+
+- The box above each song table filters its rows by title, artist and key as
+  you type.
+- The magnifying glass in the navbar searches the full text of every page,
+  lyrics included, so a half-remembered line finds its song. Quarto builds the
+  index when the site renders; there is no server and nothing to maintain.
+
+Directory layout:
+
+```
+_quarto.yml
+index.qmd                 # A–Z table of all songs
+specification.qmd         # this document
+about.qmd
+songs/<slug>.qmd          # one file per song
+songs/files/<slug>.xlsx   # old spreadsheet arrangements, linked from the song page
+_templates/song.qmd       # blank song with every field; copy to start a new song
+_notes/                   # working notes kept in the repo, not on the site
+libraries/<name>.qmd      # one listing page per library
+tools/compressor.qmd
+tools/transposer.qmd
+songs/_metadata.yml       # settings every song page shares: filter, CSS, scripts
+_filters/song.lua         # turns the {.song} block and front matter into the page
+assets/chords.js          # chord parsing and transposing, shared by tools and song pages
+assets/song.js            # song toolbar: melody switch, key menu, chord layout
+assets/song.css           # screen and print layout for song pages
+assets/compressor.js
+assets/transposer.js
+styles.css                # site-wide styles
+_scripts/import_sheet.py  # sheet -> data/songs.csv
+_scripts/import_docs.py   # Google Docs -> songs/<slug>.qmd
+data/songs.csv            # snapshot of the sheet, committed
+data/raw/                 # raw Doc exports, not committed
+data/import-report.md     # what the import could not read cleanly
+data/import-hashes.csv    # what the import wrote, so it can tell hand edits apart
+.github/workflows/publish.yml
+```
+
+## Song file format
+
+Each song is one `.qmd` file in `songs/`, named by a slug of its title
+(`banana-boat-song.qmd`). The metadata goes in the YAML front matter; the
+lyrics, chords and melody go in one fenced block in the body.
+
+A `.qmd` file is chosen over a bare `.yaml` file for two reasons. Quarto turns
+each `.qmd` into a page with no extra code, and Quarto listings build the A–Z
+table and the library pages straight from the front matter. A bare `.yaml`
+file would need a generator script to make the pages, and the lyrics would sit
+inside a YAML string, where indentation and colons cause errors.
+
+### Front matter
+
+```yaml
+---
+title: "Abigail, Belle of Kilronan"
+sort_title: "Abigail, Belle of Kilronan"   # from the sheet, e.g. "Banana Boat Song, The"
+artist: "Magnetic Fields"
+key: G                  # key the song is written in below
+alt_keys: [C]           # other keys offered as buttons, e.g. the one Andy sings in
+youtube: ""             # full URL, or empty
+libraries: [all]        # see "Libraries"
+difficulty: 2           # sheet column Diffic.
+practice: null          # 1–7: how much Andy wanted to practise it
+fun: 3                  # 1–3: how fun it is to play
+skill: 4                # how well Andy plays it
+poppy: 3                # 1–3: how poppy
+happy: 1                # 1–3: how happy
+spiritual: null         # 1–3
+protest: null           # 1–3
+voice_low: E2           # Andy's voice: lowest note sung (sheet column Low)
+voice_high: E3          # Andy's voice: highest note sung (sheet column High)
+added: 2012-07          # sheet column Add_Date
+pages: 2                # sheet column #pg
+source_doc: "https://docs.google.com/document/d/1RWALFjB8i_oDnFNpQMQCjqDNSTxSTcnnQLAtvjtbRNI/edit"
+other_links: []         # the sheet's Docs column: pdf links kept as links
+files: []               # copies kept in the repo, e.g. [songs/files/apache.xlsx]
+---
+```
+
+A blank sheet cell becomes `null`. Field names are lower case with
+underscores so that Quarto listings can use them as column names. The sheet's
+unnamed first column, an old page number for a PDF songbook, is not imported.
+
+The rating fields (practice through protest) are imported and kept, but the
+song tables do not show them by default. They cost nothing to keep, and a
+sort by Fun or Happy can be added to the A–Z table later. Removing them all is
+a one-line script if they turn out to be unused.
+
+`voice_low` and `voice_high` are the lowest and highest notes Andy sings in
+the song, in scientific pitch notation, where C4 is middle C and the number
+goes up at each C. The song page shows them as "Andy's Voice: E2–E3". The
+sheet writes them as `2 E`, `3A`, `4 C#`; the import turns `2 E` into `E2`.
+Most rows fall between G2 and E4, a usual range for a lower male voice, which
+suggests the sheet already used this numbering. The import lists every
+converted value so a few can be checked against a piano or tuner app.
+
+`source_doc` records where the song came from. After the move the Google Doc
+is not read again; see "Import from Google".
+
+### Template for a new song
+
+`_templates/song.qmd` holds every field above with an empty value and a
+comment saying what goes there, followed by an empty song block. To add a
+song, copy it to `songs/<slug>.qmd` and fill in what you know.
+
+Only `title` is required. Every other field may be left empty or deleted, and
+the song page and tables skip a field with no value, so a song entered with a
+title, artist and chords looks finished. The compressor's output (see "Tools")
+is the same template with the song block filled in.
+
+Files are excluded from rendering when their folder name starts with `_`, so
+the template never appears on the site.
+
+### Song body
+
+The body holds one fenced block with the class `song`. Each line is lyrics
+with inline chords, then optionally ` | ` and the melody for that line.
+
+````
+```{.song}
+Verse 1:
+[G] Abigail, can you feel my [C] heart in the [G] palm of your [D] hand | 3 2 1  1 1 1-2 3 4 6 6 5 4 3 2
+and do you [Em] understand [C] why I can't sta-[G]-aa-[D]-aay        | 3 2 1 1 6. 6.-1  6. 1 2 3-2
+
+Chorus:
+When I come [C] home if I come [Em] home | 1 2 3 4  4 3 2 3
+```
+````
+
+Rules:
+
+- A chord is anything in square brackets: `[G]`, `[F#m]`, `[D/E]`. A run of
+  chords with no lyric, such as `[G,F,C]`, is allowed.
+- A line that ends in `:` and has no chords is a section label (`Verse 1:`,
+  `Chorus:`, `Intro:`).
+- A blank line separates stanzas.
+- ` | ` (space, bar, space) separates lyrics from melody. The Google Docs use a
+  tab for this, which the plain-text export turns into a run of spaces; the
+  import splits at the first gap of three or more spaces that is followed by
+  something melody-like (a digit, `(`, `+`), and writes ` | ` instead.
+- Text after `#` at the start of a line is a note to the reader, shown in
+  italics (`# Strum: D DU UDU`).
+
+The lyrics-and-chords part of each line is already
+[ChordPro](https://www.chordpro.org/) syntax, which many ukulele apps read, so
+an export to `.cho` files later only has to drop the melody.
+
+### Rendering
+
+`_filters/song.lua`, a Pandoc filter that runs when Quarto renders, turns the
+block into HTML: one row per line, each chord in its own element with the
+original chord name kept in a `data-chord` attribute. The filter also puts the
+artist under the title and a line of details above the song: key, Andy's
+Voice, difficulty, YouTube, files, other links, and the song's libraries.
+Rendering at build time means the site search indexes the lyrics as plain
+text and the page reads correctly before any script runs.
+
+`assets/song.js` then builds a toolbar at the top of every song page.
+
+Built in phase 2:
+
+- Lyrics on the left, melody in a narrower column on the right, one row per
+  line, as in the Google Docs.
+- **Melody switch** in the toolbar: on shows the melody column, off hides it.
+  The choice is remembered in the browser, so it stays the same from song to
+  song. Songs with no melody have no switch.
+- A YouTube link under the title when `youtube` is set.
+- A print stylesheet that drops the navbar and toolbar and fits most songs on
+  one page. Printing follows the melody switch.
+
+Built in phase 5, with the transposer, since both use `chords.js`:
+
+- **Key menu** in the toolbar, showing the current key. It lists every key,
+  with `key` and `alt_keys` at the top, plus − and + to step a semitone.
+  Changing key rewrites the chords only; the melody is written in scale
+  degrees, so it is the same in every key. Chords are spelled for the new key:
+  flats in F, B♭, E♭ and the like, sharps in E, B and F♯, and in C, G, D and A
+  sharps except B♭ and E♭.
+- A chord is a root note and any suffix, so Andy's own marks (`C'`, `Fh`,
+  `Bb*`, `Emx`) transpose by their root and keep the suffix. A bracket that
+  does not start with a root (`[x]`, `[riff]`, `[Chorus]`) is shown as a
+  note and not transposed.
+- A switch between inline chords (`[G] Abigail`) and chords above the lyrics.
+
+With JavaScript off, the song shows with inline chords in its written key and
+the melody column on.
+
+## Melody notation
+
+The melody uses numbered notation (in Chinese music, *jianpu*): each note is
+a scale degree of the song's key.
+
+| Written | Meaning | In the key of G |
+|---|---|---|
+| `1` … `7` | Scale degree in the middle octave | `1` = G, `3` = B, `5` = D |
+| `6.` | One octave lower (a dot per octave) | `6.` = the E below the G |
+| `1'` | One octave higher (an apostrophe per octave) | `1'` = the G above |
+| `7m`, `3m` | Lowered degree; used in the Docs, read as a flat (to confirm) | `7m` = F, `3m` = B♭ |
+| `#4`, `b7` | Raised or lowered degree (new; not yet in the Docs) | `#4` = C♯ |
+| `1-2` | Notes sung on one syllable | |
+| space | Next syllable | |
+| two or more spaces | Phrase or word break, kept as written | |
+| `0` | Rest (new) | |
+| anything else | Kept as text, e.g. `(repeat)` | |
+
+Rhythm is not encoded. The current Docs do not carry it, and adding it would
+mean rewriting every melody by hand.
+
+Because the melody is stored as text in a known notation, `song.js` can later show it as note
+names in the current key (`1 2 3` in C reads `C D E`), with no change to the
+file.
+
+The import checks every melody token against this table and lists the ones
+that do not fit: 38 lines across the songs on the first run. Most are
+lower-case note names (`d e b g a c`) written in place of numbers, and a few
+are chords or words that landed in the melody column. The Abigail Doc's second
+copy, in C, has `6 e 5` where the first copy has `6 6 5`; that copy is dropped
+by the import (the key menu replaces it), and the remaining lines are fixed by
+hand.
+
+## Libraries
+
+A library is a value in the song's `libraries:` list. Each library page is a
+Quarto listing of the songs that carry that value.
+
+| Library | Value | First-pass rule from the sheet and site | Rows matched |
+|---|---|---|---|
+| All Songs | `all` | Every song | 260 |
+| Spiritual Songs | `spiritual` | Spiritual column ≥ 1, plus songs Andy adds by hand | 60 |
+| Andy Originals | `andy-original` | Artist is Andy Stein | 7 |
+| Trendy Wendy and the Yeastbombs | `yeastbombs` | Artist is Trendy Wendy and the Yeastbombs | 5 |
+| Kid Songs | `kids` | Listed on the Google Site home page under "All Kid-Friendly Songs" or "Dance Moves or Motions" | 104 |
+| (inside Kid Songs) | `kids-motions` | Listed under "Kids Songs with Dance Moves or Motions" | 18 |
+
+The Kid Songs page shows two tables: songs with motions first, then every kid
+song.
+
+After the first pass, the `libraries:` list in each file is the record; the
+rules above are not re-run. Adding a song to a library is a one-word edit.
+
+A Quarto listing can filter on one value of a list field (tested: the
+Spiritual Songs page lists exactly the 60 songs), so each library page is a
+listing with `include: {libraries: <value>}`. "All Songs" in the menu is the
+home page.
+
+## Tools
+
+**Compressor** (`tools/compressor.qmd`). Port of `compressTab.js`: paste chords
+written above lyrics, get lyrics with inline `[C]` chords. Two changes from the
+old code: the output also offers the full `{.song}` block with front matter,
+so a new song from the web becomes a file in one paste; and the chord pattern
+moves into `chords.js` so the compressor and transposer recognise the same
+chords. The old loop also checked `i==s.length`, which is never true inside
+the loop; the port fixes that end-of-text case. The old `/compressor` address
+redirects here.
+
+**Transposer** (`tools/transposer.qmd`). Paste a song in either format, choose
+the from and to keys or a number of semitones, get the song back. It uses the
+same functions as the key menu on song pages, so it spells chords the same
+way. The Google Site's transposer code was not in this repository, so this is
+a rewrite. Chord-only lines in chords-above-lyrics text are transposed in
+place.
+
+## Import from Google
+
+Two scripts, run by hand, Python standard library only.
+
+`_scripts/import_sheet.py` downloads the sheet as CSV (for the values) and as
+`.xlsx` (for the `HYPERLINK` formulas behind each title), reads the Google
+Site home page for its kid-song lists, and writes `data/songs.csv` with one
+column per sheet column plus `doc_id`, `other_links`, `source` and
+`libraries`. A song linked from the site whose title matches a sheet row with
+no link gets that row's details; one with no match becomes a row of its own,
+with `source` set to `site`. The CSV is committed.
+
+`_scripts/import_docs.py` reads `data/songs.csv` and, for each row:
+
+1. Downloads the Doc as plain text (`/export?format=txt`) into `data/raw/`.
+2. Reads the title line (`Title - Artist`), a `Key of …` line, and any YouTube
+   URL from the top of the Doc.
+3. Converts the rest: the gap before the melody becomes ` | `, `’` in the
+   melody becomes `'`, a line such as `Verse 1` becomes the label `Verse 1:`,
+   and curly quotes become straight ones.
+4. If the Doc has a second copy of the song below a `________________` line
+   (as Abigail does, in C), keeps the first copy and adds the second copy's
+   key to `alt_keys`.
+5. Writes `songs/<slug>.qmd` with the front matter above.
+6. Adds a line to `data/import-report.md` for anything it could not parse:
+   melody tokens outside the notation, no key found, more than one copy, or a
+   Doc that would not download.
+
+Rows with no Google Doc still get a song page, with the details and links and
+no song text: 28 songs on the first run.
+
+The old spreadsheets are copied into the repository as Excel files, in
+`songs/files/<slug>.xlsx`, and listed in the song's `files:` field. The song
+page links to the file for download. These are grid layouts by time, with
+instrument parts such as guitar, trumpet and melody in rows (Apache, Sweet
+Dream), so they stay spreadsheets rather than becoming song blocks. Result on
+2026-10-19, for the 15 songs with a spreadsheet link:
+
+| Result | Count | What happens |
+|---|---|---|
+| Downloads as `.xlsx` without signing in | 4 | The script saves them. |
+| Refused (401): probably private to Andy's account | 10 | The script lists them in the import report; Andy downloads each with File → Download → Microsoft Excel while signed in, and saves it under the name the report gives. |
+| Gone (410) | 1 | The link is kept with a note that the file no longer exists. |
+
+The pdf links point at ukulelehunt.com, another person's site, so they stay as
+links and are not copied.
+
+Result of the first run on 2026-10-19: 260 songs (254 from the sheet, 6 only
+on the Google Site), 233 Google Docs, of which 232 downloaded and 1 is
+private. `data/import-report.md` lists 147 things to check, in 106 songs.
+
+**After the import, the repository is the record and Google is retired.**
+The song files are plain text that any editor can open and Quarto is open
+source, so the site can move to any host if GitHub changes. New songs and
+edits are made here, not in the Docs or the sheet. The import is a one-time
+migration: once phase 3 is done, the script refuses to overwrite a song file
+that has changed since it wrote it (it stores a hash of what it wrote in
+`data/import-hashes.csv`), and `--force <slug>` re-imports one song if a
+Google Doc turns out to have been read wrongly. After the cutover, the Google
+Docs and the sheet get a line at the top pointing here.
+
+## Hosting and the domain
+
+GitHub Pages serves the site, built by a GitHub Actions workflow on every push
+to `master`, the same pattern as the TrinityMetrics site: check out, set up
+Quarto, render, upload `docs/` as the Pages artifact, deploy. The rendered
+`docs/` folder is not committed.
+
+The Google Site has three addresses people may have bookmarked. Quarto's
+`aliases:` front-matter field writes a redirect page at each old address:
+
+| Old address | New page |
+|---|---|
+| `/home` | `/` |
+| `/compressor` | `/tools/compressor.html` |
+| `/transposer` | `/tools/transposer.html` |
+
+Cutover, in order:
+
+1. Build and check the site at `https://iamstein.github.io/ukeskywalker/`.
+2. In the repository's Pages settings, set the custom domain to
+   `www.ukeskywalker.com`. With a GitHub Actions deploy, the setting is kept
+   there and no `CNAME` file is needed.
+3. In GoDaddy DNS: change `www` from `ghs.google.com` to `iamstein.github.io`;
+   replace the bare domain's A records with GitHub's four
+   (`185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`).
+   Remove any GoDaddy forwarding on the bare domain.
+4. Wait for GitHub to issue the certificate, then tick "Enforce HTTPS".
+5. In Google Sites, remove the custom URL from the old site. Leave the old
+   site published for a month with a banner linking to the new one, then
+   unpublish it.
+
+## Phases
+
+Status as of 2026-10-19. "Built" means it renders and was checked locally;
+nothing is published yet.
+
+| Phase | Work | Done when | Status |
+|---|---|---|---|
+| 1. Skeleton | `_quarto.yml`, landing page, this spec, publish workflow; test listing filters on list fields | Site renders at the github.io address | Built. Needs a push and GitHub Pages set to "GitHub Actions". |
+| 2. Format | Lua filter, `song.js`, `song.css`, template | Melody switch, YouTube link and print work | Built. Checked on Abigail and Annie Waits. |
+| 3. Import | Both scripts; run on all rows; fix what the report lists | Every sheet row and site-only song has a page; report is empty or each line has a reason | Scripts run; 260 pages written. Report has 147 lines to work through, and 10 private spreadsheets to download. |
+| 4. Lists | A–Z table with search box, five library pages, About | Each library's count matches the table in "Libraries"; navbar search finds a song from one lyric line | Built. Counts match; "palm of your" finds Abigail. |
+| 5. Tools | `chords.js`; compressor and transposer pages; key menu and chord-layout switch on song pages | The old example compresses as before; Abigail moved to C matches the C copy in its Google Doc | Built and checked. |
+| 6. Cutover | Domain steps above; delete `compressTab.js` | www.ukeskywalker.com serves this site over HTTPS; `/home` and `/compressor` redirect | Not started; last, after the github.io site is checked. The redirect pages exist. |
+
+The old root `index.html` is gone already: rendering `index.qmd` writes over
+it. It is in git history (commit `1083bfb`).
+
+## Open questions
+
+None at present.
+
+## Decisions
+
+| Date | Question | Decision |
+|---|---|---|
+| 2026-10-19 | Sheet's unnamed first column | An old PDF songbook page number. Not imported. |
+| 2026-10-19 | Rating columns | Practice = wanted to practise; Fun, Skill, Poppy, Happy as named. Kept in front matter, hidden from tables. |
+| 2026-10-19 | Spiritual Songs | Spiritual ≥ 1, and other songs can be added by hand. |
+| 2026-10-19 | Google after the move | Retired. This repository is the only place songs are edited. |
+| 2026-10-19 | Song page controls | Melody switch in phase 2; key menu later, in phase 5. |
+| 2026-10-19 | Low and High columns | Kept as Andy's Voice, `voice_low` and `voice_high`, in scientific pitch (C4 = middle C). |
+| 2026-10-19 | Optional fields | Every field but `title` is optional; `_templates/song.qmd` lists them all. |
+| 2026-10-19 | Old spreadsheets | Copied into the repo as `.xlsx` files and linked from the song page. |
+| 2026-10-19 | Songs to add | Moved to `_notes/songs-to-add.qmd`: in the repository, not on the site. |
+| 2026-10-19 | Order of work | Phases 1–5 are built and checked at the github.io address. The domain moves last, in phase 6. |

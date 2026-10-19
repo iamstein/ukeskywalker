@@ -1,0 +1,43 @@
+---
+title: "For What It's Worth"
+sort_title: "For What It's Worth"
+artist: "Buffalo Springfield"
+key: "D"
+libraries: ["all"]
+difficulty: 0
+practice: 7
+fun: 2
+skill: 4
+poppy: 3
+happy: 2
+protest: 3
+added: "2017-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1TO1y3FKeYk9ADQz0HNpPKoHqU72tEVzGDym7brjb17U/edit"
+---
+
+```{.song}
+[D] There's somethin' happenin' [G] here.
+What it [D] is ain't exactly [G] clear.
+There's a [D] man with a gun over [G] there
+A-tellin' [D] me I've got to be-[G]-ware.
+
+I think it's time we [D] stop. Children, [C] what's that sound?
+[G] Everybody look what's [Bb] goin' down. [D][G][D][G]
+
+[D] There's battle lines bein' [G] drawn.
+Nobody's [D] right if everybody's [G] wrong.
+[D] Young people speakin' their [G] minds
+A-gettin' [D] so much resistance [G] from behind.
+
+I think it's time we [D] stop. Children, [C] what's that sound?
+[G] Everybody look what's [Bb] goin' down. [D][G][D][G]
+
+[D] What a field day for the [G] heat.
+A [D] thousand people in the [G] street
+Singin' [D] songs and a-carryin' [G] signs
+Mostly [D] sayin' hooray for our [G] side.
+
+I think it's time we [D] stop. Hey, [C] what's that sound?
+[G] Everybody look what's [Bb] goin' down. [D][G][D][G]
+```

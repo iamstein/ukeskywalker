@@ -1,0 +1,47 @@
+---
+title: "Old Time Rock and Roll"
+sort_title: "Old Time Rock and Roll"
+artist: "Bob Seger"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2014-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1yRggbdOCQV8qBB4KJzFDbXfmys3avlDc6cPreOI-kqQ/edit"
+---
+
+```{.song}
+[G] Just take those old records off the shelf.
+I'll sit and listen to them [C] by myself.
+Today's music ain't [D] got the same soul.
+I like that old time [G] rock and roll.
+
+[D] Don't try to take me to a [G] disco.
+You'll never even get me [C] out on the floor.
+In ten minutes I'll be [D] leavin' for the door.
+I like that old time [G] rock and roll
+
+[D] still like that old time [G] rock and roll.
+That kind of music just [C] soothes the soul.
+I reminisce about the [D] days of old.
+With that old time [G] rock and roll.
+
+[D] Won't go to hear them play a [G] tango.
+I'd rather hear some blues and [C] funky old soul.
+There's only one sure way to [D] get me to go.
+Start playing old time [G] rock and roll.
+
+[D] Call me a relic call me [G] what you will.
+Say I'm old fashioned say im [C] over the hill.
+Today's music aint [D] got the same soul.
+I like that old time [G] rock and roll.
+
+[D] Still like that old time [G] rock and roll.
+That kind of music just [C] soothes the soul.
+I reminisce about the [D] days of gold.
+With that old time [G] rock and roll.
+```

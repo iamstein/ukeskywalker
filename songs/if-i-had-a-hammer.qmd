@@ -1,0 +1,44 @@
+---
+title: "If I Had a Hammer"
+sort_title: "If I Had a Hammer"
+artist: "Peter Paul and Mary"
+key: "E"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 1
+skill: 2
+poppy: 3
+happy: 3
+spiritual: 2
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jb3i35U-sdCd7-DbGcWnipOSSGBw_0I02_YtG1Cd4hw/edit"
+---
+
+```{.song}
+(Verse 1-3, Part 1)
+[E] If I had a [A] hammer/bell/song [C#] [D]
+I'd [E] hammer/ring/sing in the [A]mo-[C#m]-oor-[D]-ning
+I'd [E] hammer/ring/sing in the [A] eve-[C#m]-ning [D]
+[E] all over this land,
+
+(Verse Part 2)
+I'd [E] hammer/ring/sing out [A] danger
+I'd hammer/ring/sing out a [D???] warning
+I'd [D] hammer/ring/sing out [A] love [D] between
+my [A] brothers and my [D] sisters
+[E] All over this [A] la-[C#m]-aa-[D]-and.  Mmm-mm-mmm
+
+(Verse 4 Part 1)
+If I've got a hammer
+And I've got a bell
+And I've got a song to sing
+all over this land,
+
+(Verse 4 Part 2)
+It's a hammer of justice
+It's a bell of freedom
+It's a song about love between
+my brothers and my sisters
+[E] All over this la-[A]-aa-[D]-[A]-and.
+```

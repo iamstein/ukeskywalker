@@ -1,0 +1,65 @@
+---
+title: "Teenage Dirtbag"
+sort_title: "Teenage Dirtbag"
+artist: "Wheatus"
+key: "E"
+youtube: "http://www.youtube.com/watch?v=Fw8ZDwdyHJQ&t=13s"
+libraries: ["all"]
+difficulty: 1
+practice: 2
+fun: 2
+skill: 2
+poppy: 3
+happy: 3
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1LD2-FpwZSIj69dt18zytcg3y1976fCkACKNHaDtRdqc/edit"
+---
+
+```{.song}
+Wheatus: https://www.youtube.com/watch?v=FC3y9llDXuM
+
+Verse 1:
+Her [E] name is Noel [B] [E] I have a [A] dream about her
+[E] She rings my bell [B] I've got [E] gym class in [A] half an hour
+[E] Oh how she [B] rocks [E] Kids in tube [A] socks
+[E] She doesn't [A] know who I [E] am [B]
+And [E] she doesn't [A] give a [E] damn a-[B]-bout me
+
+Chorus:
+Cause [E] I'm just a [B] teenage [E] dirtbag [A] baby
+[E] I'm just a [B] teenage [E] dirtbag [A] baby
+[E] Listen to [B] Iron [E] Maiden [A] baby with [E] me
+[E] Ooh ooh ooh [B] ooh oooh
+
+Verse 2:
+Her [E] boyfriend's a [B] dick [E] he brings a [A] gun to school
+And [E] he'd simply [B] kick] my [E] ass if he [A] knew the truth
+He [E] lives on my [B] block and he [E] drives an [A] iroc
+[E] He doesn't [A] know who I [E] am [B]
+And [E] he doesn't [A] give a [E] damn a-[B]-bout me
+
+Chorus:
+Bridge 1:
+[E] Oh [B] yeah, [E] dirt-[A]-bag
+[E] [B] Oh [E] she doesn't know [A] what she's missing
+[E] Oh [B] yeah, [E] dirt-[A]-bag
+[E] [B] Oh [E] she doesn't know [A] what she's missing
+
+Verse 3:
+Man [E] I feel like [B] mold. It's [E] Prom Night and [A] I am lonely
+[E] Lo and be-[B]-hold [E] she's walking [A] over to me
+[E] This must be [B] fake [E] my lip starts to [A] shake
+[E] How does she [A] know who I [E] am [B]
+And [E] why does she [A] give a [E] damn a-[B]-bout me
+
+Bridge 2:
+I've got two [E] tickets to [B] Iron [E] Maiden [A] baby
+[E] Come with me [B] Friday, [E] don't say [A] maybe
+[E] I'm just a [B] teenage [E] dirtbag [A] baby like [E] you
+[E] Ooh ooh ooh [B] ooh oooh
+
+Bridge 1:
+[E] Oh [B] yeah, [E] dirt-[A]-bag [E] [B] Oh [E] she doesn't know [A] what she's missing
+[E] Oh [B] yeah, [E] dirt-[A]-bag [E] [B] Oh [E] she doesn't know [A] what she's missing
+```

@@ -1,0 +1,14 @@
+---
+title: "Bryn"
+sort_title: "Bryn"
+artist: "Vampire Weekend"
+libraries: ["all"]
+difficulty: 3
+fun: 1
+skill: 2
+poppy: 3
+happy: 2
+added: "2011-05"
+pages: 0
+other_links: ["https://spreadsheets.google.com/spreadsheet/pub?hl=en_US&hl=en_US&key=0ApzelX434ytYdEFGOV82c05JTmRkblZ2MGp3UGpIcUE&output=html"]
+---

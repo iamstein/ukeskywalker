@@ -1,0 +1,63 @@
+---
+title: "I Hung my Head"
+sort_title: "I Hung my Head"
+artist: "Johnny Cash"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=0M53FcPoWtA"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 5
+poppy: 2
+happy: 1
+voice_low: "C3"
+voice_high: "A3"
+added: "2011-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ie5P7mgYjsgCkSWOApsWZlXhM8lMX8RppDkwWYIdPjg/edit"
+---
+
+```{.song}
+Song written by Sting, Key of C
+Intro - C, F handful of times:
+
+Verse 1:
+[C] Early one morning with [F] time to kill | 3 2 1 2 3                 1 3 2 1 1
+I [Am] borrowed Jeb's rifle and [F] sat on the hill | 1 3 2 1 2 3        1 3 2 1 1
+I [C] saw a lone rider [F] crossing the plain | 3 3 2 1 2 3        3 2 1 1
+I [Am] drew a bead on him to [F] practice my aim | 1 3 2 1 2 3        1 3 2 1 1
+[Dm] My brother's rifle went [G] off in my hand | 2 2 2 2 2                1 5 5 5 5
+A shot rang out a-[C]-cross the land | 5 5 5                1 3-2 1 1
+The [F] horse he kept running; the [Am] rider was dead. | 6 6 5 4 5 6        1 3 2 1 1
+I [C] hung my head I [F] hung my head [C] [F] | 5. 1 1 1                 6. 1 1 1
+
+Verse 2:
+[C] I set off running to [F] wake from the dream
+[Am] My brother's rifle went [F] into the stream
+[C] I kept on running [F] into the salt lands
+And [Am] that's where they found me my [F] head in my hands
+The [Dm] sheriff he asked me [G] why had I run
+Then it came to me just [C] what I had done
+And [F] all for no reason just [Am] one piece of lead
+I [C] hung my head I [F] hung my head [C] [F]
+
+Verse 3:
+[C] Here in the courthouse the [F] whole town is there
+[Am] I see the judge high [F] up in his chair
+"Ex-[C]-plain to the courtroom what [F] went through your mind
+And [Am] we'll ask the jury what [F] verdict they find"
+I said [Dm] "I felt the power of [G] death over life
+I orphaned his children I [C] widowed his wife
+I [F] beg their forgiveness I [Am] wish I was dead"
+I [C] hung my head, I [F] hung my head [C] [F]
+
+Verse 4:
+[C] Early one morning with [F] time to kill
+[Am] I see the gallows [F] up on the hill
+And [C] out in the distance a [F] trick of the brain
+I [Am] see a lone rider [F] crossing the plain
+[Dm] He's come to fetch me to [G] see what they done
+We'll ride together [C] 'til kingdom come
+I [F] pray for God's mercy, for [Am] soon I'll be dead
+I [C] hung my head, I [F] hung my head {x3}
+```

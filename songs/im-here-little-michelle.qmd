@@ -1,0 +1,37 @@
+---
+title: "I'm Here Little Michelle"
+sort_title: "I'm Here Little Michelle"
+artist: "Andy Stein"
+key: "D"
+libraries: ["all", "andy-original", "kids"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2021-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/17iGHp7R2IR_v4UHXP8uuRjscOjD4377plJYAOD8nK8Q/edit"
+---
+
+```{.song}
+Verse:
+[D] I'm here little Mich-[G]-elle [D]
+[D] Don't cry, it's al-[A]-right
+[D] I'll stay with you little Mich-[G]-elle [D]
+And to-[G]-gether we'll [A] get through the [D] night
+
+Bridge:
+What-[G]-ever mood you're [D] in, I will [A] stick by [D] you
+[G] Whether you're [D] happy or [A] blue
+
+Chorus:
+Cryin' [D] Baby, Happy [G] Baby, Sleepy [A] Baby
+Poopy [D] Baby, Mellow [G] Baby, Grumpy [A] Baby
+Silly [D] Baby, Serious [G] Baby, Beautiful [A] Baby
+
+There are [Bm] so many babies that [A] you can be
+[Bm] What comes next we'll just [A] have to wait and [E] see-[G]-e.
+
+<<Repeat>>
+```

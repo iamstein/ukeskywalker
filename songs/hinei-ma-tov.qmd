@@ -1,0 +1,51 @@
+---
+title: "Hinei Ma Tov"
+sort_title: "Hinei Ma Tov"
+key: "Am"
+youtube: "https://www.youtube.com/watch?v=UwEQfDNjgTM"
+libraries: ["all", "kids"]
+added: "2023-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1COwp7bG-m6pnsbI7XykhgyAehTyMM2LKtFSvZOSAoI4/edit"
+---
+
+```{.song}
+English meaning:
+Behold how good and how pleasing
+For brothers to sit together
+
+[Am] Hine ma tov u [Em] ma naim
+[C] Shevet [D] achim gom [Em] yahad
+[Am] Hine ma tov u [Em] ma naim
+[Em] Hine ma tov, Hine ma tov
+
+[Chorus]
+[C] Lai lai lai [D] lai lai lai, lai lai [Em] lai lai
+
+[Verse]
+[Am] Hine ma tov u [Em] ma naim
+[C] Shevet [D] achim gom [Em] yahad
+[Am] Hine ma tov u [Em] ma naim
+[Em] Hine ma tov, Hine ma tov
+
+[Chorus]
+[C] Lai lai lai [D] lai lai lai, lai lai [Em] lai lai
+
+[Verse]
+[Am] Hine ma tov u [Em] ma naim
+[C] Shevet [D] achim gom [Em] yahad
+[Am] Hine ma tov u [Em] ma naim
+[Em] Hine ma tov, Hine ma tov
+
+[Chorus]
+[C] Lai lai lai [D] lai lai lai, lai lai [Em] lai lai
+
+[Verse]
+[Am] Hine ma tov u [Em] ma naim
+[C] Shevet [D] achim gom [Em] yahad
+[Am] Hine ma tov u [Em] ma naim
+[Em] Hine ma tov, Hine ma tov
+
+[Chorus]
+[C] Lai lai lai [D] lai lai lai, lai lai [Em] lai lai
+```

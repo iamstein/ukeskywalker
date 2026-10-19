@@ -1,0 +1,69 @@
+---
+title: "Anthem"
+sort_title: "Anthem"
+artist: "Leonard Cohen"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=5ma5tF6TJpA"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 3
+fun: 2
+skill: 2
+poppy: 1
+happy: 1
+spiritual: 3
+voice_low: "C3"
+voice_high: "D4"
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EB9kjLsiy9-UnNnUIc_duYcdhxsAl7C9rrE1FRxOenE/edit"
+---
+
+```{.song}
+Chords: 1-5-1 // 3-6m-5 //// → to F 1-4-1, 1-4-1, 5-4-1, 2
+
+Verse:
+The birds they [C] sang at the break of day, | 5 5 3 5                 4 4 4 3 3
+"Start a-[G]-gain!" I hear them [C] say [C7] | 5 3 5                   6 5 4 3
+Don't [E7] dwell on what has [Am] passed away, | 1 3                 1 3 2 2 1 1
+or what is [G] yet to be. [G7] | 3 1 1 2 1 2
+
+All the [C] wars, they will be fought again, | (same)
+the holy [G] dove she will be [C] caught again [C7]
+[E7] bought and sold and [Am] bought again,
+the dove is [G] never free. [G7]
+
+Chorus:
+Ring the [F] bells that [Bb] still can [F] ring, | 4 4 6           6 7m           5 6
+for-[F]-get your [Bb] perfect offer-[F]-ing. | 1' 1'           1' 2' 1'         7m 5 1
+There is a [C] crack, a [Bb] crack, in [F] everything, | 6 6 6 5         6 7m 1        7m 6 6
+that's how the [G] light gets in. [G7] | 6 5 4 6 5 5
+
+Verse:
+We asked for [C] signs, the signs were sent,
+The birth be-[G]-trayed, the marriage [C] spent [C7].
+The widow-[E7]-hood of every [Am] government,
+signs for all to [G] see. [G7]
+
+I can run no [C] more with that lawless crowd,
+While the [G] killers in high places say their [C] prayers out loud [C7].
+Well they've [E7] summoned, they've summoned up a [Am] thundercloud,
+They're gonna [G] hear from me [G7].
+
+Chorus:
+Ring the [F] bells that [Bb] still can [F] ring, | 4 4 6           6 7m           5 6
+for-[F]-get your [Bb] perfect offer-[F]-ing. | 1' 1'           1' 2' 1'         7m 5 1
+There is a [C] crack, a [Bb] crack, in [F] everything, | 6 6 6 5         6 7m 1        7m 6 6
+that's how the [G] light gets in. [G7] | 6 5 4 6 5 5
+
+You can add up the [C] parts, but you won't have the sum,
+You can strike up the [G] march, there is no [C] drum [C7].
+To [E7] every heart every heart a [Am] love will come,
+But like a [G] refugee. [G7]
+
+Chorus:
+Ring the [F] bells that [Bb] still can [F] ring, | 4 4 6           6 7m           5 6
+for-[F]-get your [Bb] perfect offer-[F]-ing. | 1' 1'           1' 2' 1'         7m 5 1
+There is a [C] crack, a [Bb] crack, in [F] everything, | 6 6 6 5         6 7m 1        7m 6 6
+that's how the [G] light gets in. [G7] | 6 5 4 6 5 5
+```

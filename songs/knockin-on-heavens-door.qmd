@@ -1,0 +1,42 @@
+---
+title: "Knockin' on Heaven's Door"
+sort_title: "Knockin' on Heaven's Door"
+artist: "Bob Dylan"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+practice: 1
+fun: 2
+skill: 3
+poppy: 2
+happy: 1
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1olPNy_F0w1CCzwWG32woJn7tLDNnz23uIBVR7bHFgnE/edit"
+---
+
+```{.song}
+Verse 1:
+[G] Mamma take [D] this badge from [Am] me
+[G] I can't use [D] it [C] anymore
+[G] It's getting dark, [D] too dark to [Am] see
+[G] Feels like I'm [D] knockin' on heaven's [C] door
+
+Chorus:
+[G] Knock, knock, [D] knockin' on heaven's [C] door,
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+
+Verse 2:
+[G] Mama, put my [C] guns in the [Am] ground
+[G] I can't [C] shoot them any-[C]-more.
+That [G] long black [C] cloud is comin' [Am] down
+I [G] feel I'm [D] knockin' on heaven's [C] door.
+
+Chorus:
+[G] Knock, knock, [D] knockin' on heaven's [C] door,
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+[G] Knock, knock, [D] knockin' on heaven's [C] door
+```

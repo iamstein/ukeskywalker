@@ -1,0 +1,26 @@
+---
+title: "Zhao peng you"
+sort_title: "Zhao peng you"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 5
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ziIQ__2GtcipBIKJg7bipx68GGWpjg6VZlSSnPVAXf4/edit"
+---
+
+```{.song}
+[C] Zhao ya zhao ya zhao peng you        Find, find, find a friend
+[C] Zhao dao yi ge hao peng [C] you        I have found, a good friend
+[C] Jing ge li, wo wo shou        Saluting, shaking hands
+[F] Ni shi [G] wo de [C] hao peng you        You are my good friend
+
+[C] Zhao ya zhao ya zhao peng you        Find, find, find a friend
+[C] Zhao dao yi ge hao peng [G] you        I have found, a good friend
+[C] Xiao xi xi, dian dian tou        Smiling, nodding heads
+[F] da jia [G] do shi [C] hao peng you        Everybody is my good friend
+```

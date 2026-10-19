@@ -1,0 +1,50 @@
+---
+title: "White Rabbit"
+sort_title: "White Rabbit"
+artist: "Jefferson Airplane"
+key: "G"
+libraries: ["all"]
+difficulty: 2
+practice: 2
+fun: 2
+skill: 3
+poppy: 2
+happy: 1
+added: "2012-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/139pOPnLmp_W54-rnVZTKl-R9iYQsIjphlF3d2jx4H1w/edit"
+---
+
+```{.song}
+Verse 1:
+[G] One pill makes you larger and
+[G#] one pill makes you small
+And the [G] ones that mother gives you
+don't do [G#] anything at all
+Go ask [A#] Alice [C#] when she's [D#] ten feet [A#] tall
+
+Verse 2:
+[G] And if you go chasing rabbits
+and you [G#] know you're gonig to fall.
+[G] Tell 'em a hooka smokin caterpillar
+ has [G#] given you the call
+Go ask [A#] Alice when [C#] she's [D#] just [A#] small.
+
+Bridge:
+When [F] men on the chessboard
+get up and [A#] tell you where to go..
+[F] And you've just have some kind of mushroom
+and your [A#] mind is moving low.
+Go ask [G] Alice I think she'll know
+
+Verse 3:
+[G] When logic and proportion
+have [G#] fallen slopply dead.
+And the [G] white knight is talking backwards
+and the red [G#] queen's off with her head
+[A#] Remember [C#] what the [D#] door mouse [A#] said
+
+Outro:
+[F] Feed your [A#] head
+[F] Feed your [A#] head
+```

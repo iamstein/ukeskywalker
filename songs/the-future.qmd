@@ -1,0 +1,74 @@
+---
+title: "The Future"
+sort_title: "Future, The"
+artist: "Leonard Cohen"
+key: "Am"
+youtube: "https://www.youtube.com/watch?v=hy0Bl18qLvw"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 5
+poppy: 1
+happy: 1
+voice_low: "A2"
+voice_high: "F3"
+added: "2010-06"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1iDb1MpFnJ9LlA1wx1CeYCBVU7Dggw1VMG89wWJhddLo/edit"
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdE9VRUV2Z0VPNXJMN0xzbFFZclQtX3c&hl=en&output=html"]
+---
+
+```{.song}
+Key Am (Gm in video)
+Am = 2000, Dm = 2210, G6 = 0202, E7 = 1202
+C  = 0003, F  = 2010, Fm = 1013,
+
+Verse 1:
+[Am] Give me back my broken night, my [Dm] mirrored room, my secret life | 1….1
+it's [G6] lonely here, there's no [E7] one left to [Am] torture | 1 2 2 2         1 2 1 2 1 3m 1
+Give me absolute control [Dm] over every living soul | (repeat)
+And [G6] lie beside me baby, that's an [Am] order!
+Give me crack an anal sex, [Dm] take the only tree that's left
+and [G6] stuff it up the [E7] hole in your [Am] culture
+Give me back the Berlin Wall, [Dm] give me Stalin and St. Paul
+I've [G6] seen the future, [E7] brother: it is [Am] murder.
+
+Chorus:
+[Dm] Things are gonna sli-ii-[C]-de in all directions | 4 4 4 4 6m 4 3m3m3m 4 4 3m
+Won't be [Dm] nothing (won't be) nothing you can't [C] measure anymore. | 3 3 4 4 6m6m 4 4 3m3m3m3m
+When the [Dm] blizzard of the world has crossed the [F] threshold | 3m 3m 4 4 4 4 4 4 4 4 3m 3m
+and it has overturned the [Fm] order of the [C] soul | 3m3m…..3m
+When they [G] said (they said) REPENT (repent) REPENT (repent) | 5 5 4   4 4   4 4
+I wonder [Am] what they meant {x3} | 4 4 4 4 3m 1
+
+Verse 2:
+[Am] You don't know me from the wind, you [Dm] never will, you never did
+[G6] I'm the little jew who wrote the [Am] bible
+I've seen nations rise and fall, I've [Dm] heard their stories, heard them all
+but [G6] love's the only engibe of sur-[Am]-vival
+Your [Am] servant here he has been told to [Dm] say it clear to say it cold:
+It's [G6] over, it ain't going any [Am] further
+And now the wheels of heaven stop, you [Dm] feel the devil's riding crop
+Get [G6] ready for the future:  it is [Am] murder.
+
+Chorus:
+
+Bridge:
+[Am] There'll be the breaking of the ancient western code | 1...1
+Your [Dm] private life will suddenly explode | 1 1 3m3m3m 1 3m3m3m 4
+There'll be [Am] phantoms, there'll be fires on the road | 1 1 3m 1 1 1 3m 1 1 7m. 1
+and the [E] white man dancing | 1 1 1 1 1
+You'll see your [Am] woman hanging upside down | 4 4 4 4 3m 1 1 1 1 1
+her [Dm] features covered by her fallen gown | 1 3m 1 3m 1 1 1 1 1 1 1
+and all the [Am] lousy little poets coming around | 1 1 1 3m 1 1 1 3m 1 1 1 1
+trying to sound like Charlie [E] Manson | 1 1 1 1 1 1 2 2
+and the white man [Am] dancing | 4 4 4 4 1
+
+Verse 4:
+[Am] Give me back the Berlin Wall, [Dm] give me Stalin and St. Paul
+[G6] Give me Christ or [E7] give me Hiro-[Am]-shima
+Destroy another fetus now, we [Dm] don't like children anyhow
+I've [G6] seen the future, [E7] baby: it is [Am] murder.
+
+Chorus:
+```

@@ -1,0 +1,56 @@
+---
+title: "Nothing Else Matters"
+sort_title: "Nothing Else Matters"
+artist: "Metallica"
+key: "Em"
+youtube: "http://www.youtube.com/watch?v=pGQ2CSa8geM"
+libraries: ["all"]
+difficulty: 4
+practice: 1
+skill: 0
+poppy: 1
+happy: 1
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1kaBJkexopyQkchT_WGvYMudeAr_s7OPTBV3Gumgqd5o/edit"
+---
+
+```{.song}
+Verse 1:
+[Em] So close no matter [D] how far[C]
+[Em] Couldn't be much more [D] from the heart[C]
+[Em] Forever trusting [D] who we are[C]
+[G] And [B] nothing else [Em] matters
+
+Verse 2:
+[Em] Never opened my[D] self this way[C]
+[Em] Life is ours, we live it [D] our way[C]
+[Em] All these words I don't [D] just say[C]
+[G] And [B] nothing else [Em] matters
+
+Verse 3:
+[Em] Trust I seek and [D] find in you[C]
+[Em] Every day for us [D] something new[C]
+[Em] Open mind for a [D] different view[C]
+[G] And [B] nothing else [Em] matters
+
+Chorus:
+[C]  [A]  [D]  Never cared for what they [C] do
+[A]  [D]  Never cared for what they [C] know
+[A]  [D]  But I [Em] know
+
+Verse 1:
+
+Chorus:
+
+Verse 2 + 3:
+
+Outro:
+[C]  [A]  [D]  Never cared for what they [C] say
+[A]  [D]  Never cared for what they [C] play
+[A]  [D]  Never cared for what they [C] do
+[A]  [D]  Never cared for what they [C] know
+[A]  [D]  But I [Em] know
+
+Verse 1:
+```

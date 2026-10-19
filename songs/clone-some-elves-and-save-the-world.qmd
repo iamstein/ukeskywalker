@@ -1,0 +1,53 @@
+---
+title: "Clone some Elves and Save the World"
+sort_title: "Clone some Elves and Save the World"
+artist: "Trendy Wendy and the Yeastbombs"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=AkI1lWwebKo"
+libraries: ["all", "yeastbombs"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "G2"
+voice_high: "E3"
+added: "2012-12"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ECwE2kdCKyvUhD_1UXO6-Rsjl5VBVlnh9gy12bL651E/edit"
+---
+
+```{.song}
+Verse 1 (slow):
+The [C] year's two thousand eighty
+and the [Em] winter's just begun.
+The [C] humans have trashed the planet
+And [Em] now we're screwed 'cause there is no one
+to [C] spread the Christmas spirit,
+to [Em] make the children's toys
+To [C] bring a bit of laughter
+To the [Em] last remaining girls and boys.
+
+Chorus (medium):
+So [C] save yourselves and clone some elves.
+We [Am] need more toys to [C] fill the shelves.
+Don't [C] clone yourselves, clone some elves.
+[F] We'll save Santa and we'll [G] save Noel.
+
+Verse 2 (fast):
+When the [C] elves bust out of their cloning cells
+They [Em] saw miles of toxic waste
+After [C] much deliberation they screamed
+We [Em] can't build toys in this fuckin' place
+So they [C] did a dance and they told some jokes
+To [Em] all the girls and all the boys
+And [C] we all cheered up and realized
+That [Em] we don't need no fuckin' toys.
+
+Chorus (fast):
+So [C] save yourselves and clone some elves.
+We'll [Am] send those toys straight [C] down to hell
+Don't [C] clone yourselves, clone some elves.
+[F] They'll tell Santa where to [G] shove Noel.
+[F] They'll tell Santa where to [G] shove No-[C]-el. [wendy slide to higher c]
+```

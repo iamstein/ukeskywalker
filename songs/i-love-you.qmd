@@ -1,0 +1,76 @@
+---
+title: "I Love You"
+sort_title: "I Love You"
+artist: "The Hanumen"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=olPziW97FE8"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+practice: 4
+fun: 2
+skill: 2
+poppy: 1
+happy: 3
+spiritual: 3
+added: "2019-08"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1calYE9m4eQQZLCA6IOqwN3R1FCiUfLcigAMsDUMuBCg/edit"
+---
+
+```{.song}
+Chords: 1-5-6-4
+
+Intro:
+[C] Sita [G] Ram Jaya [Am] Sita [F] Ram
+[C] Sita [G] Ram Jaya [Am] Sita [F] Ram x4
+[C] [G] Sita [Am] Ram [F] (ooh) x4
+
+Verse 1:
+[C] Mother I want you to [G] know
+That I [Am] love you, I [F] love you
+[C] Mother I want you to [G] know
+That I [Am] love you, I [F] love you
+
+There [C] may have been things that I've [G] done
+to [Am] make you doubt
+but [F] don't you doubt, no
+
+[C] Mother I want you to [G] know
+that I [F] love you, I [C] do
+
+Chorus:
+I [C] love you, I [Em] do
+I [F] love you, I [C] do
+I [C] love you, I [Em] do
+I [F] love you, I [C] do
+
+Subsequent verses
+Father I want you to know...
+Children I want you to know...
+My darling I want you to know...
+
+Bridge:
+[C] Sita [G] Ram [Am] Jaya Sita [F] Ram
+[C] Sita [G] Ram [Am] Jaya Sita [F] Ram x3
+[C] [G] Sita [Am] Ram [F] (ooh) x6
+
+Verse 5:
+[C] Jesus I want you to [G] know
+[C] Buddha I want you to [G] know
+[C] Allah I want you to [G] know
+[C] Rama I want you to [G] know
+[C] Krishna I want you to [G] know
+That I [Am] love you, I [F] love you
+
+Verse 6:
+[C] Lord I want you to [G] know
+That I [Am] love you, I [G] love you
+There [C] may have been things that I've [G] done
+to [Am] make you doubt
+but [G] don't you doubt, no
+
+[C] Lord I want you to [G] know
+that I [F] love you, I [C] do
+
+Chorus:
+```

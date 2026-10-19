@@ -1,0 +1,62 @@
+---
+title: "If You Want to Sing Out"
+sort_title: "If You Want to Sing Out"
+artist: "Cat Stevens"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=eBLVw92feas"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+spiritual: 2
+voice_low: "C3"
+voice_high: "C4"
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1_a2ZQryn8LQ9H5n009_TuFqXzqGQRdnWVidisdezmzA/edit"
+---
+
+```{.song}
+riff 1: g-g-g a b c
+riff 2: g-g-g a c b
+
+Verse 1:
+Well, if you [C] want to sing [G] out, sing [F] out.  [G] | 3 3 2 1 3 5 5 6 6
+And if you [C] want to be [G] free, be [Am] free. Cause there's a | 5 5 5 5 3 2 2 2 3 1
+[Dm] million [Am] things to [G] be.  You [C] know that there [G] are. | 3 3 3 4 4 3 1 2   2 3 2 1 2
+
+Verse 2:
+[G] And if you [C] want to live [G] high, live [F] high. [G] | (same)
+[G] And if you [C] want to live [G] low, live [Am] low 'cause there's a
+[Dm] million [Am] ways to [G] go. You [C] know that there [G] are {riff1}
+
+Chorus:
+[C] You can do what you [F] want.  {riff2} The [G] opportunity's [C] on {riff1} | 5 5 5 3 5 6   6 6 6 6 5 5 5-3
+[C] And if you can find a new [F] way.{riff2} [G] You can do it to-[C]-day {riff1} | 1' 1' 1'  1' 5 3 6   6 6 6 6 5 5
+[C] You can make it all [F] true.  {riff1} [G] And you can make it un-[C]-do | 5 3 5 5 5 6   5. 5. 5. 6. 7. 1
+
+You [Em] see. Ah ah [Am] ah, it's ea-[Em]-sy. Ah ah [Am] ah, | 3 5   6 7 1'   3 6 5   6 7 1'
+You on-[Em]-ly need to [G] know | 3 6 5   3 1 2
+
+Verse 3:
+[G] Well if you [C] want to say [G] yes, say [F] yes [G] And if you | (same)
+[C] want to say [G] no, say [Am] no 'cause there's a
+[Dm] million [Am] ways to [G] go.  You [C] know that there [G] are
+
+Verse 4:
+[G] And if you [C] want to be [G] me, be [F] me. [G] And if you | (same)
+[C] want to be [G] you, be [Am] you 'cause there's a
+[Dm] million [Am] things to [G] do.  You [C] know that there [G] are
+
+Chorus:
+
+Verse 1 (repeat):
+
+You [C] know that there [G] are.  You [C] know that there [G] are.  You
+[C] know that there [G] are.  You [C] know that there [G] are.  You
+[G] know that there [C] arrr-[G]-rrrrr-[F]-re.  [G] You know that there
+[C] arrr-[G]-rrrrr-[F]-re.  [G], [C] [G] [F] [C]
+```

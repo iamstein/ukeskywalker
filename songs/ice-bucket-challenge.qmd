@@ -1,0 +1,35 @@
+---
+title: "Ice Bucket Challenge"
+sort_title: "Ice Bucket Challenge"
+artist: "Andy Stein"
+key: "Am"
+youtube: "https://www.youtube.com/watch?v=Dkz55jAlJu8"
+libraries: ["all", "andy-original"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+voice_low: "A2"
+voice_high: "A3"
+added: "2014-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jcyNu10nHJei5YfIoIsaBr1Az7M1lDLGGrkC7oY1h1A/edit"
+---
+
+```{.song}
+They [A] told me to do the ice bucket [C] chall-[A]-enge - I said no!
+It's this [A] wacked out thing that's sweeping' the [C] inter-[A]-net - Like Tebow!
+
+[D] You a tell me grab a freezing cold, bucket a water
+No [E] thanks I'll take 10 minute - hot shower.
+
+[A] You get that bucket a-[C]-way from [A] me.
+I'll [A] give a hundred dollars to [D] Give Direct-[E]-ly!
+
+Give Directly is a charity that gives money electronically directly to poor households in Kenya or Uganda.  Rather than paying staff to deliver aid in a specific way, they cut out the middle man and let the aid recipients decide how best to use their cash.  They also do careful analysis to see how effective they are and how the money is spent.  A big portion of money is used to buy metal roofs for houses.
+
+They [D] tried to come at me with an internet meme.
+But I'll [E] send them back to hell with a primal scream.
+They [A] told me to do an ice bucket [C] chall-[A]-enge - I say no!
+```

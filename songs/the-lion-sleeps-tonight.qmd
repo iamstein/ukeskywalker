@@ -1,0 +1,38 @@
+---
+title: "The Lion Sleeps Tonight"
+sort_title: "Lion Sleeps Tonight, The"
+artist: "The Tokens"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 0
+fun: 2
+skill: 5
+poppy: 3
+happy: 3
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1p6DkMoe7dmpkeNcz_ZGHrs76QDNHDZDZYgOUQZlpNgM/edit"
+---
+
+```{.song}
+[C] In the jungle the [F] mighty jungle
+[C] The lion sleeps [G] tonight
+[C] In the jungle the quiet [F] jungle
+[C] The lion sleeps [G] tonight
+
+Chorus:
+[C][F][C][G][C][F][C][G] Eeeeeeeee Wimoweh
+
+[C] Near the village, the [F] peaceful village
+[C] The lion sleeps [G] tonight
+[C] Near the village, the quiet [F] village
+[C] The lion sleeps [G] tonight
+
+Chorus:
+[C][F][C][G][C][F][C][G]
+
+[C] Hush my darling, don't fear my [F] darling
+[C] The lion sleeps [G] tonight
+[C] Hush my darling, don't fear my [F] darling
+[C] The lion sleeps [G] tonight
+```

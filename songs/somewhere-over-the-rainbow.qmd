@@ -1,0 +1,67 @@
+---
+title: "Somewhere Over the Rainbow"
+sort_title: "Somewhere Over the Rainbow"
+artist: "Israel \"IZ\" Kaʻanoʻi Kamakawiwoʻole"
+key: "C"
+alt_keys: ["A"]
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 5
+fun: 3
+skill: 5
+poppy: 2
+happy: 2
+spiritual: 1
+voice_low: "A2"
+voice_high: "E4"
+added: "2011-10"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1aMTu4b98T2nomol3l01MBbVNlsFypKwTqs0en0hHIN4/edit"
+files: ["files/somewhere-over-the-rainbow.xlsx"]
+---
+
+```{.song}
+Iz http://www.youtube.com/watch?v=V1bFr2SWP1I
+karaoke: http://www.youtube.com/watch?v=whAawsfkgMg
+A section: 1, 3m, 4, 1// 4, 1, 5, 6m, 4
+B section: 1, 5, 6, 4 // 1, 5, 6, 4        Fadd9 = 2030
+------------------------------------------------------------------------------------------------------------------------------------
+Intro:  [x1 until the last] [C] [Em] [Am] [F] /// [C] [G] [Am] [Fadd9] [F x2]
+------------------------------------------------------------------------------------------------------------------------------------
+[C] [Em] [F] [C]         oooooooooo         1'-  3'-         7 7 7 2' 7 2'         1'                 1' 1' 1'
+[F] [G] [Am] [F]         oooooooooo        1'-           7 7 7 2' 7            6 1' 1'         ,         6 1' 1' 1'
+----------------------------------------------------------------------------------------------------------------------------------------
+[C] Somewhere, [Em] over the rainbow | 1' 1'         7 5 6 7 1'.
+[F] way up [C] high, | 1 6        5
+[F] And the [C] dreams that you dreamed of, | 6. 4,        3 1 2 3 4
+[G] Once in a lulla-[Am]-by-y-y [F] y-y-y | 2 7. 1         2 3                 3  6 1'                3' 2' 1'
+
+[C] Oh, somewhere [Em] over the rainbow, | 1' 1' 5        7 7 7 2' 7
+[F] bluebirds [C] fly. | 1' 6        5
+[F] And the [C] dreams that you dreamed of, | 6. 4,        3 1 2 3 4
+[G] Dreams really do come [Am] true.  [F] oo-oo-oo | 2 7. 1         2 3                 3  6 1'                3' 2' 1'
+------------------------------------------------------------------------------------------------------------------------------------
+Some-[C] day, I'll wish upon a star, | 1' 1' 1' 1' 1'         1' 5 5
+[G] Wake up where the clouds are far | 7 7 7 7         7 7 7
+be-[Am]-hind  [F] me-ee-ee. | 7 6        3' 2' 1'
+
+Where [C] trouble melts like lemon drops, | 1' 1' 1' 1' 1'         1' 5 5
+[G] High above the chimney top, | 7 7 7 7         2' 7 7
+That's [Am] where you'll [F] fi-iind me. | 7 1' 1'        3' 2' 1'
+------------------------------------------------------------------------------------------------------------------------------------
+[C] Oh, somewhere [Em] over the rainbow, | 1' 1' 3'        7 7 7 2' 7
+[F] bluebirds [C] fly. | 1' 1' 1'
+[F] And the [C] dreams that you dared to, | 6. 4,        3 1 2 3 4
+Oh [G] why, oh why can't [Am] I-I-I[F] I-I-I | 2 7. 1         2 3                 3  6 1'                3' 2' 1'
+------------------------------------------------------------------------------------------------------------------------------------
+Some-[C] day, I'll wish upon a star (same as above) | 1' 1' 1' 1' 1'         1' 5 5
+------------------------------------------------------------------------------------------------------------------------------------
+[C] Somewhere, [Em] over the rainbow | 1' 1' 3'        7 7 7 2 7
+[F] way up [C] high, | 1' 1' 1'
+[F] And the [C] dreams that you dared to , | 6. 4,        3 1 2 3 4
+Oh [G] why, oh why can't [Am] I-I-I[F] I-I-I | 2 7. 1         2 3                 3  6 1'                4 6 1'
+------------------------------------------------------------------------------------------------------------------------------------
+[C] [Em] [F] [C]         oooooooooo         1'-  3'-         7 7 7 2' 7 2'         1'                 1' 1' 1'
+[F] [C] [G] [Am] [F]         oooooooooo        1'-           7 7 7 2' 7
+        ooo aaa eee aaa a a a a a        ???????????????
+```

@@ -1,0 +1,45 @@
+---
+title: "Folsom Prison Blues"
+sort_title: "Folsom Prison Blues"
+artist: "Johnny Cash"
+key: "E"
+key_note: "youtube) but I play in G so I can sing."
+youtube: "https://www.youtube.com/watch?v=HxAa83gP9vc"
+libraries: ["all"]
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+voice_low: "G2"
+added: "2012-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1KnQDS6HL8K92FSGJnpvzvC_-56UdLBG2tdK55l9-94g/edit"
+---
+
+```{.song}
+Intro: d d d f# f# b a# g
+
+I [G] hear the train a-comin'; it's rollin' 'round the bend, | 1 3 3 4 5 1 1         3 3 4 5 1
+[G] And I ain't seen the sunshine since I don't know when, | 3 3 4 5 1 1        1 3 5 1
+I'm [C7] stuck at Folsom Prison and time keeps draggin' [G] on.
+But that [D7] train keeps a-rollin' on down to San [G] Antone.
+
+When [G] I was just a baby, my momma told me, "Son,
+Always be a good boy; don't ever play with guns."
+But I [C7] shot a man in Reno, just to watch him die.
+When I hear that whistle blowin', I hang my head and [G] cry.
+
+Solo: g g# b c# b d b // g g# b c# b d (x2) [C7] [G] [D7] [G]
+
+I [G] bet there's rich folk eatin' in a fancy dining car.
+They're prob'ly drinkin' coffee and smokin' big cigars,
+But I [C7] know I had it comin', I know I can't be [G] free,
+But those [D7] people keep a-movin', and that's what tortures [G] me.
+
+Solo: g g# b c# b d b // g g# b c# b d (x2) [C7] [G] [D7] [G]
+
+Well if they [G] freed me from this prison, if that railroad train was mine,
+I bet I'd move it all a little farther down the line,
+[C7] Far from Folsom Prison, that's where I want to [G] stay,
+And I'd let that lonesome [D7] whistle blow my blues a-[G]-way.
+```

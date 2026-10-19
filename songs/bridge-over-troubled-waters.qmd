@@ -1,0 +1,45 @@
+---
+title: "Bridge Over Troubled Waters"
+sort_title: "Bridge Over Troubled Waters"
+artist: "Simon and Garfunkel"
+key: "C"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 3
+fun: 2
+skill: 2
+poppy: 1
+happy: 1
+spiritual: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EyCHVwrHHBEuYzg6rOkS7wxIn_E7iReLCPRkbIjm_CQ/edit"
+---
+
+```{.song}
+Verse:
+When you're [C] weary. [F] Feeling [C] [F] small.
+When [A#] tears [F] are [C] in your [F] eyes, I will [C] dry them [F] all.
+[C] I'm [G] on [Am] your [G] side
+ohhhh when [C] times get [C7] rough.
+[C] And [C7] friends [Gm] just [F] can't [D] be [G] found.
+[C7] Like a [F] bridge over [C] troubled [A7] [F] water, I will [E7] lay me [Am] down.
+[C7] Like a [F] bridge over [C] troubled [A7] [F] water, I will [G7] lay me [C] down [F] [C] [F]
+
+Verse:
+When you're [C] down and [F] out. When you're on the [C] [F] streets yeh.
+When [A#] [F] evening [C] falls so [F] hard. I will [C] comfort [F] you.
+[C] I'll [G] take [Am] your [G] part
+ ohhhh when darkness [C] [C7] comes.
+[C] And [C7] pain [Gm] is [F] all [D] [G] around.
+[C7] Like a [F] bridge over [C] troubled [A7] [F] water, I will [E7] lay me [Am] down.
+[C7] Like a [F] bridge over [C] troubled [A7] [F] water, I will [G7] lay me [C] down [F] [C] [F]
+
+Verse:
+Sail on [C] silver [F] girl. Sail on [C] [F] by.
+Your [A#] time [F] has [C] come to [F] shine.
+All your [C] dreams are on their [F] way.
+[C] See [G] how [Am] they [G] shine ohhhhh and if you [C] need a friend.
+[C] I'm [C7] [Gm] sailing [F] right [D] [G] behind.
+[C7] Like a [F] bridge [D7] over [C] troubled [A7] [F] water, I will [E7] ease your [Am] mind.
+[C7] Like a [F] bridge over [C] troubled [A7] [F] water, I will [G7] ease your [C] mind [F] [C] [F]
+```

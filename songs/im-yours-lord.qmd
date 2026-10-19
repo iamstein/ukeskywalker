@@ -1,0 +1,22 @@
+---
+title: "I'm Yours Lord"
+sort_title: "I'm Yours Lord"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1tq1gLTXZ6ZP4zYocFNUFkAZHPs45K7n8DpkQNvyoPv4/edit"
+---
+
+```{.song}
+I'm [G] yours lord. [C] Everything I've [G] got.
+[C] Everything I [G] am. [C] Everything I'm [D] not.
+I'm [G] yours lord. [C]  Try me now and [G] see.
+[C] See if I can [D] be completely yours.
+```

@@ -1,0 +1,74 @@
+---
+title: "I Want you Back"
+sort_title: "I Want you Back"
+artist: "Jackson Five"
+key: "G"
+key_note: "Youtube:https://www.youtube.com/watch?v=quCPNcXQkCU&ab_channel=ChooChooSoul-Topic"
+libraries: ["all"]
+difficulty: 3
+fun: 3
+skill: 2
+poppy: 3
+happy: 2
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Vxyx7_uI9NYFHQPvXssUCUEqJ0q4Tff7C2ZRE0xPV9Q/edit"
+---
+
+```{.song}
+Intro -x2-: G   C   Em   C  G   xA#mx-D-G
+
+[G] Uh-huh [D] [Em] huh [D] huh [C] huh [C] [Am] Let me [D] tell ya now
+[Em] Uh-huh Uh-huh [C] uh-huh [G] uh-huh [Am] ooh [D] ooh [G] ooh
+
+[G] When I had you to myself I [C] didn't want you around
+Those [Em] pretty [Bm] faces [C] always [G] made you [Am] stand out [D] in a [G] crowd
+But [G] someone picked you from the bunch. One [C] glance was all it took
+[Em] Now it's [Bm] much too [C] late for [G] me to [Am] take a [D] second [G] look
+
+Chorus:
+[G] Oh [D] baby [Em] give me [D] one more [C] chance [Am] -show you that I [D] love you-
+[Em] Won't [Bm] you [C] please [G] let [Am] me [D] [G] -back in your heart-
+[G] Oh [D] darlin' [Em] I was [D] blind to [C] let you go [Am] -let you go [D] baby-
+But [Em] now [Bm] since [C] I [G] see [Am] you [D] in his [G] arms -I want you back-
+
+[G] Yes I do now -I want you back-
+Ooh ooh baby -I want you back-
+Ya ya ya ya  -I want you back-
+Na na na na
+
+[G] Tryin' to live without your love Is [C] one long sleepless night
+[Em] Let [Bm] me [C] show [G] you girl. That [Am] I know [D] wrong from [G] right
+[G] Every street you walk on I [C] leave tear stains on the ground
+[Em] Follow-[Bm]-ing [C] the [G] girl I didn't [Am] even [D] want [G] around, let me tell you now
+
+Chorus:
+[G] Oh [D] baby [Em] all I [D] need is [C] one more chance [Am] -show you that I [D] love you-
+[Em] Won't you [C] please [G] let [Am] me [D] [G] -back to your heart-
+[G] Oh [D] darlin' [Em] I was [D] blind to [C] let you [C] go [Am] -let you go [D] baby-
+But [Em] nowb [Bm] since [C] I [G] see you in his [G] [D] arms, [Em] [D] Uh-huh
+
+Interlude -x3-: G  D  Em  D
+
+[G] a [D] buh buh [Em] buh [D] buh
+[G] a [D] buh buh [Em] buh buh, [D] All I want
+[G] a [D] buh buh [Em] buh buh, [D] All I need
+[G] a [D] buh buh [Em] buh buh, [D] All I want
+[G] a [D] buh buh [Em] buh buh, [D] All I need
+
+[G] [D] Oh [Em] just [D] one more [C] [C] chance
+To [Am] show you that I [D] love you
+[Em] Baby -baby- [C] baby [G] -baby- [Am] baby [D] -baby- [G] -I want you back-
+
+[G] Forget what happened then -I want you back-
+[G] Let me live again
+
+[G] Oh [D] baby [Em] I was [D] blind to [C] let you [C] [Am] [D] go
+But [Em] now since [C] I [G] see [Am] you [D] in his [G] arms -I want you back-
+
+[G] Spare me of this cause
+[G] Gimme back what I lost
+
+[G] Oh [D] baby [Em] I need [D] one more [C] chance [C] ha, I [Am] tell ya that I [D] love you
+[Em] Baby -ah- [C] baby [G] -ah- [Am] baby [D] -ah- [G] -I want you back-
+```

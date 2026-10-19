@@ -1,0 +1,22 @@
+---
+title: "Where is Thumbkin?"
+sort_title: "Where is Thumbkin?"
+key: "G"
+libraries: ["all", "kids", "kids-motions"]
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1pwh_Jla5Z3pJDdtKcaEkYatzDve-sxNgwF3FLuXwIw0/edit"
+---
+
+```{.song}
+[G] Where [D] is [G] thumbkin, [G] where [D] is [G] thumbkin?
+[G] Here [C] we [D] are. [G] Here [C] we [D] are.
+[Em7] How are you  [C] to-[G]-day sir? [Em7] Very well [C] and [G] thank you.
+[G] Run [D] a-[G]-way, [G] run [D] a-[G]-way.
+
+Pointer
+Tall-man
+Ring-man
+Pinky
+All fingers
+```

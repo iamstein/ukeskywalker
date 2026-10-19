@@ -1,0 +1,51 @@
+---
+title: "Fortunate Son"
+sort_title: "Fortunate Son"
+artist: "Creedence Clearwater Revival"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+practice: 4
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+protest: 2
+added: "2017-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jQjWXHjbfv2x_2gPiGCnbqw6fgTv-_UWdKlrDNVOjmQ/edit"
+---
+
+```{.song}
+Verse 1:
+[G] Some folks are born, [F] made to wave the flag | 1 1 1 1 2 1 1 7m. 1
+[C] Ooh they're red white and [G] blue
+[G] And when the band plays [F] hail to the chief
+[C] Ooh they point the cannons at [G] you, y'all
+
+Chorus:
+[G] It ain't me, [D] It ain't me,  [C] I ain't no senator's [G] son. Y'all
+[G] It ain't me, [D] It ain't me,  [C] I ain't no fortunate [G] one. No
+
+Verse 2:
+[G] Some folks are born, [F]  silver spoon in hand
+[C] Lord they don't help them-[G]-selves, y'all
+[G] But when the tax man [F] comes to the door
+[C] Lord the house looks like a rummage [G] sale yeah
+
+Chorus:
+[G] It ain't me, [D] It ain't me,  [C] I ain't no millionaire's [G] son. Y'all
+[G] It ain't me, [D] It ain't me,  [C] I ain't no fortunate [G] one. No
+
+[G] [F] [C] [G]
+
+Verse 3:
+[G] Some folks inherit [F] star spangled eyes
+[C] Ooh they send you down to [G] war y'all
+[G] And when ya ask them [F] how much should they give
+[C] Oooh they only answer [G] more more more.
+
+Chorus:
+[G] It ain't me, [D] It ain't me,  [C] I ain't no military's [G] son. Y'all
+[G] It ain't me, [D] It ain't me,  [C] I ain't no fortunate [G] one. No
+```

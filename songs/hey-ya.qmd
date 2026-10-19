@@ -1,0 +1,87 @@
+---
+title: "Hey Ya"
+sort_title: "Hey Ya"
+artist: "Outkast"
+key: "G"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+added: "2021-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1lcMK7CrZhxIsgY-ecDxsO9QXGchA2TstCkVvv5iAilI/edit"
+---
+
+```{.song}
+Intro, Verse:
+One two three go!
+[G] My baby don't [C] mess around
+Because she loves me so and this [D] I know fo [E] shooo...
+
+[G] Uh, but does she [C] really wanna
+But can't stand to see me walk out [D] the [E] doo...
+
+[G] Don't [C] try to fight the feelin'
+Because the thought alone is [D] killing me right [E] nooww...
+
+[G] Uh, thank god [C] for mom and dad
+For sticking through together 'cause we [D] don't know [E] hooowww… UH!
+
+Chorus:  [G] Heeeyyy... [C] Yaaaaaaa… [D] Heeyy [E] Yaaaaaaaa… x4
+
+Verse:
+[G] You think you've got it [C] Ohh, you think you've go it
+But got it just don't get it t ill there's [D] nothing at [E]  aaaaAAAAaaaaAAAAaaaallllll...
+
+[G] We've been together [C] Ohh, we've been together
+But separate's always better when there's [D] feelings Invoooo-[E]-OOOOooooOOOOoooOOOOOlved
+
+[G] If what they say is [C] "Nothing is forever"
+Then what makes, Then what [D] makes [E] LOOVEEE? (Love exception)
+
+[G] So why you, why you [C] Why you, why you, why you are we so in denial
+When we [D] are not happy [none] heeeerrreeee...
+[N.C.] Y'all don't want me here you just wanna dance
+
+Chorus:
+[G] Heeeyyy... [C] Yaaaaaaa...(OHH OH)
+[D] Heeyy [E] Yaaaaaaaa.. (OHH OH)
+[G] Heeeyyy... [C] Yaaaaaaaa...(Don't want to meet your daddy, OHH OH)
+[D] Heeyy [E] Yaaaaaaa...(Just want you in my Caddy OHH OH)
+[G] Heeeyyy... [C] Yaaaaaaa... (OHH OH, don't want to meet yo' mamma OHH OH)
+[D] Heeeyyy... [E] Yaaaaaa...(I'm, OHH OH I'm, OHH OH)
+[G] Heeyy Yaaaaaaaa... [C] (I'm just being honest OHH OH, I'm just being honest)
+
+Bridge:
+[G] Hey, alright [C] now
+[D] Alright now [E] fellas, (YEAH)
+[G] Now what's cooler [C] than bein' cool?
+[D] (ICE COLD!) I [E] can't hear ya'
+[G] I say what's cooler [C] than bein' cool?
+[D] (ICE COLD!) [E] whooo...
+[G] Alright, alright, [C] alright, alright
+[D] Alright, [E] alright, alright, alright
+[G] Alright, alright, [C] alright, alright
+[D] Alright, [E] alright, alright, OK now ladies, (YEAH)
+[G] And we gon' break [C] this back down in just a few seconds
+[D] Now don't have [E] me break this thang down for nothin'
+[G] Now I wanna see [C] y'all on y'all baddest behavior
+[D] Gimme some [E] suga', I am your neighbor ahh here we go!
+[G] Shake it, shake it, [C] shake it, shake it (OHH OH)
+[D] Shake it, shake [E] it, shake it, shake it, shake it, shake it (OHH OH)
+[G] Shake, shake it like [C] a Polaroid picture, shake it, shake it
+[D] Shh you got to, [E] shake it, shh, shake it, shake it, got yo shake it
+[G] (Shake it Suga') [C] shake it like Polaroid picture
+
+[Verse]
+
+[G] Now all [C] Beyonces and Lucy Lius
+
+And baby dolls, get on the floor
+(Get on [D] the [E] floor)
+[G] You know what to [C] dooo...
+
+Yoooooouuu... Know I do
+```

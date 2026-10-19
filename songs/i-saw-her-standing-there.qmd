@@ -1,0 +1,53 @@
+---
+title: "I Saw Her Standing There"
+sort_title: "I Saw Her Standing There"
+artist: "The Beatles"
+youtube: "http://www.youtube.com/watch?v=-76L_putU_g&t=19s"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 3
+poppy: 3
+happy: 3
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1SVaBFitcfFcHaRz8ysZkjQse4-0bpcKJT8Vqsa0Fq74/edit"
+---
+
+```{.song}
+Verse 1:
+[A7] Well she was just seventeen and you [D7] know what I [A7] mean
+[A7] And the way she looked was way beyond com-[E7]-pare
+So [A] how could I [A7] dance with a-[D7]-nother [F] ooh,
+when I [A] saw her [E7] standing [A7] there
+
+Verse 2:
+Well [A7] she looked at me and [D7] I, I could [A7] see
+[A7] That before too long I'd fall in love with [E7] her
+[A] She wouldn't [A7] dance with a-[D]-nother [F] ooh,
+when I [A] saw her [E7] standing [A7] there
+
+Bridge:
+Well my [D7] heart went boom when I crossed that room
+[D7] and I held her [A]hand in [E7] mine
+
+Verse 3:
+Well we [A7] danced through the night and we [D7] held each other [A7] tight
+And before too long I fell in love with [E7] her
+Now [A] I'll never [A7] dance with a-[D]-nother [F] ooh,
+since I [A] saw her [E7] standing [A7] there
+
+Bridge:
+Well my [D7] heart went boom when I crossed that room
+[D7] and I held her [A] hand in [E7] mine
+
+Verse 3:
+Well we [A7] danced through the night and we [D7] held each other [A7] tight
+And before too long I fell in love with [E7] her
+Now [A] I'll never [A7] dance with a-[D]-nother [F] ooh,
+since I [A] saw her [E7] standing [A7] there
+
+Outro:
+Since I [A] saw her [E7] standing [A7] there
+Since I [A] saw her [E7] standing [A7] there
+```

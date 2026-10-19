@@ -1,0 +1,55 @@
+---
+title: "Eve of Destruction"
+sort_title: "Eve of Destruction"
+artist: "Barry McGuire"
+key: "D"
+youtube: "https://www.youtube.com/watch?v=ntLsElbW9Xo"
+libraries: ["all"]
+difficulty: 3
+fun: 1
+skill: 2
+poppy: 2
+happy: 1
+protest: 1
+added: "2017-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1NyEX0lxnyV-9AQ-A-KNgKYhs4S5hv0kVmQYf-0Ngncg/edit"
+---
+
+```{.song}
+The [D] Eastern world [G] it is [A7] explodin',
+[D] violence flarin' and [G] bullets [A] loadin',
+You're [D] old enough to kill, but [G] not for [A] votin',
+You [D] don't believe in war, but's [G] what's that gun you're [A] totin'?
+And [D] even the Jordan River has [G] bodies [A] floatin'
+But you [D] tell me, [G] over and [A] over and [D] over again my [Bm] friend,
+Ah, [G] you don't believe we're [A] on the Eve of [D] Destruction. [G] [A]
+
+[D] Don't you understand what I'm [G] tryin' to [A] say?
+[D] Can't you feel the fear that I'm [G] feelin' [A] today?
+If the [D] button is pushed there's no [G] running [A] away,
+There'll be [D] no one to save with the [G] world in a [A] grave.
+Take a [D] look around you boy, it's [G] bound to scare you [A] boy,
+But you [D] tell me, [G] over and [A] over and [D] over again my [Bm] friend,
+Ah, [G] you don't believe we're [A] on the Eve of [D] Destruction. [G] [A]
+
+My [D] blood's so mad feels [G] like [A7] coagulatin',
+[D] I'm sittin' here [G] just [A] contemplatin'
+You [D] can't twist the truth it [G] knows no [A] regulation,
+and a [D] handful of Senators don't [G] pass [A] legislation.
+[D] Marches alone can't [G] bring [D] integration,
+when [D] human respect is [G] disinte-[D]-gratin'.
+[D] This whole crazy world is [G] just too [A] frustratin'.
+But you [D] tell me, [G] over and [A] over and [D] over again my [Bm] friend,
+Ah, [G] you don't believe we're [A] on the Eve of [D] Destruction. [G] [A]
+
+[D] Think of all the hate there [G] is in Red [A7] China, then
+[D] take a look around to [G] Selma, [A] Alabama!
+[D] You may leave here for [G] four days in [A] space,
+But [D] when you return, it's the [G] same old [A] place.
+The [D] pounding drums, the [G] pride and [A] disgrace,
+you can [D] bury your dead, but don't [G] leave a [A] trace,
+[D] Hate your next door neighbor, but [G] don't forget to [A] say grace.
+But you [D] tell me, [G] over and [A] over and [D] over again my [Bm] friend,
+Ah, [G] you don't believe we're [A] on the Eve of [D] Destruction. [G] [A]
+```

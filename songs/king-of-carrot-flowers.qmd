@@ -1,0 +1,37 @@
+---
+title: "King of Carrot Flowers"
+sort_title: "King of Carrot Flowers"
+artist: "Neutral Milk Hotel"
+key: "F"
+youtube: "https://www.youtube.com/watch?v=LULmbLlPvVk"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+voice_low: "D3"
+voice_high: "C4"
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Z0Key-d-ROvWb9dbV7BbiAqHs1HujFwFXdrlO1qp1Xo/edit"
+---
+
+```{.song}
+        Melody
+[F] When you were young you were the [C] king of carrot [Bb] flowers | 5 5 5 5 4 3 2 2 2 1 1 1
+[F] And how you built a tower [C] tumbling through the [Bb] trees | 5 5 5 5 4 3 2 2 2 1 1 2
+[C] And holy rattlesnakes that [Bb] fell around your [F] feet [C] [Bb] | 2 2 2 2 1 7. 6.         6. 6. 6.-1 1
+
+[F] And your mom would stick a fork right [C] into daddy's [Bb] shoulder | (repeat)
+[F] And dad would throw the garbage [C] all across the [Bb] floor
+[C] As we would lay and learn what [Bb] each other's bodies were [F] for [C] [Bb]
+
+[F] And this is the room one after-[C]-noon I knew I could [Bb] love you
+[F] And from above you how I [C] sank into your [Bb] soul
+[C] Into that secret place where [Bb] no one dares to [F] go [C] [Bb]
+
+[F] And mom would drink until she [C] was no longer [Bb] speaking
+[F] And dad would dream of all the [C] different ways to [Bb] die
+[C] Each one a little more than [Bb] he could dare to [F] try. [C] [Bb] [F] [C] [Bb] [F]
+```

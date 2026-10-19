@@ -1,0 +1,16 @@
+---
+title: "Today"
+sort_title: "Today"
+artist: "Smashing Pumpkins"
+key: "D"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 5
+poppy: 2
+happy: 2
+voice_high: "D4"
+added: "2010-07"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1WRv1zfWKL-DhSNrdBy59FtOt7vVOxJNNcSNVoGQTwYo"]
+---

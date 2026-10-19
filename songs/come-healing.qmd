@@ -1,0 +1,46 @@
+---
+title: "Come Healing"
+sort_title: "Come Healing"
+artist: "Leonard Cohen"
+key: "F"
+youtube: "https://www.youtube.com/watch?v=MUB1O2cT2gM"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+practice: 4
+fun: 1
+skill: 4
+poppy: 1
+happy: 1
+spiritual: 3
+added: "2020-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1eg8Bv5bL6S9g4lahqI9ti5-6CwiM4Ve5FChk8kZzeUc/edit"
+---
+
+```{.song}
+O [F] gather up the brokenness and [Bb] bring it to me [F] now
+the [C] fragrance of those promises you [Bb] never dared to [C] vow
+[Dm] the splinters that you [Bb] carry the [F] cross you left [C] behind
+Come [Bb] healing of the [F] body come [C] healing of the [F] mind
+[Bb] and let the heavens [F] hear it the [C] penitential hymn
+Come [Bb] healing of the [F] spirit come [C] healing of the [F] limb
+
+[F] Behold the gates of mercy in [Bb] arbitrary [F] space
+and [C] none of us deserving the [Bb] cruelty or the [C] grace
+O [Dm] solitude of [Bb] longing where [F] love has been [C] confined
+Come [Bb] healing of the [F] body come [C] healing of the [F] mind
+[Bb] O see the darkness [F] yielding that [C] tore the light apart
+Come [Bb] healing of the [F] reason come [C] healing of the [F] heart
+
+[F] O troubled dust concealing an [Bb] undivided [F] love
+the [C] heart beneath is teaching to the [Bb] broken heart [C] above
+O [Dm] let the heavens [Bb] falter and [F] let the earth [C] proclaim:
+Come [Bb] healing of the [F] altar come [C] healing of the [F] name
+
+[F] O longing of the branches to [Bb] lift the little [F] bud
+O [C] longing of the arteries to [Bb] purify the [C] blood
+[Dm] and let the heavens [Bb] hear it the [F] penitential [C] hymn
+Come [Bb] healing of the [F] spirit come [C] healing of the [F] limb
+[Bb] O let the heavens [F] hear it the [C] penitential hymn
+Come [Bb] healing of the [F] spirit come [C] healing of the [F] limb
+```

@@ -1,0 +1,59 @@
+---
+title: "Luckiest Guy on the Lower East Side"
+sort_title: "Luckiest Guy on the Lower East Side"
+artist: "Magnetic Fields"
+key: "C"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2012-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/16TtXwa3A-bDl3qS8-6kDBnN1f4qzbdDdzPwE46vq6mg/edit"
+---
+
+```{.song}
+Easier to Play in C, but on the album is written in B
+
+INTRO:
+[C] [F] X2
+
+VERSE:
+[C] Andy would bicycle across [F] town in the rain to bring you
+[C] candy and John would buy the [F] gown for you to wear to the
+[C] prom with Tom the astro-[F]-nomer who'd name a star for [G] you
+
+CHORUS:
+But I'm the luckiest [C] guy on the Lower East [Am] Side
+Cause [F] I've got wheels and [G] you want to go for a [C] ride [F] [C] [F]
+
+VERSE:
+[C] Harry is the one I think you'll [F] marry, but it's
+[C] Chris that you kissed after [G] school
+Well I'm a [C] fool, there's no doubt but [F] when the sun comes out
+And only [G] when the sun comes out
+
+CHORUS:
+I'm the luckiest [C] guy on the Lower East [Am] Side
+Cause [F] I've got wheels and [G] you want to go for a [C] ride
+
+INTERLUDE (Chords Optional):
+[C] The day is beautiful [F] and so are [G] you
+[C] My car is ugly but then, [F] I'm ugly [G] too
+[C] I know you'd never give me [F] a second [G] glance
+But when the weather's [G] nice all the [F] other guys [C] don't stand a [G] chance
+
+I [C] know Professor Blumen makes [F] you feel like a woman
+But [C] when the wind is in your hair you [F] laugh like a little girl
+So you [C] share secrets with Lou, but [F] we've got secrets too
+Well, [G] one: I only [F] keep this heap for [G] you
+
+CHORUS:
+But I'm the ugliest [C] guy on the Lower East [Am] Side
+Cause I've got [F] wheels and [G] you want to go for a [C] ride
+
+OUTRO:
+[Am] [F] [G] Wanna go for a [C] ride? x 3
+```

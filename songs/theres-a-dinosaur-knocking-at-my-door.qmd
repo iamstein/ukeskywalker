@@ -1,0 +1,27 @@
+---
+title: "There's a Dinosaur Knocking at my Door"
+sort_title: "There's a Dinosaur Knocking at my Door"
+artist: "Isaac Zones"
+key: "D"
+youtube: "https://www.youtube.com/watch?v=XEovjkXrD4s"
+libraries: ["all", "kids"]
+added: "2023-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/195UsNMPSxDR2YVkxSns5iFCgG1fDJftKUAXFEsy7T6A/edit"
+---
+
+```{.song}
+[D] There's a dinosaur [G] knocking at my [D] door, knocking one, two, [A] three
+There's a [D] dinosaur [G] knocking at my [D] door,
+[D] And she wants to have [A] Shabbat with [D] me.
+
+[Verse 1]
+[D] She [G] wants to light the candles. She wants to drink the [D] wine.
+[D] She [G] wants to eat the challah – she [A7] does it all the time.
+
+[Outro]
+[A] There's a [D] dinosaur [G] knocking at my [D] door,
+[D] And she wants to have [A] Shabbat, [D] wants to have [A] Shabbat,
+[D] wants to have [A] Shabbat with [D] me [A] and [D] you [A] and [D] us [A] and [D] them
+[A] and [D] we [A] and [D] they [A] and ev-[A]-ery-[D]-bo-[A]-dy [D] in [A] the [D] whole [A] wide [D] world.
+```

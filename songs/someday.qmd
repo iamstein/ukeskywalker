@@ -1,0 +1,62 @@
+---
+title: "Someday"
+sort_title: "Someday"
+artist: "The Strokes"
+key: "A"
+youtube: "http://www.youtube.com/watch?v=nGBlQloTh1U"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 5
+poppy: 2
+happy: 2
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1iUcFcdoohjA7MzFloVXW6fChB-TQ_1FHu6_4OUxJ66A/edit"
+---
+
+```{.song}
+Stroke - http://www.youtube.com/watch?v=knU9gRUWCno
+
+Verse                                Chorus
+A = 2100, A2 = 2102,                 Ah= 6454, E  = 4442, F#m = 2120
+D7= 2224, D6 = 2222,                 D = 2220, A  = 2100
+
+Intro: A A2, D7 D6, D7 D6, A2 A
+
+Verse: A A2, D7 D6, D7 D6, Bm A
+In [A] ma-[A2]-ny ways, still [D7] miss the [D6] good old days,
+[D7] some-[D6]-times, [A2] some-[A]-times
+
+It [A] hurts [A2] to say, but [D7] I want [D6] you to stay,
+[D7] some-[D6]-times, [A2] some-[A]-times
+
+When [A] we [A2] were young, oh [D7] man did [D6] we have fun,
+[D7] al-[D6]-ways, [A2] al-[A]-ways,
+
+[A] Pro-[A2]-mises, they [D7] break be-[D6]-fore they're made,
+[D7] some-[D6]-times, [A2] some-[A]-times
+
+Chorus:
+Oh my, [Ah] ex says I'm [E] lacking in [F#m] depth.
+[D] I will do my [A] best
+
+You [Ah] say you wanna [E] stay by my [F#m] side.
+[D] Darlin' your head's not [A] right
+
+I said [Ah] alone we stand to-[E]-gether we [F#m] fall apart.
+[D] Yeah, I think I'll be al-[A]-right
+
+I'm work-[Ah]-ing so I [E] don't have to [F#m] try so hard.
+[D] Tables they turn some[A]times
+Oh, [E] someday....Well I ain't wastin' no more tiiiime. [A A2 D7 D6 D7 D6 A2 A]
+
+Verse 2:
+[A A2] And now my fears, they [D7 D6] come to me in threes,
+[D7] some-[D6]-times, [A2] some-[A]-times
+
+They [A] fade [A2] my friend, you [D7] say the [D6] strangest thing,
+[D7] some-[D6]-times, [A2] some-[A]-times
+
+Chorus, End on A.:
+```

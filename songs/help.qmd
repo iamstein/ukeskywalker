@@ -1,0 +1,62 @@
+---
+title: "Help"
+sort_title: "Help"
+artist: "The Beatles"
+key: "F"
+alt_keys: ["D"]
+key_note: "is nice on ukulele (Beatles play the song in A"
+youtube: "http://www.youtube.com/watch?v=0ApstMKNEMI"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 5
+poppy: 3
+happy: 2
+voice_low: "A3"
+voice_high: "A4"
+added: "2011-12"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1r34IYLpdZOUVfH98c5Q3tbNSixICO0gn_9Zenl4b7NM/edit"
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdHJXZzVIdGFpUVhQWk16Nm1xUlh1eFE&hl=en&output=html"]
+---
+
+```{.song}
+Intro: | 2m = Gm (0231);         7b = Eb (0221)        5-7 = C7 (3003)
+Verse: | 1    = F (2010);        3m= Am (2000)        6m = Dm (2210)        4 = Bb (3211)
+Outro: | 1-6 = F6 (5555);
+
+Intro:
+[Gm] Help! I need somebody [Eb] Help! not just anybody | 6 5 6 5 5 4        7m 2 4 6 5 5 2
+[C7] Help! You know i need someone [F] HELP! | 7 2 4 2 6 5 5         3'-2'-1'
+
+Verse 1:
+[F] When I was young oh so much [Am] younger than today | 3 3 3 3 3 3 3 3 3 3         5 3-2-1
+[Dm] I never needed anybody's [Bb] help in [Eb] any [F] way | 3 3 3 3 3 3 3 3 3         4 4 4 4 3
+[F] But now these day have gone and I'm [Am] not so self assured | 3 3 3 3 3 3 3 3 3 3         5 3-2-1
+[Dm] And now I find I've changed my mind. | 3 3 3 3 3 3 3 3 3
+I've [Bb] opened [Eb] up the [F] door | 1 4 4 4 4 3
+
+Chorus:
+[Gm] Help me if you can I'm feeling down | 5 5 5 5 5         4 3 2 4-3-2
+And I [Eb] do appreciate your being 'round | 2 3 5 5 5 5 5         4 3 2 4-3-2
+[C7] Help me get my feet back on the ground | 5 5 5 5 5         4 3 2 4-3-2
+Won't you [F] please please help [F] me? | 5 5 3' 2'-1'  5-4 3
+
+Verse 2:
+[F] And now my life has changed in [Am] oh so many ways | 3 3 3 3 3 3 3 3 3 3         5 3-2-1
+[Dm] My independence seems to [Bb] vanish in [Eb] the [F] haze | 3 3 3 3 3 3 3 3 3         4 4 4 4 3
+[F] But every now and then I [Am] feel so insecure | 3 3 3 3 3 3 3 3 3 3         5 3-2-1
+[Dm] And now I find I need you like | 3 3 3 3 3 3 3 3 3
+I've [Bb] never [Eb] done [F] before | 1 4 4 4 4 3
+
+Chorus:
+
+Verse 1 - repeat:
+
+Chorus:
+
+Outro:
+[F] Won't you [F] please please help [Dm] me | 5 5 3' 2'-1'  5-4  3
+[Dm] Help me Help [F] me. [F6] Oohm. | 6 6 6 1'-5 6
+```

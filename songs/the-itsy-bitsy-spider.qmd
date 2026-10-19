@@ -1,0 +1,21 @@
+---
+title: "The Itsy Bitsy Spider (or Incy Wincy Spider)"
+sort_title: "Itsy Bitsy Spider (or Incy Wincy Spider), The"
+key: "D"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+fun: 3
+skill: 5
+poppy: 2
+happy: 3
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1PxqZto3Is2ZkEG932TJZda4rLTaIgnZeOZWYQMAzs70/edit"
+---
+
+```{.song}
+The [D] itsy bitsy spider, [A] went up the water [D] spout.
+[D] Down came the rain and [G] washed the spider [D] out.
+[D] Up came the sun and [A] dried up all the [D] rain.
+And the [D] itsy bitsy spider climbed [A] up the spout a-[D]-gain.
+```

@@ -1,0 +1,51 @@
+---
+title: "No Rain"
+sort_title: "No Rain"
+artist: "Blind Melon"
+key: "E"
+key_note: "-pentatonic (may be easier in F on uke?"
+youtube: "http://www.youtube.com/watch?v=3qVPNONdF58&t=33s"
+libraries: ["all"]
+difficulty: 3
+practice: 3
+skill: 2
+poppy: 2
+happy: 2
+voice_low: "B2"
+voice_high: "B3"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1wXRyYcoLnGoDnYvJGn4OtzkRtV9nWWZfcP9wsStKncw/edit"
+---
+
+```{.song}
+Intro riff #1: a-a b e (x3)
+Intro riff #2: e a-g#-a f# e d e (x3)
+
+Verse 1:
+[E]  [E]  [E]  [D]  [E]  oooo[D] ....[E] ....[D] ....[E] ....oh[D]
+[E] All I can say is that my [D] life is pretty plain
+I [A] like watchin' the puddles [G] gather [E] rain
+And all I can do is just [D] pour some tea for two
+And [A] speak my point of view but [G] it's not [E] sane, it's not sane.
+
+Bridge:
+[E] I just want [D] someone to [E] say to me, [D] oh-oh-oh-oh
+[E] I'll always [D] be there when you [E] wake. [D]
+[E] You know, I'd like to [D] keep my cheeks [E] dry today[D]
+[E] So stay with [D] me and I'll have it [E] made [D]
+
+Verse 2:
+[E] And I don't understand why I [D] sleep all day
+And I [A] start to complain that [G] there's no [E] rain
+And all I can do is read a [D] book to stay awake
+It [A] rips my life away, but its a [G] great [E] escape...
+[E] Escape... [E] escape... [E] escape...
+
+Solo:
+
+Verse 3:
+[E] All I can say is that my [D] life is pretty plain
+You don't [A] like my point of view. You [G] think that I'm in[E] sane
+[E] It's not sane... [E] It's not sane
+```

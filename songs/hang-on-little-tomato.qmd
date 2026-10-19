@@ -1,0 +1,58 @@
+---
+title: "Hang on Little Tomato"
+sort_title: "Hang on Little Tomato"
+artist: "Pink Martini"
+key: "F"
+youtube: "http://youtu.be/qxoKMDNfx3A?t=1m31s"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 1
+happy: 3
+spiritual: 2
+added: "2013-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ehdWjmeaAjOAl_eyOX6aP_Y-CC0kWChLf7N7l2kGclQ/edit"
+---
+
+```{.song}
+http://youtu.be/9Jz706sJMjg?t=1m25s
+
+F = 2010        Eaug = 2003                F7 = 2313        Fmx = 101x        F6 = 5555
+Bb = 2100 | Bbm  = 2000                C7 = 0001        C6 = 0000
+
+Verse 1:
+[F] The sun has [Eaug] left and for-[F]-gotten [Eaug] me | (a c a g# c e d a c)
+It's [F] dark I [Eaug] cannot [F] see [F7] | (a c a c e d)
+Why [Bb] does this rain pour down? I'm gonna [Bm] drown | (f g f d bb a g a bb db)
+In a [F] sea [Fmx] [C7] Of deep confusion | (db c e  … c eb c eb e)
+
+3 5 3 3m 5 7 6 3 5
+3 5 3 5 7 6
+1' 2' 1' 6 4 3 2 3 4 6m
+6m 5 7...  5 7m 5 7m 7
+
+Verse 2:
+[F] Somebody [Eaug] told me, I [F] don't know [Eaug] who
+When-[F]-ever [F7] you are [Bb] sad and blue [Bbm]
+And you're [F] feelin' all a-[A7]-lone and [Dm] left behind [G7]
+Just [Bb] take a look in-[Bbm]-side and you'll find [F]
+
+Chorus:
+You gotta [Bb] hold on, [Bbm] hold on through the night
+[F] Hang on, [F7] things will be all right
+[G7] Even when it's dark [G7] and not a bit of sparkling
+[C7] Sing-song sunshine from above [C6] Spreading rays of sunny love
+
+Just [Bb] hang on, [Bbm] hang on to the vine
+[F] Stay on, [F7] soon you'll be divine
+[G7] If you start to cry, [G7] look up to the sky
+[C7] Something's coming up ahead  [C6] To turn your tears to dew instead
+
+Verse 3:
+[F] And so I [Eaug] hold on to [F] this ad-[Eaug]-vice
+[F] When change is [Eaug] hard and [Bb] not so [Bbm] nice
+You [F] listen to your [A7] heart the whole night [Dm] through [G7]
+Your sunny [Bb] someday will come [Bbm] one day soon to [F] you [F6]
+```

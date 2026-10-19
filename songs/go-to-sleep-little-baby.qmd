@@ -1,0 +1,33 @@
+---
+title: "Go To Sleep Little Baby, T-Bone Burnett and Gililan Welch"
+sort_title: "Go To Sleep Little Baby, T-Bone Burnett and Gililan Welch"
+artist: "T-Bone Burnett + Gillian Welch"
+key: "A"
+libraries: ["all", "kids"]
+difficulty: 1
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Oyarom-D0Vz7Jju2Mq0L1jDXut90Whalthw_Fhnq-nk/edit"
+---
+
+```{.song}
+[A] Go to sleep [E] little [A] baby
+[A] Go to sleep [E] little [A] baby
+Your [A] momma's gone away and your daddy's gone to stay
+Didn't leave [E] nobody but the [A] baby
+
+[A] Go to sleep [E] little [A] baby
+[A] Go to sleep [E] little [A] baby
+[A] Everybody's gone in the cotton and the corn
+Didn't leave [E] nobody but the [A] baby
+
+[A] You're a sweet [E] little [A] baby
+[A] You're a sweet [E] little [A] baby
+Honey [A] in the rock and the sugar don't stop
+Gonna bring a [E] bottle to the [A] baby
+
+[A] Don't you weep [E] pretty [A] baby
+[A] Don't you weep [E] pretty [A] baby
+She's [A] long gone with the red shoes on
+[A] Gonna meet another [E] lovin [A] baby
+```

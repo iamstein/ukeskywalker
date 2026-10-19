@@ -1,0 +1,41 @@
+---
+title: "Shabbat Shalom"
+sort_title: "Shabbat Shalom"
+artist: "Bim Bam"
+key: "Am"
+libraries: ["all", "kids"]
+added: "2024-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/13ovAGUcjKU-FA4WuIqUtYgothONZMF9m7v5_MIZlrFM/edit"
+---
+
+```{.song}
+[Verse 1]
+[Am] [Dm] Bim—bom—bim, bim, bim, bom
+[Am] Bim bim bim [E] bim bim [Am] bom
+[Am] [Dm] Bim—bom—bim, bim, bim, bom
+[Am] Bim bim bim [E] bim bim [Am] bom
+
+[Chorus]
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shabbat Shabbat,
+[Dm] [Am] Shab-bat [E] sha [Am] -lom
+
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shabbat Shabbat,
+[Dm] [Am] Shab-bat [E] sha [Am] -lom
+
+[Bridge]
+[Am] Shabbat [F] Shabbat,
+[G7] Shabbat [C] Shab-bat [E7] sha-lom
+[Am] Shabbat [F] Shabbat,
+[G7] Shabbat [C] Shab-bat [E7] sha-lom
+
+[Chorus]
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shalom
+[Am] Shabbat [Dm] Shabbat Shabbat,
+[Dm] [Am] Shab-bat [E] sha [Am] -lom
+```

@@ -1,0 +1,7 @@
+/.quarto/
+/docs/
+**/*.quarto_ipynb
+.DS_Store
+
+# Raw Google Doc exports kept for diffing during import
+/data/raw/

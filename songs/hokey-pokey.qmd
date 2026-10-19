@@ -1,0 +1,25 @@
+---
+title: "Hokey Pokey"
+sort_title: "Hokey Pokey"
+key: "C"
+libraries: ["all", "kids", "kids-motions"]
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1xxRt25ogvzO0s0lqCb9_Bp1z7ZynwqUerJnZwRlJJx4/edit"
+---
+
+```{.song}
+You put your [C] right leg in you put your right leg out
+You put your right leg in and you [G] shake it all about
+You do the hokey pokey and you turn around
+And that's what it's all a-[C]-bout
+
+Left leg
+Right arm
+Left arm
+Whole self
+Butt
+Head
+Elbow
+…
+```

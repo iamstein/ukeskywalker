@@ -1,0 +1,37 @@
+---
+title: "Suspicious Minds"
+sort_title: "Suspicious Minds"
+artist: "Elvis Presley"
+key: "G"
+libraries: ["all"]
+difficulty: 2
+practice: 2
+skill: 2
+poppy: 2
+happy: 1
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1B6290PeZy0TK_S533DkXu6tJJF9yrw3tV7HEEP-oUo4/edit"
+---
+
+```{.song}
+Verse 1:
+[G] We're caught in a trap, [C] I can't walk out
+[D] Because I [C] love you too much, [G] baby
+Why can't you see [C] what you're doing to me
+[D]When you don't be-[C]-lieve a word I [D] say? [C][Bm][D7]
+
+Chorus:
+[C] We can't go [G] on together [Bm] with suspicious [C] minds [D]
+[Em]And we can't [Bm] build our dreams [C] on suspicious [D] minds [D7]
+
+Verse 2:
+[G] Should an old friend I know [C] stop me and say hello
+[D] Would I still [C] see suspicion in [G] your eyes?
+Here we go again, [C] asking where I've been
+[D] You can't [C] see the tears I'm [D] crying [C][Bm][D7]
+
+Chorus:
+[C] We can't go [G] on together [Bm] with suspicious [C] minds [D]
+[Em]And we can't [Bm] build our dreams [C] on suspicious [D] minds [D7]
+```

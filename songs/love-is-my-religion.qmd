@@ -1,0 +1,61 @@
+---
+title: "Love Is My Religion"
+sort_title: "Love Is My Religion"
+artist: "Ziggy Marley"
+key: "E"
+youtube: "https://www.youtube.com/watch?v=-8oAGvFxevw&feature=kp"
+libraries: ["all", "spiritual"]
+difficulty: 1
+practice: 1
+fun: 2
+skill: 4
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Al3uDzaYgJ1v-3NDNeHACdCkPR1TZg8yYXwHH22ztmE/edit"
+---
+
+```{.song}
+Intro/Chorus:
+[E] Lo-[D]-ove is my re-[A]-ligion, [E] Lo-[D]-ove is my re-[A]-ligion,
+[E] I'll take you to the [D] temple to-[A]-night
+
+Verse:
+[E] All my [D] days i've been searc-[A]-hin' [E] To find out [D] what this life is [A] worth
+[E] Through the [D] books and bibles of [A] time [E] I've [D] made up my [A] mind
+[E] I don't [D] condemn, i don't [A] convert [E] This is the [D] calling have you [A] heard
+[E] Bring all the [D] Lovers to the [A] fold, [E] Cause no one is [D] gonna lose their [A] soul
+
+Chorus:
+[E] Lo-[D]-ove is my re-[A]-ligion, [E] Lo-[D]-ove is my re-[A]-ligion, [E] Love [D] is my re-[A]-ligion,
+Hey you can [E] take it or leave [D] it, and [A] you don't have to believe it
+
+Verse:
+[E] I Don't [D] want to [A] fight. [E] Hey lets go [D] fly a [A] kite,
+There's [E] nothing that [D] we can't [A] cure. [E] And I'll keep you in my [D] arms for [A] sure
+[E] Don't let [D] nobody stop [A] us. [E] Free [D] spirits have to [A] soar.
+[E] With you I [D] share the [A] gift. [E] The gift that [D] we now know [A] oh oh oh
+
+Chorus:
+
+Bridge:
+[D] Well I'm done searching [A] now.  [D] I found out what this life is [A] worth,
+[D] Not in the books did I [A] find, [D] but by searching my [A] mind,
+
+Verse:
+[E] I don't [D] condemn, I don't [A] convert.  [E] This is the [D] calling have you [A] heard
+[E] Bring all the [D] Lovers to the [A] fold.   [E] Cause no one is [D] gonna lose their [A] soul
+
+Chorus:
+
+Verse (repeat):
+[E] Don't let [D] nobody stop [A] us. [E] Free [D] spirits have to [A] soar.
+[E] With you I [D] share the [A] gift. [E] The gift that [D] we now know [A] oh oh oh
+
+Chorus:
+[E] Lo-[D]-ove is my re-[A]-ligion. [E] Lo-[D]-ove is my re-[A]-ligion.
+[E] All we [D] need is [A] love. [E] All we [D] need is [A] love.
+[E] All we [D] need is [A] love. [E] All we [D] need is [A] love.
+```

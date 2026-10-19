@@ -1,0 +1,65 @@
+---
+title: "Hey Jude"
+sort_title: "Hey Jude"
+artist: "The Beatles"
+key: "F"
+libraries: ["all"]
+difficulty: 2
+practice: 1
+fun: 3
+skill: 3
+poppy: 2
+happy: 2
+voice_low: "F3"
+voice_high: "G4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11JFN1s2NmDtxLrG6xAXjAizrk-PnT-1zTyDwEbLh0nM/edit"
+---
+
+```{.song}
+[F/C]        =2013,  [C7]=0001,  [C7sus4]=0011,   [Bb/A]=3210,  [CaddG]=0033
+[Fmaj7]        =2410,        [F7]=2310
+
+Verse 1:
+Hey [F] Jude dont make it [C] bad
+take a [C7] sad [C7sus4]  song  and make it [C7] bet-[F]-ter
+Re-[Bb] member to let her into your [F] heart
+and then you can [C] start to make it [F] better
+
+Verse 2:
+Hey [F] Jude dont be a-[C]-fraid
+you were [C7] made [C7sus4] to go out and [C7] get [F] her
+The [Bb] minute you let her under your [F] skin
+then you be-[C]-gin to make it [F] better [Fmaj7] [F7]
+
+Bridge 1:
+[F] And anytime you feel the [Bb] pain hey [Bb/A] jude re-[Gm]-frain
+don't carry the [C] world upon your [F] shoulders [Fmaj7] [F7]
+[F] For well you know that its a [Bb] fool who [Bb/A] plays it [Gm] cool
+by making his [C] world a little [F] colder
+[F] Da da da da da [C] Da da  [CaddG] da da [C] [CaddG]
+
+Verse 3:
+Hey [F] Jude dont let me [C] down
+You have [C7] found [C7sus4] her now go and [C7] get [F] her
+Re-[Bb]-member to let her into your [F] heart
+then you can [C] start to make it [F] better [Fmaj7] [F7]
+
+Bridge 2:
+[F] So let it out and let it [Bb] in hey [Bb/A] Jude be-[Gm]-gin
+your waiting for [C/E] someone [C] to per-[F]-form with
+[F] And dont you know that its just [Bb] you hey [Bb/A] Jude you'll [Gm] do
+The movement you [C/E] need is on your [F] shoulders
+[F] Da da da da da [C] Da da  [CaddG] da da [C] [CaddG]
+
+Verse 4:
+Hey [F] Jude dont make it [C] bad
+take a [C7] sad [C7sus4]  song  and make it [C7] bet-[F]-ter
+Re-[Bb]-member to let her under your [F] skin
+then you be-[C]-gin to make it [F] better
+
+Chorus:
+[F] Na na na [Eb] na na na na
+[Bb] Na na na na Hey [F] Jude <Repeat 1000x>
+```

@@ -1,0 +1,50 @@
+---
+title: "Dear Michelle"
+sort_title: "Dear Michelle"
+artist: "Andy Stein and Emily Eagan"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=bKMVT76oVVU"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+added: "2022-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1QE9IJa2tiomZchWMlVER4cGuNLw1ZA9SzZwylWLrzns/edit"
+---
+
+```{.song}
+Carnegie Lullaby Project
+
+<<consider finger picking, for beginning>>
+
+[C] Dear Mich-[G]-elle, Dear Mich-[F]-elle, Dear Michelllleee [C] Belle
+You are [G] loved, you are [F] loved, and you're deserving of [C] love
+When you're [G] down, falling a-[Am]-part, when [F] darkness clouds the [C] sky.
+We'll always [G] be there in your [F] heart, to hold you when you [C] cry.
+
+[C] We don't [Am] know who you'll [F] be but there's a [G] fierceness that we [C] see
+[C] Go real [Am] slow or run down the [F] lane; you'll [G] get there just the [C] same
+[C] There's a [Am] music in your [F] soul; just stay [G] open and you'll [C] know
+[C] There's a [Am] calling you're seeded [F] for; so just [G] work hard and you'll grow.
+
+[C] Dear Mich-[G]-elle, Dear Mich-[F]-elle, Dear Michelllleee [C] Belle
+You are [G] loved, you are [F] loved, and you're deserving of our [C] love
+When you're [G] down, falling a-[Am]-part, when the [F] darkness clouds the [C] sky.
+We'll always [G] be there in your [F] mind, to help you wonder [C] why.
+
+[C] And through the [Am] joy, through the [F] fears, Though the [G] turning of the [C] years
+[C] Through the [Am] laughter, though the [F] tears, you can [G] always feel us [C] near
+
+So feel your [F] feet upon the [G] ground,
+you're [F] deeply rooted [C] there
+Look up and [F] see the soaring [G] eagle
+flying [F] high into the [C] air
+
+[C] Dear Mich-[G]-elle, Dear Mich-[F]-elle, Dear Michelllleee [C] Belle
+You are [G] loved, you are [F] loved, and you're deserving of [C] love
+When you're [G] down, fallen a-[Am]-part, and your [F] tears they start to [C] dry.
+We'll always [G] be there by your [F] side, to cheer when you get up to [C] fly.
+```

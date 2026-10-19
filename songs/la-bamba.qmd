@@ -1,0 +1,58 @@
+---
+title: "La Bamba"
+sort_title: "La Bamba"
+artist: "Ritchie Valens"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=Jp6j5HJ-Cok"
+libraries: ["all"]
+difficulty: 1
+practice: 3
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "G2"
+voice_high: "F3"
+added: "2015-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1k9j5izpdb4eAEFEgynntpYmp3cSLTKJpoQ8ICieA5fk/edit"
+---
+
+```{.song}
+[-] Para bailar La [C] Bamba [F] [G] | 4 4 4 4 4 4 3 1
+Para [F] bailar La [C] Bamba se [F] neces-[G]-sita | 4 4 4 4 4 4 3 1 1 1 1 2
+una [F] poca de [C] gracia [F] [G] | 1 1 4 3 2 3 1
+Una [F] poca de [C] gracia para [F] mi, para [G] ti, | 4 4 4 4 4 3 1 1 1 1
+ay [F] arriba, ay [C] arriba. [F] [G] | 1 2 4 3 2 3 1
+Ay, [F] arriba ar-[C]-riba Por [F] ti se-[G]-re, | 4 4 4 4 4 3 1 1 1 1
+por [F] ti se-[C]-re, por [F] ti se-[G] re | 1 2 4 3 3 1 6. 5.
+
+[-] Yo no soy mari-[C]-nero [F] [G]         I am not a sailor,
+Yo no [F] soy mari-[C]-nero, soy [F] capi-[G]-tan        … I am a captain
+Soy [F] capi-[C]-tan, soy [F] capi-[G]-tan
+
+[C] Ba [F] Ba [G] Bamba [F] | 1 6. 7. 7.
+[C] Ba [F] Ba [G] Bamba [F] | 3 1 2 2
+[C] Ba [F] [G] Bamba [F] [C] [F] [G] [-] | 1 6. 7. 7.
+
+[-] Para bailar La [C] Bamba [F] [G]
+Para [F] bailar La [C] Bamba se [F] neces-[G]-sita
+una [F] poca de [C] gracia [F] [G]
+Una [F] poca de [C] gracia para [F] mi, para [G] ti,
+ay [F] arriba, ay [C] arriba. [F] [G] [F]
+
+(Guitar solo - Richie & instrumental) [C] [F] [G] [F] <for a while>
+
+[-] Para bailar La [C] Bamba [F] [G]         In order to dance the Bamba,
+Para [F] bailar La [C] Bamba se [F] neces-[G]-sita         you need
+una [F] poca de [C] gracia [F] [G]         … a little bit of grace
+Una [F] poca de [C] gracia para [F] mi, para [G] ti,         … for me, for you,
+ay [F] arriba, ay [C] arriba. [F] [G]         faster, faster
+Ay, [F] arriba ar-[C]-riba Por [F] ti se-[G]-re,         … for you I will be
+por [F] ti se-[C]-re, por [F] ti se-[G] re
+
+[C] Ba [F] Ba [G] Bamba [F] | 1 6. 7. 7.
+[C] Ba [F] Ba [G] Bamba [F] | 3 1 2 2
+(fade out)
+[C] Ba [F] [G] Bamba [F] [C] [F] [G] [-] | 1 6. 7. 7.
+```

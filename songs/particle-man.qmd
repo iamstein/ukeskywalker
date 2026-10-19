@@ -1,0 +1,42 @@
+---
+title: "Particle Man"
+sort_title: "Particle Man"
+artist: "They Might Be Giants"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=jAMRTGv82Zo"
+libraries: ["all", "kids"]
+difficulty: 0
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1gDbhyyvQfsBK_eAXg1xWvuT99Ole5XrL-kXBqlu_suk/edit"
+---
+
+```{.song}
+[C] Particle man particle man [C] Doing man things a [G] particle can
+[F] What's it like [C] it's not important [C] Particle man
+
+[C] Is he a man or [F] is he a speck. When [G] he's underwater does [C] he get wet
+Or [F] does the water get [G] him instead [F] Nobody knows [C] Particle man
+
+[C] Triangle man [C] Triangle man.  [C] Triangle man hates [G] particle man
+[F] They have a fight [C] Triangle wins. [C] Triangle man
+
+[C] Universe man [C] Universe man. [C] Size of the entire [G] universe man
+[F] Usually kind to [C] smaller man. [C] Universe man
+
+[C] Wears a watch with a [F] minute hand. [G] Millennium hand and an [C] eon hand.
+[F] When they meet it's a [G] happy land. [F] Powerful man [C] universe man
+
+[C] Person man [C] person man. [C] Hit on the head with a [G] frying pan
+[F] Lives his life in a [C] garbage can. [C] Person man
+
+[C] Is he depressed or [F] is he a mess. [G] Does he feel totally [C] worthless
+[F] Who came up with [G] person man. [F] Degraded man [C] person man
+
+[C] Triangle man [C] Triangle man. [C] Triangle man hates [G] particle man
+[F] They have a fight [C] Triangle wins. [C] Triangle man
+```

@@ -1,0 +1,54 @@
+---
+title: "Last Leaf"
+sort_title: "Last Leaf"
+artist: "OK Go"
+key: "G"
+youtube: "http://www.youtube.com/watch?v=IkYfB1C0Zgc&feature=youtu.be&t=12s"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 5
+poppy: 1
+happy: 2
+voice_low: "G3"
+voice_high: "D4"
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1pF1Wyn7LF0_rcLu-tLEtLmxE0Fd-cuMRFlRsoTW0at8/edit"
+---
+
+```{.song}
+The G's can become Gsus2 by going from 0232->0230
+
+[G] if you should be [Em]        g g a b
+the last autumn leaf [C]         g a b a a
+hanging from the [G] tree | b a g a g
+
+[G] I'll still be here [Em]        g g a b
+waiting on the-breeze [C]         g a b a a
+to bring you down to [G] me.        g b a g a g
+
+Chorus:
+[Bm] And if it takes for-[C]-ever, [Bm]        g g a b        d d c
+forever it'll [Em] be.                g b a         g a b
+[Bm] And if it takes for-[C]-ever, [D]        g g a b        d d c
+forever it'll be. [G]        a b a         g a g
+
+[G] [Em] [C]
+[G] [Bm] [C][D]
+
+[G] And if you should be [Em]        g g a b
+the last seed in spring, [C]        g a b g a
+to venture out a [G] leaf        g b a g a g
+
+[G] I'll still be here [Em]         g g a b
+waiting on the-rain [C]        g a b a a
+to warm your heart for [G] me.        g b a g a g
+
+Chorus:
+[Bm] And if it takes for-[C]-ever, [Bm]        g g a b        d d c
+forever it'll [Em] be. [Bm]                  g b a        g a b
+And if it takes for-[C]-ever, [D]        g g a b        d d c
+forever it'll be. [G]        a b a        g a g
+```

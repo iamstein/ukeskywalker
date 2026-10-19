@@ -1,0 +1,52 @@
+---
+title: "Three Little Kittens"
+sort_title: "Three Little Kittens"
+artist: "Cocomelon?"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=m0VW5f8iezs&ab_channel=Cocomelon-NurseryRhymes"
+libraries: ["all", "kids"]
+added: "2023-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1eizCfU0zYvN_A-5-Fgh_NVf40ZcMZW-orM-QVPPohJk/edit"
+---
+
+```{.song}
+Verse 1:
+[C] Three little kittens they lost their mittens, | 5. 1 1 1 1 5. 5. 5. 3 3 1 1
+And [G7] they began to [C] cry, | 1 2 2 1 7. 1
+[C] Oh, mother dear, we sadly fear,
+Our [G7] mittens we have [C] lost.
+
+What! [Am] lost your mittens, you naughty kittens!
+Then [E7] you shall have no [Am] pie.
+[G7] Meow, meow, [C] meow, meow, then [G7] we shall have no [C] pie.
+
+Verse 2:
+[C] The three little kittens they found their mittens,
+And they [G7] began to [C] cry,
+Oh, mother dear, see here, see here,
+Our mittens [G7] we have [C] found.
+
+Put [Am] on your mittens, you silly kittens,
+And [E7] you shall have some [Am] pie.
+[G7] Meow, meow, [C] meow, meow, then [G7] we shall have some [C] pie.
+
+Verse 3:
+[C] The three little kittens put on their mittens,
+And soon ate [G7] up the [C] pie;
+Oh, mother dear, we greatly fear,
+Our mittens [G7] we have [C] soiled.
+
+What! [Am] soiled your mittens, you naughty kittens!
+Then [E7] they began to [Am] sigh.
+[G7] Meow, meow, [C] meow, meow, then [G7] they be-[C]-gan to sigh.
+
+Verse 4:
+[C] The three little kittens they washed their mittens,
+And hung them [G7] out to [C] dry;
+Oh, mother dear, see here, see here,
+Our mittens [G7] we have [C] washed.
+What! [Am] washed your mittens, then you're good kittens,
+I [E7] smell a wolf close [Am] by.
+[G7] Meow, meow, [C] meow, meow, I [G7] smell a [C] wolf close by.
+```

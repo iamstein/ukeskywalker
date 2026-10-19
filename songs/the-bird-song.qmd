@@ -1,0 +1,17 @@
+---
+title: "The Bird Song"
+sort_title: "Bird Song, The"
+artist: "Victoria Vox"
+key: "Bb"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "Bb2"
+voice_high: "Bb3"
+added: "2011-03"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1K48IzLU4DsZAV3_NcS9tHfnsPoDfd3NdHC8LwiMyEXs"]
+---

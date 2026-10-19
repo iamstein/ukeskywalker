@@ -1,0 +1,95 @@
+---
+title: "Yorktown (Hamilton)"
+sort_title: "Yorktown (Hamilton)"
+artist: "Lin Manuel Miranda"
+key: "Dm"
+libraries: ["all"]
+difficulty: 3
+practice: 5
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+added: "2017-06"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1Gmy-Fj7FwVP4b8L19xLxfDxleRMIFJbQk_0avGj27Ts/edit"
+---
+
+```{.song}
+[Dm] The [C] [G] battle of Yorktown
+[Dm] [C] [G] seventeen-eighty-one
+
+[Dm] Monsieur Hamilton Monsieur Lafayette [C]
+In [G] command where you belong How you say, no sweat
+[Dm] We're finally on the field We've had quite a run [C]
+[G] Immigrants We get the job done
+[Dm] So what happens if we win? I go back to France [C]
+I bring [G] freedom to my people if I'm given the chance
+[Dm] We'll be with you when you do Go lead your men [C]
+See you [G] on the other side 'Til we meet again, let's go
+
+[Dm] I am not throwin' away [F] my [G] shot
+[F/A] I am not throwin' away [C] my [Dm] shot
+[Dm] Hey yo, I'm just like my country, I'm [F] young Scrappy and [G] hungry
+[F/A] And I'm not throwin' away [C] my [Dm] shot
+[Dm] I am not throwin' away [F] my [G] shot
+[F/A] 'Til the world turns [C] upside [Dm] down
+[F] 'Til the world turns upside [G] down
+
+I imagine [Dm] death so much it feels more like a memory [C]
+This is where it [G] gets me: on my feet The enemy ahead of me
+[Dm] If this is the end of me, at least I have a friend with me [C]
+[G] Weapon in my hand, a command, and my men with me
+[Dm] Then I remember my Eliza's expecting me  [C]
+[G] Not only that, my Eliza's expecting
+[Dm] We gotta go, gotta get the job done [C]
+Gotta [G] start a new nation, gotta meet my son
+
+(I think I like only playing the first chord here…)
+[Dm] Take the bullets out your gun (what?) [F] The bullets out your [G] gun (what?)
+[F/A] We move under cover and we [C] move [Dm] as one
+[Dm] Through the night, we have one [F] shot to live another [G] day
+[F/A] We cannot let a stray [C] gunshot give us [Dm] away
+[Dm] We will fight up close, seize the [F] moment and stay in [G] it
+[F/A] It's either that or meet the business [C] end of a [Dm] bayonet
+[Dm] The code word is 'Rochambeau,' dig [F] me? [G] Rochambeau
+[F/A] You have your orders now, [G] go man, go
+
+[Dm] And so the American experiment [C] begins
+With my [G] friends all scattered to the winds
+Laurens is in [Dm] South Carolina, redefining [C] bravery
+We'll [G] never be free until we end slavery
+[Dm] When we finally drive the British [C] away
+[G] Lafayette is there waiting In Chesapeake Bay
+[Dm] How did we know that this plan would [C] work?
+We had a [G] spy on the inside That's right
+
+[Dm] Hercules Mulligan A [F] tailor spyin' [G] on the British government
+[F/A] I take their measurements, [C] information and then I [Dm] smuggle it (up)
+[Dm] To my brother's [F] revolutionary [G] covenant
+[F/A] I'm runnin' with the Sons of [C] Liberty and I am [Dm] lovin' it
+[Dm] See, that's what happens [F] when you up against the [G] ruffians
+[F/A] We in the shit now, [C] somebody gotta [Dm] shovel it
+[Dm] Hercules Mulligan, I [F] need no [G] introduction
+[F/A] When you knock me down I get [C] the fuck back up [Dm] again
+
+[Dm] After a week of fighting, a young man in a red coat stands on a parapet
+[Dm] We lower our guns as he frantically waves a white handkerchief
+[Dm] And just like that, it's over We tend to our [G/D] wounded, we count our dead
+[F/D] Black and white soldiers wonder alike if this [G/D] really means freedom
+[N.C.] Not yet
+
+[Dm] We negotiate the terms of surrender [C] I see George [G] Washington smile
+[Dm] We escort their men out of Yorktown [F] They stagger [G] home single file
+[Dm] Tens of thousands of people flood the [C] streets There are screams and church bells ringing
+[G/B] And as our fallen foes retreat I hear the [A] drinking song they're singing
+[Dm] The world turned upside [G] down
+[Dm] The world turned upside [G] down
+[Dm] The world turned upside [G] down
+[F/D] The world turned upside [G/D] down
+
+[Dm] Down, [F] Down, [G] down, [G/A] down Freedom for America, freedom for France
+[Dm] Down, [F] down, [G] down [G/A] Gotta start a new nation Gotta meet my son
+[Dm] Down, [F] down, [G] down We [G/A] won, We won, We won, We won
+[F] The world turned [G] upside [Dm] down
+```

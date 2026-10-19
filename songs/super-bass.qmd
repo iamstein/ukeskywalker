@@ -1,0 +1,63 @@
+---
+title: "Super Bass"
+sort_title: "Super Bass"
+artist: "Nicki Minaj"
+key: "C"
+key_note: "Nix plays it with a capo on the 5th fret using G-shape chords"
+youtube: "https://www.youtube.com/watch?v=XnRI7gH_kro"
+libraries: ["all"]
+difficulty: 1
+practice: 3
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "G2"
+voice_high: "D4"
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1KpkbUaMM9j9ac6Zlaheq1hBATP8fTwb8awi6AVGmiQY/edit"
+files: ["files/super-bass.xlsx"]
+---
+
+```{.song}
+Strumming pattern 1 a2e&a e a4 (&a)  [down on 1,& --- up on e,a --- accent
+
+This [C] one's for the girls with the booming system | 5 3-3 2 1
+Top [G] down, AC with the cooler system | 5 2 5 2 2 2 3 3 2 1
+When she [Am] come up in the club, she be blazin' up | 3 2 1 1 3 3 1 3 3 2 2 2
+Got [F] stacks on deck like she savin' up | 3 1 3 1 3 3 1 1 1
+
+And she [C] ill, she real, she might gotta deal | 5 5 5 3 3 2 1 3 2 2 1
+She pop [G] bottles and she got the right kind of bill | 5 2-2 3 2 1
+She [Am] cold, she dope, she might sell coke | 3 1 3 1 3 2 2 2
+She [F] always in the air, but she never flies coach | 4-4 2 1
+
+She's such a [C] motherf-ckin, trip, sailor of the ship, ship | 3 3 2 1 1 3 3 1 1   2-2
+[G] When she makes a quip, kiss her on the lip, lip | 2-2 4 2-2
+[Am] That's the kind of boo I was lookin' for | 2-2
+And [F] yes I'll get slapped if I'm lookin' ho. | 2-2 1 1
+
+I said, [C] excuse me while I kiss the sky | 1' 1' 5 3-3 2 1
+I mean [G] my, my, my, my you're like pelican fly | 1 3 2-2 3 3 2 3
+[Am] So shy and I'm loving your eyes | 3 1 3 3 2 2 2 2
+[F] I really wanna make you mine. | 3 3 1 1 3 3 1 1 1
+
+[C] Yes I did, yes I did, | 3 3 1 2 2 2
+some-[G]-body tell her who the eff I is | 3 2 2 3 2 2 2 2 2 3
+I am [Am] Andy Vermont and I mack the boos up | 2 2 3 3 3 1 3 3 2 2 2
+[F] Tap deez nuts… | 1 1 1
+
+Girl you got my [C] heartbeat runnin' a-[F]-way | 5 6 1' 5 3' 2' 1' 1' 1' 1'-6
+Beating like a [Am] drum and it's coming your [G] way | 5 6 11 5 3' 2' 1' 1' 1' 1' 1'-6
+Can't you hear that [C] boom, badoom, boom, boom, badoom, boom, | 2' 2' 2' 2' 1'-1'
+[F] bass.  Super bass. | 6-5 5 5 5
+[Am] boom, badoom, boom, boom, badoom, boom, [G] bass.  Super bass. | 1'-1' 6-5 5 5 5
+
+[C] Boom, boom, boom, boom, [F] Boom badoom boom boom. | 1 2 3 5 1 1 2 3 5
+[Am] Boom boom boom boom boom [G] boom | 1 2 3 5 3
+
+Can't you hear that [C] boom, badoom, boom, | 2' 2' 2' 2' 1'-1'
+boom, badoom, boom, [F] bass. | 1'-1' 6 5
+[Am] boom, badoom, boom, boom, badoom, boom, [G] bass.  Super bass. | 1'-1' 6 5 3 2 1
+```

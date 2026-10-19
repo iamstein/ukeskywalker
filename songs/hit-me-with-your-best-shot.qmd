@@ -1,0 +1,14 @@
+---
+title: "Hit Me with your Best Shot"
+sort_title: "Hit Me with your Best Shot"
+artist: "Pat Benitar"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 3
+happy: 2
+added: "2011-05"
+pages: 2
+other_links: ["https://docs.google.com/document/pub?id=1D3w_uHMFBwc68cTc2GUfnodxPSBiDyuB8LFkAygx9Tk"]
+---

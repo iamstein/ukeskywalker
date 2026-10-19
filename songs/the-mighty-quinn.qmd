@@ -1,0 +1,54 @@
+---
+title: "The Mighty Quinn"
+sort_title: "Mighty Quinn, The"
+artist: "Bob Dylan, Manfred Mann"
+key: "F"
+key_note: "for me (Though Manfred Mann plays in B"
+youtube: "https://www.youtube.com/watch?v=3K_qLZ3T8Ws"
+libraries: ["all", "kids"]
+difficulty: 1
+practice: 4
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1sYKNbUXl_7pKe6ht2zaUiujZ_7KoUa4iP-kx7p4eREU/edit"
+---
+
+```{.song}
+Pipe: 5 5 5 5 6 5 3 2 1 1 1  (c c c c d c a g f f f)
+
+[F] Come all without, [C] come all with-[F]-in
+You'll [F] not see [C] nothing like the [Bb] mighty [F] Quinn x2
+
+Verse 1:
+[F] Everybody's [Bb] building [F] ships and the [Bb] boats
+[F] Some are buildin' [Bb] monuments, [F] others are jottin' down [Bb] notes
+[F] Everybody's [Bb] in despair, [F] every girl and [Bb] boy
+But when [F] Quinn the Eskimo [C] gets here, every-[Bb]-body's gonna jump for [F] joy
+
+[F] Come all without, [C] come all with-[F]-in
+You'll [F] not see [C] nothing like the [Bb] mighty [F] Quinn
+
+Pipe: 5 5 5 5 6 5 3 2 1 1 1
+
+Verse 2:
+[F] I like to go just [Bb] like the rest, I [F] like my sugar [Bb] sweet
+But [F] jumping queues and [Bb] making haste, It [F] ain't my cup of [Bb] meat
+[F] Everybody's 'neath the [Bb] trees, feeding [F] pigeons on a [Bb] limb
+But when [F] Quinn the Eskimo [C] gets here, all the [Bb] pigeons gonna flock to [F] him
+
+[F] Come all without, [C] come all with-[F]-in
+You'll [F] not see [C] nothing like the [Bb] mighty [F] Quinn x2
+
+Verse 3:
+[F] Let me do what I [Bb] wanna do.  I [F] can't decide on my [Bb] own.
+Just [F] tell me where to [Bb] put 'em and I'll [F] tell you who to call.
+[F] Nobody can get no [Bb] sleep, there's [F] someone on everyones [Bb] toes
+But when [F] Quinn the Eskimo [C] gets here, every-[Bb]-body's gonna wanna [F] doze
+
+[F] Come all without, [C] come all with-[F]-in
+You'll [F] not see [C] nothing like the [Bb] mighty [F] Quinn x2
+```

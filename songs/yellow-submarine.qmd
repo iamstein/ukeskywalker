@@ -1,0 +1,51 @@
+---
+title: "Yellow Submarine"
+sort_title: "Yellow Submarine"
+artist: "The Beatles"
+key: "F"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 2
+fun: 2
+skill: 3
+poppy: 3
+happy: 3
+added: "2011-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1uVE15vzqXNkeglpTuPn8FiMNMCMZGda3QvyvQ5_SquI/edit"
+other_links: ["https://docs.google.com/document/pub?id=1uVE15vzqXNkeglpTuPn8FiMNMCMZGda3QvyvQ5_SquI"]
+---
+
+```{.song}
+Verse 1:
+[F] In the [G] town where [F] I was [C] born,
+[Am] Lived a [Dm] man who [F] sailed to [G] sea.
+[F] And he [G] told us [F] of his [C] life,
+[Am] In the [Dm] land of [F] submar-[G]-ines.
+
+[F] So we [G] sailed un-[F]-to the [C] sun,
+[Am] Till we [Dm] found the [F] sea of [G] green.
+[F] And we [G] lived be-[F]-neath the [C] waves,
+[Am] In our [Dm] yellow [F] submar-[G]-ine.
+
+Chorus:
+[C] We all live in a [G] yellow submarine,
+Yellow submarine, [C] yellow submarine.
+[C] We all live in a [G] yellow submarine,
+Yellow submarine, [C] yellow submarine.
+
+Verse 2:
+[F] And our [G] friends are [F] all a-[C]-board,
+[Am] Many [Dm] more of them [F] live next [C] door.
+[Am] And the [Dm] band [F] begins to [C] play.
+
+Chorus  (break - same as verses)
+
+Verse 3:
+[F] As we [G] live a [F] life of [C] ease,
+[Am] Every-[Dm]-one of us has [F] all we [C] need.
+[F] Sky of [G] blue and [F] sea of [C] green,
+[Am] In our [Dm] yellow [F] sub-[G]-marine.
+
+Chorus x2:
+```

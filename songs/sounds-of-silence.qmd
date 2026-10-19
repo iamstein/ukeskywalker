@@ -1,0 +1,54 @@
+---
+title: "Sounds of Silence"
+sort_title: "Sounds of Silence"
+artist: "Simon and Garfunkel"
+key: "Am"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 1
+happy: 1
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EL6tqJMJK4DRhg44EN20KZx0RDCf0BpvWolrb0Nj1KQ/edit"
+---
+
+```{.song}
+In Key of Am
+
+[Am] Hello darkness, my old [G] friend
+I've come to talk with you [Am] again
+Because a vision soft-[F]]-ly creep-[C]-ing
+Left its seeds while I wa-[F]-as sleep-[C]-ing
+And the [F] vision that was [F/C] planted in my [C] brain
+Still re-[Am]-mains within the [G] sound of [Am] silence
+
+[Am] In restless dreams I walked a-[G]-lone
+Narrow streets of cobble-[Am]-stone
+'Neath the halo of a-[F]-a street [C] lamp
+I turned my collar to the [F] cold and [C] damp
+When my [F] eyes were stabbed by the [F/C] flash of a neon [C] light
+That split the [Am] night, and touched the [G] sound of [Am] silence.
+
+[Am] And in the naked light I [G] saw
+Ten thousand people, maybe [Am] more
+People talking with-[F]-out speak-[C]-ing
+People hearing with-[F]-out listen-[C]-ing
+People writing [F] songs that [F/C] voices never [C] share
+And no one [Am] dared disturb the [G] sound of [Am] silence
+
+[Am] "Fools", said I, "You do not [G] know
+Silence like a cancer [Am] grows
+Hear my words that I mi-[F]-ight teach [C] you
+Take my arms that I mi-[F]-ight reach [C] you"
+But my [F] words, like [F/C] silent raindrops [C] fell
+And [Am] echoed In the [G] wells of [Am] silence
+
+[Am] And the people bowed and [G] prayed
+To the neon god they [Am]made
+And the sign flashed out [F] its warn-[C]-ing
+In the words that it wa-[F]-as form-[C]-ing
+And the sign said, "The [F] words of the prophets are [F/C] written on the subway [C] walls
+And tenement [Am] halls" and whispered in the [G] sounds of [Am] silence
+```

@@ -1,0 +1,14 @@
+---
+title: "Apache"
+sort_title: "Apache"
+artist: "Incredible Bongo Band"
+libraries: ["all"]
+difficulty: 3
+fun: 2
+skill: 3
+poppy: 3
+happy: 3
+added: "2010-06"
+pages: 0
+files: ["files/apache.xlsx"]
+---

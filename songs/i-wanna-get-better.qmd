@@ -1,0 +1,69 @@
+---
+title: "I Wanna Get Better"
+sort_title: "I Wanna Get Better"
+artist: "Bleachers, The \n(true key)"
+key: "D"
+alt_keys: ["E"]
+key_note: "easier on Uke, but actually in E).  Andy can sing it more easily in Bb."
+youtube: "https://www.youtube.com/watch?v=A81Z6hGjGJQ"
+libraries: ["all", "spiritual"]
+difficulty: 1
+practice: 3.5
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+spiritual: 2
+voice_low: "D3"
+voice_high: "F#4"
+added: "2014-07"
+pages: 2
+source_doc: "https://docs.google.com/document/d/12CaTAYtxrYIEWkPIjfYH30APOOGQ_YBT_91_68JpQI0/edit"
+---
+
+```{.song}
+Intro: [D] [Asus4] [G] [Asus4] (2x)   ; Asus4 = 2200
+
+Verse 1:
+Hey I [D] hear the voice of a [Asus4] preacher from the back room.
+[G] Calling my name and I [Asus4] follow just to find you.
+[D] I trace the faith to a [Asus4] broken down television  [G] and put on the [Asus4] weather.
+And I've [D] trained myself to give [Asus4] up on the past 'cause I [G] frozen time between [Asus4] hearses and caskets.
+[D] Lost control when I [Asus4] panicked at the acid test. [G] I wanna get [Asus4] better.
+
+While my [D] friends were getting [Asus4] high and chasing girls down [G] parkway lines I was [Asus4] losing my mind.
+Because the [D] love, the love, the [Asus4] love, the love, the love that I [G] gave [Asus4] wasted on a nice face.
+[D] In a blaze of [Asus4] fear I put a helmet on a
+[G] helmet counting seconds through the [Asus4] night and got carried a-[D]-way.
+So now I'm [Asus4] standing on the overpass [G] screaming at the cars: Hey, [Asus] I wanna get [D] better!
+
+Chorus:
+I didn't [Asus4] know I was [G] lonely til I [Asus4] saw your [D] face.
+I wanna get [Asus4] better,  [G]  better, better, [Asus4] better, I wanna get [D] better.
+I didn't [Asus4] know I was [G] broken til I [Asus4] wanted to [D] change.
+I wanna get [Asus4] better,  [G] better, better, [Asus4] better, I wanna get [D] better.
+
+Verse 2:
+[D] I go up to my room and there's [Asus4] girls on the ceiling. [G] Cut out their pictures and I [Asus4] chase that feeling
+of an [D] eighteen year old, who [Asus4] didn't know what loss was. [G] Now I'm a [Asus4] stranger.
+And I [D] miss the days of a [Asus4] life still permanent. [G] Mourn the years [Asus4] before I got carried a-[D]-way.
+So now I'm [Asus4] staring at the interstate [G] screaming at the cars: Hey, [Asus] I wanna get [D] better!
+
+Chorus:
+
+Bridge:
+[E] Cause I'm sleeping in the back of a [Asus4] taxi.
+I'm screaming from my bedroom [E] window. Even if it's gonna [Asus4] kill me.
+
+Solo:
+
+[D] Woke up this morning [Asus4] early before my family. [G] From this dream where [Asus4] she was trying to show me.
+[D] How a life can [Asus4] move from the darkness,  [G] she said to get [Asus4] better.
+So I [D] put a bullet where I [Asus4] shoulda put a helmet and I
+[G] crash my car cause I [Asus4] wanna get carried a-[D]-way.
+That's why I'm [Asus4] standing on the overpass [G] screaming at myself hey [Asus4] I wanna get [D] better!
+
+Refrain:
+
+Outro: [D] [Asus4] [G] [Asus4] (2x)
+```

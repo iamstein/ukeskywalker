@@ -1,0 +1,52 @@
+---
+title: "Yoshimi Battles Pink Robots"
+sort_title: "Yoshimi Battles Pink Robots"
+artist: "The Flaming Lips"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=uT3g9EjXaDg&feature=related"
+libraries: ["all"]
+difficulty: 2
+skill: 2
+poppy: 1
+happy: 2
+voice_low: "A3"
+voice_high: "F4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1fcn07ar0TQP2JMFaTPed0lO2H-bksAM-pDLU0-AIMro/edit"
+---
+
+```{.song}
+Introduction:
+[C] [Em] [Dm] [F] [G]
+
+Verse 1:
+[C] Her name is Yo-[Em]-shimi | 3 3 2 1 2 3
+[Dm] She's a black belt in ka-[G]-rate | 6. 6. 6. 6. 6. 4 3 2
+[C] Working for the [Em] city | 3 3 2 1 2 3
+[Dm] She has to discipline her [G]body | 6. 6. 6. 6. 6. 6. 4 3 2
+'Cause she [F] knows that | 2 2 2 1
+It's de-[G]-manding | 6. 4 3 2
+To de-[C]-feat those evil ma-[F]-chines | 1 2 3 2 2 1 2 1 6.
+I know she can [G] beat them
+
+Oh Yo-[C]-shimi, they don't be-[Em]-lieve me | 3 1 2 3        3 2 1 2 3
+But [Dm] you won't let those [F] robots [G] eat me | 1 6. 4 3 2        4 4 3 2
+Yo-[C]-shimi, they don't be-[Em]-lieve me | 1 2 3        3 2 1 2 3
+But [Dm] you won't let those [F] robots de-[G]-feat me | 1 6. 4 3 2        4 4 3 3 2
+
+Verse 2:
+[C] Those evil-natured [Em] robots | (same)
+[Dm] They're programmed to des[G]troy us
+[C] She's gotta be strong to [Em] fight them
+[Dm] So she's taking lots of [G] vitamins
+'Cause she [F] knows that
+It'd be [G] tragic
+If those [C] evil robots [F] win
+I know she can [G] beat them
+
+Oh Yo-[C]-shimi, they don't be-[Em]-lieve me | (same)
+But [Dm] you won't let those [F] robots de-[G]-feat me
+Yo-[C]-shimi, they don't be-[Em]-lieve me
+But [Dm] you won't let those [F] robots [G] eat me
+```

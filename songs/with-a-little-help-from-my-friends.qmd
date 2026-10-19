@@ -1,0 +1,59 @@
+---
+title: "With a Little Help from my Friends"
+sort_title: "With a Little Help from my Friends"
+artist: "The Beatles"
+key: "E"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+spiritual: 1
+added: "2021-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1bfi21oJQwa72O1RhsyOCV54mHCz69HLlD3ba4w04tDU/edit"
+---
+
+```{.song}
+Intro: [C] Billlllll - [D] lyyyyyyyyy [E] Shears
+
+Verse 1:
+[E] What would you [B] think if I [F#m] sang out of tune,
+Would you [F#m] stand up and [B] walk out on [E] me.
+[E] Lend me your [B] ears and I'll [F#m] sing you a song,
+And I'll [F#m] try not to [B] sing out of [E] key.
+
+Chorus:
+Oh, I get [D] by with a little [A] help from my [E] friends,
+Hmm, I get [D] high with a little [A] help from my [E] friends,
+Hmm, gonna [A] try with a little help from my [E] friends. [B] (break)
+
+Verse 2:
+[E] What do I [B] do when my [F#m] love is away.
+(Does it [F#m] worry you to [B] be [E] alone)
+[E] How do I [B] feel by the [F#m] end of the day
+(Are you [F#m] sad because you're [B] on your [E] own)
+
+Chorus:
+
+Bridge:
+Do you [C#m] need [F#] anybody,
+I [E] need [D] somebody to [A] love.
+Could it [C#m] be [F#] anybody
+I [E] want [D] somebody to [A] love.
+
+Verse 3:
+[E] Would you [B] believe in a [F#m] love at first sight,
+(Yes I'm [F#m] certain that it [B] happens all the [E] time.)
+[E] What do you [B] see when you [F#m] turn out the light,
+(I can't [F#m] tell you, but I [B] know it's [E] mine.)
+
+Chorus:
+Bridge:
+Chorus:
+
+Outro:
+Yes, I get [D] by with a little help from my [A] friends, with a little help from my
+[C] frieeeee-[D]-eeeeeeeeeeee-[E]-eends.
+```

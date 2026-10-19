@@ -1,0 +1,30 @@
+---
+title: "O Canada"
+sort_title: "O Canada"
+artist: "Robert Stanley Weir"
+key: "G"
+libraries: ["all", "kids"]
+difficulty: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EqSuHY_WGUZokP0ckI8hoFBEk6Ao69qtpy22iPVyhXg/edit"
+---
+
+```{.song}
+[C] O [G] [Am] Canada
+[G] Our [C] home [F] and [Am7] [Dm7] native [G] [G7] land
+[C] True [D7] patriot [G] love
+[G] In all [D7] of us [G] command
+
+[G] With [G7] glowing hearts
+We [C] see thee rise
+The [F] true [C] North [Dm7] strong [Am7] and [G] free
+From [G7] far and wide, O [C] Canada
+We [G] stand on [D7] guard for [G] [G7] thee
+
+[C] God [G] keep our [Am] land
+[Dm] [Dm7] Glorious and [G] [G7] free
+
+[C] O [Caug] [F] Canada, we [C] stand [Dm] on [C] guard [D] for [E] thee
+[C] O [Caug] [F] Canada, we [C] stand [Dm] on [C] guard [G7] for [C] thee
+```

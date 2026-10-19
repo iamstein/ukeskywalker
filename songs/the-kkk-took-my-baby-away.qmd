@@ -1,0 +1,56 @@
+---
+title: "The KKK Took My Baby Away"
+sort_title: "KKK Took My Baby Away, The"
+artist: "The Ramone"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=hT1OKo1rT84"
+libraries: ["all"]
+difficulty: 0
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jEYM-wqR-orI87CBY7D43iY7qyQDQ-78QGYwUPyPIug/edit"
+---
+
+```{.song}
+[G]
+
+Verse 1:
+[G] She went away for the holidays
+[Em] Said she's going to L.A.
+[Am] But she never got there, she never got there
+[D] She never got there, they say (x2)
+
+Chorus:
+[G] The KKK took my baby away
+[C] They took her away, [D] away from me (x2)
+
+[G] <1 2 3> Hey!  <1 2 3> Ho! (x2)
+
+Verse 2:
+[G] Now I don't know where my baby can be
+[C] They took her from me, [D] they took her from me
+[G] Now I don't know where my baby can be
+[C] They took her from me, [D] they took her from me
+
+[C] Ring me, ring me, ring me up the [D] president
+And [C] find out where my [D] baby went
+[C] Ring me, ring me, ring me up the [D] FBI
+[Am] And find out if my [D] baby's alive, yeah, yeah, yeah
+
+[G] Oh-oh-oh-[C] oh-oh-oh [D]
+[G] Oh-oh-oh [C] oh-oh-oh [D]
+
+Verse 1:
+[G] She went away for the holidays
+[Em] Said she's going to L.A.
+[A] But she never got there, she never got there
+[D] She never got there, they say
+
+Chorus:
+[G] The KKK took my baby away
+[C] They took her away, [D] away from me (x2)
+```

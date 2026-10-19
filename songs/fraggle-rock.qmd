@@ -1,0 +1,37 @@
+---
+title: "Fraggle Rock Theme"
+sort_title: "Fraggle Rock Theme"
+youtube: "http://www.youtube.com/watch?v=VL8TlPVygok"
+libraries: ["all"]
+difficulty: 3
+practice: 3
+skill: 1
+poppy: 3
+happy: 3
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1dw8L1yTBluK_a3Jp9an0wWdA4TNEPjCtEjRaWLfKos8/edit"
+other_links: ["http://ukulelehunt.com/wp-content/uploads/2010/09/Fraggle.pdf"]
+---
+
+```{.song}
+PDF Music:         http://ukulelehunt.com/wp-content/uploads/2010/09/Fraggle.pdf
+
+Analysis:
+It's in the key of C
+It's organized in the following sections
+   * Intro: C-chords
+   * Riff 1:        C chord shape (0033)
+   * Riff 1:        C1-a-C2-a-eb-c-a-F-F-F-Eb-F (5-6-1-6-3-2-1-6-4-4-4-3-4)
+      * C1 = 003
+      * C2 = 0033
+      * F   = 10 9 8 8
+      * Eb = 8766
+   * Riff 2:        E chord shape (777 10)
+   * Riff 2:          a-e-f#-d-a-f#-d-E-E-D-Eb-E
+      * E   = 777 10
+      * Eb = 6669
+      * d   = 5558
+   * Chorus:         C-C-C-C-F <clap clap> G b a g eb d c
+   *          C-C-C-C-F <clap clap> G-G-Gsus2-G-C
+```

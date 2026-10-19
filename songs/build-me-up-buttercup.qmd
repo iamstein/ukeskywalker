@@ -1,0 +1,55 @@
+---
+title: "Build Me Up Buttercup"
+sort_title: "Build Me Up Buttercup"
+artist: "The Foundations"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=iol0B-clFFM"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 2
+poppy: 3
+happy: 2
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1TSvkp9JCYNdt8lzdjsZCNwru9GpfmtJ9zPxXPt9x0zE/edit"
+---
+
+```{.song}
+Chorus:
+Why do you [C] build me up (build me up) [E7] Buttercup, baby
+Just to [F] let me down (let me down) and [G] mess me around
+And then [C] worst of all (worst of all) [E7] you never call, baby
+When you [F] say you will (say you will) but [G] I love you still
+I need [C] you (I need you) more than [C7] anyone, darlin'
+You [F] know that I have from the [Fm] start
+So [C] build me up [G] Buttercup,
+Don't break my [F] heart [C]
+
+Verse:
+"I'll be [C] over at [G] ten," you told me [Bb] time and [F] again
+But you're [C] late, I wait [F] around and then
+I [C] went to the [G] door, I can't [Bb] take any [F] more
+It's not [C] you, you let me [F] down again
+
+Bridge:
+[F] (Hey, [C] hey, [Dm] hey!) Baby, baby, try to find
+[G] (Hey, [Fm] hey, [Em] hey!) A little time and I'll make you mine
+[F] I'll be home. I'll be [Dm] beside the phone waiting for [G] you
+[G] Ooo-oo-ooo, [G] ooo-oo-ooo
+
+Chorus:
+
+Verse:
+To [C] you I'm a [G] toy but I [Bb] could be the [F] boy you
+[C] Adore, if you'd just [F] let me know
+[C] Although you're [G] untrue,
+I'm [Bb] attracted to [F] you all the [C] more
+Why do I [F] need you so
+
+Repeat Bridge and Chorus
+
+Outro:
+So [C] build me up (build me up) [G] Buttercup
+Don't break my [F] [Bb] [G] [C] heart
+```

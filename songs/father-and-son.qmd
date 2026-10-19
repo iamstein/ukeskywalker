@@ -1,0 +1,53 @@
+---
+title: "Father and Son"
+sort_title: "Father and Son"
+artist: "Cat Stevens"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=Q29YR5-t3gg"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 2
+skill: 2
+poppy: 3
+happy: 1
+voice_low: "C3"
+voice_high: "E4"
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ga7bDFLiFFe8mbOuNpPCk4AD8bvHfdgaD2w6LSTM8rk/edit"
+---
+
+```{.song}
+Intro: [G] [C] c g c a (x)
+
+It's not [G] time to make a [Bm] change, just [C] relax and take it [Am] easy
+You're still [G] young that's your [Em] fault
+there's so [Am] much you have to [D] know
+Find a [G] girl, settle [Bm] down, if you [C] want to, you can [Am] marry
+Look at [G] me, I am [Em] old, but I'm [Am] [C] [D] happy
+I was [G] once like you are [Bm] now, and I [C] know that it's not [Am] easy
+to be [G] calm, when you've [Em] found something going [Am] [D] on
+But take your [G] time, think a [Bm] lot, why think of [C] everything you've [Am] got
+For you will [G] still be here [Em] tomorrow, but your [D] dreams may [G] not
+
+G C Csus4 2x
+
+How can [G] I try to [Bm] explain? when I [C] do he turns [Am] away again | 3455 345 34555561
+it's [G] always been the [Em] same, same old [Am] [C] [D] story | 1233 123 4322
+From the [G] moment I could [Bm] talk I was [C] ordered to [Am] listen | 3455 345 34555561
+now there's a [G] way and I [Em] know I [D] have to [G] go away | 123 123 4321 6.1
+and I [D] know I [C] have to [G] [G] [C] [Csus4] go | 45 4321
+
+It's not [G] time to make a [D] change, just [C] relax and take it [Am] easy
+You're still [G] young that's your [Em] fault
+there's so [Am] much you have to [D] know
+Find a [G] girl, settle [D] down, if you [C] want to, you can [Am] marry
+Look at [G] me, I am [Em] old, but I'm [Am] [C] [D] happy
+
+All the [G] times that I [Bm] cried, keeping [C] all the things I [Am] knew inside
+It's [G] hard, but it's [Em] harder to [Am] ignore [D] it
+If they were [G] right, I'd [Bm] agree, but it's [C] them they know, not [Am] me
+Now there's a [G] way, and I [Em] know that I [D] have to [G] go away
+I [D] know I [C] have to [G] go
+```

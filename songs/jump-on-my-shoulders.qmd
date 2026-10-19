@@ -1,0 +1,61 @@
+---
+title: "Jump on my Shoulders"
+sort_title: "Jump on my Shoulders"
+artist: "AWOLNATION"
+key: "F"
+key_note: "shifted up from E"
+libraries: ["all"]
+difficulty: 1
+practice: 5
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2016-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Vfeh92ryOGq_rqLpBK0b2c6CImdUmaDw5QvZQL8SgJw/edit"
+---
+
+```{.song}
+Verse:
+[F] There's a mad man looking at you and he wants to take your soul.
+There's a mad man with a mad plan and he's [Bb] dancing at your [F] door.
+What to do, oooh, what to do when the walls are built to crumble
+There's a mad man with a mad plan and he [Bb] waits for us to [Dm] stumble.
+
+[Bb] Oooh, but our eyes are [F] open.  Yeah they're really open. (5, 4, 3, 2, 1)
+
+Chorus (x2):
+I say we [Bb] rob from the rich and blow down the door.
+[F] On to the next and dance with the poor.
+[C] Jump on my shoulders, you can [F] jump on my shoulders.
+
+La's
+[Bb] La la la la la la la la la
+[F] La la la la la la la la la
+[C] La la la la la la la la la
+
+Verse:
+[F] Everybody it's ok if you're mad at what I'm saying.
+Make peace, baby shake my hand cuz I'm [Bb] pretty sure I'm [F] staying, oh
+What to do, oooh, what to do when the walls are built to crumble
+There's a mad man with a mad plan and he [Bb] waits for us to [Dm] stumble.
+
+[Bb] Oooh, but our eyes are [F] open.  Yeah they're really open. (5, 4, 3, 2, 1)
+
+Chorus (x2):
+I say we [Bb] rob from the rich and blow down the door.
+[F] On to the next and dance with the poor.
+[C] Jump on my shoulders, you can [F] jump on my shoulders.
+
+La's
+[Bb] La la la la la la la la la
+[F] La la la la la la la la la
+[C] La la la la la la la la la
+[F] La la la la la la la la la
+
+Outro (x3):
+[C7] I say the devil's lost con-[F]-trol [Am] [Bb]
+[F] Live in the water, [Am] scared of the [Bb] city
+[F] Stay in the water, [Am] scared of the [Bb] city
+```

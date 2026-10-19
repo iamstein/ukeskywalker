@@ -1,0 +1,54 @@
+---
+title: "I Thank You God"
+sort_title: "I Thank You God"
+artist: "e e cummings"
+key: "E"
+youtube: "https://www.youtube.com/watch?v=EyWQBUN8EnQ"
+libraries: ["all", "spiritual", "kids"]
+practice: 2
+fun: 3
+skill: 4
+poppy: 2
+happy: 3
+spiritual: 3
+voice_low: "E3"
+voice_high: "E4"
+added: "2014-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1PIQx-hKCDxNM55A6r3mn9tDVEd_Py8RSf1JDMo3El7U/edit"
+---
+
+```{.song}
+Poem: http://thepoetryplace.wordpress.com/2009/06/01/i-thank-you-god-for-most-this-amazing/
+
+Chorus:
+i thank you God most for this amazing day, | 3 2 3 1 1 1 3 2 1 1 2 3
+i thank you God for this amazing day: | 3 2 1 3 5 5 5 6 5 3
+for the leaping greenly spirits of trees | 6. 1 3 3 3 3 2 1 2 3
+and a blue true dream of sky; and for everything | 6. 1 2 2 3 2 1        6. 1 2 3 2
+which is natural which is infinite, which is yes | 2 2 1' 6 5        6. 1 2 3 2    6.1 1
+
+Verse 1:
+(i who have died, am alive again today, | 3 2 2 1        1 1-3 3-2 2-1
+and this is the sun's birthday; | 6. 3 2 1 2 2-1
+this is the birth day of life and of love and of wings: | 6 5 4 5 4 3 4 3 2 3 2 1 5
+and of the gay great happening illimitably earth) | 5 5 5 5 5 5 5 6        1 3 5 5 5 6
+
+Chorus:
+
+Verse 2:
+how should tasting touching hearing seeing, | 3 5 1'-7 6-5 6-6 5-5
+breathing any -- lifted from the no of all nothing -- | 4-4 4-4 5 5 5 5 6 5 4 1'-6
+human merely being | 1'-7 6-5 5-4
+doubt unimaginable You? | 3 2-1-2-3-4-5-6
+
+Chorus (Partial):
+
+Verse 3:
+(now the ears of my ears awake and | 1 1 3 1 2 3 1-2 1
+now the eyes of my eyes are opened) | 1 2 3 1 2 3 2 2 1
+(now the ears of my ears awake and | 1 1 2 1 2 3 1 2 1
+now the eyes of my eyes are opened) | 6 6 5 1' 1' 6 4 6 5
+
+Chorus:
+```

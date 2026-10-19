@@ -1,0 +1,49 @@
+---
+title: "Hurt"
+sort_title: "Hurt"
+artist: "Johnny Cash"
+key: "Am"
+libraries: ["all"]
+difficulty: 2
+practice: 1
+fun: 2
+skill: 2
+poppy: 1
+happy: 1
+voice_low: "G2"
+voice_high: "G3"
+added: "2013-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1rJAC8Dv_fH9kEFWv5GW0L_IXHwpCtsvzDLoo2OzVctg/edit"
+---
+
+```{.song}
+Key: Am
+Verse 1:
+[Am] I [C] hurt [D] myself [Am] today, to [C] see if [D] I still [Am] feel | 5 7 5 4 3 5         1 3 1 3 4 5
+I [C] focus [D] on the [Am] pain, the [C] only [D] thing thats [Am] real | 5 5 7 5 3 5        1 3 1 3 4 5
+The [C] needle [D] tears a [Am] hole, the [C] old [D] familiar [Am] sting | 5 7 5 4 3 5        1 3 1 3 4 5
+Try to [C] kill it [D] all [Am] away, but I [C] remember [D] every-[G]-thing | 5 5 7 5 4 3 5        1 3 1 3 3 4 1 1
+
+Chorus:
+[Am] What have I [F] become, [C] my sweetest [G] friend | 7 5 4 3 3        5 4 3 4 (?)
+[Am] Everyone I [F] know, goes [C] away in the [G] end | 7 5 4 3 3        3 3 3 4 7. 7.
+And [Am] you could have it [F] all, [C] my empire of [G] dirt | 4 4 3 5 3 3        4 5 4 3 4
+[Am] I will let you [F] down, [G] I will make you [Am] hurt | 4 4 5 3 3        4 4 5 3 3
+
+Verse 2:
+[Am] I [C] wear this [D] crown of [Am] thorns, [C] upon my [D] liars [Am] chair
+[C] Full of [D] broken [Am] thoughts, [C] I [D] cannot [Am] repair
+[C] Beneath the [D] stains of [Am] time, the [C] feeling [D] [Am] disappears
+[C] You are [D] someone [Am] else, [C] I am [D] still right [G] here
+
+Chorus:
+[Am] What have I [F] become, [C] my sweetest [G] friend
+[Am] Everyone I [F] know, goes [C] away in the [G] end
+And [Am] you could have it [F] all, [C] my empire of [G] dirt
+[Am] I will let you [F] down, [C] I will make you [G] hurt
+
+Outro:
+If [Am] I could start [F] again, a [C] million miles  a-[G]-way
+[Am] I would keep my-[F]-self, I would [C] find a way.
+```

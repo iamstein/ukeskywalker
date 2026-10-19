@@ -1,0 +1,37 @@
+---
+title: "Hurry Hurry Drive the Firetruck"
+sort_title: "Hurry Hurry Drive the Firetruck"
+key: "C"
+key_note: "– could step key up with each verse for added effect"
+youtube: "https://youtu.be/VPAVRNmPECI?t=11"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11MXi-U4rGjn-v1tZ5_CdObZJoFmvkGtqt6CvC1h5kvo/edit"
+---
+
+```{.song}
+(Hands on steering wheel)
+[C] Hurry, hurry, drive the fire truck
+[G] Hurry, hurry, drive the fire truck
+[C] Hurry, hurry, drive the fire truck
+(Ring bell)
+[G] Ding, ding, ding, ding, [C] ding!
+
+(Lean to the right)
+Hurry, hurry, turn the corner
+
+(Pretend to climb ladder)
+Hurry, hurry, climb the ladder
+
+(Pretend to spray hose)
+Hurry, hurry, squirt the water
+
+(Lean slowly to the left and right)
+Slowly, slowly, back to the station
+```

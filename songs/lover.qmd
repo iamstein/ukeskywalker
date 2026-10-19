@@ -1,0 +1,60 @@
+---
+title: "Lover"
+sort_title: "Lover"
+artist: "Taylor Swift"
+key: "G"
+key_note: ".  Gmaj7 = 0222"
+youtube: "https://www.youtube.com/watch?v=-BjZmE2gtdo"
+libraries: ["all", "spiritual"]
+difficulty: 2
+fun: 2
+skill: 5
+poppy: 2
+happy: 2
+spiritual: 2
+added: "2019-12"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jnycnDs9dUb9kTtclRM7UyZhOVqdvI-fgzDl0XHENA4/edit"
+---
+
+```{.song}
+Tutorial: https://www.youtube.com/watch?v=fzi_2lcbA8Y
+
+Intro:
+[G] [D] [C] [C] // [G] [Em] [C] [C]
+
+Verse 1:
+[G] We can leave the [D] Christmas light up till [C] January
+[G] And this is our [D] place we made the [C] rules
+And there's a [G] dazzling haze, a my-[D]-sterious way a-[C]-bout you dear
+[G] Have I known you twenty [D] seconds or twenty [C] years
+
+Chorus:
+Can [G] I go [D] where you [C] go
+Can we [G] always [D] be this [C] close forever and ever and
+[G] Ah, take me [D] out and take me [C] home.
+You're [G] my [Gmaj7] my [Em] my [D] my [C] lover
+
+[G] [D] [C] [C]
+
+Verse 2:
+[G] We could let our [D] friends crash in the [C] living room
+[G] This is our [D] place we made the [C] call
+And I'm [G] highly suspicious [D] that everyone who sees you [C] wants you
+I've [G] loved you three summers now [D] honey, but I want  [C] them all
+
+Chorus:
+
+Bridge:
+[G] Ladies and gentlemen [D] will you please stand
+[Em] With every guitar string [F] scar on my hand
+[C] I take this magnetic [G] force of a man to [Am] be my [D] lover
+[G] My heart's been borrowed and [D] yours has been blue
+[Em] All's well that ends well to [F] end up with you
+[C] Swear to be overdra-[G]-matic and true to [Am] my [D] lover.
+And [G] you'll save all your [F] dirtiest jokes for [C] me
+And at every [Am] table I'll save you [D] a seat lover
+
+Chorus + …:
+You're [G] my [Gmaj7] my [Em] my [D] my [C] lover
+```

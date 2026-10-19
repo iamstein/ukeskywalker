@@ -1,0 +1,49 @@
+---
+title: "The Rose"
+sort_title: "Rose, The"
+artist: "Bette Midler"
+key: "C"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 2
+fun: 2
+skill: 3
+poppy: 1
+happy: 1
+spiritual: 2
+added: "2012-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1yfVqMO4IvONYj4tDxcg1Np4fZmMgMYTVuh5NHzrbKwM/edit"
+---
+
+```{.song}
+Verse 1:
+Some say [C] love, it is a [G] river,
+That [F] drowns the [G] tender [C] reed
+Some say [C] love, it is a [G] razor,
+That [F] leaves your [G] soul to [C] bleed
+Some say [Em] love it is a [Am] hunger,
+An [F] endless aching [G] need.
+I say [C] love it is a [G] flower and
+[F] You its [G] only [C] seed
+
+Verse 2:
+It's the [C] heart afraid of [G] breaking
+That [F] never [G] learns to [C] dance
+It's the [C] dream afraid of [G] waking
+That [F] never [G] takes a [C] chance
+It's the [Em] one, who won't be [Am] taken
+Who [F] cannot seem to [G] give
+And the [C] soul afraid of [G] dying
+That [F] never [G] learns to [C] live
+
+Verse 3:
+When the [C] night has been too [G] lonely
+And the [F] road has [G] been too [C] long
+And you [C] feel that love is [G] only
+For the [F] lucky [G] and the [C] strong
+Just re-[Em]-member in the [Am] winter
+Far be-[F]-neath the [G] bitter [Gsus4] snow
+Lies the [C] seed that with the [G] sun's love,
+In the [F] spring [G] becomes the [C] rose
+```

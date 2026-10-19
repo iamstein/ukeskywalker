@@ -1,0 +1,59 @@
+---
+title: "King of the Road"
+sort_title: "King of the Road"
+artist: "Roger Miller"
+key: "Bb"
+alt_keys: ["A"]
+youtube: "https://www.youtube.com/watch?v=OmOe27SJ3Yc"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 5
+fun: 3
+skill: 4
+poppy: 2
+happy: 2
+voice_low: "B3"
+voice_high: "D4"
+added: "2014-06"
+pages: 2
+source_doc: "https://docs.google.com/document/d/18gInJNE35hStMMiBiQVmDkl85QcUSXvM8H8QIi9JUJk/edit"
+---
+
+```{.song}
+[Bb] Trailer for [Eb] sale or rent | 1' 5 3 2 3 4
+[F7] Rooms to [Bb] let...fifty cents. | 5 5 6 1 1 1
+[Bb] No phone, no [Eb] pool, no pets | 1' 5 3 2 3 4
+[F7] I ain't got no cigarettes | 5 5 7 1' 2' 1' 7
+
+Ah, [Bb] but..two hours of [Eb] pushin' broom | 5 6 1' 5 3 2 3 4
+Buys a [F7] eight by twelve [Bb] four-bit room | 7 5  6  4 1 1 1
+[Bb] I'm a man of [Eb] means by no means [F7] | 6 5 3' 2' 1' 1' 1' 6
+King of the [Bb] road. | 2' 1' 7 1'
+
+[Bb] Third boxcar, [Eb] midnight train | (same)
+[F7] Destination… [Bb] Bangor, Maine.
+Old worn out [Eb] suit and shoes,
+[F7] I don't pay no union dues,
+
+I smoke [Bb] old stogies [Eb] I have found | (same)
+[F7] Short, but not too [Bb] big around
+[Bb] I'm a man of [Eb] means by no means [F7]
+King of the [Bb] Road.
+
+(shift up a half step: Bb → B)
+I know [B] every engineer on [E] every train | 6 7 1' 1' 3' 2' 1' 6  7 6 5 5
+[F#7] All of their children, and [B] all of their names | 7 7 7 5 5 6 1 6 5
+And every handout in [E] every town | 5 5' 3' 2' 1' 6 1' 6 1 5
+And [F#7] every lock that ain't locked | 5 5 5 5 5 7 7 7 7 7
+[F#7] When no one's around. I sing: | 7 2' 2' 2' 4'
+
+[B] Trailers for [E] sale or rent | (same above)
+[F#7] Rooms to let, [Bb] fifty cents
+No phone, no [E] pool, no pets
+[F#7] I ain't got no cigarettes
+
+Ah, but, [B] two hours of [E] pushin' broom | (same above)
+Buys a [F#7] eight by twelve [B] four-bit room
+[B] I'm a man of [E] means by no means [F#7]
+King of the [B] Road.
+```

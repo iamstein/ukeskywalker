@@ -1,0 +1,59 @@
+---
+title: "She Don't Use Jelly"
+sort_title: "She Don't Use Jelly"
+artist: "Flaming Lips"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=cvfxKbpoxRE"
+libraries: ["all"]
+difficulty: 0
+fun: 5
+skill: 3
+poppy: 3
+happy: 3
+added: "2019-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/12u6ytKVSI-WaaUnvOryZNfjQHjj1aSpo8iIKnmwgdvY/edit"
+---
+
+```{.song}
+Intro riff: 7. 7. 7. 2 7. 7. 7. 1 1 1 5 6. | (((f#. a f#. g d e.)
+
+[D] I know a girl who [C] thinks of ghosts
+[D] She'll make ya breakfast [C] She'll make ya toast
+[D] But she don't use butter, and [C] she don't use cheese
+[G]She don't use jelly, or [A] any of these.  She uses
+[D] Va-a-a-[Em]-a-[G]-seline (x4)
+
+Chorus riff:
+
+And [D] I know a guy who [C] goes to shows
+[D] When he's at home and he [C] blows his nose
+[D] He don't use tissues [C] or his sleeve
+[G] He don't use napkins or [A] any of these.  He uses
+[D] Ma-a-a-[Em]-ga-[G]-zines (x4)
+
+[D] I know a girl who [C] reminds me of Cher
+[D] She's always changing, [C] the color of her hair
+[D] She don't use nothing, that ya [C] buy at the store
+[G] She likes her hair to [A] be real orange.  She uses
+[D] Ta-a-a-[Em]-an-[G]-gerines (x4)
+[D] Ta-a-a-[G]-an-[A]-gerines (x4)
+
+[D] I know a girl in derma-[C]-tology
+[D] When her skin's dry, she [C] uses cream
+She [D] don't use fancy tubes of [C] Nivea
+Or [G] anti-aging Neutro-[A]-gena
+She uses [D] va-a-a-[Em]-so-[G]-line (x4)
+
+[D] I know a girl who [C] makes me lunch
+[D] She loves her table and [C] protects it a bunch
+[D] She don't use placemats [C] or doilys
+[G] She don't use towels or [A] any of these
+She uses [D] ma-a-a-[Em]-ga-[G]-zines (x4)
+
+[D] I know a girl who's my [C] sweetie pie.
+[D] I love her cooking and I [C] love her smile
+[D] Sometimes I think too much but, she [C] doesn't mind.
+Well, [G] she does a little but, [A] still she's mine.
+Her name is [D] Ca-a-a-[Em]-ther-[G]-ine (x4)
+```

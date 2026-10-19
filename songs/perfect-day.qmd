@@ -1,0 +1,56 @@
+---
+title: "Perfect Day"
+sort_title: "Perfect Day"
+artist: "Lou Reed"
+key: "Am"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 3
+fun: 2
+skill: 2
+poppy: 2
+happy: 2
+added: "2012-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1maOMwHaXCjUj1GEU9t73rY0neNe-ILbGOYWmQLvVS-w/edit"
+---
+
+```{.song}
+F#m = 2120, C#m = 110x
+
+Intro:
+E  Am  E  Am
+
+Verse 1:
+[Am] Just a [D] perfect day, [G] Drink Sangria [C] in the park,
+[F] And then later, [Dm] when it gets dark, We go [E] home.
+[Am] Just a [D] perfect day, [G] Feed animals [C] in the zoo
+[F] Then later, [Dm] a movie, too, And then [E] home.
+
+Chorus:
+Oh [A] it's such a [D] perfect day,
+I'm [C#m] glad I spent it with [D] [D/C#] [D/B] you.
+[A] Oh such a [E] perfect day,
+You just [F#m] keep me [E] hanging [D] on,
+You just [F#m] keep me [E] hanging [D] on.
+
+Verse 2:
+[Am] Just a [D] perfect day, [G] Problems all [C] left alone,
+[F] Weekenders [Dm] on our own. It's such [E] fun.
+[Am] Just a [D] perfect day, [G] You made me for-[C]-get myself.
+[F] I thought I was [Dm] someone else, Someone [E] good.
+
+Chorus:
+
+Instrumental:
+F#m  E  D
+F#m  E  D
+
+Outro:
+[C#m] You're going to [G] reap just what you [D] [D/C#] [D/B] [A] sow,
+[C#m] You're going to [G] reap just what you [D] [D/C#] [D/B] [A] sow,
+[C#m] You're going to [G] reap just what you [D] [D/C#] [D/B] [A] sow,
+[C#m] You're going to [G] reap just what you [D] [D/C#] [D/B] [A] sow,
+C#m   G   D   D/C#  D/B   A
+C#m   G   D   D/C#  D/B   A
+```

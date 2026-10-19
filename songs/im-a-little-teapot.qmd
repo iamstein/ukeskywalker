@@ -1,0 +1,16 @@
+---
+title: "I'm a Little Teapot"
+sort_title: "I'm a Little Teapot"
+key: "G"
+libraries: ["all", "kids", "kids-motions"]
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1e_hkTh7pPn6t8FAuY_pn-9bNsugcVEXdK1tUfD2SVzk/edit"
+---
+
+```{.song}
+[G] I'm a little [D] teapot [C] short and [G] stout.
+[C] Here is my [G] handle, [D] here is my [G] spout.
+[G] When I get all [D] steamed up [C] then I [G] shout
+[C] Tip me [G] over and [D] pour me [G] out.
+```

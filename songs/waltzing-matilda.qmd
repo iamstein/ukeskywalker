@@ -1,0 +1,66 @@
+---
+title: "Waltzing Matilda"
+sort_title: "Waltzing Matilda"
+artist: "Slim Dustly"
+key: "D"
+key_note: "[glossary at the end]"
+youtube: "https://www.youtube.com/watch?v=FqtttbbYfSM&ab_channel=SlimDusty"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 2
+happy: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1plzi48QaDPfNM4C7S2cBHqMEdlPDFqmrGKvNpiAplss/edit"
+---
+
+```{.song}
+Intro: [D] [A] [D] [A]
+
+Verse:
+[D] Once a jolly [A] swagman [D] camped by a [G] billabong
+[D] Under the shade of a coolabah [A] tree
+And he [D]  sang as he [A] watched and [D] waited till his [G] billy boiled,
+[D] You`ll come a-waltzing Mat-[A]-ilda with [D] me
+
+Chorus:
+[D] Waltzing Matilda, [G] waltzing Matilda,
+[D] You`ll come [Bm] a-waltzing Mat-[Em]-ilda with [A] me.
+And he [D] sang as he [A] watched and [D] waited till his [G] billy boiled
+[D] You`ll come a-waltzing Mat-[A]-ilda with [D] me
+
+Verse:
+[D] Down came a [A] jumbuck to [D] drink at the [G] billabong,
+[D] Up jumped the swagman and grabbed him with [A] glee.
+And he [D] sang as he [A] shoved that [D] jumbuck in his [G] tucker bag,
+[D] You`ll come a-waltzing Mat-[A]-ilda with [D] me
+
+Chorus:
+
+Verse:
+[D] Up rode the [A] squatter, [D] mounted on his [G] thoroughbred,
+[D] Up rode the troopers, [A] one-two-three.
+[D] "Where's that jolly [A] jumbuck, [D] you`ve got in your [G] tucker bag
+[D] You`ll come a-waltzing Mat-[A]-ilda with [D] me
+
+Chorus:
+
+Verse:
+[D] Up jumped the [A] swagman and [D] sprang into the [G] billabong,
+[D] You`ll never catch me alive, said [A] he
+And [D] his ghost may be [A] heard as you [D] pass by that [G] billabong,
+[D] You`ll come a-waltzing Mat-[A]-ilda with [D] me
+
+Chorus x2:
+
+Glossary
+Billabong - "ox bow lake" - a pond left behind after river changes course
+Billy - water for making coffee or tea, boiled over camp file
+Jumbuck - sheep
+Squatter - land owner
+Swag - bag of belongings carried over one's back
+Swagman - a man who carries a swag
+Waltzing Matilda - traveling with one's belongings carried over one's back
+```

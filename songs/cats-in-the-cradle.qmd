@@ -1,0 +1,63 @@
+---
+title: "Cats in the Cradle"
+sort_title: "Cats in the Cradle"
+artist: "Harvey Chapin"
+key: "D"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 2
+fun: 2
+skill: 3
+poppy: 1
+happy: 2
+voice_low: "A2"
+voice_high: "C4"
+added: "2013-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1VGohsr980kmjgI4Ua0HgZj-kpgRVzV3vvG1OxfATp5s/edit"
+---
+
+```{.song}
+Intro (Run): d a a | b a g e a | e c e e c c e D-chord
+
+Verse 1:
+My [D] child arrived just the [F] other day; he [G] came into the world in the [D] usual way.
+But there were [D] planes to catch, and [F] bills to pay. [G] He learned to walk while I [D] was away.
+And he was [C] talkin' 'fore I knew it. And [Am] as he  grew
+he'd say, [F] "I'm gonna [Am] be like [D] you, Dad. You [F] know I'm gonna [Am] be like [D] you."
+
+Chorus:
+And the [D] cat's in the cradle and the [C] silver spoon,
+[F] little boy blue and the [G] man in the moon.
+[D] "When you comin' home Dad?" "I [C] don't know when,
+but [F] we'll get [Am] together [D] then, Son. You [F] know we'll have a [Am] good time [D] then."
+Run: d a a | b a g e a | e c e e c c e D-chord
+
+Verse 2:
+My [D] son turned ten just the [F] other day. He said, [G] "Thanks for the ball, Dad. Come [D] on, let's play.
+Can you [D] teach me to throw?" I said, [F] "Not today. I got a [G] lot to do." He said, [D] "That's okay."
+And [C] he walked  away, but his [Am] smile never  dimmed.
+It said, [F] "I'm gonna [Am] be like [D] him, yeah. You [F] know I'm gonna [Am] be like [D] him."
+
+Chorus:
+
+Verse 3:
+Well, he [D] came home from college just the [F] other day, so [G] much like a man I just [D] had to say,
+"Son, I'm [D] proud of you. Can you [F] sit for a while?" He [G] shook his head and he [D] said with a smile,
+"What I'd [C] really like, Dad, is to [Am] borrow the car keys.
+[F] See you [Am] later. Can I [D] have them please?"
+
+Chorus:
+
+[Bb] [C] [Am] [D] x2
+
+Verse 4 (Slower):
+I've [D] long since retired, my [F] son's moved away. [G] I called him up just the [D] other day.
+I said, "I'd [D] like to see you if [F] you don't mind." He said, "I'd [G] love to, Dad, if I could [D] find the time.
+You see, my [C] new job's a  hassle and the [Am] kids have the  flu,
+but it's [F] sure nice [Am] talkin' to [D] you, Dad. It's been [F] sure nice [Am] talkin' to [D] you."
+And as I [C] hung up the  phone it oc-[Am]-cured to  me,
+he'd [F] grown up [Am] just like [A(no] me. [3rd)] My [F] boy was [Am] just like [D] me.
+
+Chorus (Original Tempo):
+```

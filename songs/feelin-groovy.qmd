@@ -1,0 +1,38 @@
+---
+title: "Feelin' Groovy"
+sort_title: "Feelin' Groovy"
+artist: "Simon and Garfunkel"
+key: "C"
+key_note: ": F-C-G-C (4-1-5-1"
+youtube: "http://www.youtube.com/watch?v=AV1jkoqqfd4&feature=youtu.be&t=36s"
+libraries: ["all", "kids"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+voice_low: "E3"
+voice_high: "E4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1qipDUQ3Wm9HgD-STT2evnr0d86wzVDLN58a2utaVKKE/edit"
+---
+
+```{.song}
+[F] Slow [C] down, you [G] move too [C] fast. | 6 5 3 4 5 3
+[F] You got to [C] make the [G] morning [C] last. | 6 6 4 5 5 5 5 1' 5
+Just [F] kicking [C] down the [G] cobble [C] stones. | 6 3 5 5 5 3 6 5
+[F] Looking for [C] fun and [G] feelin' [C] groovy. | 6 6 4 5 3 5 5 3' 1'
+
+Ba da, Ba [F] da, Ba [C] da, Ba [G] da...Feelin' [C] groovy.
+
+[F] Hello [C] lamp-post, [G] what cha [C] knowin'? | (repeat)
+[F] I've come to [C] watch your [G] flowers [C] growin'.
+[F] Ain't cha [C] got no [G] rhymes for [C] me?
+[F] Doot-in' [C] doo-doo, [G] feelin' [C] groovy.
+
+[F] I've got [C] no deeds to do, no [G] promises to [C] keep. | 3 5 6 6 3 5 5 4 4 5 3
+I'm [F] dappled and [C] drowsy and [G] ready to [C] sleep. | 3 3' 2' 1' 3' 2' 1' 1' 6 5 3
+Let the [F] morning time [C] drop all its [G] petals on [C] me. | 3 3 4 5 1' 3 3 3 3' 2' 1'5
+[F] Life, I [C] love you, [G] all is [C] groovy. | 6 3 5 5 5 5 3' 1'
+```

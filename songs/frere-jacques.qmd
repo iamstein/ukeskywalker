@@ -1,0 +1,29 @@
+---
+title: "Frere Jacques"
+sort_title: "Frere Jacques"
+key: "G"
+libraries: ["all", "kids"]
+difficulty: 2
+fun: 2
+skill: 3
+happy: 3
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1M2ZVHPbqNcVzpUJBLznMw8iN1cPFaz6ZDMH9onwMJzo/edit"
+---
+
+```{.song}
+[G] Frè-[D]-re [G] Jacques, [G] Frè-[D]-re [G] Jacques?
+[G] Dor-[C]-mez [D] vous? [G] Dor-[C]-mez [D] vous?
+[Em7] Sonnez les [C] mati-[G]-nes, [Em7] Sonnez les [C] mati-[G]-nes,
+[G] Ding [D] dong [G] ding, [G] ding [D] dong [G] ding.
+
+-------------------------------------------------------------------------
+
+English Version:
+
+[G] Are [D] you [G] sleeping, [G] are [D] you [G] sleeping?
+[G] Bro-[C]-ther [D] John, [G] Bro-[C]-ther [D] John?
+[Em7] Morning bells [C] are [G] ringing, [Em7] morning bells [C] are [G] ringing
+[G] Ding [D] dong [G] ding, [G] ding [D] dong [G] ding.
+```

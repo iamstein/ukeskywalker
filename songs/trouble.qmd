@@ -1,0 +1,64 @@
+---
+title: "Trouble"
+sort_title: "Trouble"
+artist: "Cat Stevens"
+key: "F"
+key_note: "actually F# on record"
+youtube: "https://www.youtube.com/watch?v=H1tRB7-aBr8&feature=kp"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+skill: 3
+poppy: 1
+happy: 1
+voice_low: "D3"
+voice_high: "E4"
+added: "2014-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Ob_iAMxgQXqmwx28InoyzqVsJ72ONB-cQcSu61edtdw/edit"
+---
+
+```{.song}
+Uke: https://www.youtube.com/watch?v=xI6oQrMc1CA
+
+Intro:  [C] [F] [C] [F]
+
+Verse 1:
+[F] Trouble, oh, [C] trouble set me free, | 3 5 6   3 5 5 6 3-2-1
+[Gm] I have [Bb] seen your face, | 6. 1 3 2 1
+And it's [Gm] too much, too much for [Bb] me | 6. 1 2 2 3 2 6. 1
+[F] Trouble, oh, [C] trouble, can't you see? | 3 5 6   3 5 5 6 3-2-1
+[Gm] You're eating my [Bb] heart away, | 6. 6. 6. 1 3 2 1
+And there's [Gm] nothing much left of [Bb] me | 6. 1 2 2 3 2 6. 1
+
+Chorus:
+[G] [Eb] [C] [D] I-[G]-I've [F] drunk your [C] wine, | 6-6 5 3 2
+you have made [F] your world [C] mine, | 2 3 5m 5 3 2
+So won't you be [Gm] fair, so won't you be [Bb] fair? | 3 2 1 6. 2        3 2 1 6. 1
+[D] I-[G]-I don't want no [F] more of [C] you, | 6-6 7 5 7 5 3 2
+So won't you be [F] kind to [C] me? | 2 3 5m 5 3 2
+Just let me go [Gm] where, I have to go [Bb] there | 3 2 1 6. 2        3 2 1 6. 1
+
+Verse 2:
+[F] Trouble, oh, [C] trouble move away,
+[Gm] I have [Bb] seen your face,
+And it's [Gm] too much for me to-[Bb]-day,
+[F] Trouble, oh, [C] trouble can't you see
+[Gm] you have [Bb] made me a wreck
+Now, won't you [Gm] leave me in my miser-[Bb]-y?
+
+Chorus 2:
+[G] [Eb] [C] [D] I-[G]-I've [F] seen your [C] eyes,
+and I can see [F] death's [C] disguise
+Hanging on [Gm] me, hanging on [Bb] me
+[D] I-[G]-I'm [F] beat, I'm [C] torn, shattered and [F] tossed,
+I'm [C] worn too shocking to [Gm] see, too shocking to [Bb] see
+
+Verse 3:
+[F] Trouble, oh, [C] trouble move from me,
+[Gm] I have [Bb] paid my debt,
+Now won't you [Gm] leave me in my miser-[Bb]-y?
+[F] Trouble, oh, [C] trouble, please, be kind,
+[Gm] I don't [Bb] want no fight,
+and I [Gm] haven't got a lot of [Bb] time
+```

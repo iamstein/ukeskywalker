@@ -1,0 +1,54 @@
+---
+title: "Did Trouble Me"
+sort_title: "Did Trouble Me"
+artist: "Tom Jones"
+key: "C"
+key_note: "Susan Werner plays in Bb"
+youtube: "https://www.youtube.com/watch?v=TaeLeUdV8y0"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+practice: 4
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+spiritual: 3
+protest: 1
+voice_low: "A2"
+voice_high: "A3"
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1hc7iBdeBuo92G3qN5K5gR2oblnTRbHCNkIAe_SS9GVo/edit"
+---
+
+```{.song}
+When I [F] closed my [C] eyes so I [G] would not [C] see,         my Lord did [G] trouble [C] me        3 5 6 5 5 1 1 2 3 3        1 1 1 2 3 3
+When I [F] let things [C] stand that [G] should not [Am] be, [C]        my Lord did [G] trouble [C] me        3 5 6 5 3 1 2 1 6.        1 1 1 2 1 1
+When I [F] held my [C] head too [G] high too [C] proud,         my Lord did [G] trouble [C] me        3 5 6 5 5 1 2 3 3        1 1 1 2 3 3
+When I [F] raised my [C] voice too [G] little too [Am] loud,   [C]        my Lord did [G] trouble [C] me        3 5 6 5 3 1 2-2 1 6.        1 1 1 2 1 1
+
+Did trouble [Am] me. With a word or a [F] sign | 3 2 1 6.    1 1 3 5 6
+With the [C] ringing of the [G] bell in the [C] back of my [Am] mind | 5 5 6 5 3 1 2 1 2 3 2 1 6.
+Did [G] trouble [C] me.  Did stir my [F] soul. | 1 2 2 3l    1 3 5 6
+For to [C] make me [G] human, to make me [C] whole | 5 5 6 5 3-3 1 2 1 1
+
+When I [F] slept too [C] long, [G] slept too [C] deep, my Lord did [G] trouble [C] me
+Put a [F] worrisome [C] vision [G] into my [Am] sleep, [C] my Lord did [G] trouble [C] me
+When I [F] held my-[C]-self a-[G]-way and a-[C]-part, my Lord did [G] trouble [C] me
+And the [F] tears of my [C] brother didn't [G] move my [Am] heart, [C] my Lord did [G] trouble [C] me
+
+Did trouble [Am] me. With a word or a [F] sign | 3 2 1 6.    1 1 3 5 6
+With the [C] ringing of the [G] bell in the [C] back of my [Am] mind | 5 5 6 5 3 1 2 1 2 3 2 1 6.
+Did [G] trouble [C] me.  Did stir my [F] soul. | 1 2 2 3l    1 3 5 6
+For to [C] make me [G] human, to make me [C] whole | 5 5 6 5 3-3 1 2 1 1
+
+And of [F] this I'm [C] sure, of [G] this I [C] know, my Lord will [G] trouble [C] me
+What-[F]-ever I [C] do and wher-[G]-ever I [Am] go, [C] my Lord will [G] trouble [C] me
+In the [F] whisper of the [C] wind, in the [G] rhythm of a [C] song, my Lord will [G] trouble [C] me
+To [F] keep me on the [C] path where [G] I be-[Am]-long, [C] my Lord will [G] trouble [C] me
+
+Will trouble [Am] me. With a word or a [F] sign | 3 2 1 6.    1 1 3 5 6
+With the [C] ringing of the [G] bell in the [C] back of my [Am] mind | 5 5 6 5 3 1 2 1 2 3 2 1 6.
+Did [G] trouble [C] me.  Did stir my [F] soul. | 1 2 2 3l    1 3 5 6
+For to [C] make me [G] human, to make me [C] whole | 5 5 6 5 3-3 1 2 1 1
+```

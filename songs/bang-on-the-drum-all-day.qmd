@@ -1,0 +1,48 @@
+---
+title: "Bang on the Drum (or Ukulele) all Day"
+sort_title: "Bang on the Drum (or Ukulele) all Day"
+artist: "Todd Rundgren"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=jvLO2E4yMUc&t=29s"
+libraries: ["all"]
+difficulty: 2
+fun: 1
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "E3"
+voice_high: "C4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1gs1HtoIadkc5-3ufUy2X_pziRrP99qE_GmoktuxXkcQ/edit"
+---
+
+```{.song}
+CHORUS:
+[C] I don't want [Bb] to [F] work
+[Bb] I want to [C] bang on the drum [Bb] all [F] day
+[C] I don't want [Bb] to [F] play
+[Bb] I just want to [C] bang on the [Bb] drum all [F] day
+
+VERSE:
+[G] Ever since I was a tiny boy
+[Am] I don't want no candy, I don't need no toy
+[G] I took a stick and an old coffee can
+[D] I bang on that thing 'til I got [F] blisters on my hand because
+
+<CHORUS>
+
+[G] When I get older they think I'm a fool
+[Am] The teacher told me I should stay after school
+[G] She caught me pounding on the desk with my hands
+[D] But my licks was so hot I [F] made the teacher wanna dance And that's why...
+
+<CHORUS> Listen to this:
+
+[G] Every day when I get home from work
+[Am] I feel so frustrated, the boss is a jerk
+[G] And I get my sticks and go out to the shed
+[D] And I pound on that drum like it [F] was the boss's head because...
+
+<CHORUS>
+```

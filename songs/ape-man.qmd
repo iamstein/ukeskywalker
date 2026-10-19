@@ -1,0 +1,64 @@
+---
+title: "Ape Man"
+sort_title: "Ape Man"
+artist: "The Kinks"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=OStP1HMDkwM"
+libraries: ["all", "spiritual"]
+difficulty: 1
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+spiritual: 1
+voice_low: "G2"
+voice_high: "F3"
+added: "2010-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1XOqBbA_evy2k7P1qXCvh1iMZYtfVZrr9zxH4pd0x3lU/edit"
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdHJMWHFEOFp4MFNjZ0I3ZFhoN1Jqenc&hl=en&output=html"]
+---
+
+```{.song}
+Verse 1:
+I think I'm [C] sophisticated 'cause I'm living my life like a [G] good Homo sapien
+But [C] all around me everybody's multiplying till they're [G] walkin' round like flies man
+So [F] I'm no better than the animals sitting in their [C] cages in the zoo man
+[C] 'Cause compared to the flowers and the birds and the trees [F] I am an [G] ape [C] man
+
+Verse 2:
+[C] I think I'm so educated and I'm so civilized 'cause I'm a [G] strict vegetarian
+But with the [C] over-population and inflation and starvation and the [G] crazy politicians
+I [F] don't feel safe in this world no more I [C] don't want to die in a nuclear war
+I want to sail away to a distant shore and [F] make like an [G] ape [C] man
+
+Chorus:
+[C] I'm an ape man I'm an ape ape man oh I'm an [G] ape man
+I'm a [C] King Kong man I'm a voodoo man oh I'm an [G] ape man
+'Cause com-[F]-pared to the sun that sits in the sky com-[C]-pared to the clouds as they roll by
+Compared to the bugs and the spiders and flies [G] I am an ape [C] man
+[F] La la la la [C] la la la [F] la [G] la la [C] la
+
+Verse 3:
+(Spoken) [C] In man's evolution he has created the [G] city and the motor traffic rumble
+[C] But give me half a chance and I'd be taking [G] off my clothes and living in the jungle
+(Sung) 'Cause the [F] only time that I feel at ease is [C] swinging up and down in a coconut tree
+Oh what a life of luxury to [G] be like an ape [C] man
+
+Bridge:
+[C] Ah come on and [G] love me be my ape man [C] girl
+And we will be so [G] happy in my ape man [C] world [G] [F] [C] [G]
+
+Chorus 2:
+[C] I'm an ape man I'm an ape ape man oh I'm an [G] ape man
+I'm a [C] King Kong man I'm a voodoo man oh I'm an [G] ape man
+[F] I'll be your Tarzan you'll be my Jane [C] I'll keep you warm and you'll keep me sane
+We'll sit in the trees and eat bananas all day [G] just like an ape [C] man
+
+Chorus 3:
+[C] I'm an ape man I'm an ape ape man oh I'm an [G] ape man
+I'm a [C] King Kong man I'm a voodoo man oh I'm an [G] ape man
+I [F] don't feel safe in this world no more I [C] don't want to die in a nuclear war
+I want to sail away to a distant shore and [G] make like an ape [C] man
+[F] La la la la [C] la la la [F] la [G] la la [C] la
+```

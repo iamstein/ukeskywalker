@@ -1,0 +1,40 @@
+---
+title: "Chord Transposer"
+toc: false
+aliases:
+  - /transposer
+include-after-body:
+  - text: |
+      <script src="../assets/chords.js"></script>
+      <script src="../assets/transposer.js"></script>
+---
+
+Paste a song with inline chords (`[G] Abigail`) or with chords on their own
+line above the lyrics. The transposer guesses the key from the first chord;
+pick the key you want to play in. Every song page also has a key menu at the
+top that does the same thing.
+
+```{=html}
+<div class="tool">
+  <label for="transpose-input" class="form-label">Song</label>
+  <textarea id="transpose-input" class="form-control font-monospace" rows="14" spellcheck="false">[G] Abigail, can you feel my [C] heart in the [G] palm of your [D] hand
+and do you [Em] understand [C] why I can't sta-[G]-aa-[D]-aay</textarea>
+  <div class="tool-actions">
+    <label for="transpose-from">From</label>
+    <select id="transpose-from" class="form-select form-select-sm"></select>
+    <label for="transpose-to">to</label>
+    <button id="transpose-down" type="button" class="btn btn-sm btn-outline-secondary" aria-label="Down a semitone">−</button>
+    <select id="transpose-to" class="form-select form-select-sm"></select>
+    <button id="transpose-up" type="button" class="btn btn-sm btn-outline-secondary" aria-label="Up a semitone">+</button>
+    <span id="transpose-shift" class="text-secondary"></span>
+  </div>
+  <label for="transpose-output" class="form-label">Transposed</label>
+  <textarea id="transpose-output" class="form-control font-monospace" rows="14" spellcheck="false"></textarea>
+  <div class="tool-actions">
+    <button id="transpose-copy" type="button" class="btn btn-outline-secondary btn-sm">Copy</button>
+  </div>
+</div>
+```
+
+The melody numbers in a song are scale degrees, so they stay the same in every
+key; only the chords change.

@@ -1,0 +1,50 @@
+---
+title: "Precious Lord Take My Hand"
+sort_title: "Precious Lord Take My Hand"
+key: "G"
+libraries: ["all", "spiritual"]
+practice: 3
+fun: 1
+skill: 2
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2015-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ZSI1xnOojDXf75FegnnNQVkF1z2mwQMG0FqkAK2Vgqw/edit"
+---
+
+```{.song}
+Verse:
+Precious [G] Lord, take my [G7] hand,
+Lead me [C] on, let me stand,
+I am [G] tired, I am weak, I am [D7] worn;
+Through the [G] storm, through the [G7] night,
+Lead me [C] on to the light:
+
+Refrain:
+Take my [G] hand, precious [D7] Lord,
+Lead me [G] [(C] [G] [opt)] home.
+
+Verse:
+When my [G] way grows [G7] drear,
+Precious [C] Lord, linger near,
+When [G] my life is almost [D7] gone,
+Hear my [G] cry, hear my [G7] call,
+Hold my [C] hand lest I fall:
+
+Refrain:
+Take my [G] hand, precious [D7] Lord,
+Lead me [G] [(C] [G] [opt)] home.
+
+Verse:
+When the [G] darkness ap-[G7]-pears
+And the [C] night draws near,
+And the [G] day is past and [D7] gone,
+At the [G] river I [G7] stand,
+Guide my [C] feet, hold my hand:
+
+Refrain:
+Take my [G] hand, precious [D7] Lord,
+Lead me [G] [(C] [G] [opt)] home.
+```

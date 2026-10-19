@@ -1,0 +1,63 @@
+---
+title: "Royals"
+sort_title: "Royals"
+artist: "Lorde"
+key: "G"
+key_note: "I think - at least for chorus.  There's a key change I think."
+youtube: "http://www.youtube.com/watch?v=6JRiQd2Zpho"
+libraries: ["all"]
+difficulty: 0
+practice: 3
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "D3"
+voice_high: "A4"
+added: "2014-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1b3VYiwaqERhhaCkHiQEh_azPSAs-2-JTahSW97Psmvs/edit"
+---
+
+```{.song}
+Original: http://www.youtube.com/watch?v=LFasFq4GJYM&feature=kp
+
+Verse #1:
+[D] I've never seen a diamond in the flesh | 2 2 2 2 2 5 5 4 4 2
+[D] I cut my teeth on wedding rings in the movies | 2 2 2 5 5 4 4 2        1 1 2 1 7.
+[D] And I'm not proud of my address, | 2 2 2 5 5 4 4 2
+[D] in the torn up town. No post code envy | 5 5 5 1' 7        5 5 1' 7 6 5
+
+Chorus:
+[D] But every song's like | 5 5 6 7 5
+[D] gold teeth, grey goose, trippin' in the bathroom | 2 2 5 5 7 7 7 5 3
+[D] Blood stains, ball gowns, trashin' the hotel room, | 2 2 5 5 7 7 7 5 3
+[C] We don't care, we're driving [G] cadillacs in our dreams. | 4 4 4 4 4 4 3 3 3 3 2 3
+[G] But everybody's like | 5 5 6 7 6 5
+[D] cristal, maybach, diamonds on your time piece. | 2 2 5 5 7 7 7 5 3
+[D] Jet planes, islands, tigers on a gold leash. | 2 2 5 5 7 7 7 5 3
+[C] We don't care, we aren't [G] caught up in your love affair. | 4 4 4 4 4 4 3 3 3 3 2 3
+
+And we'll never be [D] royals (royals).  It don't run in our blood, | 5 5 7 7 1' 2' 7 (2' 7)        7 7 7 7 1' 2'
+That kind of [C] lux just ain't for us. We crave a [G] diffrnt kind of buzz. | 2' 2' 2' 1' 1' 1' 7 1'1'1'1' 6 6 6 5 6
+Let me be your [D] ruler (ruler), you can call me queen bee | 5 5 7 1' 2' 7 (2' 7)        7 7 7 7 1' 2'
+And baby [C] I'll rule I'll rule I'll rule I'll rule. | 2' 2' 2' 1'
+[G] Let me live that fantasy. | 5 6 7 7 7 6 5
+
+Verse #2:
+[D] My friends and I we've cracked the code. | 2 2 2 5 5 4 4 2
+[D] We count our dollars on the train to the party. | 2 2 2 5 5 4 4 2        1 1 2 1 7.
+[D] And everyone who knows us knows | 2 2 2 5 5 5 7 7 6 5
+[D] that we're fine with this.  We didn't come from money. | 5 5 5 1' 7        5 5 1' 7 6 5
+
+Chorus:
+
+Bridge:
+[D] Oooh ooooh ohhh
+[C] We're bigger than we ever dreamed,
+[G] and I'm in love with being queen.
+[D] Oooooh ooooh ohhhhh [C] life is game without a care
+We aren't [G] caught up in your love affair.
+
+Chorus (2nd half):
+```

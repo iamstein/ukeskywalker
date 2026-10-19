@@ -1,0 +1,59 @@
+---
+title: "Puff the Magic Dragon"
+sort_title: "Puff the Magic Dragon"
+artist: "Peter, Paul, and Mary"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 3
+practice: 3
+fun: 2
+skill: 1
+poppy: 1
+happy: 1
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1NT1cbljE3kxXtjo9FM8f2uUdrInzwi1JDMh8BBiie5Q/edit"
+---
+
+```{.song}
+Verse 1:
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called Honah [G7] Lee,
+[C] Little Jackie [Em] Paper [F] loved that rascal [C] Puff,
+And [F] brought him strings and [C] sealing [Am] wax and [D7] other [G] fancy [C] stuff [G].
+
+Chorus:
+Oh. [C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called Honah [G7] Lee,
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called [G] Honah [C] Lee [G].
+
+Verse 2:
+[C] Together they would [Em] travel [F] on a boat with [C] billowed sail
+And [F] Jackie kept a [C] lookout [Am] perched on [D7] Puff's gigantic [G7] tail,
+[C] Noble kings and [Em] princes would [F] bow whenever they [C] came,
+[F] Pirate ships would [C] lower their [Am] flags when [D7] Puff roared [G] out his [C] name. [G] oh!
+
+Chorus:
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called Honah [G7] Lee,
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called [G] Honah [C] Lee [G].
+
+Verse 3 (double):
+[C] A dragon lives fo-[Em]-rever but [F] not so little [C] boys
+[F] Painted wings and [C] giant [Am] rings make [D7] way for other [G7] toys.
+[C] One grey night it [Em] happened, Jackie [F] Paper came no [C] more
+And [F] Puff that mighty [C] dragon, he [D7] ceased his [G] fearless [C] roar [G] .
+
+His [C] head was bent in [Em] sorrow, [F] green scales fell like [C] rain,
+[F] Puff no longer [C] went to [Am] play [D7] along the cherry [G7] lane.
+[C] Without his life-long [Em] friend, [F] Puff could not be [C] brave,
+So [F] Puff that mighty [C] dragon [Am] sadly [D7] slipped [G] into his [C] cave [G].
+
+Chorus:
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called Honah [G7] Lee,
+[C] Puff, the magic [Em] dragon [F] lived by the [C] sea
+And [F] frolicked in the [C] autumn [Am] mist in a [D7] land called [G] Honah [C] [F] [C] Lee.
+```

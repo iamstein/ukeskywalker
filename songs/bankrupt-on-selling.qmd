@@ -1,0 +1,49 @@
+---
+title: "Bankrupt on Selling"
+sort_title: "Bankrupt on Selling"
+artist: "Modest Mouse"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=W_zd65_xhzc&t=16s"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 5
+poppy: 1
+happy: 1
+voice_low: "E3"
+voice_high: "G3"
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/12ixqbMvuuXVLXl-BAuttvJEjCeYSt-dqqJIDj90EmHA/edit"
+---
+
+```{.song}
+[F] [Dm] [Am] [Bb] - on the ukulele (easier).
+On the 2nd string (E), you start at F, go up 2 (G) and down 1 (E)
+[C] [Am+C][Em][F] - on guitar
+
+Well all the apostles they're sitting in swings
+Sayin' I'd sell off my savior for a set of new rings
+And some sandals with the style of straps that cling best to the era
+
+So all of the businessers in unlimited kill
+Where they buy and they sell and they sell all their trash to
+Each other but they're sick of it all and they're bankrupt on selling.
+
+And all of the angels they'd sell off yer soul
+For a set of new wings and anything gold.
+They remember the people they loved their old friends and I've
+seen through'em all seen through'em all and seen through most everything
+
+All the people you knew were the actors
+All the people you knew were the actors
+
+Well, I'll go to college and I'll learn some big words
+And I'll talk real loud goddamn right I'll be heard
+You'll remember the guys that said all those big words
+They must've learned in college
+
+And it took a long time but I came clean with myself
+I come clean out of love with my lover
+I still love her, loved her more when she used to be sober and i was kinder
+```

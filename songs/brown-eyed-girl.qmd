@@ -1,0 +1,45 @@
+---
+title: "Brown Eyed Girl"
+sort_title: "Brown Eyed Girl"
+artist: "Van Morrison"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+fun: 2
+skill: 4
+poppy: 3
+happy: 3
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1lVNiKh6ht_jbjeu7mhWAUiU0vVMYbSIsl275POfxEmk/edit"
+---
+
+```{.song}
+[G] Hey where did we go? [C] Days when [G] the rains [D] came
+[G] Down in the hollow [C] playin' a [G] new [D] game
+[G] Laughin' and a [C] runnin', heyhey, skippin' and [G] a [D] jumpin'
+[G] In the misty [C] morning fog with our hearts [G] a [D] thumpin and
+[C] You, [D] my brown eyed [G] girl. | (Just keep playing G.  Em if you're frisky.)
+[C] You, my [D] brown eyed [G] girl
+
+Whatever happened to Tuesday and so slow
+Going down to the old mine with a transistor radio
+Standin' in the sunlight laughin, hidin' behind a rainbow's wall
+Slippin' and a slidin', all along the waterfall with
+You, my brown eyed girl
+You, my brown eyed girl
+
+Do you remember when we used to sing
+Sha la la la la la la la la la la te da  Just like that
+Sha la la la la la la la la la la te da   La te da
+
+So hard to find my way, now that I'm on my own
+I saw you just the other day, my, how you have grown
+Cast my memory back there, Lord, sometime I'm overcome thinking 'bout
+Making love in the green grass, behind the stadium with
+You, my brown eyed girl
+You, my brown eyed girl
+
+Do you remember when we used to sing
+Sha la la la la la la la la la la te da
+```

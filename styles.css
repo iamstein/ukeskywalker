@@ -1,0 +1,13 @@
+/* Site-wide styles. Song pages add assets/song.css. */
+
+.tool { display: flex; flex-direction: column; gap: 0.5rem; margin: 1rem 0; }
+.tool textarea { font-size: 0.9rem; }
+.tool-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin-bottom: 0.75rem; }
+.tool-actions select { width: auto; }
+.tool-actions .form-check { margin: 0; }
+.tool-fields { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.75rem; }
+.tool-fields input { max-width: 20rem; }
+
+/* Song tables: keep the title column wide enough to read. */
+.quarto-listing-table td:first-child { min-width: 12rem; }
+.quarto-listing-table td:nth-child(n+3) { white-space: nowrap; }

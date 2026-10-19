@@ -1,0 +1,49 @@
+---
+title: "Keep Breathing"
+sort_title: "Keep Breathing"
+artist: "Ingrid Michaelson"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=fORAPkfVV_A&feature=kp"
+libraries: ["all", "spiritual"]
+difficulty: 2
+practice: 3
+fun: 2
+skill: 3
+poppy: 1
+happy: 1
+spiritual: 3
+voice_low: "G2"
+voice_high: "D4"
+added: "2014-05"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1TFlS43op69QzX5Lf0RPDbcNUBRFHnj3yjCdTI8K6FTk/edit"
+---
+
+```{.song}
+G = 0232;        G2 = 0230        G4=0233        C2= cdg        C' = 5433
+
+Intro - Arpeggios:
+G G G2 G2 G4 G4 G D Bm Bm Bm Bm C2 C2 C2 C2
+
+The [G] storm [D] is [C'] com-[G]-ing but [Bm] I don't [C] mind. | 5 1' 7 6 5 3 3 5 4
+[G] Peo-[D]-ple are [C'] dy-[G]-ing, I [Bm] close my [C] blinds. | 1' 7 6-6 5 3-3 5 4
+[Bm] All that I [C] know is I'm [G] breath-[D]-ing [G] now. | 3 4 5 6 7 1' 3 2 1
+
+[G] [D] [C'] [G] [Bm] [C] (Instrumental)
+
+[G] I [D] want to [C'] change the [G]world...in-[Bm]-stead I [C] sleep. | 1' 7 6-6 5 3 3-3 5 4
+[G] I [D] want [C'] to be-[G]-lieve in [Bm] more than [C] you and me. | 1' 7 6 6 5 3 3 5 5 4 4
+
+But [Bm] all that I [C'] know is I'm [G] breath-[D]-ing. | 3 3 4 5 6 7 1' 3 2
+[Bm] All I can do is [C'] keep [G] breath-[D]-ing. | 3 4 5 6 7 1' 3 2
+[Bm] All we can [C'] do is keep [G] breath-[D]-ing [C] now ow-[G]-ow. | 3 4 5 6 7 1' 7 1'
+
+[C'] ow [D] ow ow | 7 5 3
+[C] Now ow [G] ow ow [D] ow | 1' 7 3' 5' 3'
+[G] Naoaa-[D]-ooooooow | 1' 7 5 3 4 5 6   3 4 5 6 5 3
+
+[Bm] All that I [C'] know is I'm [G] breath-[D]-ing | 3 4 5 6 7 1' 3 2
+[Bm] All I can [C'] do is keep [G] breath-[D]-ing. | 3 4 5 6 7 1' 3 2
+[Bm] All we can [C'] do is keep [G] breath-[D]-ing [C] [G] (x8). | 3 4 5 6 7 1' 7
+[Bm] All we can [C'] do is keep [G] breath-[D]-ing [G] now. | 3 4 5 6 7 1' 7 3
+```

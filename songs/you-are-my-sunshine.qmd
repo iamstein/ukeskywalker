@@ -1,0 +1,37 @@
+---
+title: "You Are my Sunshine"
+sort_title: "You Are my Sunshine"
+artist: "Jimmie Davis"
+key: "G"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/111XQN4kDB-hO2iy7owrmCcYslSEbAL3yL72M51TUUfE/edit"
+---
+
+```{.song}
+[G] You are my sunshine, my only sunshine
+You make me [C] happy when skies are [G] gray
+You'll never [C] know dear, how much I [G] love you
+Please don't take my [D] sunshine [G] away
+
+[G] The other night dear, as I lay sleeping
+I dreamed I [C] held you in my [G] arms
+When I [C] awoke dear, I was [G] mistaken
+So I hung my [D] head and [G] cried
+
+[G] I'll always love you and make you happy
+If you will [C] only say the [G] same
+But if you [C] leave me to love [G] another
+You'll regret [D] it all some [G] day
+
+[G] You told me once dear, you really loved me
+And no one [C] else could come bet-[G]-ween
+But now you've [C] left me and love [G] another
+You have shattered all my dreams [G] love
+```

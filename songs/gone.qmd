@@ -1,0 +1,59 @@
+---
+title: "Gone"
+sort_title: "Gone"
+artist: "Ben Folds"
+key: "F"
+youtube: "http://www.youtube.com/watch?v=7pmpo8THQJk"
+libraries: ["all"]
+difficulty: 2
+fun: 1
+skill: 3
+poppy: 3
+happy: 1
+added: "2011-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1-JySYMGi5Ww45K5GXE0sb2ZUfBc4RGCidTdr6wN64pE/edit"
+---
+
+```{.song}
+Ben Folds: http://youtu.be/5QKliYRmSv4?t=32s
+
+Intro - key of C:
+F A Bb C x2
+
+Verse 1: (key of C) 1 6666 55 542
+I [F] thought I'd write, I [A] thought I'd let you [Bb] know [C]
+It's been [F] years since you've been [A] gone, I've [Bb] finally let you [C] go
+And I [F] hope you find some [A] time to drop a [Bb] note [C]
+But if you [Am] won't, then you [C] won't
+
+Chorus: 1 4-3 2
+And [F] I-[A]-I [Bb] will con-[C]-sider you [F] gone [A] [Bb] [C].
+
+Verse 2:
+I [F] know that you went [A] straight to someone [Bb] else [C]
+While I [F] worked through all this [A] shit here by my-[Bb]-self [C]
+And I [F] think that you should [A] spend some time [Bb] alone [C]
+But if you [Am] won't, then you [C] won't
+
+Chorus:
+And [F] I-[A]-I [Bb] will [C]
+Then [F] I-[A]-I [Bb] will con-[C]-sider you [F] gone [A] [Bb] [C]
+
+Bridge:
+I [F] wake up, in the [Dm] night
+All a-[Bb]-lone and it's [C] alright
+The chemi-[Dm]-cals are wearing [G] off
+Since you've [Bb] gone - gone... [ C#maj7 = 1113]
+
+Verse 3:
+The [F] days go on, the [A] lights go off and [Bb] on [C]
+And [F] nothing really [A] matters when you're [Bb] gone [C]
+If you [F] think that you feel [A] nothing at [Bb] all [C]
+If you [Am] don't, then you [C] don't
+If you [Am] won't, then you [C] won't
+
+Chorus:
+And [F] I-[A]-I [Bb] will [C]
+Then [F] I-[A]-I [Bb] will con-[C]-sider you [F] gone [A] [Bb] [C]
+```

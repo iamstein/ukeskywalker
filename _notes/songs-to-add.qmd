@@ -1,0 +1,30 @@
+---
+title: "Songs to add"
+---
+
+Ideas for songs to write up. Copied from the Google Site home page on
+2026-10-19. This folder starts with `_`, so Quarto does not put it on the site.
+
+## Shabbat
+
+- Shabbat Shalom
+
+## Kid songs with dances or motions
+
+- [Andy Z - Pirate Song](https://www.youtube.com/watch?v=3iAdfTzlezw) and others
+- [Jack Hartmann](https://www.youtube.com/c/JackHartmann)
+- [Laurie Berkner](https://www.youtube.com/watch?v=D-SFnirQiAY), including We
+  Are The Dinosaurs, Goldfish
+- [Raffi](https://www.youtube.com/channel/UCik85KHM24HdK_irDqn5G6w) classics:
+  There's a Spider on the Floor, Peanut Butter Sandwich, Down by the Bay, Baby
+  Beluga, The More We Get Together
+- [Jbrary](https://www.youtube.com/user/Jbrary) songs (by two librarians):
+  check out [Two Little Blackbirds](https://www.youtube.com/watch?v=gjv5Jwgsn7I)
+
+## General songs
+
+- [Rise Up and Sing](https://www.riseupandsing.org)
+- International music from [Putumayo](https://www.putumayo.com/putumayo-kids)
+- Dan's [Google Sheet of Songs](https://docs.google.com/document/d/1GoGKhbUcutVtyQ36ub0GqiOLFVtUF5c2wNhyxpPb5js/edit)
+- Wendy recommendations: Golden Slumbers, Blanket For a Sail (basically
+  anything from the original *For Our Children* album)

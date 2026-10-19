@@ -1,0 +1,65 @@
+---
+title: "Hurricane (Hamilton)"
+sort_title: "Hurricane (Hamilton)"
+artist: "Lin Manuel Miranda"
+key: "Dm"
+key_note: "switch to F) --- Fsus4 = 2011"
+libraries: ["all", "spiritual"]
+difficulty: 3
+fun: 3
+skill: 2
+poppy: 2
+happy: 1
+spiritual: 2
+added: "2017-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11LRecq1fn8NhoIpZocWP8OCatuwhP1ZNR48Pbk8nRb4/edit"
+---
+
+```{.song}
+[Dm] [C] [G] x2
+
+Key of Dm
+[Dm] In the eye of a hurricane there [C] is [G] quiet. | 1' 1' 1' 7m 7m 1' 7m 5   5 4 6 4
+For just a [Dm] moment.  [C] a [G] yellow sky. | 3m 4 3m 5 3m      4 5 6 5
+
+[Dm] When I was seventeen a hurricane [C] De-[G]-stroyed my town | 1' 1' 1' 1' 1' 1' 1' 7m 5   5 6 7m 7m-6
+I didn't [Dm] drown I [C] couldn't [G] seem to die | 1' 7m 5 5 4     4 4 4 5 6 5
+
+I wrote my way [F] out. | 1 1 1 3 3 (1=F)
+Wrote everything [Fsus4] down far as [F] I could [Dm] see | 1 1 3 3 4 3 3 4 3 1
+I wrote my way [F] out | 1 1 1 5 4-3-1
+I looked up and the [F] town had its [Fsus4] eyes on [C] me | 1 1 1 1 1 1 1 1 5 3 2
+
+They passed a plate [Dm] around. Total [C] strangers | 5 5 5 6 5 3      6 3 3 2
+Moved to [Dm] kindness by my [G] story. | 6 3 3 2    6 3 3 2
+Raised e-[Dm]-nough for me to book [F] passage on a | 1 2 3 3 3 3 3 3 3 3 3 2
+Ship that was [C] New York bound… | 1 1 2 3 5
+
+I wrote my way out of hell | 6. 6. 6. ….
+I wrote my way to revolution | 1 1 1 1 1 3 3 3 3
+I was louder than the crack in the bell | 3 3 3 ….
+I wrote Eliza love letters until she fell | 6 6 6 6 6 6 6 6 6 6 6 6
+I wrote about the Constitution and defended it well | 1' 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6
+And in the face of ignorance and  resistance | 6 1' 1' 1' ...
+I wrote financial systems into existence | 3' 1' 1' 1'
+And when my prayers to God were met with indifference | 1' 1' 1'
+I picked up a pen, I wrote my own deliverance | 3' 1' 1' 1' 1'    3' 1' 1' 1' 1'
+
+[Dm] In the eye of a hurricane there [C] is [G] quiet. | 1' 1' 1' 7m 7m 1' 7m 5 5 4 6 4
+For just a [Dm] moment.  [C] a [G] yellow sky. | 3m 4 3m 5 3m      3m 4 5 4
+
+[Dm] I was twelve when my mother died. She [C] was [G] holding me | 1' 1' 1' 1' 7m 7m 1' 7m 5   4 4 6 4 3
+We were sick and she was [Dm] holding me | 4 4 4 4 4 6 4 1
+I [C] couldn't [G] seem to die. | 4 4 4 5 6 5
+
+[Key of F]
+(Wait for it, Wait for it, Wait for it) | 1' 1' 1'
+I'll write my way [F] out. | 1 1 1 3 3 (1=F)
+Write everything [Fsus4] down far as I can [Dm] see
+I'll write my way [F] out.  Overwhelm them with hones-[Dm]-ty
+[Dm] This is the eye of the hurricane, this is the only way I can protect my legacy.
+
+(Wait for it, Wait for it, Wait for it, Wait)
+The Reynolds Pamphlet
+```

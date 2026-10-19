@@ -1,0 +1,56 @@
+---
+title: "I Don't Love Anyone"
+sort_title: "I Don't Love Anyone"
+artist: "Belle and Sebastian"
+key: "F"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+voice_low: "F#3"
+voice_high: "D4"
+added: "2013-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1SM1Aqa36xibo8fh1imS2vCdYHQMpYOnmgK91q2YEQ8c/edit"
+---
+
+```{.song}
+Actually in F#, but easier to play in G (instead of F#/B/E/C#)
+
+Melody - Verse: | 1 1 2 3 5 3         / 6 5 2 3         // 3 5 3 2 2 1 / 1 1 2 3 5 3
+Melody - Verse: | 1 1 2 3 5 3         / 6 5 2 3 2 1 1         // 3 5 3 2 2 1 / 1 1 2 3 5 3
+Melody - Chorus:
+
+Intro:  G C (x7)
+[G] I [C] don't love [G] anyone. [C] [G] [C] You're not [G] listening [C]
+[G] You're [C] playing with [F] something. [C] [F] You're [C] playing [G] with yourself [C]
+[G] I [C] don't love [G] anyone. [C] [G] [C] You're not [G] listening even [C] now
+[G] You're [C] playing with [F] something. [C] [F] [C] You're playing with [G] someone [C] else
+
+[G] [C] And if there's [D] one thing that I learned when I was [C] still a child. It's to take a [G] hiding, yeah [C]
+
+[G] I [C] don't love [G] anything. [C] [G] [C] Not even [G] Christmas. [C]
+[G] Es-[C]-pecially [F] not that. [C] [F] [C] I don't love [G] anything [C]
+[G] [C] I don't love [G] anyone. [C] [G] Well [C] maybe my [G] sister. [C]
+[G] [C] maybe my [F] baby brother [C] too, yeah. [F] [C] I don't love [G] anyone [C]
+
+[G] [C] And if there's [D] one thing that I learned when I was [C] still a child. It's to take a [G] hiding, yeah [C]
+[G] [C] If there's [D] one thing that I learned when I was [C] still a child. It's to be [G] alone [C] [G][B#]
+
+Instrumental: (similar chords to verse with F#, B, and some E)
+
+[G] [C] And if there's [D] one thing that I learned when I was [C] still a child. It's to take a [G] hiding, yeah [C]
+
+[G] [C] Out in the [G] street today. [C] [G] The [C] kids are out [G] playing, having [C] fun
+[G] Well [C] I pass them [F] by I'm not a [C] kid, no [F] [C] I don't love [G] anyone [C]
+[G] [C] I met a [G] man today. [C] [G] [C] He told me [G] something pretty [C] strange
+[G] There's [C] always some-[F]-body saying [C] something.
+[F] [C] He said, "the [G] world is as [C] soft as [D] lace."
+
+But I don't love [G] anyone. I don't love [C] anyone I don't love [D#m] anyone. I don't love [CF] anyone (x2)
+
+[G] [C] And if there's [D] one thing that I learned when I was [C] still a child. It's to take a [G] hiding
+```

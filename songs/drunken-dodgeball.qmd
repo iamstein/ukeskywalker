@@ -1,0 +1,45 @@
+---
+title: "Drunken Dodgeball"
+sort_title: "Drunken Dodgeball"
+artist: "Firefly"
+key: "C"
+libraries: ["all"]
+difficulty: 1
+fun: 1
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "C3"
+voice_high: "D4"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1-AT8quzTjzmLJOBXEorS1YSozDWTASGOm4whhjbf_yM/edit"
+---
+
+```{.song}
+[C] Drunken [F] Dodge-[C]-ball
+[C] Drunken [F] Dodge-[C]-ball
+
+[C] Catch the balls as they fly through the air.
+[F] Oop you're out drink another beer
+You [G] chugged it now go back in and show no fear.
+
+[C] Drunken [F] Dodge-[C]-ball
+[C] Drunken [F] Dodge-[C]-ball
+
+[C] So your girlfriend plays for the other team
+[F] Show no quarter she's the enemy
+You [G] hit her in the face, so what, don't matter if she screams
+
+[C] Drunken [F] Dodge-[C]-ball
+[C] Drunken [F] Dodge-[C]-ball
+
+[C] So now your girlfriend left you and your out of luck
+[F] But you won the game, so who gives a fuck
+And [G] her new man's game is wack, he totally sucks.
+
+[C] Drunken [F] Dodge-[C]-ball
+[C] Drunken [F] Dodge-[G]-ball
+[C] Drunken [F] Dodge-[C]-ball
+[F] Dodge-[C]-ball [G] Dodge [C] ball!
+```

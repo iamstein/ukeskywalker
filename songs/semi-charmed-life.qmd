@@ -1,0 +1,101 @@
+---
+title: "Semi-Charmed Life"
+sort_title: "Semi-Charmed Life"
+artist: "Third Eye Blind"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=XbuYHAfsRuo"
+libraries: ["all"]
+difficulty: 0
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+added: "2014-07"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1Ote-oNMnQB73Rg8eX-Hmv_NaUZcb2ythD5v_srLLgGM/edit"
+---
+
+```{.song}
+Real Version: https://www.youtube.com/watch?v=MyjTrwOMSO4
+Rhythm: [G]1e&a2e   [D]3e&a4e  [C]1e&a2 &a3e& 4e
+
+Intro: [G] Doo doo doo [D] Doo-doo doo-doo [C] Doo doo doo Doo-doo doo-doo (x2)
+
+Verse 1:
+I'm packed and I'm [G] holding I'm smiling | 3 3 2 1
+She's [D] living she's golden and she [C] lives for me
+She says she lives for me [G] Ovation her [D] own motivation | 5 5 5 5 5
+[C] She comes around and she goes down on [G] me
+And I make her [D] smile like a drug for [C] you
+Do ever what you want to do coming over [G] you
+Keep on [D] smiling what we go through
+[C] One stop to the rhythm that divides you
+[G] And I speak to [D] you like the chorus to the [C] verse
+Chop another link like a coda with a [G] curse
+And I come on like a [D] freak show takes the [C] stage
+We give them the games we play she said
+
+Chorus 1:
+[G] I want [D] something [C] else To get me through [G] this
+[D] Semi-charmed kind of [C] life baby baby
+[G] I want [D] something [C] else I'm not listening
+when you [G] say [D] Good-[C]-bye
+
+[G] Doo doo doo [D] Doo-doo doo-doo [C] Doo doo doo Doo-doo doo-doo (x2)
+
+Verse 2:
+The sky it was [G] gold it was rose
+I was [D] taking sips of it through my [C] nose
+And I wish I could get back there Some place [G] back there
+Smiling in the [D] pictures you would take
+[C] Doing crystal meth will lift you up until you break
+It won't [G] stop I won't come [D] down
+I keep stock with a [C] tick-tock rhythm and a bump for the drop
+And then I [G] bumped up I took the [D] hit that I was given
+Then I [C] bumped again and then I bumped again and said
+
+Refrain:
+[D] How do I get [C] back there to the [D] place where I
+fell [C] asleep inside you? [D] How do I get [C] myself back to
+The [D] place where you said
+
+Chorus 1:
+
+Verse 3:
+[G] I believe in the [D] sand beneath my [C] toes
+The beach gives a feeling an earthy [G] feeling
+I [D] believe in the  faith that [C] grows
+And the four right chords can [G] make me [D] cry
+[C] When I'm with you I  feel like I could [G] die
+And that would be  [D] all right [C] All right
+
+Bridge:
+And when the [D] plane came in she [C] said she was [D] crashing
+The velvet it [C] rips in the city we [D] tripped
+On the urge to [C] feel alive but [G] now I'm struggling to survive
+Those [D] days you were wearing that [C] velvet dress
+[D] You're the priestess I [C] must confess
+Those [D] little red panties they [C] pass the test
+Slide [G(hold)] up around the belly face down on the matress
+[D] One [C] And you [D] hold [C] me and we're [D] broken [C]
+Still it's [G] all that I wanna do just a little now
+[G] Feel myself [D] comin' off the [C] ground
+I'm scared I'm not coming [G] down [D] No [C] no
+And I won't run for [G] my life [D]
+[C] She's got her jaws now locked down in a [G] smile
+But nothing is [D] all right [C] all right
+
+[G] I want [D] something [C] else to get me [G] through [D] this [C] life baby
+[G] I want [D] something [C] else I'm not listening
+[G] when you [D] say [C] [G/B] [Am] Goodbye
+[C] [G/B] [Am] goodbye [C] [G/B] [Am] goodbye [G] [D] [C] [G] [D] [C] goodbye
+[G] Doo doo doo [D] Doo-doo doo-doo [C] Doo doo doo Doo-doo doo-doo (x2)
+
+Outro:
+The sky it was [G] gold it was rose
+I was [D] taking sips of it through my [C] nose
+And I wish I could get back there
+Some place [G] back there
+in the [D] place you used to [C] start
+[G][D][C] doo.. (x2) doo.. [C][G/B][Am] doo
+```

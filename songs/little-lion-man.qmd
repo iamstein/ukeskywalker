@@ -1,0 +1,65 @@
+---
+title: "Little Lion Man"
+sort_title: "Little Lion Man"
+artist: "Mumford and Sons"
+key: "F"
+key_note: ";            Bbmaj7 = 4320"
+libraries: ["all"]
+difficulty: 4
+practice: 2
+fun: 3
+skill: 0
+poppy: 3
+happy: 3
+voice_low: "F3"
+voice_high: "D4"
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1vOgM-dpT8trIinHESzTHzd8Id3unGxR-iq1XN6QSjZM/edit"
+other_links: ["http://ukulelehunt.com/wp-content/uploads/2011/04/LittleLionMan.pdf"]
+---
+
+```{.song}
+mumford and sons: http://www.youtube.com/watch?v=lLJf9qJHR3E
+slow uke chords: https://www.youtube.com/watch?v=9s3XxHYhH5g
+fast uke chords: https://www.youtube.com/watch?v=fyF7VZyMM_4
+
+Rhythm for Dm: 1 & . e & 3 & . e &   | 1 & . e & 3 & . e & (open chord only on the "e")
+Rythm of F       : 1 & . e & 3 & 4 & e  | 1 & . e & 3 & . e &
+
+Intro: [Dm] [F] x4 (only open chord on "e")
+
+Verse 1: (only open chord on "e")
+[Dm] Weep for yourself, my man, you'll never be what is in your [F] heart.        c a g a g f f        c a g a g f c a
+[Dm] Weep little lion man, you're not as brave as you were at the [F] start.        c a g a g f f        c a g a g f c a
+[C] Rate yourself and rake yourself,         c a g g a g f
+[Bb] take all the [Bbmaj7] courage you have [F] left.        c a g g a g f f f
+[C] Wasted on fixing all the         c a g g a g f f
+[Bb] problems that you [Bbmaj7] made in your own [F] head.        c a g g a f f f f
+
+Chorus: (single strums)
+But it [Dm] was not your [Bb] fault but [F] mine,        f f f d d c c a
+and it [Dm] was your [Bb] heart on the [F] line.        f f f d d c c a
+I really [Dm] fucked it [Bb] up this [F] time,        f f f d d c c a
+didn't I, my [C] dear? Didn't I, my [Dm] dear?        a a a a b- g g g g g f
+
+Interlude - x2:  [Dm] [F] (need banjo!)
+
+Verse 2: (only open chord on "e")
+[Dm] Tremble for yourself my man, you         c a g a g f f
+[Dm] know that you have seen this all [F] before.        c a g a g f c a
+[Dm] Tremble little lion man, you'll         c a g a g f f
+[Dm] never settle any of your [F] scores.        c a g a g f c a
+[C] Your grace is wasted in your face, your         c a g g a g f f f
+[Bb] boldness stands [Bbmaj7] alone among the [F] wreck.        c a g g a g f f f
+[C] Learn from your mother or else         c a g g a g f f f
+[Bb] spend your days [Bbmaj7] biting your own [F] neck.        c a g g a g f f f
+
+Chorus x2 (1st time - single strums, 2nd time - full strums)
+
+Interlude - x2:  [Dm] [F] (minimal strumming)
+
+Bridge: [C] [F] [Bb]  x8 (strum on each beat to match the piano)
+
+Chorus x2 (1st time - all open chords, 2nd time - acapella)
+```

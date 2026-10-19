@@ -1,0 +1,80 @@
+---
+title: "Lola"
+sort_title: "Lola"
+artist: "The Kinks"
+key: "E"
+libraries: ["all"]
+difficulty: 1
+practice: 1
+skill: 2
+poppy: 2
+happy: 2
+added: "2012-08"
+pages: 2
+source_doc: "https://docs.google.com/document/d/12vWAMQ84gGWiwLecnv4ApuJOXRxAPLDL1FORqLMMId8/edit"
+---
+
+```{.song}
+Verse 1:
+I [E] met her in a club down in old Soho
+Where you [A] drink champagne and it [D] tastes just like
+Cherry [E] cola, C - O - L - A [A] cola
+
+She [E] walked up to me and she asked me to dance
+And I [A] asked her her name and in a [D] dark brown voice
+She said [E] "Lola, L - O - L - A [A] Lola [D]
+La la la la [C] Lola" [D]  [E]
+
+Verse 2:
+Well, [E] I'm not the world's most physical guy
+But when she [A] squeezed me tight she nearly [D] broke my spine,
+Oh, my [E] Lola, la la la la [A] Lola
+Well, [E] I'm not dumb, but I can't understand
+Why she [A] walked like a woman and [D] talked like a man,
+Oh, my [E] Lola, la la la la [A] Lola, [D]
+La la la la�[C] Lola. [D]  [E]
+
+Well, we [B7] drank champagne and danced all night
+[F#m] Under electric candle light
+She [A] picked me up and sat me on her knee
+And said, "Dear Boy, won't you come home with me?"
+
+Verse 3:
+Well, [E] I'm not the world's most passionate guy,
+But when I [A] looked in her eyes, well, I [D] almost fell for my
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]  [E]
+
+Bridge:
+I [A] pushed [E] her a[B7] way
+I [A] walked [E] to the [B7] door
+I [A] fell [E] to the [B7] floor
+I got [A] down [F#m] on my [C#m] knee
+Then I [B7] looked at her and she at me
+
+Verse 4:
+Well, [E] that's the way that I want it to stay
+And I [A] always want it to [D] be that way
+For my [E] Lola, la la la la [A] Lola
+[E] Girls will be boys and boys will be girls
+It's a [A] mixed up, muddled up, [D] shook up world except for
+[E] Lola, la la la la [A] Lola
+Well, [B7] I left home just a week before
+[F#m] And I'd never kissed a woman before
+But [A] Lola smiled and took me by the hand
+And said, "Dear boy, I'm gonna make you a man!"
+
+Verse 5:
+Well, [E] I'm not the world`s most masculine man,
+But I [A] know what I am and I'm [D] glad I'm a man and so is
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]  [E]
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]
+[E] Lola, la la la la [A] Lola [D]
+La la la la [C] Lola [D]  [E]
+```

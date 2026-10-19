@@ -1,0 +1,37 @@
+---
+title: "Skip to my Lou"
+sort_title: "Skip to my Lou"
+key: "C"
+libraries: ["all", "kids"]
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1LRJS-flLnEhiZMVB7nGw0ppS938vgJ4eiTlZeRe69JY/edit"
+---
+
+```{.song}
+[C] Lou Lou skip to my Lou
+[G] Lou Lou skip to my Lou
+[C] Lou Lou skip to my Lou
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Flies in the sugar bowl, shou shou shou (3x)
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Lost my partner, what'll I do
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Gone again, skip to my Lou (3x)
+[F] Skip to my [G] Lou my [C] darling
+
+[C] I'll get another one, pretty 'n new (3x)
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Little red wagon painted blue (3x)
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Flies in the buttermilk, two by two (3x)
+[F] Skip to my [G] Lou my [C] darling
+
+[C] Lots more verses but there's a lotta do (3x)
+[F] Skip to my [G] Lou my [C] darling
+```

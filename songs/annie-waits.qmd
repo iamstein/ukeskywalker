@@ -1,0 +1,65 @@
+---
+title: "Annie Waits"
+sort_title: "Annie Waits"
+artist: "Ben Folds Five"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=8ehmyXiBEJQ"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 4
+poppy: 3
+happy: 1
+voice_low: "A3"
+voice_high: "A4"
+added: "2011-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1oi8YwJ6w1QirMj6bDaN1L4Hdzr6fSwzafrIoRf5mTsI/edit"
+---
+
+```{.song}
+Intro: C C G F C 2x (D/E = 2200)
+
+Verse 1:
+And [C] so, [G] Ann-[F]-ie [C] waits Annie waits Annie [C] waits [G,F,C] | 1 3   2 4 3 2 4 3 2 4 3
+for a [Am] call [G] from a [D] friend [D/E, D] | 2 3 1   3 1 2 1-7-6.
+The [C] same, [G] it's [F] the [C] same, why's it always the [C] same? [G,F,C] | 1 3   2 4 3 2 4 3 2 4 3
+Annie [Am] waits [G] for the last [G] ... [C] time. | 1 2 7.   7. 7. 7. 1
+[C,G,F,C; C,G,F,C]
+
+Verse 2:
+The [C] clock, [G] nev-[F]-er [C] stops never stops never [C] waits [G,F,C] | (repeat)
+She's growing [Am] old, [G] it's getting [D] late [D/E, D]
+And [F] so, he for-[G]-got he forgot but maybe [Am] not
+[D] Maybe he's been seriously [F] hurt  [G] Would that be [C] worse? | ++++
+
+Bridge 1:
+[Gm] Headlights [Bb] crest the hill [F] shadows pass her [C] by and out of | 5 4 6. 1 1 4
+[Gm] sight [Bb] ...  whoo-oo [F, C] | 6 4
+[Gm] Annie [Bb] sees in dreams [F] friday bingo, [C] pigeons in the park [Gm, Bb, Bb]
+
+Chorus:
+[C] Annie [G] waits [F] for the [C] last time [G,F,C]
+[C] Just the [G] same [F] as the [C] last time
+
+INTERLUDE:
+Annie [Am] says, you [F] see? this is [C] why I'd rather [G] be a-[Am]-lone [G]
+
+Verse 3:
+And [C] so, [G] Ann-[F]-ie [C] waits Annie waits Annie [C] waits [G,F,C]
+for a [Am] call [G] from a [D] friend [D/E, D]
+The [F] same, it's the [G] same, why's it always the [Am] same? [D]
+Annie [F] waits [G] for the last [C]
+
+Bridge 2:
+[Gm] Headlights [Bb] crest the hill [F] who will be the [C] one forever
+[Gm] more [Bb] ...  whoo-oo [F,C]
+[Gm] Annie [Bb] I could be [F] if we're both still [C] lonely when we're [Gm] old [Bb]
+
+OUTRO:
+[C] Annie [G] waits [F] for the [C] last time [G,F,C]
+[C] Just the [G] same [F] as the [C] last time [G,F,C]
+[C] Annie [G] waits [F] for the [C] last time [G,F,C]
+[C] Just the [G] same [F] as the [C] last time
+Annie [Am] waits [G] ... [G] but not for [C] me [C,G,F,C,...repeat]
+```

@@ -1,0 +1,59 @@
+---
+title: "Peaches and Cream"
+sort_title: "Peaches and Cream"
+artist: "Jim Butler Trio"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=0p56vq1beSo&ab_channel=RicardoRamos"
+libraries: ["all", "spiritual"]
+difficulty: 1
+fun: 1
+skill: 2
+poppy: 1
+happy: 1
+spiritual: 1
+added: "2020-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1XeUlotdLFNVP3qf8MmO4frL9K7aGf62B-Bvam3ApYy4/edit"
+---
+
+```{.song}
+Intro:   Em  G  C  A9  (x2)
+
+Verse:
+Well there's [Em] far too [G] many questions [C] to [A9] ask,
+[Em] To answer [G] any of them [C] [A9] tonight.
+[Em] For I [G] wear too many [C] [A9] masks,
+Too [Em] tell if any of them are [G] wrong or [C] [A9] right.
+And [Em] confusion [G] casts a [C] shadow over [A9] me,
+Like [Em] a great big [G] cloud in the [C] [A9] sky.
+And [Em] now I [G] pray for [C] [A9] rain,
+Cause it's [Em] been so long [G] since i let myself [C] [A9] cry.
+
+Pre-Chorus:
+[G] For so long I've [C] sang this sad ol' [D] song,
+And it [G] feels like my time is [C] [D] up.
+[G] For she came and [C] landed in my [D] arms,
+And she [G] filled my half empty [C] [D] cup.
+Yes she [A9] filled my half [A9] empty cup.
+
+Chorus:
+[C] There you [D] are [Em] right in front of [G] me,
+A brand new [C] day, [D] [Em]  [G] sunrise over sea.
+No [D] longer my cup half empty cause there you are,
+[Em] You and your [G] mum in front of [C] me, [D] [Em] in front of me.
+
+And now I [G] look up [C] above [A9] me,
+And I [Em] thank that great ol' [G] God in the [C] [A9] sky.
+[Em] For tellin' me [G] my cup ain't half [C] [A9] empty,
+It took my [Em] little girl to [G] show me [C] [A9] why.
+
+Pre-Chorus:
+Chorus:
+Outro:
+[Em] You're [G] peaches & cream to [C] [D] me.
+[Em] You both are [G] peaches & cream to me. [C] [D] (skat)
+[Em] [G] [C] [D] [Em] [G] (skat)
+[C] All I [D] know is
+[Em] All I [G] know and
+[C] I love [D] [Em] [G] you...
+```

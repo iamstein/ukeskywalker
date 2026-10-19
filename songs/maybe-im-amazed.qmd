@@ -1,0 +1,44 @@
+---
+title: "Maybe I'm Amazed"
+sort_title: "Maybe I'm Amazed"
+artist: "Paul McCartney"
+key: "A"
+youtube: "https://www.youtube.com/watch?v=84zXffLRKwQ"
+libraries: ["all"]
+added: "2014-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1FQ1dh37hfYryBiE3IcWOtsfcVLfUzizGkFZQcEJX-mo/edit"
+---
+
+```{.song}
+Key of
+
+Intro:[A  D/F#  Dm/F  Em7  A]
+
+[Bb] Maybe I'm a-[F]-mazed at the way you [C] love me all the [G] time.
+[Bb] And maybe I'm a-[F]-fraid of the way I [C] love you.
+[Bb] Maybe I'm a-[F]-mazed at the way you [C] pulled me out of [G] time.
+You [Bb] hung me on a [F] line and [Ab] maybe I'm amazed
+at the [Eb/G] way I really [C] need you.
+
+[D] Baby, I'm a [A/D] man,
+maybe I'm a [C/D] lonely man who's in the middle of something
+[G] that he doesn't really [D] under-[D7]-stand.
+[D] Baby, I'm a [A/D] man,
+and maybe you're the [C/D] only woman who could ever help me.
+[G] Baby won't you help me to [D/F#] [Dm/F] [Em7] [A7] understand.
+
+Inter 1: with chords of the first part.
+
+Maybe I'm amazed at the way you're with me all the time.
+And maybe I'm afraid of the way I need you.
+Maybe I'm amazed at the way you help me sing my song.
+You right me when I'm wrong and maybe I'm amazed
+at the way I really need you.
+
+Inter 2: with chords of the second part.
+
+Baby, I'm a man,...
+
+Inter 1.
+```

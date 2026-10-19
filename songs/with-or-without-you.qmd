@@ -1,0 +1,104 @@
+---
+title: "With or Without You"
+sort_title: "With or Without You"
+artist: "U2"
+key: "D"
+youtube: "https://www.youtube.com/watch?v=XmSdTa9kaiQ&feature=kp"
+libraries: ["all"]
+difficulty: 0
+practice: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+voice_low: "G2"
+voice_high: "D4"
+added: "2014-04"
+pages: 2
+source_doc: "https://docs.google.com/document/d/12a-WVjjtW3WpekkhA68sKYHGFAgen9dJVHXSisboHjg/edit"
+---
+
+```{.song}
+Intro: [D] [A] [Bm] [G] x2
+
+[D] See the [A] stone set in your [Bm] eyes, | 3 3 3 2 1 2 3
+See the [G] thorn twist in your [D] side. | 3 3 3 2 1 2 1
+I [A] wait for [Bm] you [G]. | 1 5 5. 6. 3
+
+[D] Sleight of [A] hand and twist of [Bm] fate. | (repeat)
+On a bed of [G] nails she makes me [D] wait.
+And I [A] wait...with-[Bm]-out you. [G]
+
+With or with-[D]-out you [A]. With or with-[Bm]-out you. [G] | 1 1 1 2 3        1 1 3 3 2
+
+[D] Through the [A] storm we reach the [Bm] shore. | (repeat)
+You give it [G] all but I want [D] more,
+And I'm [A] waiting [Bm] for you. [G]
+
+With or with-[D]-out you [A]. With or with-[Bm]-out you oh-[G]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [D] live, [A] With or with-[Bm]-out you. [G] | 1' 2' 3'         2' 1' 3' 2' 1'
+
+Solo: [D] [A] [Bm] [G] x2
+
+And you [D] give yourself a-[A]-way,  And you [Bm] give yourself a-[G]-way, | 1' 1' 2' 1' 1' 5 6 (x2)
+And you [D] give, and you [A] give, and you [Bm] give yourself a-[G]-way. | 1' 1' 2' 1' 1' 2' 1' 1' 2' 1' 1' 5 6
+
+[D] My hands are [A] tied, | 1 3 3 2
+[Bm] My body [G] bruised, she's got me [D] with. | 1 3 3 2 1 2 2 1
+Nothing to [A] win, And [Bm] nothing left to [G] loose. | 5 5 5 5 6 5         5 1' 1' 1' 1' 2' 1'
+
+And you [D] give yourself a-[A]-way,  And you [Bm] give yourself a-[G]-way, | 1' 1' 2' 1' 1' 5 6 (x2)
+And you [D] give, and you [A] give, and you [Bm] give yourself a-[G]-way. | 1' 1' 2' 1' 1' 2' 1' 1' 2' 1' 1' 5 6
+
+With or with-[D]-out you [A]. With or with-[Bm]-out you oh-[G]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [D] live, [A] With or with-[Bm]-out you. [G] | 1' 2' 3'         2' 1' 3' 2' 1'
+
+[D] [-] [A] [-] [Bm] [-] [G] [x2] Hooooo....  Hoooooo | 5' 4' 3' 2'        5' 4' 3' 3' 1' 1'
+
+With or with-[D]-out you [A]. With or with-[Bm]-out you oh-[G]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [D] live, [A] With or with-[Bm]-out you. [G] | 1' 2' 3'         2' 1' 3' 2' 1'
+[D] [-] [A] [-] [Bm] [-] [G] oouuh…  [D] [A] [Bm] [G] x2
+
+With or Without You - U2
+Key of G (easier for Andy to sing)
+
+Intro: [G] [D] [Em] [C] x2
+
+[G] See the [D] stone set in your [Em] eyes, | 3 3 3 2 1 2 3
+See the [C] thorn twist in your [G] side. | 3 3 3 2 1 2 1
+I [D] wait for [Em] you [C]. | 1 5 5. 6. 3
+
+[G] Sleight of [D] hand and twist of [Em] fate. | (repeat)
+On a bed of [C] nails she makes me [G] wait.
+And I [D] wait...with-[Em]-out you. [C]
+
+With or with-[G]-out you [D]. With or with-[Em]-out you. [C] | 1 1 1 2 3        1 1 3 3 2
+
+[G] Through the [D] storm we reach the [Em] shore. | (repeat)
+You give it [C] all but I want [G] more,
+And I'm [D] waiting [Em] for you. [C]
+
+With or with-[G]-out you [D]. With or with-[Em]-out you oh-[C]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [G] live, [D] With or with-[Em]-out you.  [C] [G][D][Em][C] | 1' 2' 3'         2' 1' 3' 2' 1'
+
+Solo: [G] [D] [Em] [C] x2
+
+And you [G] give yourself a-[D]-way,  And you [Em] give yourself a-[C]-way, | 1' 1' 2' 1' 1' 5 6 (x2)
+And you [G] give, and you [D] give, and you [Em] give yourself a-[C]-way. | 1' 1' 2' 1' 1' 2' 1' 1' 2' 1' 1' 5 6
+
+[G] My hands are [D] tied, | 1 3 3 2
+[Em] My body [C] bruised, she's got me [G] with. | 1 3 3 2 1 2 2 1
+Nothing to [D] win, And [Em] nothing left to [C] loose. | 5 5 5 5 6 5         5 1' 1' 1' 1' 2' 1'
+
+And you [G] give yourself a-[D]-way,  And you [Em] give yourself a-[C]-way, | 1' 1' 2' 1' 1' 5 6 (x2)
+And you [G] give, and you [D] give, and you [Em] give yourself a-[C]-way. | 1' 1' 2' 1' 1' 2' 1' 1' 2' 1' 1' 5 6
+
+With or with-[G]-out you [D]. With or with-[Em]-out you oh-[C]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [G] live, [D] With or with-[Em]-out you. [C] | 1' 2' 3'         2' 1' 3' 2' 1'
+
+[G] [-] [D] [-] [Em] [-] [C] [x2] Ooooh.... | 5' 4' 3' 2'        5' 4' 3' 3' 1' 1'
+
+With or with-[G]-out you [D]. With or with-[Em]-out you oh-[C]-oh | 1 1 1 2 3        1' 1' 5' 4' 3' 2'-1'
+I can't [G] live, [D] With or with-[Em]-out you. [C] | 1' 2' 3'         2' 1' 3' 2' 1'
+[G] [-] [D] [-] [Em] [-] [C] oouuh…  [G] [D] [Em] [C] x2
+```

@@ -1,0 +1,14 @@
+---
+title: "Hey Soul Sister"
+sort_title: "Hey Soul Sister"
+artist: "Train"
+libraries: ["all"]
+difficulty: 2
+fun: 1
+skill: 3
+poppy: 3
+happy: 3
+added: "2011-02"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1ehLdcwhvRvp6v6REqCgrFMBHG-YxAOtQPcrFqMns-aU"]
+---

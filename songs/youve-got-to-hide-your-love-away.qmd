@@ -1,0 +1,52 @@
+---
+title: "You've got to Hide Your Love Away"
+sort_title: "You've got to Hide Your Love Away"
+artist: "The Beatles"
+key: "G"
+libraries: ["all"]
+difficulty: 3
+fun: 3
+skill: 4
+poppy: 3
+happy: 1
+voice_low: "D2"
+voice_high: "G4"
+added: "2016-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1gsLiwPzAk11k8hEAd96P6MKy7m36u2Mp1XqW2tYpiHg/edit"
+---
+
+```{.song}
+Dsus4 = 2230, D2 = 2200
+
+[G]
+[G] Here I [D] stand with [F] head in [G] hand. | 1 1 2 2 4 4 3 2 1
+[C] Turn my face to the [F] wall. [C] | 1 1 2 2 2 2
+[G] If she's [D] gone I [F] can't go [G] on. | 1 1 2 2 4 4 3 2 1
+[C] Feeling two foot [F] sma-[C]-a-[D]-all. | 1 1 1 1 2 1 7.
+
+[G] Every-[D]-where [F] people [G] stare
+[C] Each and every [F] day. [C]
+[G] I can [D] see them [F] laugh at [G] me,
+[C] And I hear them [F] say-[C]-ay-[D]-ay.
+
+[G] Hey, you've got to [C] hide your love [Dsus4] away [D] [D2] [D]. | 1' 1 2 3 5 4 1 6. 5.
+[G] Hey, you've got to [C] hide your love [Dsus4] away [D] [D2] [D].
+
+[G] How can [D] I [F] even [G] try,
+[C] I can never [F] win. [C]
+[G] Hearing [D] them. [F] Seeing [G] them.
+[C] In the state I'm [F] i-[C]-ii-[D]-in.
+
+[G] How can [D] she [F] say to [G] me
+[C] Love will find a [F] way. [C]
+[G] Gather [D] 'round [F] all you [G] clowns.
+[C] Let me here you [F] say-[C]-ay-[D]-ay.
+
+[G] Hey, you've got to [C] hide your love [Dsus4] away [D] [D2] [D].
+[G] Hey, you've got to [C] hide your love [Dsus4] away [D] [D2] [D].
+
+Outro:
+[G] [D] [F] [G] [C] [C] [F] [F]
+[G] [D] [F] [G] [C] [F] [C] [D] [G]
+```

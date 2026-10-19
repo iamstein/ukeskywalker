@@ -1,0 +1,15 @@
+---
+title: "Ring of Fire"
+sort_title: "Ring of Fire"
+artist: "Johnny Cash"
+key: "G"
+libraries: ["all"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 3
+happy: 2
+added: "2012-04"
+pages: 1
+other_links: ["https://docs.google.com/document/pub?id=1waVB3payT6cQQpO6reqEQI1jYT9dKuP4khdI6rSApk0"]
+---

@@ -1,0 +1,52 @@
+---
+title: "True Things"
+sort_title: "True Things"
+artist: "JJ Heller"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+spiritual: 3
+added: "2019-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1aVE2k7IwKqqUxYTjSTQk4K1saNqj2Ap-H293D0mVesc/edit"
+---
+
+```{.song}
+Verse 1:
+[D] I'm not the clothes I'm wearing
+[Em] I'm not a photograph
+[G] I'm not the car I [D] drive
+[D] I'm not the money I [Em] make
+[Em] I'm not the things I lack
+[G] I'm not the songs that I [D] write
+[Em] I am I am I am who I am
+[G] I am who I am
+
+Chorus:
+There are [D] true things inside of me
+[Em] I have been afraid to see
+I be-[A]-lieve, [Dadd9] help my [Dsus4] unbelief
+[D] Would you say again what you said to me
+[Em] I am loved and I am here
+[A] I believe, [Dadd9] help my [Dsus4] unbelief
+
+Verse 2:
+[D] I'm not the house I live in
+[Em] I'm not the man I love
+[G] I'm not the mistakes that I carry
+[D] I'm not the food that I don't eat
+[Em] I'm not what I'm above
+[G] I'm not my scars and my history [D]
+[Em] I am I am I am who I am
+[G] I am who I am
+
+Chorus:
+
+[Em] To your love [G] I'm waking up
+[Em] In your love [G] I'm waking up
+
+Chorus:
+```

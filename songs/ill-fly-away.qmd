@@ -1,0 +1,51 @@
+---
+title: "I'll Fly Away"
+sort_title: "I'll Fly Away"
+artist: "Edward E Brumley"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+practice: 3
+fun: 3
+skill: 3
+poppy: 1
+happy: 3
+spiritual: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1WEHJFziibpKLtB22HKMAzIbAfEgI5c8WuQKuekRByxM/edit"
+---
+
+```{.song}
+Verse:
+[G] Some glad morning [G7] when this life is o'er, [C] I'll fly [G] away
+[G] To a home on God's celestial shore, I'll [D7] fly [G] away
+
+Chorus:
+[G] I'll fly away, O [G7] glory, [C] I'll fly [G] away
+[G] When [C] I [G] die, hallelujah, by and by I'll [D7] fly [G] away
+
+Verse:
+[G] When the shadows [G7] of this life have grown, [C] I'll fly [G] away
+[G] Like a bird from prison bars has flown, I'll [D7] fly [G] away
+
+Chorus:
+[G] I'll fly away, O [G7] glory, [C] I'll fly [G] away
+[G] When [C] I [G] die, hallelujah, by and by I'll [D7] fly [G] away
+
+Verse:
+[G] Oh how glad and [G7] happy when we meet, [C] I'll fly [G] away
+[G] No more cold iron shackles on my feet, I'll [D7] fly [G] away
+
+Chorus:
+[G] I'll fly away, O [G7] glory, [C] I'll fly [G] away
+[G] When [C] I [G] die, hallelujah, by and by I'll [D7] fly [G] away
+
+Verse:
+[G] Just a few more [G7] weary days, and then, [C] I'll fly [G] away
+[G] To a land where joys shall never end, I'll [D7] fly [G] away
+
+Chorus:
+[G] I'll fly away, O [G7] glory, [C] I'll fly [G] away
+[G] When [C] I [G] die, hallelujah, by and by I'll [D7] fly [G] away
+```

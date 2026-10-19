@@ -1,0 +1,37 @@
+---
+title: "I'm a Little Airplane Now"
+sort_title: "I'm a Little Airplane Now"
+artist: "Jonathan Richman"
+key: "C"
+youtube: "https://www.youtube.com/watch?v=Q-T5KOH3Y10"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 5
+poppy: 3
+happy: 3
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11BZjhBC8Sq01MbucIkUd7cQXM5mzGNKFcxErpTqEjYg/edit"
+---
+
+```{.song}
+Chorus:
+[C] I'm a little airplane neow.  I'm a little airplane neow, neow.
+[F] I'm a little airplane neow.  [C] I'm a little airplane neow, neow.
+[G] Waggity wang. [F] Waggity Wang.  [C] I'm a little airplane neow.
+
+Verse:
+[C] I can fly in the dark.  Over the baseball park.
+[F] I can fly at night.  [C] With my little red light.
+[G] Waggity wang. [F] Waggity Wang.  [C] I'm a little airplane neow.
+
+Other Verses Andy wrote for fun
+I can fly up high.  In the bright blue sky.
+I can fly down low.  And wave to all the fellows
+Waggity wang.  Waggity Wang.  I'm a little airplane now.
+
+I can fly through clouds.  My engine roaring louds.
+I can fly through storms.  Keepin' my people warm.
+Waggity wang.  Waggity Wang. I'm a little airplane now.
+```

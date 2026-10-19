@@ -1,0 +1,36 @@
+---
+title: "I've Been Working on the Railroad"
+sort_title: "I've Been Working on the Railroad"
+key: "D"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 4
+poppy: 2
+happy: 3
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1IUKXoFPj1_vMhahAD-3XXe-R5QTkSvkrvFoPI_gT9N8/edit"
+---
+
+```{.song}
+[D] I've been workin' on the railroad [G] all the live long [D] day
+[D] I've been workin' on the railroad, just to [E] pass the time [A] away
+[A7] Can't you hear the whistle [D] blowin'? [G] Rise up so early in the [D] morn
+[G] Can't you hear the captain [D] shoutin'? "Dinah [A] blow your [D] horn!"
+
+[D] Dinah won't you blow, [G] Dinah won't you blow
+[A] Dinah won't you blow your [D] horn
+[D] Dinah won't you blow, [G] Dinah won't you blow
+[A] Dinah won't you blow your [D] horn
+
+[D] Someone's in the kitchen with Dinah
+[D] Someone's in the kitchen I [A] know
+[D] Someone's in the kitchen with [G] Dinah
+[A] Strummin' on the [A7] old [D] banjo
+
+A-playin' [D] fee fi fiddle-y-i-o
+[D] Fee fi [A] fiddle-y-i-o-o-o-o
+[D] Fee fi [G] fiddle-y-i-o
+[A] Strummin' on the [A7] old [D] banjo
+```

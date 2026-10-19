@@ -1,0 +1,40 @@
+---
+title: "Long Black Veil"
+sort_title: "Long Black Veil"
+artist: "Johnny Cash"
+key: "Bb"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 5
+poppy: 1
+happy: 1
+added: "2012-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1FL0gcB969Gk5bzD6c-rOXVTr1-fhUD0jFGQ_hOc-TFc/edit"
+---
+
+```{.song}
+[Bb] Ten years ago on a cold dark night,
+[F] someone was killed in the [Eb] town of [Bb] lights.
+There were [Bb] Few were at the scene, but they all agreed that the
+[F] slayer who ran looked a [Eb] lot like [Bb] me.
+
+She [Eb] walks these [Bb] hills in a [F] long black [Eb] ve-[Bb]-il.
+She [Eb] visits my [Bb] grave when the [F] night winds [Eb] wa-[Bb]-il.
+[Bb] Nobody knows, nobody sees. [F] Nobody [Eb] knows but [Bb] me.
+
+[Bb] The judge said son what is your alibi, if you were
+[F] somewhere else, then [Eb] you dont have to [Bb] die.
+I [Bb] spoke not a word though it meant my life.
+I'd [F] been in the arms of my [Eb] best friend's [Bb] wife.
+
+[Bb] Now the scaffold is high and eternity's near,
+she [F] stood in the crowd and [Eb] shed not a [Bb] tear.
+[Bb] Sometimes at night when the cold wind blows,
+in a [F] long black veil she [Eb] cries over my [Bb] bones.
+
+She [Eb] walks these [Bb] hills in a [F] long black [Eb] ve-[Bb]-il.
+She [Eb] visits my [Bb] grave when the [F] night winds [Eb] wa-[Bb]-il.
+[Bb] Nobody knows, nobody sees. [F] Nobody [Eb] knows but [Bb] me.
+```

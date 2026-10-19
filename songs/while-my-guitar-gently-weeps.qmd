@@ -1,0 +1,14 @@
+---
+title: "While my Guitar Gently Weeps"
+sort_title: "While my Guitar Gently Weeps"
+artist: "Beatles, The / Jake Shimabukuru"
+libraries: ["all"]
+difficulty: 4
+practice: 2
+skill: 0
+poppy: 2
+happy: 2
+added: "2011-11"
+pages: 0
+other_links: ["https://docs.google.com/file/d/0B5zelX434ytYZTc0MmNhZGItYmU1Ni00M2FjLWEyZjUtZmYxMDljYjM0OTgx/edit"]
+---

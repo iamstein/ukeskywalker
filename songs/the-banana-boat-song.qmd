@@ -1,0 +1,71 @@
+---
+title: "The Banana Boat Song (Day-O)"
+sort_title: "Banana Boat Song (Day-O), The"
+artist: "Harry Belafonte"
+key: "D"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2021-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1QF4lyYKDhP-bv_1J_1Ztcz6vge7IwfJpCaoSFH2VVCM/edit"
+---
+
+```{.song}
+Can use A7 instead of A
+
+Day-o, Day-ay-ay-o
+Daylight come and me wan' go home
+Day, me say day, me say day, me say day
+Me say day, me say day-ay-ay-o
+Daylight come and me wan' go home
+
+[D] Work all night on a drink a' rum
+Daylight come and me [A] wan' go home
+[D] Stack banana till the mornin' come
+Daylight come and me [A] wan' go [D] home
+
+[D] Come, Mister tally man, tally me [A] banana
+[D] Daylight come and me [A] wan' go home
+[D] Come, Mister tally man, [A] tally me banana
+[D] Daylight come and me [A] wan' go home
+
+[D] It's six foot, seven foot, eight foot BUNCH!
+Daylight come and me wan' [A] go home
+Six [D] foot, seven foot, eight foot BUNCH!
+[D] Daylight come and me [A] wan' go home
+
+[D] Day, me say day-ay-ay-o
+Daylight come and me wan' [A] go home
+[D] Day, me say day, me say day, me say day...
+[D] Daylight come and me [A] wan' go home
+
+[D] A beautiful bunch a' ripe banana
+Daylight come and me [A] wan' go home
+[D] Hide the deadly black tarantula
+Daylight come and me [A] wan' go home
+
+[D] It's six foot, seven foot, eight foot BUNCH!
+[D] Daylight come and me [A] wan' go home
+Six [D] foot, seven foot, eight foot BUNCH!
+Daylight come and me [A] wan' go home
+
+[D] Day, me say [A] day-ay-ay-o
+[D] Daylight come and me [A] wan' go home
+[D] Day, me say day, me say day, me say day...
+Daylight come and me [A] wan' go home
+
+[D] Come, Mister tally man, tally me banana
+Daylight come and me [A] wan' go home
+[D] Come, Mister tally man, tally me [A] banana
+[D] Daylight come and me [A] wan' go home
+
+[D] Day-o, day-ay-ay-o
+Daylight come and me [A] wan' go home
+[D] Day, me say day, me say day, me say day
+Me [D] say day, me say day-ay-ay-o
+Daylight come and me [A] wan' go home
+```

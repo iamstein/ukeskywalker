@@ -1,0 +1,64 @@
+---
+title: "Get Me Away I'm Dying"
+sort_title: "Get Me Away I'm Dying"
+artist: "Belle and Sebastian"
+key: "F"
+youtube: "https://www.youtube.com/watch?v=yS_DcqPkEYM"
+libraries: ["all", "kids"]
+difficulty: 1
+practice: 5
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+voice_low: "C3"
+voice_high: "C4"
+added: "2013-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1oIp0Pd7IUsxiq0gKnXqdDO6KPS_v0N4w4BNlC2RNkv8/edit"
+---
+
+```{.song}
+[F] Oh! Get me a-[C]-way from here I'm [Dm] dying. | 5 3 4 5 4 3 2 1 2 3
+Play me a [Am] song to set me [Bb] free | 1 2 3 2 1 3 7. 1
+Nobody [F] writes them like they [Bb] used to. | 6. 7. 1 5. 1 1 5. 6. 7.
+So it [C] may as well be [F] me | 1 2 2 3 3 4 5
+Here on my [C] own now after [Dm] hours. | 3 4 5 4 3 2 1 2 3
+Here on my [Am] own now on a [Bb] bus | 1 2 3 2 1 3 7. 1
+Think of it [F] this way. You could [G] either | 6. 7. 1 5. 1 1 5. 6. 7.
+be suc-[Bb]-cessful or be [C] us | 1 2 2 3 3 4 5
+
+With our [Bb] winning smiles, and [C] us. | 5 5 5 4 3 4 5
+With our [Bb] catchy tunes, oh [C] us | 5 5 5 4 3 4 5
+Now we're [Bb] photogenic [Dm] You know, | 5 5 5 4 3 4 4 5
+[Am] we don't stand a [Bb] chance | 5 4 3 4 4-3
+[F] [Bb] [F] [Bb] [F] [Bb] [Bb]
+
+[F] Oh I'll settle [C] down with some old [Dm] story. | 5 3 4 5 4 3 2 1 2 3
+About a [Am] boy who's just like [Bb] me | 1 2 3 2 1 3 7. 1
+Thought there was [F] love in every-[Bb]-thing and | 6. 7. 1 5. 1 1 5. 6. 7.
+every-[C]-one. You're so na-[F]-ive! | 1 2 2 3 3 4 5
+They always [C] reach a sorry [Dm] ending. | 3 4 5 4 3 2 1 2 3
+They always [Am] get it in the [Bb] end | 1 2 3 2 1 3 7. 1
+Still it was [F] worth it as I [G] turn the | 6. 7. 1 5. 1 1 5. 6. 7.
+pages [Bb] solemnly, and [C] then | 1 2 2 3 3 4 5
+
+With a [Bb] winning smile the [C] boy. With na-[Bb]-ivety suc-[C]-ceeds
+At the [Bb] final moment, [Dm] I cried. I [Am] always cry at [Bb] endings [F]
+[Bb] I [F] always cry at [Bb] endings [F] [Bb] [Bb] [F] [F] [F] [F]
+
+[F] Oh, that wasn't [C] what I meant to [Dm] say at all. | 5 3 4 5 4 3 2 1 2 3
+From [Am] where I'm sitting, [Bb] rain | 3 2 1 3 7. 1
+falling [F] against the lonely [Bb] tenement | 6. 7. 1 5. 1 1 5. 6. 7.
+has [C] set my mind to [F] wander. | 1 2 2 3 3 4 5
+Into the [C] windows of my [Dm] lovers. | 3 4 5 4 3 2 1 2 3 3
+They never [Am] know unless I [Bb] write | 1 2 3 2 1 3 7. 1
+"This is no [F] declaration, [G] I just thought | 6. 7. 1 5. 1 1 5. 6. 7.
+I'd [Bb] let you know good-[C]-bye" | 1 2 2 3 4 5
+
+Said the [Bb] hero in the [C] story. "It is [Bb] mightier than [C] swords
+I could [Bb] kill you sure but [Dm] I could only [Am] make you cry with [Bb] these words"
+[F] Cry with [Bb] these words [F] Cry with [Bb] these words [F] Cry with [Bb] these words [F]
+[Bb] Ooh! [F] Get me away I'm [Bb] dying [F] Get me away I'm [Bb] dying
+[F] Get me away I'm [Bb] dying [F] Get me away I'm [Bb] dying (a bunch more repeats)
+```

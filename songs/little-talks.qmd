@@ -1,0 +1,56 @@
+---
+title: "Little Talks"
+sort_title: "Little Talks"
+artist: "Of Monsters and Men"
+key: "Am"
+youtube: "http://www.youtube.com/watch?v=TF7hTn9REHU"
+libraries: ["all"]
+difficulty: 1
+practice: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 1
+added: "2013-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/10cEkDlHUjfmMW5MB57TGOsIOCtDsIUq6Q2nBztVKiY4/edit"
+---
+
+```{.song}
+Intro:
+[Am][F][C][G] Hey! (x4), Melody: c e e e c e c e g, c e e e g e d c
+
+Verse 1 (1st 4 lines, just 1 strum)
+(Girl) [Am] I don't like [F] walking around this [C] old and empty house
+(Guy) So [Am] hold my hand, I'll [F] walk with you my [C] dear
+(Girl) The [Am] stairs creak [F] as I sleep, [C] it's keeping me awake
+(Guy) It's the [Am] house telling [F] you to close your [C] eyes
+(Girl) [Am] Some days [F] I can't even [C] trust myself
+(Guy) It's [Am] killing me to [F] see you this [C] way
+(Both) 'Cause though the [Am] truth may [F] vary this [C] ship will [G] carry
+(Both) Our [Am] bodies [F] safe to [C] shore
+Intro:
+Verse 2:
+(Girl) There's an [Am] old voice in [F] my head that's [C] holding me back
+(Guy) [Am] Tell her that I [F] miss our little [C] talks
+(Girl) [Am] Soon it will be [F] over and [C] buried with our past
+(Guy) We [Am] used to play out-[F]-side when we were [C] young (and full of life and full of love)
+(Girl) [Am] Some days [F] I don't know if [C] I am wrong or right
+(Guy) Your [Am] mind is playing [F] tricks on you my [C] dear
+Chorus:
+(Both) 'Cause though the [Am] truth may [F] vary this [C] ship will [G] carry
+(Both) Our [Am] bodies [F] safe to [C] shore [G] Hey!
+(Both) [Am] Don't listen to a [F] word I [C] say. [G] Hey!
+(Both) [Am] The screams all [F] sound the [C] same. [G] Hey!
+(Both) 'Cause though the [Am] truth may [F] vary this [C] ship will [G] carry
+(Both) Our [Am] bodies [F] safe to [C] shore [G]
+Intro:
+Verse 3:
+(Both) [Am] You're gone, gone, gone away. I watched you disappear
+(Both) [Am] All that's left is a ghost of you
+(Both) Now we're [Am] torn, torn, torn apart, there's nothing we can do.
+(Both) Just [Am] let me go, we'll meet again soon.
+(Both) Now [Am] wait, wait, [F] wait for me. [C] Please hang around
+(Both) I [Am] see you [F] when I fall a-[C]-sleep. [G] Hey!
+Chorus x 2.75:
+```

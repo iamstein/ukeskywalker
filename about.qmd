@@ -1,0 +1,45 @@
+---
+title: "About"
+toc: false
+---
+
+Uke Skywalker is Andy Stein's collection of ukulele songs: lyrics with chords,
+and for many songs the melody written as numbers. It is free, shows no ads and
+earns nothing. It is mainly for learning and for playing with friends.
+
+## Reading a song page
+
+Chords are in square brackets just before the syllable where they change:
+`[G] Abigail, can you feel my [C] heart`. The switch at the top shows the
+chords above the lyrics instead.
+
+The key menu at the top of each song changes the key. The song's own key and
+any other keys Andy plays it in come first.
+
+**Andy's Voice** is the lowest and highest note Andy sings in the song, in
+scientific pitch notation, where C4 is middle C.
+
+## The melody numbers
+
+Many songs have the melody in a column on the right, written as numbers. Each
+number is a note of the song's key: in the key of G, `1` is G, `3` is B and
+`5` is D. Because the numbers are relative to the key, they stay the same when
+you change key.
+
+| Written | Meaning |
+|---|---|
+| `1` to `7` | A note of the scale, in the middle octave |
+| `6.` | One octave lower; two dots for two octaves |
+| `1'` | One octave higher |
+| `7m` | The note lowered a half step (here, a flat 7) |
+| `1-2` | Two notes sung on one syllable |
+| a wider space | A break between words or phrases |
+
+The melody switch at the top of each song hides or shows the column. The
+site remembers your choice.
+
+## Source
+
+The site is built with [Quarto](https://quarto.org/) from plain text files in
+[github.com/iamstein/ukeskywalker](https://github.com/iamstein/ukeskywalker).
+Each song is one file in the `songs/` folder.

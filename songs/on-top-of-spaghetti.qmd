@@ -1,0 +1,47 @@
+---
+title: "On Top of Spaghetti"
+sort_title: "On Top of Spaghetti"
+artist: "Tom Glazer"
+libraries: ["all"]
+difficulty: 1
+fun: 2
+skill: 4
+poppy: 3
+happy: 3
+added: "2010-12"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1EYgzBqcJbNkFsbMOMlp-5yWTk82K5QMJzeCopms57GA/edit"
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdF9xSXlsd1RXMTVvaVpWWFFDM0hqeUE&output=html"]
+---
+
+```{.song}
+[1] On top of spagh-[4]-etti,
+All covered with [1] cheese,
+I lost my poor [5] meatball,
+When somebody [1] sneezed.
+
+It rolled off the [4] table,
+And on to the [1] floor,
+And then my poor [5] meatball,
+Rolled out of the [1] door.
+
+It rolled in the [4] garden,
+And under a [1] bush,
+And then my poor [5] meatball,
+Was nothing but [1] mush.
+
+The mush was as [4] tasty
+As tasty could [1] be,
+And then the next [5] summer,
+It grew into a [1] tree.
+
+The tree was all [4] covered,
+All covered with [1] moss,
+And on it grew [5] meatballs,
+And tomato [1] sauce.
+
+So if you eat spag-[4]-hetti,
+All covered with [1] cheese,
+Hold on to your [5] meatball,
+Whenever you [1] sneeze.
+```

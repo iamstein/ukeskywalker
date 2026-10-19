@@ -1,0 +1,53 @@
+---
+title: "Happy"
+sort_title: "Happy"
+artist: "Pharrell Williams"
+libraries: ["all"]
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2014-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1_cU1biWfvOkfQA15Z_O96cK6b7zPVo5d6O4Pg2N0Ffc/edit"
+---
+
+```{.song}
+Capo on 3rd Bm: 2x2xx2  Intro: [E7]
+
+Verse #1:
+[E7] It might seem crazy what I'm about to say [Em7] [-] [A] [-] [B] [-] [A7]
+[E7] Sunshine she's here, you can take a break [Em7] [-] [A] [-] [B] [-] [A7]
+I'm a [E7] hot air balloon that could go to space [Em7] [-] [A] [-] [B] [-] [A7]
+With the [E7] [/] air, like I don't care baby by the way [Em7] [-] [B] [-] [A7] [-]
+
+Chorus:
+[A7] Because I'm [C] (happy) [(C)] Clap along [Bm] if you feel like a [Bm7/A] room without a [A7] roof
+Because I'm [C] (happy) [(C)] Clap along [Bm] if you feel like [Bm7/A] happiness is the [A7] truth
+Because I'm [C] (happy) [(C)] Clap along [Bm] if you know what [Bm7/A] happiness is to [A7] you
+Because I'm [C] (happy) [(C)] Clap along [Bm] if you feel like [Bm7/A] that's what you wanna [A7] do
+
+Verse #2:
+[E7] [/] Here come bad news talking this and that [Em7] [-] [A] [-] [B] [-] [A7] (Yeah)
+[E7] [/] Give me all you got, don't hold it back [Em7] [-] [A] [-] [B] [-] [A7] (Yeah)
+[E7] [/] Well I should probably warn you I'll be just fine [Em7] [-] [B] [-] [D] [-] [A7] (Yeah)
+[E7] [/] No offense to you don't waste your time [Em7] [-] [A] here's [B] why [A7]
+
+Chorus:
+
+Bridge:
+[A7] [/] EUGH (Happy), bring me down, can't noth'ng
+(Happy), bring me down, Love is too high
+(Happy), bring me down, can't noth'ng
+(Happy), bring me down I said, let me tell you now
+(Happy, happy, happy, happy), bring me down, can't noth'ng
+(Happy, happy, happy, happy), bring me down, Love is too high
+(Happy, happy, happy, happy), bring me down, can't noth'ng
+(Happy, happy, happy, happy), bring me down, I said
+
+Chorus x2:
+
+Bridge (half):
+
+Chorus x2:
+```

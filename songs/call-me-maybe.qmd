@@ -1,0 +1,63 @@
+---
+title: "Call Me Maybe"
+sort_title: "Call Me Maybe"
+artist: "Carly Rae Jespen"
+key: "G"
+youtube: "http://www.youtube.com/watch?v=lEsPhTbJhuo&t=15s"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "C3"
+voice_high: "B3"
+added: "2012-12"
+pages: 1
+source_doc: "https://docs.google.com/document/d/17hvL32ZetEij_328b6JP9aB_XvfHF8Yq5bNGgMSIGZY/edit"
+---
+
+```{.song}
+Emx = 043x,   Em = 0432, D = 2220
+melody of baseline: 1 1 1 1 1 1 1 3 2 2 2 2 2 2 2 3 1 1 1 1 1 1 1 3 2 2 2 2 2 2
+
+Intro: [Emx] [Em] [D] [Em] [Emx] [Em] [D]
+
+Verse 1:
+[Emx] I threw a wish in the [Em] well, [D] Don't ask me, I'll never [Em] tell | 6. 6. 6. 6. 6. 5. 6 (x3)
+[Emx] I looked to you as it [Em] fell, [D] and now you're in my way | 4. 4. 4. 1 5.
+[Emx] I trade my soul for a [Em] wish, [D] pennies and dimes for a [Em] kiss | 6. 6. 6. 6. 6. 5. 6 (x3)
+[Emx] I wasn't looking for [Em] this, [D] but now you're in my way | 4. 4. 4. 1 5.
+
+[Emx] Your stare was holdin' [Em], [D] Ripped jeans, skin was showin' | 1 1 1 6. 5. 4. (x3)
+[Emx] Hot night, wind was blowin' [Em] [D] Where you think you're going, baby? | 1 1 1 6. 1 1 2 3
+
+Chorus:
+[Emx] Hey, I just met you [Em] [D] and this is crazy [Em] | 1 5.6.1 5.  1 5.6. 3 1
+[Emx] but here's my number [Em] [D] so call me, maybe? | 1 3 4 3 1   1 3 2 2 1
+[Emx] It's hard to look right [Em] [D] at you baaaabeh [Em], | (x3)
+[Emx] but here's my number [Em] [D] so call me, maybe?
+[Emx] And all the other boys [Em] [D] they to chaase me [Em],
+[Emx] but here's my number [Em] [D] so call me, maybe?
+
+Verse 2:
+You took your time with the call, I took no time with the fall
+You gave me nothing at all, but still, you're in my way
+I beg, and borrow and steal Have foresight and it's real
+I didn't know I would feel it, but it's in my way
+
+Your stare was holdin', Ripped jeans, skin was showin'
+Hot not, wind was blowin', Where you think you're going, baby?
+
+Chorus:
+
+Bridge:
+Before you came into my life I missed you so bad
+I missed you so bad I missed you so, so bad
+Before you came into my life I missed you so bad
+And you should know that I missed you so, so bad
+
+Chorus:
+
+Bridge:
+```

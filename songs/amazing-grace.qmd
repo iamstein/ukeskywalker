@@ -1,0 +1,48 @@
+---
+title: "Amazing Grace"
+sort_title: "Amazing Grace"
+artist: "John Newton"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+fun: 1
+skill: 2
+poppy: 1
+happy: 1
+spiritual: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1CHrJbgNQBOqm-H07kkZBg1MNZFsrR1WFxVhvcUAgPwo/edit"
+---
+
+```{.song}
+Refrain:
+[G] Amazing [G7] Grace! (how [C] sweet the [G] sound)
+That [G] saved a wretch like [D] me!
+I [G] once was [G7] lost, but [C] now am [G] found,
+Was [Em] blind, but [D] now I [G] see.
+
+Verse 1:
+'Twas [G] grace that [G7] taught my [C] heart to [G] fear,
+And [G] grace my fears [D] relieved.
+How [G] precious [G7] did that [C] grace [G] appear,
+The [Em] hour I [D] first [G] believed.
+
+Verse 2:
+[G] Through many [G7] dangers, [C] toils and [G] snares
+We [G] have already [D] come
+'Twas [G] grace hath [G7] brought us [C] safe thus [G] far
+And [Em] grace will [D] lead us [G] home
+
+Verse 3:
+When [G] we've been [G7] there ten [C] thousand [G] years,
+Bright [G] shining as the [D] sun,
+We've [G] no less [G7] days to [C] sing God's [G] praise
+Then [Em] when we [D] first [G] begun.
+
+Refrain:
+[G] Amazing [G7] Grace! (how [C] sweet the [G] sound)
+That [G] saved a wretch like [D] me!
+I [G] once was [G7] lost, but [C] now am [G] found,
+Was [Em] blind, but [D] now I [G] see.
+```

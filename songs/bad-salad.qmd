@@ -1,0 +1,60 @@
+---
+title: "Bad Salad"
+sort_title: "Bad Salad"
+artist: "Trendy Wendy and the Yeastbombs"
+key: "A"
+youtube: "http://www.youtube.com/watch?v=nBZx_dtAOBE"
+libraries: ["all", "yeastbombs"]
+difficulty: 2
+fun: 1
+skill: 3
+poppy: 2
+happy: 2
+voice_low: "A2"
+voice_high: "A3"
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1zFgzHQkKin7Ff5CpsATY6znCiJntyhTcKMlTqp4Ixn8/edit"
+---
+
+```{.song}
+[A] It was just another day at the salad bar
+[D] But I didn't know i wouldn't go far
+[E] And my plate would [D] turn out so [A] messy [C][A]
+
+[A] The croutons were angry, they were armed to the nines
+The to-[D]-matoes were ripened and had thorns on they're vines
+They were [E] all de-[D]-manding their [A] dressing [C][A]
+
+It was a [E] Bad [D] Salad
+[E] Bad [D] Salad
+[A] Caused a [Bm] scene
+[A] Turning me [Bm] green
+
+It was a [E] Bad [D] Salad
+[E] Bad [D] Salad
+[A] It was so [Bm] dry
+[?] So you must die!
+
+The [A] waiters have forks and they've got their knives
+The [D] bus-boys have all said goodbye to their wives
+The [E] salad isn't [D] getting' off so [A] easy [C][A]
+
+But the [A] cukes have their nukes and they're set to explode
+Bam-[D]-boo shoots are locked and ready to load
+The [E] salad bar is [D] coming down to-[A]-night [C][A]
+
+It was a [E] Bad [D] Salad
+[E] Bad [D] Salad
+[A] Caused a [Bm] scene
+[A] Turning me [Bm] green
+
+It was a [E] Bad [D] Salad
+[E] Bad [D] Salad
+[A] It was so [Bm] dry
+[?] So you must die!
+
+[A] But just before the first shots were fired
+The [D] dressing came back and it wasn't expired
+The [E] sous chef had for-[D]-gotten it [A] again [A^]
+```

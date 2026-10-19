@@ -1,0 +1,30 @@
+---
+title: "Open Shut Them"
+sort_title: "Open Shut Them"
+youtube: "https://youtu.be/0ETr_5NhX5Q"
+libraries: ["all", "kids", "kids-motions"]
+source_doc: "https://docs.google.com/document/d/1j3Y6XWbm9uKRRHL3szarxyvMEXzfhDnthDGbKNvfcWo/edit"
+---
+
+```{.song}
+Open shut them, open shut them, give a little clap clap clap
+Open shut them, open shut them, put them in your lap lap lap.
+
+Creep them crawl them creep them crawl them right up to your chin chin chin
+Open wide your little mouth but do not let them in
+
+Walk them walk them walk them walk them right down to your nose nose nose?
+Reach them reach them to the sky.  Then touch them to your toes.
+
+Shake them shake them shake them shake them shake them just like this this this
+Roll them roll them roll them roll them and blow a little kiss.
+
+Big and small and big and small and big big big big small small small
+Big and small and big and small and big big big big small small small
+
+Loud and quiet, loud and quiet, loud loud loud loud quiet quiet shhhhh
+Loud and quiet, loud and quiet, loud loud loud loud quiet quiet shhhhh
+
+Peeka-boo Peeka-boo peeka peeka peeka boo
+Peeka-boo Peeka-boo peeka peeka peeka boo
+```

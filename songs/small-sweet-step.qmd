@@ -1,0 +1,56 @@
+---
+title: "Small Sweet Step"
+sort_title: "Small Sweet Step"
+artist: "Zo Tobi"
+key: "C"
+key_note: "though song is in E in Youtube Video"
+youtube: "https://www.youtube.com/watch?v=kDtH5JWBiCk"
+libraries: ["all", "spiritual", "kids"]
+fun: 3
+skill: 2
+poppy: 3
+happy: 3
+spiritual: 3
+added: "2020-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1ZPqcJ9hqjxtb8WxwfJIAvhz7DAIx91DRZrEC8cC2fZg/edit"
+---
+
+```{.song}
+Verse 1:
+[Am] When you [C] wake and feel the [G] day's already [Dm] gone
+[Am] the sun is [C] rising but your [G] faith is going [Dm] down
+[Am] and you're [C] losing hope a [G] change gonna [Dm] come
+[Am] you gotta tune your [C] station to a [G] higher [Dm] sound
+
+Pre-chorus:
+[Dm] When the way seems [E7] blockaded
+[F] and you just don't have the [C] might [G]
+[Dm] give some praise that you're frust-[E7]-rated
+You ain't [Am] wrong you're on the [G] edge of something [F] right
+
+Chorus:
+Take a [C] small sweet step, give it [D7] all you got
+Just a [F] small sweet step moving [C] forward
+You don't [C] know what's next, and [D7] nevertheless
+Take a [F] small sweet step moving [C] forward
+
+Verse 2:
+[Am] ​And when you're [C] riding and the [G] fog has got you [Dm] blind
+[Am] remember [C] you're the sky that [G] holds the [Dm] clouds
+[Am] Born with a [C] hero's heart and a [G] monkey [Dm] mind, on the
+[Am] planet of [C] commitment, there is [G] no [Dm] doubt
+
+Pre-chorus + Chorus:
+
+Bridge:
+[C] And you know you've got to be crazy, to [D7] look at the game and think you're OK
+you're in the [F] very last minute of the very last play, and the [C] scoreboard's not on your side
+[C] But inside your heart is a beat, it's the [D7] song on your tongue and the dance in your feet, and
+You [F] came here to bring to the game what you got, win or [C] lose ain't never the prize!
+
+Chorus x2:
+
+Outro:
+Just take a step… Keep moving forward!
+```

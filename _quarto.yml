@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "songs/**/*.qmd"
+    - "libraries/**/*.qmd"
+    - "tools/**/*.qmd"
+  resources:
+    - "songs/files/**"
+    - "assets/*.js"
+
+website:
+  title: "Uke Skywalker"
+  site-url: "https://www.ukeskywalker.com"
+  repo-url: "https://github.com/iamstein/ukeskywalker"
+  repo-actions: [source, issue]
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - href: index.qmd
+        text: Songs
+      - text: Libraries
+        menu:
+          - href: index.qmd
+            text: All Songs
+          - href: libraries/spiritual.qmd
+            text: Spiritual Songs
+          - href: libraries/andy-originals.qmd
+            text: Andy Originals
+          - href: libraries/yeastbombs.qmd
+            text: Trendy Wendy and the Yeastbombs
+          - href: libraries/kids.qmd
+            text: Kid Songs
+      - href: tools/compressor.qmd
+        text: Compressor
+      - href: tools/transposer.qmd
+        text: Transposer
+      - text: About
+        menu:
+          - href: about.qmd
+            text: About this site
+          - href: specification.qmd
+            text: Specification
+    right:
+      - icon: github
+        href: "https://github.com/iamstein/ukeskywalker"
+        aria-label: GitHub
+  page-footer:
+    left: "Made by Andy Stein. Free, no ads, no revenue."
+    right: "Built with [Quarto](https://quarto.org/)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    anchor-sections: true

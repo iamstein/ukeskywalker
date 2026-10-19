@@ -1,0 +1,72 @@
+---
+title: "California"
+sort_title: "California"
+artist: "Joni Mitchell"
+key: "E"
+libraries: ["all", "kids"]
+difficulty: 2
+fun: 1
+skill: 1
+poppy: 1
+happy: 1
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/19kHVHYEo0hKSJ3PtBvpJ8z5hxnWVDmt-W3u3RqOE00g/edit"
+---
+
+```{.song}
+Tutorial: https://www.youtube.com/watch?v=MzV2u5-kh5Q&ab_channel=swiftlessons
+* Asus4 = x00230
+* Bsus4 = x24400
+* Esus4 = 002200
+
+Intro: (noodling in key of E on top 3 strings) - lines are rhythm, notes, and solfege
+(4) &   a  1  & 2  & [3 & a 4 &  a]  (1)         &   2  &   3    &   4   &  [1 & a 2 & a 3 & a]        [4 &]
+        d# e d# b g# b [A]         d# b  d#  d#  f#  d#  b  [E]                 [A]
+        7 | 1' 7  5 3   5 [4]         7   5  7    5    2'  7    5  [1]                [4]
+
+Verse 1:
+[E] Sitting in a park in Paris France [A] reading the news and it sure looks [F#] bad
+They won't give peace a chance, [B] that was just a dream some of us [E] had
+Still a lot of lands to [A] see but I wouldn't want to [F#] stay here
+It's too old and [B] cold and settled in its ways here
+[A] Ah but [Asus4] California, Cali-[E]-fornia I'm [C#] coming home
+[A] I'm gonna see the folks I dig [E], I'll even kiss a sunset [B] pig
+[Bsus4] California I'm coming [E] home
+
+Intro:
+RIFF [E] [A]
+
+Verse  2:
+[E] I met a redneck on a Grecian isle, [A] we did the goat dance very [F#] well
+He gave me back my smile [B] but he kept my camera to sell
+[E] Oh the rogue, the red red rogue, [A] he cooked good omelettes and stews
+And I [F#] might have stayed on with him there, but my [B] heart cried out for you
+[A] Ah but [Asus4] California, Cali-[E]-fornia I'm [C#] coming home
+[A] Oh make me feel good rock and roll band, [E] I'm your biggest fan
+Cali-[Bsus4]-fornia I'm coming [E] home RIFF
+
+Bridge:
+[E] Oh it gets so [F#] lone-[A]-ly
+When you're walking [E] and the streets are full of [B] strangers
+All the news of [F#] home you [A] read just give you the [F# ] blues
+[D] Just give you the [B] blues [A] [A]  [E]-riff]
+
+Verse:
+[E] So I bought me a ticket I caught a plane to [A] Spain
+Went to a party down a red dirt [F#] road
+There were lots of pretty people [B] there, reading Rolling Stone reading [E] Vogue
+They said how long can you [A] hang around, I said a week maybe [F#] two
+Just until my skin turns [B] brown and then I'm going home
+[A] Ah but [Asus4] California, Cali-[E]-fornia I'm [C#] coming home
+[A] Oh, will you take me as I am, [E] strung out on another [B] man
+Cali-[Bsus4]-fornia I'm coming [E] home RIFF
+
+Bridge 2:
+[E] Oh it gets so [F#] lone-[A]-ly When you're walking [E] and the streets are full of [B] strangers
+All the news of [F#] home you [A] read, more about the [E] war and the bloody [B] changes
+Oh [F#] will you take me as I [A] am, will you take me as I [E] am
+
+Will you, [B] will you take me as I [F#] a----[A]-a m
+[E] [F#] [A] [B] (repeat) - end on [E]
+```

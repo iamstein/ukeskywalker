@@ -1,0 +1,48 @@
+---
+title: "Revolver"
+sort_title: "Revolver"
+artist: "Moby"
+key: "E"
+libraries: ["all"]
+added: "2018-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/15jvAJ0LnqfuiBtR2UMv40lQTld4vYSXLHWPMtFbBGdU/edit"
+---
+
+```{.song}
+[E] Once I had my heroes
+[E] Once I had my dreams
+[E] But all of that is changed now
+The [A] truth begins again
+The [Am] truth is not that comfortable, [E] no
+
+[E] Mother taught us patience
+[E] The virtues of restraint
+[E] Father taught us boundaries
+The [A] knowledge we must go
+I'm [Am] trying to protect my uni-[E]-ty
+
+Chorus:
+[B5] That's when I [A5] reach for my [Db5] [slide] [Eb5] [slide] [B5] revolver
+[B5] That's when it [A5] all gets blown [Db5] [slide] [Eb5] [slide] [B5] away
+[B5] That's when I [A5] reach for my [Db5] [slide] [Eb5] [slide] [B5] revolver
+[B5] The spirit [A5] passes by this [Db5] [slide] [Eb5] [slide] [E] way
+
+[E] A friend of mine once told me
+[E] His one and only aim
+[E] To build a giant castle
+And [A] in it sign his name
+[Am] Sign it with complete communi-[E]-ty
+
+Chorus:
+
+[E] Now that the sky is empty
+[E] And that is nothing new
+[E] Instead they look upon us
+When they [A] tell me
+That we're [Am] nothing
+I say!
+
+Chorus:
+Chorus:
+```

@@ -1,0 +1,56 @@
+---
+title: "Can't Help Falling in Love"
+sort_title: "Can't Help Falling in Love"
+artist: "Elvis"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 2
+practice: 5
+fun: 1
+skill: 4
+poppy: 1
+happy: 2
+voice_low: "G2"
+voice_high: "G3"
+added: "2014-03"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1ZYu1OxHAS9swpScjzUtKZELU2169wHNez1NmZgT-Lgs/edit"
+---
+
+```{.song}
+Ingrid Michaelson: https://www.youtube.com/watch?v=5sQeQC4hT10
+Michael Buble: https://www.youtube.com/watch?v=R6cdOeUWOEA&feature=kp
+Elvis: https://www.youtube.com/watch?v=5V430M59Yn8
+
+Intro: [C] [G] [C] [G]
+Play on uke using arpeggios.  Am = 0453
+
+[C] Wise [Em] men [Am] say, only [F] fools [C] rush [G] in         c g c       d e f e d
+But [F] I [G] can't [Am] help [F] falling in [C] love [G] with [C] you        g. a. b. c d e f e c
+[C] Shall [Em] I [Am] stay, would it [F] be [C] a [G] sin         c g c       d e f e d
+If [F] I [G] can't [Am] help [F] falling in [C] love [G] with [C] you        g. a. b. c d e f e c
+
+Bridge:
+[Em] Like a river [B7] flows,         e g a c b
+[Em] surely to the [B7] sea        e g a c b
+[Em] Darling so it [B7] goes,         e g a c b
+[Em] some things are [A7] meant to [Dm] be [G]        g g e g e f
+
+[C] Take [Em] my [Am] hand, take my [F] whole [C] life [G] too        c g c       d e f e d
+For [F] I [G] can't [Am] help [F] falling in [C] love [G] with [C] you
+
+Repeat Bridge
+
+[C] Take [Em] my [Am] hand, take my [F] whole [C] life [G] too        c g c       d e f e d
+For [F] I [G] can't [Am] help [F] falling in [C] love [G] with [C] you        g. a. b. c d e f e c
+For [F] I [G] can't [Am] help [F] falling in [C] love [G] with [C] you        g. a. b. c d e f e c
+
+Analysis
+
+Emotion
+* Could be happy - almost an anthem
+* Kind of a helpless whine
+* Maybe he knows he shouldn't
+* Pathetic - she doesn't love him back.  Or he needs to stay away from her
+* Completely overcome with emotion, it's all he can do to sing
+```

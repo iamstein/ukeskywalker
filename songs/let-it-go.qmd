@@ -1,0 +1,65 @@
+---
+title: "Let It Go"
+sort_title: "Let It Go"
+artist: "Idina Menzel"
+key: "Em"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2014-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Bb5nqkwDxxq3S-Bk5gjeBIquTK_WEAA9BGMUVKvi0bM/edit"
+---
+
+```{.song}
+Disney Version: http://www.youtube.com/watch?v=moSFlvxnbgk
+World of Warcraft Version (awesome!) : http://www.youtube.com/watch?v=xOGoDfhP6p8
+
+Verse 1:
+The [Em] snow glows white on the [C] mountain tonight.  Not a [D] footprint to be [Am] seen
+A [Em] kingdom of iso-[C]-lation and it [D] looks like I'm the [A] queen
+[Em] The wind is [C] howling like this [D] swirling storm [Am] inside
+[Em] Couldn't keep it [D] in, heaven knows I've [A] tried
+
+Pre-Chorus 1:
+[D] Don't let them in, don't let them [C] see. | Be the good girl you always have to [D] be
+Conceal, don't feel, don't let them [C] know.  Well, now they [C] know
+
+Chorus 1:
+Let it [G] go, let it [D] go. Can't [Em] hold it back any-[C]-more
+Let it [G] go, let it [D] go. Turn [Em] away and slam the [C] door
+[G] I don't [D] care what they're [Em] going to [C] say
+Let the [G] storm rage [D] on.  The [C] cold never bothered me anyway
+
+Verse 2:
+[C] [G] [D] [Em] It's funny how some [C] distance makes [D] everything seem [Am] small
+And the [Em] fears that once [C] controlled me can't [D] get to me at [A] all
+
+Pre-Chorus 2:
+[D] It's time to see what I can [C] do.  To [C] test the limits and break [D] through
+No right, no wrong, no rules for [C] me.  I'm [C] free
+
+Chorus 2:
+Let it [G] go, let it [D] go. I am [Em] one with the wind and [C] sky
+Let it [G] go, let it [D] go. You'll [Em] never see me [C] cry
+[G] Here I [D] stand and [Em] here I'll [C] stay.
+Let [G] the storm rage [D] on.
+
+Brief Instrumental (8 measures)
+
+Bridge:
+[C] My power flurries through the air into the ground
+[C] My soul is spiraling in frozen fractals all around
+[D] And one thought crystallizes like an icy blast
+[Em] I'm never [C] going back, the [D] past is in the [Am] past [C]
+
+Chorus:
+Let it [G] go, let it [D] go.  And I'll [Em] rise like the break of [C] dawn
+Let it [G] go, let it [D] go.  That [Em] perfect girl is [C] gone
+[G] Here I [D] stand in the [Em] light of [C] day
+Let the [G] storm rage [D] on. The [C] cold never bothered me anyway
+```

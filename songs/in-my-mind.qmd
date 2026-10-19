@@ -1,0 +1,65 @@
+---
+title: "In My Mind"
+sort_title: "In My Mind"
+artist: "Amanda Palmer"
+key: "D"
+alt_keys: ["G"]
+key_note: "Amanda sings and plays in G, see below"
+youtube: "https://www.youtube.com/watch?v=Q9WZtxRWieM"
+libraries: ["all", "spiritual"]
+difficulty: 0
+practice: 6
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+spiritual: 3
+protest: 1
+voice_low: "A2"
+voice_high: "D4"
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1B412zaRn8PtjDv3XgcCP6GIjvuNRAQJifVg0xd2T_lQ/edit"
+---
+
+```{.song}
+In my [D] mind, in a future five [G] years from now, | 3 5 5    5 4 3 3 5 4 3 1
+I don't bite my nails [A] anymore, and I [G] never binge watch TV | 5 4 3 3 5 4 3 1   5. 5. 5. 3 4 3 2 1
+Because [D] I, will be the picture of [G] discipline, | 5 5    5 4 3 3 5 4 3 1
+Never minding what [A] state I'm in, and I will be [G] someone I admire. | 5 4 3 3 5 4 3 1   5. 5. 5. 3 4 3 2 1
+And it's [A] funny how I imagined that I would [G] be that person now. | 3 5---5 4 5 4 3 1
+But it does [A] not seem to have happened | 5---5
+Maybe I've [G] just forgotten how, to [A] see | 5 5 5 4 5 4 3 1   5 5
+That I'm not ex-[G]-actly the person that I thought I'd [D] be [G] [A] | 5 5 5 4---4 3 1
+
+And in my [D] mind, In the faraway [G] here and now
+I've become in [A] control somehow, and I [G] never lose my kindle
+Because [D] I, will be the picture of [G] discipline,
+Never fucking up [A] anything,  and I'll be a [G] good defensive driver.
+And it's [A] funny how I imagined that I would [G] be that person now.
+But it [A] does not seem to have happened
+Maybe I've [G] just forgotten how, to [A] see
+That I'll [G] never be the person that I thought I'd [D] be. [G] [A]
+
+And in my [D] mind, when I'm old, I'm non-[G]-judgemental.
+I am loved and at [A] ease in the world,
+As I [G] mindfully watch over --
+Not like me [D] now, I'm so anxious 'bout [G] everything,
+That I don't look at [A] anything. But I'm sure I'll [G] look when I am older.
+And it's [A] funny how I imagine that I could [G] be that person now.
+But that's not what I [A] want if that's what I wanted then I'd be [G] living that way now.
+How strange to [A] see, that I don't [G] want to be the person that I want to [D] be. [G] [A]
+
+And in my [D] mind. I imagine so [G] many things,
+Things that aren't really [A] happening,
+And when they [G] put me in the ground
+I'll start pounding the [D] lid, saying "I haven't [G] finished yet,
+I still have a [A] tattoo to get,
+That says 'I'm [G] living in the moment."
+And it's [A] funny how I imagined that I could [G] win this winless fight.
+But maybe it [A] isn't all that funny that I've been [G] fighting all my life.
+But maybe I [A] have to think it's funny if I wanna [G] live before I die.
+And maybe it's [A] funniest of all to think, I'll [G] die before I actually [A] see,
+That I am [G] exactly the person that I want, to [D] be. [G] Fuck [A] yes.
+I am [G] exactly the person that I want to [D] be.
+```

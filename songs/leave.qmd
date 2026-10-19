@@ -1,0 +1,59 @@
+---
+title: "Leave"
+sort_title: "Leave"
+artist: "Glen Hansard (Once)"
+key: "E"
+youtube: "https://www.youtube.com/watch?v=i6V_oIKvUjM"
+libraries: ["all"]
+difficulty: 3
+fun: 3
+skill: 2
+poppy: 2
+happy: 1
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1HAhyKhRC_VII6PdrJq6MBGdoupzRu-KXwGu_Rdd2b3g/edit"
+---
+
+```{.song}
+[E] [C#m] [B] [A]
+[E] I can't wait forever is all that [C#m] you said | 3 2 1 2 1        1 3 2 1 2
+[B] Before you stood [A] up | 1 3 2 1 1
+[E] And you won't disappoint me [C#m] I can do that myself | 1 1 3 2 1 2 1        1 1 3 2 1 2
+[B] But I'm glad that you've [A] come.  Now if you don't mind | 1 1 3 2 1 1         1 3 2 1 6.
+
+[C#m'] Leave, [B'] leave, And free [A'] yourself at the same time | 1
+[C#m'] Leave, [B'] leave, I [A'] don't understand, you've already gone
+
+[E] And I hope you feel better [C#m] Now that it's out
+[B] What took you so [A] long
+
+[E] The truth has a habit [C#m] of falling out of your mouth
+[B] But now that it's [A] come.  If you don't mind
+
+[C#m'] Leave, [B'] leave, and [A'] please yourself at the same time
+[C#m'] Leave, [B'] leave.
+Let go [A'] of my hand. You said what you came to now
+
+[C#m'] Leave, [B'] leave,
+Let go [A'] of my hand You said what you have to now
+
+[C#m'] Leave, [B'] [F#] leave!
+
+[C#m'] Oh leave! [B'] Leave!
+Let [F#] go of my hand! You said what you have to now
+
+[C#m'] Leave! [B'] [F#] Leave!
+
+[C#m] Da da da deee da  [F#] da, da da  x3
+[E] Whoaaa-oaaahh         [G#] Ohhhhhhh [C#m]
+
+GUITAR CHORDS
+    [E]   [C#m]  [B]   [A] [C#m']  [B'] [A']   [F#]   [G#]
+e|---0------0-----0-----0----0------0----0------0------0-
+B|---0------0-----0-----0----5(0)---0----0------0------4-
+G|---9(8)---8-----8-----6----6------4----2------x------5-
+D|---9------9-----9-----7----6------4----2------4------6-
+A|---7------7-----9-----7----4------2----0------4------6-
+E|---0------9-----7-----5----x------x----x------2------4-
+```

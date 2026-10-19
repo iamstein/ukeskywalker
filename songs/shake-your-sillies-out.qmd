@@ -1,0 +1,24 @@
+---
+title: "Shake Your Sillies Out"
+sort_title: "Shake Your Sillies Out"
+artist: "Raffi"
+key: "D"
+youtube: "https://youtu.be/03zqJQJRLN0"
+libraries: ["all", "kids", "kids-motions"]
+added: "2022-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1UBPaCAeN_Qz_9o2QllCM5ey1DkkqjdTBfUo8wJ5fyy4/edit"
+---
+
+```{.song}
+Gotta [D] shake, [G] shake, [D] shake your sillies out
+[A] Shake, shake, [D] shake your sillies out
+[D] Shake, [G] shake, [D] shake your sillies out
+And [A] wiggle my waggles [D] away
+
+Gotta clap, clap, clap your crazies out.
+Gotta jump, jump, jump your jiggles out.
+Gotta jog, jog, jog your jitters out.
+Gotta stretch, stretch, stretch your stretchies out.
+Gotta yawn, yawn, yawn your yawnies out.
+```

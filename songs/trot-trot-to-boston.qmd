@@ -1,0 +1,14 @@
+---
+title: "Trot Trot to Boston"
+sort_title: "Trot Trot to Boston"
+libraries: ["all", "kids", "kids-motions"]
+source_doc: "https://docs.google.com/document/d/1g7A5loiNDiUPTl3wRPJ8ObfE9UR_MEV7ii_Pux9Kewg/edit"
+---
+
+```{.song}
+Trot trot to Boston, trot trot to Lynn
+Watch out baby or you might fall in.
+
+Trot trot to Delaware, trot trot to Dover
+Watch out baby or you might fall over
+```

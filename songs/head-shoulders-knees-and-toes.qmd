@@ -1,0 +1,13 @@
+---
+title: "Head Shoulders Knees and Toes"
+sort_title: "Head Shoulders Knees and Toes"
+libraries: ["all", "kids", "kids-motions"]
+source_doc: "https://docs.google.com/document/d/1ZPmEefPcMWN2W64DhjyROgfczdmhAe-iQPiGAoQuofE/edit"
+---
+
+```{.song}
+Head, shoulders, knees and toes, knees and toes.
+Head, shoulders, knees and toes, knees and toes.
+Eyes, and ears, and mouth, and nose.
+Head, shoulders, knees and toes, knees and toes.
+```

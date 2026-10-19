@@ -1,0 +1,33 @@
+---
+title: "If You're Happy and You Know It"
+sort_title: "If You're Happy and You Know It"
+key: "D"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+happy: 3
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/15XnoiSNydwt-FX1rx7YV2amspJafBBD-TOSYWvV1TKw/edit"
+---
+
+```{.song}
+If you're [D] happy and you know it, clap your [A] hands.
+If you're happy and you know it, clap your [D] hands.
+If you're [G] happy and you know it, and you [D] really want to show it.
+If you're [A] happy and you know it, clap your [D] hands.
+
+If you're [D] happy and you know it, stomp your [A] feet
+If you're happy and you know it, stomp your [D] feet
+If you're [G] happy and you know it, and you [D] really want to show it
+If you're [A] happy and you know it, stomp your [D] feet
+
+If you're [D] happy and you know it, Say hoo-[A]-ray
+If you're happy and you know it, Say hoo-[D]-ray
+If you're [G] happy and you know it, and you [D] really want to show it
+If you're [A] happy and you know it, Say hoo-[D]-ray
+
+If you're [D] happy and you know it, Do all [A] three
+If you're happy and you know it, Do all [D] three
+If you're [G] happy and you know it, and you [D] really want to show it
+If you're [A] happy and you know it, Do all [D] three
+```

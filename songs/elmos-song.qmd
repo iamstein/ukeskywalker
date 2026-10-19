@@ -1,0 +1,44 @@
+---
+title: "Elmo's Song"
+sort_title: "Elmo's Song"
+artist: "Elmo"
+key: "C"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2022-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1Yw2QaGNgpFmzP2gGzwbDQ5GL3dWPRqm5tRS1ooy8hDw/edit"
+---
+
+```{.song}
+[C] This is the song, la la la la, [G] Elmo's Song,
+[G] la la la la, [G7] la la la la, [C] Elmo's Song.
+[C] La la la, [Am] la la la [Dm] la, [G]
+[Em] la la la [A7] la, la la [Dm] la [G] la.
+[C] He loves to sing, la la la la, [G] Elmo's Song,
+[G] la la la la, [G7] la la la la, [C] Elmo's Song.
+[F] He wrote the [B7] music, [Dm] he wrote the [Am] words, [F] that's [G] Elmo's [C] Song!
+
+[C] This is the song, la la la la, [G] Snuffy's Song,
+[G] la la la la, [G7] la la la la, [C] Big Bird's Song.
+[C] La la la, [Am] la la la [Dm] la, [G]
+[Em] la la la [A7] la, la la [Dm] la [G] la.
+[C] I loves to sing, la la la la, [G] Big Bird's Song,
+[G] la la la la, [G7] la la la la, [C] Big Bird's Song.
+[F] I love the [B7] music, [Dm] I love the [Am] words, [F] that's [G] Big Bird's [C] Song!
+
+(orig. moves up half a note to capo 1st here)
+
+[C] This is the song, la la la la, [G] Snuffy's Song,
+[G] la la la la, [G7] la la la la, [C] Snuffy's Song.
+[C] La la la, [Am] la la la [Dm] la, [G]
+[Em] la la la [A7] la, la la [Dm] la [G] la.
+[C] I loves to sing, la la la la, [G] Snuffy's Song,
+[G] la la la la, [G7] la la la la, [C] Snuffy's Song.
+[F] I love the [B7] music, [Dm] I love the [Am] words, [F] that's [G] Snuffy's [C] Song!
+[G] Oh, [C] Yeah!
+```

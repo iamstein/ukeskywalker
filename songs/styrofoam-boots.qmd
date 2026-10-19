@@ -1,0 +1,57 @@
+---
+title: "Styrofoam boots"
+sort_title: "Styrofoam boots"
+artist: "Modest Mouse"
+key: "G"
+libraries: ["all"]
+difficulty: 3
+practice: 2
+skill: 2
+poppy: 3
+happy: 2
+added: "2012-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1kx-NlsgRDSFpdUk5tbIVJU1X7bTr-5HfWr1zdvMGWCA/edit"
+---
+
+```{.song}
+Lick 1: g G g G g: e d a g
+Lick 2: g G g G: a g e d
+Lick 3: g G g G g: e d a g --- a g e g e d d d a g
+x 2
+
+[G] Well all's not well though I'm told that it'll all be quite nice
+[G] We'll be drowning boots like mafia but you're feet'll be floatin like christ
+[G] Well I'll be [C] damned
+[C] They were [G] right
+[G] I'm drowning [C] upside down
+[C] My feet float like [G] christ
+
+[G] I'm in heaven tryin' to figure out which sack
+[G] They're gonna stuff us in to send you in when peter and his monkey laugh
+[G] And I laugh [C] with them
+[C] I'm not sure what [G] at
+[G] They're gonna [C] sayayayayay
+[C] We'll kick you in the [G] back
+[G] Pash in [C] heaven knowowows
+[C] Makin' men in [G] gas
+
+Lick 1, Lick 2, Lick 3
+
+[G] Well some guy comes in lookin bit like everyone I ever seen
+[G] He move  just like Crisco Disco brother hundred verse and listerine
+[G] He says lookin' at somethin' else but directin' everything at me
+[G] Everytime anyone gets on their knees to pray it makes my telephone ring
+[G] And I'll be [C] damned
+[C] He said you and I are the only ones runnin in this whole [G] town
+[G] He had a [C] theory too [G]
+[G] He said that [C] god takes care of himself
+[C] god takes care of himself who are [G] you.
+[G] He said that [C] god takes care of himself
+[C] god takes care of himself who are [G] you.
+[G] He said that [C] god takes care of himself
+[C] god takes care of himself who are [G] you.
+
+Go nuts! (mostly in G, but you can switch to C sometimes)
+Say "It's all right", "It's all nice" and some other stuff.
+```

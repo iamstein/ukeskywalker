@@ -1,0 +1,57 @@
+---
+title: "One Meatball"
+sort_title: "One Meatball"
+artist: "Josh White"
+key: "Em"
+libraries: ["all", "kids"]
+difficulty: 0
+fun: 3
+skill: 5
+poppy: 1
+happy: 2
+added: "2013-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1y14NH4jJQjEKsWuFTqomMULXnIlYjMbpwk-wYM-eI50/edit"
+---
+
+```{.song}
+Em = 4320,         Em7 = 4325,        C7 = 3433,        B7 = 2322
+
+Intro:
+[Em] [Em7] [C7] [B7] x2
+
+Verse 1:
+A [Em] little [Em7] man walked [C7] up and [B7] down,
+To [Em] find an [Em7] eating [C7] place in [B7] town,
+He [Em] read the [Em7] menu [C7] through and [B7] through,
+To [Em] see what [Em7] fifteen [C7] cents could [B7] do.
+
+Chorus:
+[Em] One meat-[Em7]-ball, and [C7] no spa-[B7]-getti.
+[Em] One meat-[Em7]-ball, and [C7] no spa-[B7]-getti.
+[Em] All he [Em7] could af-[C7]-ford is [B7] one meat-[Em]-ball [Em7] [C7] [B7]
+
+Verse 2:
+He [Em] told that [Em7] waiter [C7] near at [B7] hand,
+The [Em] simple [Em7] dinner [C7] he had [B7] planned.
+The [Em] guests were [Em7] startled [C7] one and [B7] all,
+To [Em] hear that [Em7] waiter [C7] loudly [B7] call.
+
+Chorus:
+
+Verse 3:
+The [Em] little [Em7] man felt [C7] ill at [B7] ease,
+He [Em] said: "Some [EmF] bread Sir, [C7] if you [B7] please."
+The [Em] waiter [Em7] hollered [C7] down the [B7] hall:
+You [Em] get no [Em7] bread with your [C7] one meat-[B7]-ball.
+
+Chorus:
+
+Verse 4:
+The [Em] little [Em7] man felt so [C7] very [B7] bad,
+[Em] One meat-[Em7]-ball is [C7] all he [B7] had.
+And [Em] in his [Em7] dreams he still [C7] hears that [B7] call
+You [Em] get no [Em7] bread with your [C7] one meat-[B7]-ball.
+
+Chorus:
+```

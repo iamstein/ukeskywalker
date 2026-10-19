@@ -1,0 +1,56 @@
+---
+title: "One Handed Catch"
+sort_title: "One Handed Catch"
+artist: "Andy Stein"
+key: "C"
+youtube: "https://youtu.be/m8HLGlb2kjI"
+libraries: ["all", "andy-original"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 2
+happy: 2
+voice_low: "A2"
+voice_high: "C4"
+added: "2017-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1zJaWDo4VEp8TOoiXjuwx09bqV0L2QsdTqIVQHV7LZvU/edit"
+---
+
+```{.song}
+The [Am] Lions faced the Seahawks in an [C] road playoff game.
+Their [Am] last road playoff [C] victory was when [F] Eisenhower was our President's name.
+They lost the [Am] last three games of this season, so ya [C] know they're sorely lackin'
+But [Am] no one thought Trump could be our [C] President, so [F] anything can happen.
+
+<Pick 8th notes on the C string>
+The game starts, first quarter ends. the score's still zero zero.
+Our boy Matthew Stafford [Fh] still could be our [F] hero
+But then the Seahawks charge into the red zone, and it's 4th and goal.
+And Richardson makes a one handed catch and it's out of control
+
+[C] One handed catch - in the end zone
+[C] One handed catch - it's seven - zero
+[C] One handed catch - ya can't stop it
+[C] One handed catch - but can ya top it?
+
+The game goes on, as usual, the Lions fall further behind
+Now it's Seattle's ball, 3rd and 5, the game is on the line
+
+And he makes another
+[C] One handed catch - [x] it's so incredible
+[C] One handed catch - [x] it's unforgettable
+[C] One handed catch - [x] such an amazing task
+[C] One handed catch - [x] this time no face mask
+
+Just when you think, the game is done, and it can't get more nuts
+Baldwin hauls one in with just one hand and the right side of his butt
+
+[C] One handed butt catch - unbelievable
+[C] One handed butt catch -  inconceivable
+[C] One handed butt catch - I can't take no more
+[C] One handed butt catch - where's our mighty roar
+
+The Lions set a new record for longest playoff slump
+Rootin' for Detroit can suck sometimes, but not as much as President Trump.
+```

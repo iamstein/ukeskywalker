@@ -1,0 +1,48 @@
+---
+title: "Little Rabbit Foo Foo"
+sort_title: "Little Rabbit Foo Foo"
+artist: "Modified by Andy"
+key: "D"
+libraries: ["all", "kids", "kids-motions"]
+difficulty: 1
+fun: 3
+skill: 5
+poppy: 2
+happy: 3
+added: "2022-01"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1rUg7Pcha2rJ84m4fb1ada5gz1GAvfIOL75wc-xXGPTo/edit"
+---
+
+```{.song}
+Modified by Andy
+
+[D] Little rabbit Foo Foo, [A] Hopping through the [D] forest,
+[D] Scooping up the field mice, and [A] bopping them on the [D] head.
+
+[D] Then the fairy grandmother came and she said
+[D] "Little rabbit Foo Foo, [A] I don't wanna [D] see you,
+[D] Scooping up the field mice, and [A] bopping them on the [D] head."
+
+[D] You've got oooooone chance and if I [G] ever see you again
+[D] scooping up a field mouse.  I'll [G] turn you into a field mouse
+And [A] bop you on the [D] head.
+
+Then the next day, you know what happened?  You know what happened?
+
+[D] Little rabbit Foo Foo, [A] Hopping through the [D] forest,
+[D] Scooping up the field mice, and [A] bopping them on the [D] head.
+
+[D] Then the fairy grandmother came and she said
+[D] "Little rabbit Foo Foo, [A] I don't wanna [D] see you,
+[D] Scooping up the field mice, and [A] bopping them on the [D] head."
+
+[D] That was your laaaaast chance" so she [G] took her magic wand
+And [D] pointed that wand at that little louse, she [G] turned him into to a field mouse
+And [A] bopped him on the [D]
+
+And then the next day, you know what happened?
+
+[D] Little mousey Foo Foo, [A] running through the [D] forest,
+[D] getting scooped by granny, and [A] bopped on the [D] head.
+```

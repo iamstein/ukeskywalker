@@ -1,0 +1,72 @@
+---
+title: "Holland, 1945"
+sort_title: "Holland, 1945"
+artist: "Neutral Milk Hotel"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=XLaFLztnL84"
+libraries: ["all", "spiritual"]
+difficulty: 1
+practice: 5
+fun: 2
+skill: 2
+poppy: 3
+happy: 1
+spiritual: 3
+voice_low: "G3"
+voice_high: "G4"
+added: "2012-04"
+pages: 3
+source_doc: "https://docs.google.com/document/d/1mcby-Jfrr6Ec-R2447L0D81qJOTULVFcfuDZle3oDtc/edit"
+---
+
+```{.song}
+        Melody
+[C] The only girl I've ever [G] loved | 6 6 5 6 7 6 5 5
+[C] Was born with roses in her [G] eyes | 6 6 5 6 7 6 5 5
+[C] But then they buried her a-[G] | 6 6 5 6 7 6 5
+
+[G] -live One evening, [D] 1940... | 3 3 2 1 2 3 2 1
+[C] -five with just her [D] sister at her | 1 3 2 1 2 3 2 1
+[G] side. And only [D] weeks before the | 1 3 2 1 2 3 2 1
+[C] guns all came and [D] rained on every | 1 3 2 1 2 3 2 1
+[G] one. Now she's a [D] little boy in | 1 5 5 5 5 5 5 6
+[C] Spain. Playing pi-[D]-anos filled with | 6 6 6 6 5 5 6
+[G] flames on empty [D] rings around the | 5 3 2 1 2 3 2 1
+[C] sun. All sing to [D] say my dream has | 1 3 2 1 2 3 2 1
+[G] come. | 1
+
+[G] But now we must | 1 3 2 1
+[C] pick up every [G] piece of the | 1' 7 6 5 5 3 2
+[C] life we used to [G] love just to | 1' 7 6 5 5 3 2
+[C] keep ourselves at [G] least enough to carry | 1' 7 6 5 5 5 5 5 5 6
+[D] on | 5
+
+[C] And now we ride the circus [G] wheel | 6 6 5 6 7 6 5 5
+[C] With your dark brother wrapped in [G] white | 6 6 5 6 7 6 5 5
+[C] Says it was good to be a-[G] | 6 6 5 6 7 6 5
+
+[G] -live but now he [D] rides a comet's | 3 3 2 1 2 3 2 1
+[C] flame and won't be [D] coming back | 1 3 2 1 2 3 2 1
+[G] again. The Earth looks [D] better from a | 1 3 2 1 2 3 2 1
+[C] star that's right a-[D]-bove from where you | 1 3 2 1 2 3 2 1
+[G] are. He didn't [D] mean to make you | 1 5 5 5 5 5 5 6
+[C] cry with sparks that [D] ring and bullets | 6 6 6 6 6 5 5 6
+[G] fly. On empty [D] rings around your | 3 3 2 1 2 3 2 1
+[C] heart the world just [D] screams and falls | 1 3 2 1 2 3 2 1
+[G] apart | 1
+
+[G] But now we must | 1 3 2 1
+[C] pick up every [G] piece of the | 1' 7 6 5 5 3 2
+[C] life we used to [G] love just to | 1' 7 6 5 5 3 2
+[C] keep ourselves at [G] least enough to carry | 1' 7 6 5 5 5 5 5 5 6
+[D] on. | 5
+
+[D] And here's where your [C] mother [G] sleeps and here is the | 1 1 2 3 4 4 3        1 1 2 3
+[C] room where your [G] brothers were [D] born. Indentions | 4 4 3 2 1 3 2 1        1 2 3
+[C] in the [G] sheets where their bodies once | 4 4 3        1 1 2 3
+[C] moved but don't [G] move any-[D]-more. And it's so | 4 4 3 2 1 3 2        6 6 5
+
+[C] sad to [G] see the [C] world a-[G]-gree that they'd | 6 5 5 6 6 5 5        5 6
+[C] rather see their [G] faces fill with [D] flies. All when I'd | 6 5 5 3 3 4 3 2        1 2 3
+[C] want to [G] keep white [D] roses in their [G] eyes | 4 4 3 3 3 2 2 3 1-1'
+```

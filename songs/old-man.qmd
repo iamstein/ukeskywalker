@@ -1,0 +1,53 @@
+---
+title: "Old Man"
+sort_title: "Old Man"
+artist: "Neil Young"
+key: "Dm"
+youtube: "https://www.youtube.com/watch?v=FyKKCEH8grA"
+libraries: ["all"]
+difficulty: 3
+practice: 3
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+voice_low: "D3"
+voice_high: "D4"
+added: "2014-09"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1OYEA2h0FBKHBgDcbXDlVs_cDW307yt2Nch3s9kT9l-Y/edit"
+---
+
+```{.song}
+Fm7 = 1313, Dsus4 = 0230, Am7 = 0000, Em7 = 0202
+
+[Fm7] [D] [Dsus4] [D] x2
+[Fm7] Old man look at my life, I'm a lot like [D] you were x2  [not sure about these inital chords!!!]
+
+[D] [F] [C] [G]     [D] [F] [C] [F] [G]
+
+[D] Old man [F] look at my life.  [C] Twenty four and there's [G] so much more | 1' 1' 7m 5 5 5        4 4 4 4 4 5 4 1
+[D] Live alone in a [F] paradise that [C] makes me think of [F] two [G] | 1' 1' 7m 5 5         4 3m 4 3m 5
+[D] Love lost, [F] such a cost, [C] give me things that [G] don't get lost.` | 1' 1' 7m 5 5         4 3m 4 3m 5 4 1
+[D] Like a coin that [C] won't get tossed [F] Rollin' home to [G] you. | 1 1 3m 3m 4 3m 1        3m 1 3m 3m 4
+
+[D] [Am7] [Em7] [G] [D/F#]
+[D] Old man take a look at my life I'm a [Am7] lot like [Em7] you [G] | 1' 1' 7m 5 7m 5 5 5        5 5 7m 6 5
+[D] I need someone to love me the [Am7] whole day [Em7] through [G] | 1' 1' 7m 5 5 5 5 5        5 7m 6 5
+[D] Oh, one look in my eyes and you can [Am7] tell that's [Em7] true. [G] | 1' 1' 7m 5 5 5 5        5 5 7m 6 5
+
+[D] [F] [C] [G]     [D] [F] [C] [F] [G]
+
+[D] Lullabies, [F] look in your eyes [C] run around the [G] same old town.
+[D] Doesn't mean that [F] much to me to [C] mean that much to [G] you
+[D] I've been [F] first and last.  [C] Look at how the [G] time goes past.
+[D] But I'm all a-[F]-lone at last, [C] rolling home to [G] you.
+
+[D] [F] [C] [G]
+
+[D] Old man take a look at my life I'm a [Am7] lot like [Em7] you [G] | 1' 1' 7m 5 7m 5 5 5        5 5 7m 6 5
+[D] I need someone to love me the [Am7] whole day [Em7] through [G] | 1' 1' 7m 5 5 5 5 5        5 7m 6 5
+[D] Oh, one look in my eyes and you can [Am7] tell that's [Em7] true. [G] | 1' 1' 7m 5 5 5 5        5 5 7m 6 5
+
+(funky chords again in the outro)
+```

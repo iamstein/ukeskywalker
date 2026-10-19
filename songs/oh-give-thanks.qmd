@@ -1,0 +1,24 @@
+---
+title: "Oh Give Thanks"
+sort_title: "Oh Give Thanks"
+key: "D"
+libraries: ["all", "spiritual"]
+difficulty: 1
+practice: 4
+fun: 2
+skill: 4
+poppy: 3
+happy: 3
+spiritual: 3
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/13pkE1kpE3_Rqc_-K2e2Jr8V98XiRaf9P3VOnk9I4MEs/edit"
+---
+
+```{.song}
+[D] Oh give [G] thanks un-[A]-to the [D] lord
+For [G] god is [A] good.  Yes [G] god is [D] good (x2)
+
+[D] And God is [G] wor-[D]-thy, [A] wor-[D]-thy.
+[D] For [G] God is [D] good.  Yes [A] God is [D] good (x2)
+```

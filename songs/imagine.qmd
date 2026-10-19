@@ -1,0 +1,53 @@
+---
+title: "Imagine"
+sort_title: "Imagine"
+artist: "John Lennon"
+key: "G"
+libraries: ["all", "spiritual"]
+difficulty: 2
+fun: 2
+skill: 3
+poppy: 2
+happy: 2
+spiritual: 3
+protest: 1
+voice_low: "G3"
+voice_high: "G4"
+added: "2014-03"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1-f7dZCv7LZasi4QXsGjg1fMdDvPKN8eYQ7YRXxApafU/edit"
+---
+
+```{.song}
+Verse 1:
+[C] Imagine there's no hea-[F]-ven {a b- b}        g g e g b b-g
+[C] It's easy if you [F] try {a b- b}        g g e g b b-g
+[C] No hell below [F] us {a b- b}        g g e g b b-g
+[C] Above us only [F] sky {a b- b}        g g e g b b-g
+[F] Imagine [Am] all the peo-[Dm]-ple [F]         c c a c e e d-c-b
+[G] Living for today - ah ha | b b c d d    e g' e
+
+Verse 2:
+[C] Imagine there's no coun-[F]-tries {a b- b}        g g e g b b-g
+[C] It isn't hard to do [F] {a b- b}         g g e g b b-g
+[C] Nothing to kill or die [F] for {a b- b}        g g e g b b-g
+[C] And no religion too [F]         g g e g b b-g
+[F] Imagine [Am] all the peo-[Dm]-ple [F]         c c a c e e d-c-b
+[G] Living life in peace.  Ooh hoo oh | b b c d d    e g' e
+
+Chorus:
+[F] You may [G] say I'm a [C] dreamer [E7]         a c b a g e. e.
+[F] But I'm [G] not the only [C] one [E7]         g a g a g e. d. (?)
+[F] I hope some [G] day you'll [C] join us [E7]         a c c b b b c c
+[F] And the [G] world will [C] be as one | b c d b d c
+
+Verse 3:
+[C] Imagine no posse-[F]-ssions {a b- b}        g g e g b b-g
+[C] I wonder if you [F] can {a b- b}        g g e g b b-g
+[C] No need for greed or hun-[F]-ger {a b- b}        g g e g b b-g
+[C] A brotherhood of man [F] {a b- b}        g g e g b b-g
+[F] Imagine [Am] all the peo-[Dm]-ple [F]         c c a c e e d-c-b
+[G] Sharing all the world.  Ooh hoo oh | b b c d d    e g' e
+
+Repeat Chorus
+```

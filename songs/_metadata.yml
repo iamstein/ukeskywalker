@@ -1,0 +1,14 @@
+# Settings shared by every song page.
+filters:
+  - ../_filters/song.lua
+toc: false
+title-block-banner: false
+format:
+  html:
+    css: ../assets/song.css
+    grid:
+      body-width: 1100px
+    include-after-body:
+      - text: |
+          <script src="../assets/chords.js"></script>
+          <script src="../assets/song.js"></script>

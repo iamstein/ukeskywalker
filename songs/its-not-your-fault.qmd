@@ -1,0 +1,59 @@
+---
+title: "It's Not Your Fault"
+sort_title: "It's Not Your Fault"
+artist: "AWOLNATION"
+key: "F"
+youtube: "https://www.youtube.com/watch?v=jm9-yVdxbSs"
+libraries: ["all"]
+difficulty: 2
+practice: 4
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+added: "2015-10"
+pages: 1
+source_doc: "https://docs.google.com/document/d/15ll6tXWykinjmJB8LgWUpmSWGEJFnjOhiLKnKAi03dQ/edit"
+---
+
+```{.song}
+[Dm] She was built with a [C] brain and some swagger | 1 1 1 1 1 7. 7. 7. 7. 6.
+[Bb] A little scream, little [Am] cry, little [C] laughter
+[Dm] She's a ten, I'm a [C] joke in my own mind
+[Bb] But she still loves to [Am] dance with my [C] punchlines
+
+[Dm] [C] [Bb] [Am] [C]
+
+Bridge:
+[Dm] This love [C] found us [Bb] now I [Am] see [C] it. | 1 7. 6. 5.   6. 5. 3. 2.
+[Dm] This love [C] up down. [Bb] Please be-[C]-lieve | 1 7. 6. 5.   1 2 5.
+
+Chorus:
+[F] Baby, when I'm yellin' at [Bb] you | 3 3 3 3 3 2 1 2
+It's not your [Dm] fault. It's not your [C] fault, yeah and | 1 1 2 3    1 1 3 2 7.
+[F] Baby cuz I'm crazy for [Bb] you,
+It's not your [Dm] fault. It's not your [C] fault, yeah
+[F] Maybe I'm a little [Bb] confused,
+It's not your [Dm] fault.  It's not your [C] fault, yeah and
+[F] Baby, it a wonderful [Bb] news
+It's not your [Dm] fault It's not your [C] fault, yeah
+[Bb] Oh, it's not that you should [C] care. I just wanted you to [Dm] know. | 1 1 1 7. 6. 7. 1   1 1 1 7. 6. 6. 3
+
+[Dm] I'm a fight with [C] myself till I'm bleeding.
+[Bb] Just a taste of your [Am] skin starts the [C] healing.
+[Dm] Anyone from my [C] past get your ammo.
+[Bb] Find my sun in the dark [Am] side of my [C] shadow.
+
+Bridge:
+Chorus:
+
+Hey, hey na na na na x4
+
+[Bb] Oh, it's not that you should [C] care. I just wanted you to [Dm] know.
+
+[F] [Bb] [Dm] [C] na na na
+[F] [Bb] [Dm] [C] na na na
+
+Bridge:
+Chorus:
+```

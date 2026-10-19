@@ -1,0 +1,52 @@
+---
+title: "Lean On Me"
+sort_title: "Lean On Me"
+artist: "Bill Withers"
+key: "C"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 2
+skill: 4
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2021-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1MbPfX5pLG3t97FrIlmuyA4AD5Lmo1-FMh9tUqnhOa8w/edit"
+---
+
+```{.song}
+Verse 1:
+[C] Sometimes in our [F] lives we all have [C] pain, we all have [Em] sor-[G]-row
+[C] But if we are [F] wise We know that [C] there's always [G7] tom-[C]-orrow
+
+Chorus:
+[C] Lean on me, when you're not [F] strong and I'll be your [C] friend.  I'll help you [Em] carry [G] on
+[C] For it won't be [F] long, 'til I'm gonna [C] need somebody to [G7] lean [C] on
+
+Verse 2:
+[C] Please swallow your [F] pride if I have [C] things you need to [Em] bor-[G]-row
+[C] For no one can [F] fill those of your [C] needs that you don't [G7] let [C] show
+
+Bridge:
+[C] So just call on me brother, when[G] you need a [C] hand
+[C] We all need somebody to [G7] lean [C] on
+[C] I just might have a problem that [G] you'd [C] understand
+[C] We all need somebody to [G7] lean [C] on
+
+Chorus:
+[C] Lean on me, when you're not [F] strong and I'll be your [C] friend.  I'll help you [Em] carry [G] on
+[C] For it won't be [F] long, 'til I'm gonna [C] need somebody to [G7] lean [C] on
+
+Bridge:
+[C] So just call on me brother, when you [G] need a [C] hand
+[C] We all need somebody to [G7] lean [C] on
+[C] I just might have a problem that [G] you'd [C] understand
+[C] We all need somebody to [G7] lean [C] on
+
+Verse 3:
+[C] If there is a [F] load you have to [C] bear that you can't [Em] car-[G]-ry
+[C] I'm right up the [F] road I'll share your [C] load if you just [G7] call [C] me (call me)
+
+Call me, Call me...
+```

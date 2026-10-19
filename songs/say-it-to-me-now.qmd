@@ -1,0 +1,50 @@
+---
+title: "Say it to Me Now"
+sort_title: "Say it to Me Now"
+artist: "Glen Hansard (Once)"
+key: "E"
+key_note: "- (real song has an alternative guitar tuning, but if you're lazy, this works"
+youtube: "http://www.youtube.com/watch?v=8zEyRixsDZY"
+libraries: ["all"]
+difficulty: 2
+fun: 2
+skill: 2
+poppy: 1
+happy: 1
+added: "2013-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/11z8v5L1XKiLIy8MyTyWfyqOI0WmNMf0ioR57y0SU6DQ/edit"
+---
+
+```{.song}
+Intro:
+[E] [E7] [C#m] x2  (e 2 3 4 e 2 d 4 c# 2 3 4
+
+Verse:
+[still in C#m] I'm scratching at the surface [E] now
+And I'm trying [E7] hard to work it [C#m] out
+
+So much has gone mis-[E]-understood
+This [E7] mystery only [C#m] leads to doubt
+
+And I didn't under-[F#m]-stand
+[Abm] When you reached out to take my [Am] hand
+
+[Abm] And if you have something to [F#m] say
+[B] You'd better say it now
+
+Chorus:
+[E] Cause this is what you've waited [Abm] for
+[C#m] Your chance to even up the [A] score
+
+[E] And as these shadows [Abm] fall
+on me [C#m] now I will some-[A]-how
+
+[E] Cause I'm picking up a message [Abm] Lord
+[C#m] And I'm closer than I've ever been be-[A]-fore
+
+Outro:
+[E] So if you have something to [B] say Say it to me now [A]
+[B] Say it to me now [A]
+[B] Say it to me now [A]
+```

@@ -1,0 +1,59 @@
+---
+title: "Istanbul"
+sort_title: "Istanbul"
+artist: "They Might Be Giants, Jimmy Kennedy"
+key: "Am"
+key_note: "They Might Be Giants play if Fm"
+youtube: "https://www.youtube.com/watch?v=vsQrKZcYtqg"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 2
+happy: 3
+added: "2015-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1BOb4gtAE75HmgVQBNxRh-LEzF75E3-Wjt0MHk1sdNT4/edit"
+---
+
+```{.song}
+Bm7-5 = 2212
+
+Verse 1:
+[Am] Istanbul was [Am] Constantinople, now it's [Am] Istanbul, not [Am] Constantinople
+Been a [E7] long time gone, old [E7] Constantinople
+Now it's [Am] [-] Turkish [Dm] delight on a [Dm] moonlit [Am] night
+
+Verse 2:
+[Am] Every gal in [Am] Constantinople lives in [Am] Istanbul, not [Am] Constantinople
+So if [E7] you've a date in [E7] Constantinople, she'll be [Am] [-] waiting in [E7] [Am] Istanbul
+
+Chorus:
+Even [Am] old New [Am] York was [Am] once New [Am] Amsterdam
+[Bm7-5] Why they changed it [E7] I can't say, [Am] people just liked it [E7] better that way
+
+Verse 3:
+So [Am] take me back to [Am] Constantinople, no you [Am] can't go back to [Am] Constantinople
+Been a [E7] long time gone, [E7] Constantinople, why did [Am] Constantinople get the [Am] works?
+That's [E7] nobody's business but the [Am] Turks
+
+Verse 4:
+So take me back to Constantinople.  No, You can't go back to Constantinople
+Been a long time gone Constantinople. Why did Constantinople get the works?
+That's nobody's business but the Turks.
+
+Bridge:
+[Am] Do do do do dodo do dododo, [Am] Do do do do dodo do dododo
+[E7] Do do do do dodo do dododo, [Am] Istanbul,(Istanbul) (x2)
+
+Chorus:
+Even [Am] old New [Am] York was [Am] once New [Am] Amsterdam
+[Bm7-5] Why they changed it [E7] I can't say, [Am] people just liked it [E7] better that way
+
+Verse 4:
+So take me back to Constantinople.  No, You can't go back to Constantinople
+Been a long time gone Constantinople. Why did Constantinople get the works?
+That's nobody's business but the Turks.
+
+ISTANBUL!!!!
+```

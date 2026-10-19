@@ -1,0 +1,31 @@
+---
+title: "When the Saints Go Marching In"
+sort_title: "When the Saints Go Marching In"
+artist: "James Black"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+spiritual: 2
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1VPL1OuwYiN86cNuUTHlpD0RVkruETQYL562Sy-mHF8g/edit"
+---
+
+```{.song}
+Oh when the [G] saints go marching [G] in
+Oh when the [G] saints go marching [D] in
+I wanna [G] be [G7] in that [C] [C7] number
+[G] when the saints go [D] marching [G] in
+
+Other lyrics:
+Oh, when the drums begin to bang
+Oh, when the stars fall from the sky
+Oh, when the sun refuse to shine
+Oh, when the moon turns red with blood
+Oh, when the trumpet sounds its call
+Oh, when the horsemen begin to ride
+```

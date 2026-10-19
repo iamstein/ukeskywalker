@@ -1,0 +1,46 @@
+---
+title: "This Little Ukulele"
+sort_title: "This Little Ukulele"
+artist: "Stephin Merritt"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=x8JQaArD8T0"
+libraries: ["all", "kids"]
+difficulty: 1
+practice: 2
+fun: 3
+skill: 1
+poppy: 3
+happy: 3
+voice_low: "G2"
+voice_high: "F3"
+added: "2013-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1nbiWwm1VZDGwWLohUvfeP-GQhYGLm6_iAMwEnWHWDT0/edit"
+---
+
+```{.song}
+Chords:
+C2 = 0005
+C2L = 0203
+Gsus4 = 0233
+F4.5    = 2012
+
+Strumming patterns :
+C = C C C C2 C
+C2L=C C C C2L C
+G = G G G Gsus4 G
+F = F F F F4.5 F
+
+[C] [G] [F] [G]
+I [C] wish I had an [G] orchestra be-[F]-hind me [G] | 5. 1 1 1 1 2 3 2 1 6. 5.
+to [C] show you how I [G] feel [F] [G] | 5. 1 1 1 1 2 3 2 1 6.
+well, the [F] orchestra remains imagin-[C2L]-ary [G] | 1 1 2 1 1 1 2 1 1 1 6. 5.
+but this [F] little uku-[G]-lele's [C] real | 3 4 3 2 2 2 3 2 1 1
+[G] [F] [G]
+
+I [C] wish I had an [G] orchestra be-[F]-hind me [G] | 5. 1 1 1 1 2 3 2 1 6. 5.
+when [C] you lose faith, an [G] orchestra gives [F] proof [G] | 5. 1 1 1 1 2 3 2 1 6.
+well, an [F] orchestra can tell you pretty [C2L] stories [G] | 1 1 2 1 1 1 2 1 1 1 6. 5
+but this [F] little uku-[G]-lele tells the [C] truth | 3 4 3 2   3 4 3 2   2 1 1
+[G] [F] [G] [C]
+```

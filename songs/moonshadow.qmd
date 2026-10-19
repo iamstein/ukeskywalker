@@ -1,0 +1,46 @@
+---
+title: "Moonshadow"
+sort_title: "Moonshadow"
+artist: "Cat Stevens"
+key: "D"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+fun: 3
+skill: 2
+poppy: 2
+happy: 2
+spiritual: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1vtT87Dw_B4D1kauXoioibGyLQf13gD6f7TU8779v4Xo/edit"
+---
+
+```{.song}
+Oh, [D] I'm bein' followed by a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+[D] Leapin and hoppin' on a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+
+And [G] if I [D] ever [G] lose my [D] hands, [G] lose my [D] plough, [Em] lose my [A7] land,
+Oh [G] if I [D] ever [G] lose my [D] hands, Oh if-[Em]-[A7]-[D]-[Bm]-if
+I [Em] won't have to [A7] work no [D] more.
+
+And [G] if I [D] ever [G] lose my [D] eyes, [G] if my [D] coloures [Em] all ran [A7] dry,
+Yes [G] if I [D] ever [G] lose my [D] eyes, Oh if-[Em]-[A7]-[D]-[Bm]-if
+I [Em] won't have to [A7] cry no [D] more.
+
+Oh, [D] I'm bein' followed by a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+[D] Leapin and hoppin' on a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+
+And [G] if i [D] ever [G] lose my [D] legs, [G] I won't [D] moan, and [Em] I won't [A7] beg,
+Yes [G] if I [D] ever [G] lose my [D] legs, Oh if-[Em]-[A7]-[D]-[Bm]-if
+I [Em] won't have to [A7] walk no [D] more.
+
+And [G] if I [D] ever [G] lose my [D] mouth, [G] all my [D] teeth, [Em] north and [A7] south,
+Yes [G] if I [D] ever [G] lose my [D] mouth, Oh if-[Em]-[A7]-[D]-[Bm]-if
+I [Em] won't have to [A7] talk no [D] more.
+
+[E7] Did it take long to [A] find me? [E7] I asked the faithful [A] light.
+[E7] Did it take long to [A] find me? [E7] And are you gonna stay the [A] [A7] ni---------ght?
+
+Oh, [D] I'm bein' followed by a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+[D] Leapin and hoppin' on a [G] moon [D] shadow, [G] moon shadow, moon [D] shadow
+```

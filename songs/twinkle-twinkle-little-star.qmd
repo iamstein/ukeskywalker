@@ -1,0 +1,57 @@
+---
+title: "Twinkle Twinkle, Little Star"
+sort_title: "Twinkle Twinkle, Little Star"
+artist: "Jane Taylor"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 3
+poppy: 1
+happy: 2
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1pM4m-JXTm5NAuoLyXAABrmsyfXgEz9abrGi-FVBZPIY/edit"
+---
+
+```{.song}
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+[C] Up [F] above the [C] world so [G7] high,
+[C] Like a [F] diamond [C] in the [G7] sky.
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+
+[C] When the blazing [F] sun is [C] gone,
+[F] Nothing [C] more to [G7] shines [C] upon,
+[C] Then you [F] show your [C] little [G7] light,
+[C] Twinkle, [F] twinkle, [C] all the [G7] night.
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+
+[C] Then the traveler [F] in the [C] dark,
+[F] Thanks you [C] for your [G7] tiny [C] spark,
+He [C] could not [F] see which [C] way to [G7] go,
+[C] If you [F] did not [C] twinkle [G7] so.
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+
+[C] In the dark blue [F] sky you [C] keep,
+[F] And [C] often [G7] through my [C] curtains peep,
+[C] For [F] you never [C] shut [G7] your eye,
+[C] Till [F] the sun is [C] in the [G7] sky.
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+
+[C] As your bright [F] and tiny [C] spark,
+[F] Lights [C] the [G7] traveler in [C] the dark.
+[C] [F] Though I know [C] not what [G7] you are,
+[C] [F] Twinkle, [C] twinkle, [G7] little star.
+[C] Twinkle, twinkle [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+
+[C] Twinkle, twinkle, [F] little [C] star.
+[F] How I [C] wonder [G7] what you [C] are.
+[C] Up [F] above the [C] world so [G7] high,
+[C] Like a [F] diamond [C] in the [G7] sky.
+```

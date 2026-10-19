@@ -1,0 +1,13 @@
+---
+title: "Qua-qua dela omar"
+sort_title: "Qua-qua dela omar"
+libraries: ["all", "kids", "kids-motions"]
+source_doc: "https://docs.google.com/document/d/1kqsribSZBeJY5O90jbQ1en1kFQuIO_U_tiOl1uuWj5Y/edit"
+---
+
+```{.song}
+Ah qua-qua dela omar qua qua qua,
+A del simo trico,  trico trico tra.
+Valo, valo, valo valo valo, valo
+1 2 3 4 5
+```

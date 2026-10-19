@@ -1,0 +1,42 @@
+---
+title: "Surfin' USA"
+sort_title: "Surfin' USA"
+artist: "The Beach Boys"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=sNypbmPPDco&feature=kp"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+voice_low: "C3"
+voice_high: "C4"
+added: "2014-06"
+pages: 1
+source_doc: "https://docs.google.com/document/d/158b8pWybVkpb3EYYPMndIAcA33otuOYKIk8zkAvn0R8/edit"
+---
+
+```{.song}
+If everybody had an [G7] ocean across the U.S. [C] A.
+Then everybody'd be [G7] surfin' like Cali-[C]-fornia
+You'd seem 'em wearing their [F] baggies Huarachi sandals [C] too
+A bushy bushy blonde [G7] hairdo.  Surfin' U.S. [C] A.
+
+[C] You'd catch 'em surfin' at [G7] Del Mar, Ventura County [C] line
+Santa Cruz and [G7] Trestles, Australia's [C] Narrabeen
+All over [F] Manhattan, and down Doheny [C] Way
+Everybody's gone [G7] surfin', Surfin' U.S. [C] A.
+
+[C] We'll all be planning out a [G7] route. We're gonna take real [C] soon
+We're waxing down our [G7] surfboards. We can't wait for [C] June
+We'll all be gone for the [F] summer. We're on safari to [C] stay
+Tell the teacher we're [G7] surfin'. Surfin' U.S. [C] A.
+
+[C] Haggerties and [G7] Swamies. Pacific [C] Palisades
+San Onofre and [G7] Sunset. Redondo Beach L. [C] A.
+All over La [F] Jolla. At Waimea [C] Bay
+Everybody's gone [G7] surfin'. Surfin' U.S.[C] A.
+[C] Everybody's gone [G7] surfin'
+Surfin U.S. [C] A | 3x
+```

@@ -1,0 +1,67 @@
+---
+title: "Clemintine"
+sort_title: "Clemintine"
+artist: "?, Neil Young and Crazy Horse"
+key: "C"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 2
+skill: 4
+poppy: 2
+happy: 1
+added: "2012-07"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1aHMjB_b__j6rvPRG70bEvWQcCIRn-XZhXtkZFF2szlY/edit"
+---
+
+```{.song}
+Classic Version
+In C - Chorus and Verses are the same
+
+Verse:
+In a [C] cavern in a canyon excavating for a [G7] mine
+[G7] Dwelt a miner forty-[C]-niner and his [G7] daughter Clemin-[C]-tine
+
+Chorus (same as Verse):
+Oh my [C] darlin', oh my darlin', oh my darlin' Clemin-[G7]-tine
+[G7] You are lost and gone for-[C]-ever dreadful [G7] sorry Clemin-[C]-tine.
+
+Neil Young and Crazy Horse version
+In F#m (same chords as A) - Chorus and Verses are different
+http://www.youtube.com/watch?v=AqOrZP2EpNk&feature=youtu.be
+
+Intro: Hang out in [F#m]
+
+Verse:
+[F#m] In a [A] cavern in a [E] canyon exca-[Bm]-vating for a [F#m] mine
+[F#m] Dwelt a [A] miner forty-[E]-niner and his [D] daughter Clemin-[F#m]-tine
+[F#m]
+[F#m] Light she [A] was and like a [E] fairy and her [Bm] shoes were number [F#m] nine,
+[F#m] Herring [A] boxes, without [E] topses, sandals [D] were for Clemen-[F#m]-tine.
+
+Chorus (different from Verse):
+[F#m] Clemin-[A]-tine.  Clemin-[F#m]-tine.  Oh my [A] darling, Clemin-[D]-tine.
+
+Drove she ducklings to the water ev'ry morning just at nine,
+Hit her foot there against a splinter, fell into the foaming brine.
+Ruby lips above the water, blowing bubbles, soft and fine,
+But, alas, I was no swimmer, so I lost my Clementine.
+
+[F#m] Clemin-[A]-tine.  Clemin-[F#m]-tine.  Oh my [A] darling, Clemin-[D]-tine.
+
+Then the miner, 49er soon began to peak and pine
+thought he aughta join his daughter now he's left with clementine
+in my dreams she still does haunt me broken garments soaked in brine
+though in life I used to hug her in death i draw the line
+
+[F#m] Clemin-[A]-tine.  Clemin-[F#m]-tine.  Oh my [A] darling, Clemin-[D]-tine.
+
+How I missed her! How I missed her, how I missed my Clementine,
+so I kissed her little sister, and I forgot my Clementine.
+
+Clemen-[A]-tine, Clemen-[F#m]-tine, Oh my [A] darling, Clemen-[D] tine!
+Clemen-[A]-tine, Clemen-[F#m]-tine you are [A] lost and gone, Clemen-[D]-tine
+Clemen-[F#m]-tine...
+
+<it's fine to end here, but you can throw in another round of pining for Clemintine>
+```

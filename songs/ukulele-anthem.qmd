@@ -1,0 +1,100 @@
+---
+title: "Ukulele Anthem"
+sort_title: "Ukulele Anthem"
+artist: "Amanda Palmer"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=P1BUbZCTb3w&feature=youtu.be&t=1m10s"
+libraries: ["all"]
+difficulty: 2
+fun: 3
+skill: 5
+poppy: 3
+happy: 2
+protest: 2
+voice_low: "G2"
+voice_high: "C4"
+added: "2011-11"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1_pxG5EBGWazBVGmqnIoov-sLYILAjyPIUm5AANiG14Y/edit"
+---
+
+```{.song}
+C (0003), C7(0001), F(2010), Gsus4 (0233) G (0232) A#7 (0454)
+
+Sid [C] vicious played a four-string fender [C7] bass guitar and couldn't sing and | 5. 5. 5. 1…1   7m…7
+[F] everybody hated him ex-[Gsus4]-cept the ones who loved [G] him.  A | 6. 6. 6. 1 1 6. 6. 6. 2 2 2 2 5.
+[C] ukulele has four strings, but [C7]  sid did did not play ukulele | (repeat)
+[F] he did smack and prob-ly killed his [Gsus4] girlfriend nancy spun-[G]-gen.
+
+if [C] only sid had had a uku-[C7]-lele, maybe he could have been | (repeat)
+[F] happy, maybe he would not have [Gsus4] suffered such a sad [G] end.  He
+[C] maybe would have not done all that [C7] heroin instead he maybe | (repeat)
+[F] would've sat around just singing [Gsus4] nice songs to his girl-[G]-friend
+
+so [C] play your favorite cover song, es-[C7]-pecially if the words are wrong.  'Cos | 2 2 1 1 2 2 1 1        2 2 1 1 2 2 1 1
+[F]  even if your grades are bad, it [Gsus4] doesn't mean you're fail-[G]-ing | 2 2 1 1 2 1 1 1 5 5 5 5 5 3
+[C] Do your homework with a fork and [C7] eat your fruit loops in the dark and | 2 2 1 1 2 2 1 1 2 2 1 1 2 2 1 1
+[F] bring your etch-a-sketch to work and [Gsus4] play your uku-[G]-lele | 2 1 1 2 2 1 1 5. 5 5 5 5 5 3
+[F] ukulele small and forceful [G] ukulele brave and peaceful | 6...6         7...7
+[C] you can play the ukulele [F] too it is painfully simple | 5. 3...3 5. 6. 6. 6. 5. 6. 6. 6.
+[F] play your ukulele badly, [G] play your ukulele loudly | 6...6         7...7
+[A#7] ukulele banish evil [A#7] ukulele save the peos3ple | 1 2 2 1 1 2 2 1        1 2 2 1 1 2 2 1
+[A#7] ukulele gleaming golden on the top of every steeple
+
+[C] lizzie borden took an axe, and [C7] gave her father thirty whacks then
+[F] gave her mother thirty-one, and [Gsus4] left a tragic puz-[G]-zle. If
+[C] only they had given her an [C7] instrument, those puritans had
+[F] lost the plot completely see what [Gsus4] happens when you muz-[G]-zle a
+
+[C] person's creativity and [C7] do not let them sing and scream and
+[F] nowadays it's worse 'cause kids have  [Gsus4] automatic hand-[G]-guns it
+[C] takes about an hour to teach some-[C7]-one to play the ukulele a-
+[F]- bout the time it takes to someone to [Gsus4] build a standard pipe-[G]-bomb
+[G] You do the math!
+
+so [C] play your favorite cover song, es-[C7]-pecially if the words are wrong.  'Cos
+[F]  even if your grades are bad, it [Gsus4] doesn't mean you're fail-[G]-ing
+[C] Do your homework with a fork and [C7] eat your fruit loops in the dark and
+[F] bring your etch-a-sketch to work and [Gsus4] play your uku-[G]-lele
+
+[F] Ukulele, thing of wonder [G] ukulele, wand of thunder
+[C] you can play the ukulele, [F] too in london and down under
+[F] play joan jett, and play jacques brel and [G] eminem and neutral milk ho-
+[A#7]-tel the children crush the hatred play your ukulele naked
+[A#7] and if anybody tries to steal your ukulele, let them take it
+
+Verses I skip 'cause I don't like them that much:
+imagine there's no music, imagine there are no songs
+imagine that john lennon wasn't shot in front of his apartment
+imagine if john lennon had composed "imagine" on the ukulele
+maybe folks would have more clearly got the message
+
+you may think my approach is simple-minded and naïve
+like if you want to save the world then why not quit and feed the hungry
+but people for millennia have needed music to survive
+and that's why i've promised john that i will not feel guilty
+
+so play your favorite beatles' song  and make the subway fall in love
+they're only $19.95, that's not a lot of money
+play until the sun comes up and play until your fingers suffer
+play LCD soundsystem songs on your ukulele
+
+[C] Quit the bitching on your blog and [C7] stop pretending art is hard
+just [F] limit yourself to three chords and [Gsus4] do not practice dai-[G]-ly
+You'll [C] minimize some stranger's sadness [C7] with a piece of wood and plastic
+[F] holy fuck it's so fantastic, [Gsus4] playing uku-[G]-lele
+
+[C] Eat your homework with a fork and [C7] do your fruit loops in the dark
+[F] bring your etch-a-sketch to work
+[C] your flask of jack, your vibrator,
+[C7] your ice cream truck  your missing wife
+[F] your will to live, your urge to cry
+[F] remember we're all going to die
+so [G] PLAY YOUR UKULE-[C]-LE
+
+Other things to bring that I skip
+your fear of heights, your nikon lens, your mom and dad, your disco stick,
+your soundtrack from "karate kid", your ginsu knives, your rosary,
+your new rebecca black CD, your favorite room, your bowie knife, your stuffed giraffe
+ your new glass eye, your sousaphone, your breakfast tea, your nick drake tapes, your giving tree
+```

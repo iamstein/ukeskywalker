@@ -1,0 +1,14 @@
+---
+title: "Africa"
+sort_title: "Africa"
+artist: "Toto"
+libraries: ["all"]
+difficulty: 3
+practice: 2
+skill: 0
+poppy: 3
+happy: 3
+added: "2012-08"
+pages: 0
+other_links: ["http://ukulelehunt.com/wp-content/uploads/2012/07/Africa.pdf"]
+---

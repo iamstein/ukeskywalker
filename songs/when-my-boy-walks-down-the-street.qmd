@@ -1,0 +1,57 @@
+---
+title: "When My Boy Walks Down the Street"
+sort_title: "When My Boy Walks Down the Street"
+artist: "Magnetic Fields"
+key: "D"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+voice_low: "D3"
+voice_high: "B3"
+added: "2013-11"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1N-HOjmnbxkpi9KJNFY29QunZ5Yl3JKkITeIjYbHJTNw/edit"
+---
+
+```{.song}
+Verse:
+[D] Grand [A] pianos [C] crash [G] together | 1 1 2 2 4 3 2 1 1 2 2 4 4 3
+[D] when my [A] boy walks [G] down the [D] street. | 1 1 2 2 4 3 2 1 1 1 1 2 2 1 1 2
+[D] There are [A] whole new [C] kinds of [G] weather | (x4)
+[D] when he [A] walks with [G] his new [A] beat.
+[D] [A] Everyone sings [C] [G] hallelujah
+[D] when my [A] boy walks [G] down the [D] street.
+[D] Life just [A] kind of [C] dances [G] through ya
+[D] from your [A] smile down [G] to your [A] feet.
+
+Chorus:
+[D] Amazing he's a [G] whole new [D] form of [A] life. | 6 6 5 1 1 4 4 3 2 1 2
+Blue eyes [D] blazing and he's [A] going to be my [D] wife | 6 6 6 5 1 1 2 3 2 2 1
+[A] [C] [G] [D] [A] [G] [A]
+
+[D] The world [A] does the [C] [G] hula-hula [D] | (repeat verse)
+when my [A] boy walks [G] down the [D] street.
+[D] [A] Everyone thinks [C] he's [G] peculiar
+[D] so big [A] and yet [G] so [A] petite.
+[D] [A] Butterflies turn [C] into [G] people
+[D] when my [A] boy walks [G] down the [D] street.
+[D] Maybe [A] he should [C] be [G] illegal
+[D] he just [A] makes life [G] too [A] complete.
+
+[D] Amazing he's a [G] whole new [D] form of [A] life. | (repeat chorus)
+Blue eyes [D] blazing and he's [A] going to be my [D] [A] wife.
+[C] [G] [D] [A] [G] [A]
+
+[G] Oh, shadows of [D] echoes of [A] memories. [C] | 4 4 3 2 3 2 1 3 2 2
+[G] Oh, things that he [D] brings that he [Asus4] found in the sea. [A] | 4 4 3 2 3 2 1 3 2 2 2
+[G] Oh, shadows of [D] echoes of [A] memories of [C] songs. | 4 4 3 2 3 2 1 3 2 2 2
+[G] Oh, how could he [D] know that it [Asus4] won't be [A] long. | 4 4 3 2 3 2 1 3 2 2
+
+[D] Grand [A] pianos [C] crash [G] together [D] when my [A] boy walks [G] down the [D] street.
+[D] There are [A] whole new [C] kinds of [G] weather [D] when he [A] walks with [G] his new [A] beat.
+[D] [A] Everyone sings [C] [G] hallelujah [D] when my [A] boy walks [G] down the [D] street.
+[D] Life just [A] kind of [C] dances [G] through ya [D] from your [A] smile down [G] to your [A] feet.
+```

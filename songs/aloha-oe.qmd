@@ -1,0 +1,13 @@
+---
+title: "Aloha Oe"
+sort_title: "Aloha Oe"
+libraries: ["all"]
+difficulty: 3
+fun: 3
+skill: 5
+poppy: 2
+happy: 1
+added: "2010-12"
+pages: 0
+other_links: ["https://spreadsheets.google.com/pub?key=0ApzelX434ytYdDZqdUR1WS1VV0ttdHFJU2ZFUUF6clE&hl=en&output=html"]
+---

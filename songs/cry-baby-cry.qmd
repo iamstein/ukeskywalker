@@ -1,0 +1,58 @@
+---
+title: "Cry Baby Cry"
+sort_title: "Cry Baby Cry"
+artist: "The Beatles"
+key: "G"
+youtube: "http://youtu.be/TeE9tmwlVrs?t=27s"
+libraries: ["all", "kids"]
+difficulty: 3
+practice: 5
+fun: 2
+skill: 3
+poppy: 2
+happy: 1
+voice_low: "C3"
+voice_high: "D4"
+added: "2014-04"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1B6co7yVsthNjtijz7aPyjr5KA-sMD9km1zOCKfafeSY/edit"
+---
+
+```{.song}
+Em7M = 0332; Em7 = 0202; Em6 = 0201
+        Melody
+[G] Cry baby [Am] cry [F] make your mother [G] sigh | 3 1 1 1 1 2        2 2 2 2 3-2-1
+she's [Em7] old enough to know [A7] better [F] | 1 3 5 3 1 3 3 2
+
+The [Em] king of Mari-[Em7M]-gold was in the [Em7] kitchen | 1 1 1 2 3 1 1 2 3 1 1
+cooking [Em6] breakfast for the [C7] queen [G] | 2 3 1 1 6. 5. 3-2-1
+The [Em] queen was in the [Em7M] parlor playing [E7] piano | (x2)
+For the [Em6] children of the [C7] king [G]
+
+[G] Cry baby [Am] cry [F] make your mother [G] sigh | 3 1 1 1 1 2        2 2 2 2 3-2-1
+she's [Em7] old enough to know [A7] better so [F] cry baby [G] cry | 1 3 5 3 1 3 3 2        1 3 2 2 2 1
+
+The [Em] king was in the [Em7M] garden picking [Em7] flowers
+For a [Em6] friend who came to [C7] play [G]
+The [Em] queen was in the [Em7M] playroom painting [Em7] pictures
+For the [Em6] children's [C7] holiday [G]
+
+[G] Cry baby [Am] cry [F] make your mother [G] sigh
+she's [Em7] old enough to know [A7] better so [F] cry baby [G] cry
+
+The [Em] duchess of Kir-[Em7M]-caldy always [Em7] smiling
+And [Em6] arriving late for [C7] tea [G]
+The [Em] duke was having [Em7M] problems with a [Em7] message
+At the [Em6] local bird and [C7] bee [G]
+
+[G] Cry baby [Am] cry [F] make your mother [G] sigh
+she's [Em7] old enough to know [A7] better so [F] cry baby [G] cry
+
+At [Em] twelve o'clock a [Em7M] meeting round the [Em7] table
+For a [Em6] séance in the [C7] dark [G]
+With [Em] voices out of [Em7M] nowhere put on [Em7] specially
+By the [Em6] children for a [C7] lark [G]
+
+[G] Cry baby [Am] cry [F] make your mother [G] sigh
+she's [Em7] old enough to know [A7] better so [F] cry baby [G] cry (x3)
+```

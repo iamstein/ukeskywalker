@@ -1,0 +1,54 @@
+---
+title: "The Times They Are a Changin'"
+sort_title: "Times They Are a Changin', The"
+artist: "Bob Dylan"
+key: "G"
+libraries: ["all", "spiritual", "kids"]
+difficulty: 2
+practice: 5
+fun: 3
+poppy: 3
+happy: 2
+spiritual: 2
+protest: 3
+added: "2017-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1jJdktRmtkzr4_ov8By51U7I0DwCD1snKsX6AU78fN4Y/edit"
+---
+
+```{.song}
+Come [G] gather 'round [Em] people [C] wherever you [G] roam
+And [G] admit that the [Em] waters [C] around you have [D] grown
+And [G] accept it that [Em] soon you'll be [C] drenched to the [G] bone
+If your [G] time to [Em] you is worth [D] savin'
+Then you [D] better start swimmin' or you'll sink like a stone,
+For the [G] times, they are a [D] chang-[G]-in'
+
+Come [G] writers and [Em] critics who [C] prophesize with your [G] pen
+And [G] keep your eyes [Em] wide the chance [C] won't come [D] again
+And [G] don't speak too [Em] soon for the [C] wheel's still in [G] spin
+And there's [G] no tellin' [Em] who that it's [D] namin'
+For the [D] loser now will be later to win
+For the [G] times, they are a [D] chang-[G]-in'
+
+Come [G] senators, [Em] congressmen [C] please heed the [G] call
+Don't [G] stand in the [Em] doorway, don't [C] block up the [D] hall
+For [G] he that gets [Em] hurt will be [C] he who has [G] stalled
+There's a [G] battle [Em] outside and it's [D] ragin'
+It'll [D] soon shake your windows and rattle your walls
+For the [G] times, they are a [D] chang-[G]-in'
+
+Come [G] mothers and [Em] fathers [C] throughout the [G] land
+And [G] don't criti-[Em]-cize what you [C] don't [D] understand
+Your [G] sons and your [Em] daughters are [C] beyond your [G] command
+Your [G] old road is [Em] rapidly [D] agin'
+Please get [D] out of the new one if you can't lend a hand
+For the [G] times, they are a [D] chang-[G]-in'
+
+The [G] line it is [Em] drawn the [C] curse it is [G] cast
+The [G] slow one [Em] now will [C] later be [D] fast
+As the [G] present [Em] now will [C] later be [G] past
+The [G] order is [Em] rapidly [D] fadin'
+And the [D] first one now will later be last
+For the [G] times, they are a [D] chang-[G]-in'
+```

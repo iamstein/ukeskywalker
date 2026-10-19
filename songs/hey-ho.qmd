@@ -1,0 +1,61 @@
+---
+title: "Hey Ho"
+sort_title: "Hey Ho"
+artist: "Lumineers"
+key: "C"
+youtube: "http://www.youtube.com/watch?v=zvCBSSwgtg4"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 2
+voice_low: "G2"
+voice_high: "A3"
+added: "2013-08"
+pages: 1
+source_doc: "https://docs.google.com/document/d/1nyQoj7Ik-SK_vv7R0T_9HEGdz3Q8nKR4EPn6MJIo-P8/edit"
+---
+
+```{.song}
+Intro: [F][C] Ho [F][C] Hey [F][C] Ho [F][C] Hey
+
+Verse 1:
+[F][C]         Ho        I've been trying to do it right        5 5 3 2 3 2 1
+[F][C]         Hey        I've been living the lonely life         1 1 2 1 3 5 3
+[F][C]         Ho        I've been sleeping here instead        5 5 3 3 2 2 1
+[F][C]         Hey I've been sleeping in my bed        1 1 2 1 3 5 3
+[F][Am]        Ho         I've been sleeping [G] in my bed. [C] Hey [F][C] Ho         1 1 2 1 3 5 3
+
+Verse 2:
+[F][C]        Ho         So show me family        (repeat)
+[F][C]        Hey        And all the blood that I will bleed
+[F][C]        Ho        I don't know where I belong
+[F][C]        Hey        I don't know where I went wrong
+[F][Am]Ho | But I can [G] write a song [C]. Hey (2 3)
+
+Chorus:
+I belong with [Am] you, you belong with [G] me, you're my sweet-[C]-heart | 3 2 1   3 1 6. 5. 6. 1
+I belong with [Am] you, you belong with [G] me, you're my sweet-[C] Ho | 3 2 1   3 1 6. 5. 6. 1
+[F][C] Hey [F][C] Ho [F][C] Hey
+
+Verse 3:
+[F][C]        Ho         I don't think you're right for him        (repeat verse)
+[F][C]        Hey think of what it might've been
+[F][C]        Ho         (if you) took a bus to Chinatown
+[F][C]        Hey I'd be standing on Canal...
+[Am]        Ho        and [G] Bowery [C]
+[Am]        Hey and she'd be standing [G] next to [C] me. Hey
+
+Chorus + Bridge + Chorus:
+I belong with [Am] you, you belong with [G] me, you're my sweet-[C]-heart | (repeat chorus)
+I belong with [Am] you, you belong with [G] me, you're my sweet-[C]-heart
+
+And [F] love, we [G] need it now | 1 5 6 2 2 3
+Let's [F] hope for [G] some | 1 5 6 3
+Cuz [F] oh, we're [G] bleeding out | 1 5 6 2 2 3
+
+I belong with [Am] you, you belong with [G] me, you're my sweet-[C]-heart
+I belong with [Am] you, you belong with [G] me, you're my sweet [C] Ho [F]
+Outro: [F][C] Hey [F][C] Ho (last one) [F][C] Heeeeey
+```

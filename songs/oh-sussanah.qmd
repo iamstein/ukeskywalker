@@ -1,0 +1,44 @@
+---
+title: "Oh Sussanah"
+sort_title: "Oh Sussanah"
+artist: "Steven Foster"
+key: "G"
+libraries: ["all", "kids"]
+difficulty: 1
+fun: 3
+skill: 3
+poppy: 3
+happy: 3
+added: "2021-02"
+pages: 1
+source_doc: "https://docs.google.com/document/d/10yrWqW1PxKJ7mxZgG8XHQ-mP9aOiY5payWvdRWLBA0g/edit"
+---
+
+```{.song}
+Oh I [G] come from Alabama with a banjo on my [D] knee,
+I'm [G] going to Louisiana, my true love [D] for to [G] see
+It [G] rained all night the day I left, the weather it was [D] dry
+The [G] sun so hot I froze to death; Susanna, [D] don't you [G] cry.
+
+[C] Oh, Susanna, [G] don't you cry for [D] me
+For I [G] come from Alabama,
+with my banjo [D] on my [G] knee.
+
+I [G] had a dream the other night when everything was [D] still,
+I [G] thought I saw Susanna coming [D] up the [G] hill,
+The [G] buckwheat cake was in her mouth, the tear was in her [D] eye,
+I [G] said I'm coming from Dixieland, Susanna [D] don't you [G] cry.
+
+[C] Oh, Susanna, [G] don't you cry for [D] me
+For I [G] come from Alabama,
+with my banjo [D] on my [G] knee.
+
+I [G] soon will be in New Orleans, and then I'll look [D] around
+And [G] when I find my gal Susanne, I'll fall [D] upon the [G] ground.
+But [G] if I do not find her, this man will surely [D] die,
+and [G] when I'm dead and buried, Susanna [D] don't you [G] cry.
+
+[C] Oh, Susanna, [G] don't you cry for [D] me
+For I [G] come from Alabama,
+with my banjo [D] on my [G] knee.
+```

@@ -1,0 +1,67 @@
+---
+title: "One Night Stand"
+sort_title: "One Night Stand"
+artist: "Garfunkel and Oates"
+key: "D"
+key_note: ", http://youtu.be/zHBuQvUCLYs?t=7s"
+libraries: ["all"]
+difficulty: 1
+fun: 3
+skill: 4
+poppy: 3
+happy: 3
+added: "2013-11"
+pages: 2
+source_doc: "https://docs.google.com/document/d/1FWcoAu7IBWufDuXIc8o2B6Hr7CEPJlkZNSAb83DxGSA/edit"
+---
+
+```{.song}
+[D] [Am] [D] [Am]
+I [D] never do this [Am] ever. It's [G] not what shy girls [D] do | (1 3 3 3 3 4 5, 1 3 3 3 3 2)
+But [D] something in your [Am] eyes drew me [G] closer to [D] you | (1 3 3 3 3 4 5, 4 3 4 3 1 1)
+Do you [D] feel the spark bet-[Am]-ween us? Some-[G]-times you just can [D] tell
+I [D] feel our two souls [Am] touching like I [G] know you [G]
+Really [D] well.  Really [Am] well, really [D] well [Am] (really [D] well) [Am] [D] [Am]
+
+This [D] might be strange to [Am] tell you and I [G] swear I'm not a [D] whore
+But there are two [D] hundred six bones in my [Am] body and I'd [G] really like [G]
+One [D] more, one [Am] more, one [D] more [Am] (one [D] more) [Am] [D] [Am]
+
+[D] I'm like Fred Flintstone, [Am] I make your bed rock. [D] You're like a parking ticket, so [Am] fine
+Jean-Claude Van [D] DAMN, you're [Am] sexy Let's get [D] horizontal and com-[Am]-bine
+'Cause you're [D] fine, you're so [Am] fine [D] Oh, baby, you're so fine [Am] you're so fine you blow my mind
+[D] (hey) [Am] [D] You can call me coffee bean [Am]  'cause I know just how to grind [D] (hey) [Am]
+Your [D] right leg's Thanksgiving, your [Am] left is Christmas.  [D] Gonna visit in between the [Am] holidays
+[D] Energizer bunny keeps [Am] going and going. We've [D] struck up a match and I [Am] set you ablaze
+'Cause you're [D] fine, you're so [Am] fine [D] Oh, baby, you're so fine [Am] you're so fine you blow my mind
+[D] (hey) [Am] [D] You can call me coffee bean [Am]  'cause I know just how to grind [D] (hey) [Am]
+
+[D] Shoot, look at the time gotta [Am] go, this has been fun, [D] hey [Am]
+[D] Lots to do in the morning, gotta [Am] help my friend move
+Gotta [D] do my taxes, gotta [Am] check my email. Plus it's [D] Arbor Day [Am]
+[D] (hey) [Am]  Where the [D] hell did I put my [Am] bra? [D] [Am] Oh, [D] hey [Am]
+
+[D] Wait, what, you think we're [Am] dating? How-[G]-ever could that [D] be?
+[D] We just had [Am] sex and it meant [G] nothing at [G] all
+To [D] me, to [Am] me, to [D] me [Am] (to [D] me) [Am] [D] [Am]
+
+[Am] How could we be dating if we never held hands?
+[Am] We held on to the bedposts but we never held hands
+You [G] got inside my body but you [D] didn't reach my heart
+We [G] raced right to the finish but I [D] guessed we missed the start
+[G] There's no way we're dating 'cause [D] we never held [Am] hands
+
+[Am] How could we be dating if you never took me out?
+[Am] No whisper of sweet nothings. You just made me scream and shout, ooh
+There [G] was no love ambition but you [D] taught me new positions on the [Am] way
+[Am] The Jackson Pollock, The Praying Mantis, The Moon Landing
+You [G] may know my body but you [D] don't know my soul
+[G] You want the doughnut but [D] all you're going to get is the [Am] ho-ooo-ooole
+
+[D] Listen, babe, I'll [Am] call you And [G] probably real [D] soon
+[D] But I lost my [Am] cell and I'll be [G] out of town 'til [D] June
+I [D] guess I didn't [Am] mention my [G] band's going on [D] tour.
+But [D] I'll be super [Am] busy Other-[G]-wise we'd date [G]
+For [D] sure.  [Am] (x22)
+'Cause it was so great
+```
