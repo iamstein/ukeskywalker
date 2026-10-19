@@ -12,6 +12,7 @@ project:
 
 website:
   title: "Uke Skywalker"
+  favicon: assets/favicon.png
   site-url: "https://www.ukeskywalker.com"
   repo-url: "https://github.com/iamstein/ukeskywalker"
   repo-branch: master

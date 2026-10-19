@@ -22,6 +22,8 @@ listing:
       added: "Added"
 ---
 
+![](assets/banner.jpg){.home-banner fig-alt="A wooden ukulele floating in a starry purple and blue sky, with glowing ribbons of light swirling around it"}
+
 Every song on the site, A to Z. Type in the box to find a song by title,
 artist or key, or use the search in the top bar to find one by a line of its
 lyrics. Click a column heading to sort.
