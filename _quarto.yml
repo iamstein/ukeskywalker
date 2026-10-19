@@ -37,6 +37,9 @@ website:
             text: Trendy Wendy and the Yeastbombs
           - href: libraries/kids.qmd
             text: Kid Songs
+          - text: "---"
+          - href: libraries/song-sheet.qmd
+            text: Printable Song Sheet
       - href: tools/compressor.qmd
         text: Compressor
       - href: tools/transposer.qmd

@@ -27,6 +27,9 @@ jobs:
       - name: Render site
         uses: quarto-dev/quarto-actions/render@v2
 
+      - name: Print song sheets to PDF
+        run: _scripts/make_pdfs.sh
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

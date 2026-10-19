@@ -1,0 +1,43 @@
+---
+title: "Printable Song Sheet"
+toc: false
+filters:
+  - ../_filters/songbook.lua
+format:
+  html:
+    css:
+      - ../assets/song.css
+      - ../assets/songbook.css
+# Each item is one printed page. The songs come from songs/<name>.qmd,
+# printed with chords and without melody.
+songbook:
+  - [love-will-hold-us-together]
+  - [the-rose, ive-got-peace-like-a-river, this-little-light-of-mine]
+---
+
+::: {.sheet-actions}
+Four songs on one sheet of paper, printed front and back.
+
+<div class="form-check form-switch">
+<input class="form-check-input" type="checkbox" role="switch" id="chords-switch" checked>
+<label class="form-check-label" for="chords-switch">Chords</label>
+</div>
+
+<a class="btn btn-primary" href="song-sheet.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF with chords</a>
+<a class="btn btn-outline-primary" href="song-sheet-lyrics.pdf" download><i class="bi bi-file-earmark-pdf"></i> PDF, lyrics only</a>
+<button class="btn btn-outline-secondary" type="button" onclick="window.print()"><i class="bi bi-printer"></i> Print</button>
+:::
+
+```{=html}
+<script>
+// Chords switch. ?chords=off starts with it off (used to make the lyrics-only PDF).
+document.addEventListener("DOMContentLoaded", () => {
+  const box = document.getElementById("chords-switch");
+  const book = document.querySelector(".songbook");
+  const apply = () => book.classList.toggle("no-chords", !box.checked);
+  if (new URLSearchParams(location.search).get("chords") === "off") box.checked = false;
+  box.addEventListener("change", apply);
+  apply();
+});
+</script>
+```
