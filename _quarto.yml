@@ -23,6 +23,8 @@ website:
     location: navbar
     type: overlay
   navbar:
+    logo: assets/favicon.png
+    logo-alt: "Ukulele"
     left:
       - href: index.qmd
         text: Songs
