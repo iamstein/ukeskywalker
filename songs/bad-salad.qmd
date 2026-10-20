@@ -4,7 +4,7 @@ sort_title: "Bad Salad"
 artist: "Trendy Wendy and the Yeastbombs"
 key: "A"
 youtube: "http://www.youtube.com/watch?v=nBZx_dtAOBE"
-libraries: ["all", "yeastbombs"]
+libraries: ["all", "yeastbombs", "andy-original"]
 difficulty: 2
 fun: 1
 skill: 3

@@ -291,7 +291,7 @@ Quarto listing of the songs that carry that value.
 |---|---|---|---|
 | All Songs | `all` | Every song | 260 |
 | Spiritual Songs | `spiritual` | Spiritual column ≥ 1, plus songs Andy adds by hand | 60 |
-| Andy Originals | `andy-original` | Artist is Andy Stein; six more added by hand | 13 |
+| Andy Originals | `andy-original` | Artist is Andy Stein, or the song is in Trendy Wendy and the Yeastbombs; six more added by hand | 18 |
 | Trendy Wendy and the Yeastbombs | `yeastbombs` | Artist is Trendy Wendy and the Yeastbombs | 5 |
 | Kid Songs | `kids` | Listed on the Google Site home page under "All Kid-Friendly Songs" or "Dance Moves or Motions" | 104 |
 | (inside Kid Songs) | `kids-motions` | Listed under "Kids Songs with Dance Moves or Motions" | 18 |

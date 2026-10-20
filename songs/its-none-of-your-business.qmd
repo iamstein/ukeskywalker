@@ -4,7 +4,7 @@ sort_title: "It's None of Your Business (School)"
 artist: "Trendy Wendy and the Yeastbombs"
 key: "G"
 youtube: "http://www.youtube.com/watch?v=PuKwvEsFtpg"
-libraries: ["all", "yeastbombs"]
+libraries: ["all", "yeastbombs", "andy-original"]
 difficulty: 1
 fun: 3
 skill: 5

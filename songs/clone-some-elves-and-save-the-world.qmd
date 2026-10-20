@@ -4,7 +4,7 @@ sort_title: "Clone some Elves and Save the World"
 artist: "Trendy Wendy and the Yeastbombs"
 key: "C"
 youtube: "http://www.youtube.com/watch?v=AkI1lWwebKo"
-libraries: ["all", "yeastbombs"]
+libraries: ["all", "yeastbombs", "andy-original"]
 difficulty: 2
 fun: 3
 skill: 4
