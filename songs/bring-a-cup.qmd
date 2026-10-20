@@ -1,9 +1,9 @@
 ---
 title: "Bring a Cup (lyrics)"
 sort_title: "Bring a Cup (lyrics)"
-artist: "Firefly"
+artist: "Andy Stein - Firefly"
 key: "A"
-libraries: ["all"]
+libraries: ["all", "andy-original"]
 difficulty: 1
 fun: 2
 skill: 2

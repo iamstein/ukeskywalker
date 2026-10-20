@@ -1,9 +1,9 @@
 ---
 title: "The Hero of Steambath Camp"
 sort_title: "Hero of Steambath Camp, The"
-artist: "Firefly"
+artist: "Andy Stein - Firefly"
 key: "E"
-libraries: ["all"]
+libraries: ["all", "andy-original"]
 difficulty: 2
 fun: 2
 skill: 4
