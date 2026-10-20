@@ -2,7 +2,8 @@
 title: "If I Had a Hammer"
 sort_title: "If I Had a Hammer"
 artist: "Peter Paul and Mary"
-key: "E"
+key: "C"
+alt_keys: ["A", "G"]
 libraries: ["all", "spiritual", "kids"]
 difficulty: 2
 practice: 1
@@ -16,29 +17,39 @@ source_doc: "https://docs.google.com/document/d/1jb3i35U-sdCd7-DbGcWnipOSSGBw_0I
 ---
 
 ```{.song}
-(Verse 1-3, Part 1)
-[E] If I had a [A] hammer/bell/song [C#] [D]
-I'd [E] hammer/ring/sing in the [A]mo-[C#m]-oor-[D]-ning
-I'd [E] hammer/ring/sing in the [A] eve-[C#m]-ning [D]
-[E] all over this land,
+# Words and music: Lee Hays and Pete Seeger (1949). Chords from the Peter, Paul and Mary version.
+Intro:
+[C] [Em] [F] [G7] [C] [Em] [F]
 
-(Verse Part 2)
-I'd [E] hammer/ring/sing out [A] danger
-I'd hammer/ring/sing out a [D???] warning
-I'd [D] hammer/ring/sing out [A] love [D] between
-my [A] brothers and my [D] sisters
-[E] All over this [A] la-[C#m]-aa-[D]-and.  Mmm-mm-mmm
+[G7] If I had a [C] hammer, [Em] [F]
+[G7] I'd hammer in the [C] morning, [Em] [F]
+[G7] I'd hammer in the [C] evening, [Em] [F]
+[G7] All over this land.
+I'd [C] hammer out danger, I'd hammer out a [Am] warning,
+I'd hammer out [F] love between my [C] brothers and my [F] sisters, [C]
+[F] All [C] over this [G7] land. [C] [Em] [F]
 
-(Verse 4 Part 1)
-If I've got a hammer
-And I've got a bell
-And I've got a song to sing
-all over this land,
+[G7] If I had a [C] bell, [Em] [F]
+[G7] I'd ring it in the [C] morning, [Em] [F]
+[G7] I'd ring it in the [C] evening, [Em] [F]
+[G7] All over this land.
+I'd [C] ring out danger, I'd ring out a [Am] warning,
+I'd ring out [F] love between my [C] brothers and my [F] sisters, [C]
+[F] All [C] over this [G7] land. [C] [Em] [F]
 
-(Verse 4 Part 2)
-It's a hammer of justice
-It's a bell of freedom
-It's a song about love between
-my brothers and my sisters
-[E] All over this la-[A]-aa-[D]-[A]-and.
+[G7] If I had a [C] song, [Em] [F]
+[G7] I'd sing it in the [C] morning, [Em] [F]
+[G7] I'd sing it in the [C] evening, [Em] [F]
+[G7] All over this land.
+I'd [C] sing out danger, I'd sing out a [Am] warning,
+I'd sing out [F] love between my [C] brothers and my [F] sisters, [C]
+[F] All [C] over this [G7] land. [C] [Em] [F]
+
+[G7] Well, I got a [C] hammer, [Em] [F]
+[G7] And I got a [C] bell, [Em] [F]
+[G7] And I got a song to [C] sing, [Em] [F]
+[G7] All over this land.
+It's the [C] hammer of justice, it's the bell of [Am] freedom,
+It's the song about [F] love between my [C] brothers and my [F] sisters, [C]
+[F] All [C] over this [G7] land. [C]
 ```
