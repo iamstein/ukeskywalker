@@ -310,12 +310,10 @@ home page.
 ### Printable song sheet
 
 The Sanctuary Boston Oct 2026 Retreat page,
-`libraries/sanctuary-boston-2026-10-retreat.qmd`, prints eight short,
-repetitive songs on one sheet of paper, front and back, four to a side in two
-columns. Front: This Little Light of Mine, I've Got Peace Like a River, There
-Is More Love Somewhere, Glory Glory. Back: We Are Building Up a New World,
-Ain't Gonna Let Nobody Turn Me Around, Woke Up This Morning, Down by the
-Riverside. Its
+`libraries/sanctuary-boston-2026-10-retreat.qmd`, prints six songs on one
+sheet of paper, front and back, in two columns. Front: This Little Light of
+Mine, I've Got Peace Like a River, There Is More Love Somewhere, We've Already
+Started to Sing. Back: The Storm Is Passing Over, If I Had a Hammer. Its
 `songbook:` front matter lists the printed pages and the song files on each,
 so changing the songs is an edit to that list. `_filters/songbook.lua` reads
 each song's file and prints it with chords and without the melody; a song

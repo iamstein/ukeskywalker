@@ -15,7 +15,6 @@ source_doc: "https://docs.google.com/document/d/1yARbUkC3qVMQwyEwoHfefxMDexCnDt4
 ---
 
 ```{.song}
-http://play.riffstation.com/?v=8kexEbg_Qho
 [G] Take courage my soul, and [C] let us journey [G] on,
 [G] Though the night is [C] dark,
 [C] And I am [Am] far from [G] home.
@@ -29,3 +28,5 @@ http://play.riffstation.com/?v=8kexEbg_Qho
 
 [G] The storm is passing [D] over. Halle-[G]-lu.
 ```
+
+Play along: [YouTube](https://www.youtube.com/watch?v=8kexEbg_Qho)

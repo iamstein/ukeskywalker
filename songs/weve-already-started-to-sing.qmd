@@ -1,6 +1,7 @@
 ---
 title: "We've Already Started to Sing"
 sort_title: "We've Already Started to Sing"
+artist: "Matthew Myer Boulton"
 key: "G"
 libraries: ["all", "spiritual", "kids"]
 difficulty: 1
