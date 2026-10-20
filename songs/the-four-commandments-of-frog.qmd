@@ -1,6 +1,8 @@
 ---
-title: "The Frog Commandments of Frog"
-sort_title: "Frog Commandments of Frog, The"
+title: "The Four Commandments of Frog"
+sort_title: "Four Commandments of Frog, The"
+aliases:
+  - the-frog-commandments-of-frog.html
 artist: "Andy and Michelle"
 key: "G"
 youtube: "https://youtu.be/KB710aIbvi4"
