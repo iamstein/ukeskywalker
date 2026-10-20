@@ -1,6 +1,6 @@
 ---
-title: "Bird on a Wire"
-sort_title: "Bird on a Wire"
+title: "Bird On A Wire"
+sort_title: "Bird On A Wire"
 artist: "Leonard Cohen"
 key: "A"
 youtube: "https://www.youtube.com/watch?v=FwnAg2tZKFk"

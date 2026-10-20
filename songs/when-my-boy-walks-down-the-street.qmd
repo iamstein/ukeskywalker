@@ -1,6 +1,6 @@
 ---
-title: "When My Boy Walks Down the Street"
-sort_title: "When My Boy Walks Down the Street"
+title: "When My Boy Walks Down The Street"
+sort_title: "When My Boy Walks Down The Street"
 artist: "Magnetic Fields"
 key: "D"
 libraries: ["all"]

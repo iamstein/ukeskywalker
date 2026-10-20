@@ -1,6 +1,6 @@
 ---
-title: "Grand Old Duke of York"
-sort_title: "Grand Old Duke of York"
+title: "Grand Old Duke Of York"
+sort_title: "Grand Old Duke Of York"
 key: "D"
 libraries: ["all", "kids", "kids-motions"]
 added: "2022-08"

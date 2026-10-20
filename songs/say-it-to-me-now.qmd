@@ -1,6 +1,6 @@
 ---
-title: "Say it to Me Now"
-sort_title: "Say it to Me Now"
+title: "Say It To Me Now"
+sort_title: "Say It To Me Now"
 artist: "Glen Hansard (Once)"
 key: "E"
 key_note: "- (real song has an alternative guitar tuning, but if you're lazy, this works"

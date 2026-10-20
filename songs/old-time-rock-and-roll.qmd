@@ -1,6 +1,6 @@
 ---
-title: "Old Time Rock and Roll"
-sort_title: "Old Time Rock and Roll"
+title: "Old Time Rock And Roll"
+sort_title: "Old Time Rock And Roll"
 artist: "Bob Seger"
 key: "G"
 libraries: ["all"]

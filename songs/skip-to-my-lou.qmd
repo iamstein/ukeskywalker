@@ -1,6 +1,6 @@
 ---
-title: "Skip to my Lou"
-sort_title: "Skip to my Lou"
+title: "Skip To My Lou"
+sort_title: "Skip To My Lou"
 key: "C"
 libraries: ["all", "kids"]
 added: "2022-08"

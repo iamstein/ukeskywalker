@@ -1,6 +1,6 @@
 ---
-title: "You Are my Sunshine"
-sort_title: "You Are my Sunshine"
+title: "You Are My Sunshine"
+sort_title: "You Are My Sunshine"
 artist: "Jimmie Davis"
 key: "G"
 libraries: ["all", "kids"]

@@ -1,6 +1,6 @@
 ---
-title: "We've Already Started to Sing"
-sort_title: "We've Already Started to Sing"
+title: "We've Already Started To Sing"
+sort_title: "We've Already Started To Sing"
 artist: "Matthew Myer Boulton"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

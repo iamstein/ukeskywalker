@@ -1,6 +1,6 @@
 ---
-title: "The Wheels on the Bus"
-sort_title: "Wheels on the Bus, The"
+title: "The Wheels On The Bus"
+sort_title: "Wheels On The Bus, The"
 artist: "Raffi"
 key: "D"
 libraries: ["all", "kids", "kids-motions"]

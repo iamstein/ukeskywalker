@@ -1,6 +1,6 @@
 ---
-title: "I'm a Believer"
-sort_title: "I'm a Believer"
+title: "I'm A Believer"
+sort_title: "I'm A Believer"
 artist: "The Monkees"
 key: "G"
 youtube: "http://www.youtube.com/watch?v=Un7PDHXBovk&t=1m7s"

@@ -1,6 +1,6 @@
 ---
-title: "With or Without You"
-sort_title: "With or Without You"
+title: "With Or Without You"
+sort_title: "With Or Without You"
 artist: "U2"
 key: "D"
 youtube: "https://www.youtube.com/watch?v=XmSdTa9kaiQ&feature=kp"

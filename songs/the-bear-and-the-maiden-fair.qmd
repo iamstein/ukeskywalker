@@ -1,6 +1,6 @@
 ---
-title: "The Bear and the Maiden Fair"
-sort_title: "Bear and the Maiden Fair, The"
+title: "The Bear And The Maiden Fair"
+sort_title: "Bear And The Maiden Fair, The"
 artist: "The Hold Steady"
 key: "G"
 libraries: ["all"]

@@ -1,6 +1,6 @@
 ---
-title: "I've got peace like a river in my soul"
-sort_title: "I've got peace like a river in my soul"
+title: "I've Got Peace Like A River In My Soul"
+sort_title: "I've Got Peace Like A River In My Soul"
 artist: "-"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

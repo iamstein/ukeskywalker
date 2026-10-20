@@ -1,6 +1,6 @@
 ---
-title: "Sheena is a Punk Rocker"
-sort_title: "Sheena is a Punk Rocker"
+title: "Sheena Is A Punk Rocker"
+sort_title: "Sheena Is A Punk Rocker"
 artist: "The Ramones"
 key: "C"
 key_note: "on youtube link, Key of A by Ramones"

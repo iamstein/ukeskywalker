@@ -1,6 +1,6 @@
 ---
-title: "Hurry Hurry Drive the Firetruck"
-sort_title: "Hurry Hurry Drive the Firetruck"
+title: "Hurry Hurry Drive The Firetruck"
+sort_title: "Hurry Hurry Drive The Firetruck"
 key: "C"
 key_note: "– could step key up with each verse for added effect"
 youtube: "https://youtu.be/VPAVRNmPECI?t=11"

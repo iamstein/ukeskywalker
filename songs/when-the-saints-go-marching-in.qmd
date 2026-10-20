@@ -1,6 +1,6 @@
 ---
-title: "When the Saints Go Marching In"
-sort_title: "When the Saints Go Marching In"
+title: "When The Saints Go Marching In"
+sort_title: "When The Saints Go Marching In"
 artist: "James Black"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

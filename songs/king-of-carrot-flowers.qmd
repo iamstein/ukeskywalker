@@ -1,6 +1,6 @@
 ---
-title: "King of Carrot Flowers"
-sort_title: "King of Carrot Flowers"
+title: "King Of Carrot Flowers"
+sort_title: "King Of Carrot Flowers"
 artist: "Neutral Milk Hotel"
 key: "F"
 youtube: "https://www.youtube.com/watch?v=LULmbLlPvVk"

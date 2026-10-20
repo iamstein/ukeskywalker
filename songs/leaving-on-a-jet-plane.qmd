@@ -1,6 +1,6 @@
 ---
-title: "Leaving on a Jet Plane"
-sort_title: "Leaving on a Jet Plane"
+title: "Leaving On A Jet Plane"
+sort_title: "Leaving On A Jet Plane"
 artist: "John Denver"
 key: "G"
 libraries: ["all", "kids"]

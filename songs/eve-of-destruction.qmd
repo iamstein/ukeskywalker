@@ -1,6 +1,6 @@
 ---
-title: "Eve of Destruction"
-sort_title: "Eve of Destruction"
+title: "Eve Of Destruction"
+sort_title: "Eve Of Destruction"
 artist: "Barry McGuire"
 key: "D"
 youtube: "https://www.youtube.com/watch?v=ntLsElbW9Xo"

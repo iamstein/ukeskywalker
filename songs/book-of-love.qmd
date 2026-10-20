@@ -1,6 +1,6 @@
 ---
-title: "Book of Love"
-sort_title: "Book of Love"
+title: "Book Of Love"
+sort_title: "Book Of Love"
 artist: "The Magnetic Fields"
 key: "G"
 libraries: ["all", "kids"]

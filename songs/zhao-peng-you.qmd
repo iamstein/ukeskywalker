@@ -1,6 +1,6 @@
 ---
-title: "Zhao peng you"
-sort_title: "Zhao peng you"
+title: "Zhao Peng You"
+sort_title: "Zhao Peng You"
 key: "C"
 libraries: ["all", "kids"]
 difficulty: 5

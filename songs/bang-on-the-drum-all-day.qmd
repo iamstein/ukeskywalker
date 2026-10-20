@@ -1,6 +1,6 @@
 ---
-title: "Bang on the Drum (or Ukulele) all Day"
-sort_title: "Bang on the Drum (or Ukulele) all Day"
+title: "Bang On The Drum (Or Ukulele) All Day"
+sort_title: "Bang On The Drum (Or Ukulele) All Day"
 artist: "Todd Rundgren"
 key: "F"
 youtube: "http://www.youtube.com/watch?v=jvLO2E4yMUc&t=29s"

@@ -1,6 +1,6 @@
 ---
-title: "Molly Malone (Cockles and Mussels"
-sort_title: "Molly Malone (Cockles and Mussels"
+title: "Molly Malone (Cockles And Mussels)"
+sort_title: "Molly Malone (Cockles And Mussels)"
 artist: "James Yorkston"
 key: "G"
 youtube: "https://www.youtube.com/watch?v=SoIiZSgs08Q"

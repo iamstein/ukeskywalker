@@ -1,6 +1,6 @@
 ---
-title: "I'm a Little Airplane Now"
-sort_title: "I'm a Little Airplane Now"
+title: "I'm A Little Airplane Now"
+sort_title: "I'm A Little Airplane Now"
 artist: "Jonathan Richman"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=Q-T5KOH3Y10"

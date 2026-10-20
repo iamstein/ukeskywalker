@@ -1,6 +1,6 @@
 ---
-title: "Santa's Clones are Coming to Town"
-sort_title: "Santa's Clones are Coming to Town"
+title: "Santa's Clones Are Coming To Town"
+sort_title: "Santa's Clones Are Coming To Town"
 artist: "Trendy Wendy and the Yeastbombs"
 key: "G"
 youtube: "http://youtu.be/r0iTXLqKUsU"

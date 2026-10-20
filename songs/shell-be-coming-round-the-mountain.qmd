@@ -1,6 +1,6 @@
 ---
-title: "She'll be Coming 'round the Mountain (Jesus' Chariot)"
-sort_title: "She'll be Coming 'round the Mountain (Jesus' Chariot)"
+title: "She'll Be Coming 'Round The Mountain (Jesus' Chariot)"
+sort_title: "She'll Be Coming 'Round The Mountain (Jesus' Chariot)"
 artist: "?, Neil Young and Crazy Horse"
 key: "C"
 libraries: ["all", "kids"]

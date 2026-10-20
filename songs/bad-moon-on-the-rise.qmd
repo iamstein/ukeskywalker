@@ -1,6 +1,6 @@
 ---
-title: "Bad Moon on the Rise"
-sort_title: "Bad Moon on the Rise"
+title: "Bad Moon On The Rise"
+sort_title: "Bad Moon On The Rise"
 artist: "Creedence Clearwater Revival"
 key: "D"
 libraries: ["all"]

@@ -1,6 +1,6 @@
 ---
-title: "On Top of Spaghetti"
-sort_title: "On Top of Spaghetti"
+title: "On Top Of Spaghetti"
+sort_title: "On Top Of Spaghetti"
 artist: "Tom Glazer"
 libraries: ["all"]
 difficulty: 1

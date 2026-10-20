@@ -1,6 +1,6 @@
 ---
-title: "The Storm is Passing Over"
-sort_title: "Storm is Passing Over, The"
+title: "The Storm Is Passing Over"
+sort_title: "Storm Is Passing Over, The"
 key: "G"
 libraries: ["all", "spiritual", "kids"]
 difficulty: 2

@@ -1,6 +1,6 @@
 ---
-title: "Puff the Magic Dragon"
-sort_title: "Puff the Magic Dragon"
+title: "Puff The Magic Dragon"
+sort_title: "Puff The Magic Dragon"
 artist: "Peter, Paul, and Mary"
 key: "C"
 libraries: ["all", "kids"]

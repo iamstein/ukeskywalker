@@ -1,6 +1,6 @@
 ---
-title: "Knockin' on Heaven's Door"
-sort_title: "Knockin' on Heaven's Door"
+title: "Knockin' On Heaven's Door"
+sort_title: "Knockin' On Heaven's Door"
 artist: "Bob Dylan"
 key: "G"
 libraries: ["all"]

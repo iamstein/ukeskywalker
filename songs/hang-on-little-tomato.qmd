@@ -1,6 +1,6 @@
 ---
-title: "Hang on Little Tomato"
-sort_title: "Hang on Little Tomato"
+title: "Hang On Little Tomato"
+sort_title: "Hang On Little Tomato"
 artist: "Pink Martini"
 key: "F"
 youtube: "http://youtu.be/qxoKMDNfx3A?t=1m31s"

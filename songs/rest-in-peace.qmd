@@ -1,6 +1,6 @@
 ---
-title: "Rest in Peace"
-sort_title: "Rest in Peace"
+title: "Rest In Peace"
+sort_title: "Rest In Peace"
 artist: "Joss Whedon (Spike)"
 key: "Em"
 youtube: "http://www.youtube.com/watch?v=6wF6khBKrmQ"

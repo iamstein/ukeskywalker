@@ -1,6 +1,6 @@
 ---
-title: "Closer to Fine"
-sort_title: "Closer to Fine"
+title: "Closer To Fine"
+sort_title: "Closer To Fine"
 artist: "Indigo Girls"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

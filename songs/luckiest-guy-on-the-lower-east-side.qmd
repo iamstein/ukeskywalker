@@ -1,6 +1,6 @@
 ---
-title: "Luckiest Guy on the Lower East Side"
-sort_title: "Luckiest Guy on the Lower East Side"
+title: "Luckiest Guy On The Lower East Side"
+sort_title: "Luckiest Guy On The Lower East Side"
 artist: "Magnetic Fields"
 key: "C"
 libraries: ["all"]

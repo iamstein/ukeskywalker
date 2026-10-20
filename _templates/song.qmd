@@ -3,7 +3,7 @@
 # Only `title` is required. Leave any other field empty, or delete it, and the
 # song page skips it.
 
-title: ""
+title: ""             # capitalize the first letter of every word: "Bird On A Wire"
 sort_title: ""        # how it sorts, e.g. "Banana Boat Song, The"; empty = title
 artist: ""
 key: ""               # key the song is written in below, e.g. G or Em

@@ -1,6 +1,6 @@
 ---
-title: "Qua-qua dela omar"
-sort_title: "Qua-qua dela omar"
+title: "Qua-qua Dela Omar"
+sort_title: "Qua-qua Dela Omar"
 libraries: ["all", "kids", "kids-motions"]
 source_doc: "https://docs.google.com/document/d/1kqsribSZBeJY5O90jbQ1en1kFQuIO_U_tiOl1uuWj5Y/edit"
 ---

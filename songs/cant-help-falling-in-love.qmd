@@ -1,6 +1,6 @@
 ---
-title: "Can't Help Falling in Love"
-sort_title: "Can't Help Falling in Love"
+title: "Can't Help Falling In Love"
+sort_title: "Can't Help Falling In Love"
 artist: "Elvis"
 key: "C"
 libraries: ["all", "kids"]

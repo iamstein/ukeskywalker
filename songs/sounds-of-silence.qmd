@@ -1,6 +1,6 @@
 ---
-title: "Sounds of Silence"
-sort_title: "Sounds of Silence"
+title: "Sounds Of Silence"
+sort_title: "Sounds Of Silence"
 artist: "Simon and Garfunkel"
 key: "Am"
 libraries: ["all"]

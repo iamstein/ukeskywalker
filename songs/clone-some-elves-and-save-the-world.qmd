@@ -1,6 +1,6 @@
 ---
-title: "Clone some Elves and Save the World"
-sort_title: "Clone some Elves and Save the World"
+title: "Clone Some Elves And Save The World"
+sort_title: "Clone Some Elves And Save The World"
 artist: "Trendy Wendy and the Yeastbombs"
 key: "C"
 youtube: "http://www.youtube.com/watch?v=AkI1lWwebKo"

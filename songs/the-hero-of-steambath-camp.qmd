@@ -1,6 +1,6 @@
 ---
-title: "The Hero of Steambath Camp"
-sort_title: "Hero of Steambath Camp, The"
+title: "The Hero Of Steambath Camp"
+sort_title: "Hero Of Steambath Camp, The"
 artist: "Andy Stein - Firefly"
 key: "E"
 libraries: ["all", "andy-original"]

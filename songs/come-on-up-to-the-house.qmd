@@ -1,6 +1,6 @@
 ---
-title: "Come on up to the house"
-sort_title: "Come on up to the house"
+title: "Come On Up To The House"
+sort_title: "Come On Up To The House"
 artist: "Tom Waits"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=XqZsoesa55w"

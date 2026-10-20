@@ -1,6 +1,6 @@
 ---
-title: "Cats in the Cradle"
-sort_title: "Cats in the Cradle"
+title: "Cats In The Cradle"
+sort_title: "Cats In The Cradle"
 artist: "Harvey Chapin"
 key: "D"
 libraries: ["all", "kids"]

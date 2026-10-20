@@ -1,6 +1,6 @@
 ---
-title: "Me and Julio Down by the Schoolyard"
-sort_title: "Me and Julio Down by the Schoolyard"
+title: "Me And Julio Down By The Schoolyard"
+sort_title: "Me And Julio Down By The Schoolyard"
 artist: "Paul Simon"
 key: "A"
 youtube: "https://www.youtube.com/watch?v=ATtaAdYGY0w"

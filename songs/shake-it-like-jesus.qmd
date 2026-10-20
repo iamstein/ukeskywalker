@@ -1,6 +1,6 @@
 ---
-title: "Shake it like Jesus"
-sort_title: "Shake it like Jesus"
+title: "Shake It Like Jesus"
+sort_title: "Shake It Like Jesus"
 artist: "Andy Stein"
 key: "G"
 libraries: ["all", "andy-original"]

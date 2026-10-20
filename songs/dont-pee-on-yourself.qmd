@@ -1,6 +1,6 @@
 ---
-title: "Don't Pee on Yourself"
-sort_title: "Don't Pee on Yourself"
+title: "Don't Pee On Yourself"
+sort_title: "Don't Pee On Yourself"
 artist: "Andy Stein"
 key: "C"
 youtube: "https://youtu.be/uIrLLXUnwnI"

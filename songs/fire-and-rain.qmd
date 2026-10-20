@@ -1,6 +1,6 @@
 ---
-title: "Fire and Rain"
-sort_title: "Fire and Rain"
+title: "Fire And Rain"
+sort_title: "Fire And Rain"
 artist: "James Taylor"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=xL-aU2oPMyQ&index=23&list=PLCD6F28C13A0A9AC2"

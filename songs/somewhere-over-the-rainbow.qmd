@@ -1,6 +1,6 @@
 ---
-title: "Somewhere Over the Rainbow"
-sort_title: "Somewhere Over the Rainbow"
+title: "Somewhere Over The Rainbow"
+sort_title: "Somewhere Over The Rainbow"
 artist: "Israel \"IZ\" Kaʻanoʻi Kamakawiwoʻole"
 key: "C"
 alt_keys: ["A"]

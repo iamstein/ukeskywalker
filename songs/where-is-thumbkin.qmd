@@ -1,6 +1,6 @@
 ---
-title: "Where is Thumbkin?"
-sort_title: "Where is Thumbkin?"
+title: "Where Is Thumbkin?"
+sort_title: "Where Is Thumbkin?"
 key: "G"
 libraries: ["all", "kids", "kids-motions"]
 added: "2022-08"

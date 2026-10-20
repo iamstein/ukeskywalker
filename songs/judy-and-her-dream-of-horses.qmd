@@ -1,6 +1,6 @@
 ---
-title: "Judy and her Dream of Horses"
-sort_title: "Judy and her Dream of Horses"
+title: "Judy And Her Dream Of Horses"
+sort_title: "Judy And Her Dream Of Horses"
 artist: "Belle and Sebastian"
 libraries: ["all"]
 difficulty: 1

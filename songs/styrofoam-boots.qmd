@@ -1,6 +1,6 @@
 ---
-title: "Styrofoam boots"
-sort_title: "Styrofoam boots"
+title: "Styrofoam Boots"
+sort_title: "Styrofoam Boots"
 artist: "Modest Mouse"
 key: "G"
 libraries: ["all"]

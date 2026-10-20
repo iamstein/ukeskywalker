@@ -1,6 +1,6 @@
 ---
-title: "In the Ghetto (instrumental)"
-sort_title: "In the Ghetto (instrumental)"
+title: "In The Ghetto (Instrumental)"
+sort_title: "In The Ghetto (Instrumental)"
 artist: "Elvis"
 libraries: ["all"]
 difficulty: 3

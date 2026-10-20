@@ -1,6 +1,6 @@
 ---
-title: "If I Had a Hammer"
-sort_title: "If I Had a Hammer"
+title: "If I Had A Hammer"
+sort_title: "If I Had A Hammer"
 artist: "Peter Paul and Mary"
 key: "C"
 alt_keys: ["A", "G"]

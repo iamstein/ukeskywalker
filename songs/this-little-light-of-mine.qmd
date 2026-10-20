@@ -1,6 +1,6 @@
 ---
-title: "This Little Light of Mine"
-sort_title: "This Little Light of Mine"
+title: "This Little Light Of Mine"
+sort_title: "This Little Light Of Mine"
 artist: "-"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

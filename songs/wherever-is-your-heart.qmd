@@ -1,6 +1,6 @@
 ---
-title: "Wherever is Your Heart"
-sort_title: "Wherever is Your Heart"
+title: "Wherever Is Your Heart"
+sort_title: "Wherever Is Your Heart"
 artist: "Brandi Carlile"
 key: "G"
 libraries: ["all"]

@@ -1,6 +1,6 @@
 ---
-title: "Lulu's Back in Town"
-sort_title: "Lulu's Back in Town"
+title: "Lulu's Back In Town"
+sort_title: "Lulu's Back In Town"
 artist: "Fats Waller"
 key: "C"
 libraries: ["all"]

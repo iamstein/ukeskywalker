@@ -1,6 +1,6 @@
 ---
-title: "Tip Toe through the Tulips"
-sort_title: "Tip Toe through the Tulips"
+title: "Tip Toe Through The Tulips"
+sort_title: "Tip Toe Through The Tulips"
 artist: "Tiny Tim"
 libraries: ["all"]
 difficulty: 2

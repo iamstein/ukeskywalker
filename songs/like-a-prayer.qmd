@@ -1,6 +1,6 @@
 ---
-title: "Like a Prayer"
-sort_title: "Like a Prayer"
+title: "Like A Prayer"
+sort_title: "Like A Prayer"
 artist: "Madonna"
 key: "F"
 youtube: "http://www.youtube.com/watch?v=TpkwNJYonjg"

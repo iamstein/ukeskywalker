@@ -1,6 +1,6 @@
 ---
-title: "Hit Me with your Best Shot"
-sort_title: "Hit Me with your Best Shot"
+title: "Hit Me With Your Best Shot"
+sort_title: "Hit Me With Your Best Shot"
 artist: "Pat Benitar"
 key: "Em"
 libraries: ["all"]

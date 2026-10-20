@@ -1,6 +1,6 @@
 ---
-title: "Whatever you Like"
-sort_title: "Whatever you Like"
+title: "Whatever You Like"
+sort_title: "Whatever You Like"
 artist: "Anya Marina"
 key: "Dm"
 youtube: "http://www.youtube.com/watch?v=_0BPnJUx_Yw"

@@ -1,6 +1,6 @@
 ---
-title: "Abigail, Belle of Kilronan"
-sort_title: "Abigail, Belle of Kilronan"
+title: "Abigail, Belle Of Kilronan"
+sort_title: "Abigail, Belle Of Kilronan"
 artist: "Magnetic Fields"
 key: "G"
 alt_keys: ["C"]

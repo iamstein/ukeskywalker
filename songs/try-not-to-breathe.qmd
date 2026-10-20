@@ -1,6 +1,6 @@
 ---
-title: "Try Not to Breathe"
-sort_title: "Try Not to Breathe"
+title: "Try Not To Breathe"
+sort_title: "Try Not To Breathe"
 artist: "R. E. M."
 key: "Am"
 key_note: "?"

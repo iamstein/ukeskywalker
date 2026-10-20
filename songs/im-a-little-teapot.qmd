@@ -1,6 +1,6 @@
 ---
-title: "I'm a Little Teapot"
-sort_title: "I'm a Little Teapot"
+title: "I'm A Little Teapot"
+sort_title: "I'm A Little Teapot"
 key: "G"
 libraries: ["all", "kids", "kids-motions"]
 added: "2022-09"

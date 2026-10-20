@@ -1,6 +1,6 @@
 ---
-title: "King of the Road"
-sort_title: "King of the Road"
+title: "King Of The Road"
+sort_title: "King Of The Road"
 artist: "Roger Miller"
 key: "Bb"
 alt_keys: ["A"]

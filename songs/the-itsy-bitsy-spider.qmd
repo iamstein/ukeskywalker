@@ -1,6 +1,6 @@
 ---
-title: "The Itsy Bitsy Spider (or Incy Wincy Spider)"
-sort_title: "Itsy Bitsy Spider (or Incy Wincy Spider), The"
+title: "The Itsy Bitsy Spider (Or Incy Wincy Spider)"
+sort_title: "Itsy Bitsy Spider (Or Incy Wincy Spider), The"
 key: "D"
 libraries: ["all", "kids", "kids-motions"]
 difficulty: 1

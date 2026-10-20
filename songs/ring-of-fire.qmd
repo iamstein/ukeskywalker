@@ -1,6 +1,6 @@
 ---
-title: "Ring of Fire"
-sort_title: "Ring of Fire"
+title: "Ring Of Fire"
+sort_title: "Ring Of Fire"
 artist: "Johnny Cash"
 key: "G"
 libraries: ["all"]

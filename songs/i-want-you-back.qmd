@@ -1,6 +1,6 @@
 ---
-title: "I Want you Back"
-sort_title: "I Want you Back"
+title: "I Want You Back"
+sort_title: "I Want You Back"
 artist: "Jackson Five"
 key: "G"
 key_note: "Youtube:https://www.youtube.com/watch?v=quCPNcXQkCU&ab_channel=ChooChooSoul-Topic"

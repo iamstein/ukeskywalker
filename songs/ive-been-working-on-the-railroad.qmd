@@ -1,6 +1,6 @@
 ---
-title: "I've Been Working on the Railroad"
-sort_title: "I've Been Working on the Railroad"
+title: "I've Been Working On The Railroad"
+sort_title: "I've Been Working On The Railroad"
 key: "D"
 libraries: ["all", "kids"]
 difficulty: 1

@@ -1,6 +1,6 @@
 ---
-title: "Go To Sleep Little Baby, T-Bone Burnett and Gililan Welch"
-sort_title: "Go To Sleep Little Baby, T-Bone Burnett and Gililan Welch"
+title: "Go To Sleep Little Baby, T-Bone Burnett And Gililan Welch"
+sort_title: "Go To Sleep Little Baby, T-Bone Burnett And Gililan Welch"
 artist: "T-Bone Burnett + Gillian Welch"
 key: "A"
 libraries: ["all", "kids"]

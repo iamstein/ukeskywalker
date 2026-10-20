@@ -1,6 +1,6 @@
 ---
-title: "There's a Dinosaur Knocking at my Door"
-sort_title: "There's a Dinosaur Knocking at my Door"
+title: "There's A Dinosaur Knocking At My Door"
+sort_title: "There's A Dinosaur Knocking At My Door"
 artist: "Isaac Zones"
 key: "D"
 youtube: "https://www.youtube.com/watch?v=XEovjkXrD4s"

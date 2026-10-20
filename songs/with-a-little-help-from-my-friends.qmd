@@ -1,6 +1,6 @@
 ---
-title: "With a Little Help from my Friends"
-sort_title: "With a Little Help from my Friends"
+title: "With A Little Help From My Friends"
+sort_title: "With A Little Help From My Friends"
 artist: "The Beatles"
 key: "E"
 libraries: ["all", "spiritual", "kids"]

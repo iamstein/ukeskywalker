@@ -1,6 +1,6 @@
 ---
-title: "The Best Ukulele Strum in the World (+)"
-sort_title: "Best Ukulele Strum in the World (+), The"
+title: "The Best Ukulele Strum In The World (+)"
+sort_title: "Best Ukulele Strum In The World (+), The"
 artist: "Andy Stein"
 key: "G"
 youtube: "http://www.youtube.com/watch?v=9AwFQNppA-8"

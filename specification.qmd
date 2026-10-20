@@ -113,8 +113,8 @@ inside a YAML string, where indentation and colons cause errors.
 
 ```yaml
 ---
-title: "Abigail, Belle of Kilronan"
-sort_title: "Abigail, Belle of Kilronan"   # from the sheet, e.g. "Banana Boat Song, The"
+title: "Abigail, Belle Of Kilronan"   # first letter of every word capitalized
+sort_title: "Abigail, Belle Of Kilronan"   # from the sheet, e.g. "Banana Boat Song, The"
 artist: "Magnetic Fields"
 key: G                  # key the song is written in below
 alt_keys: [C]           # other keys offered as buttons, e.g. the one Andy sings in

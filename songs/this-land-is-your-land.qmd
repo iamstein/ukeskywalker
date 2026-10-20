@@ -1,6 +1,6 @@
 ---
-title: "This Land is Your Land"
-sort_title: "This Land is Your Land"
+title: "This Land Is Your Land"
+sort_title: "This Land Is Your Land"
 artist: "Woodie Guthrie"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

@@ -1,6 +1,6 @@
 ---
-title: "Bankrupt on Selling"
-sort_title: "Bankrupt on Selling"
+title: "Bankrupt On Selling"
+sort_title: "Bankrupt On Selling"
 artist: "Modest Mouse"
 key: "F"
 youtube: "http://www.youtube.com/watch?v=W_zd65_xhzc&t=16s"

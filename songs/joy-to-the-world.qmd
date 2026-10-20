@@ -1,6 +1,6 @@
 ---
-title: "Joy to the World"
-sort_title: "Joy to the World"
+title: "Joy To The World"
+sort_title: "Joy To The World"
 artist: "Three Dog Night"
 key: "D"
 libraries: ["all", "spiritual", "kids"]

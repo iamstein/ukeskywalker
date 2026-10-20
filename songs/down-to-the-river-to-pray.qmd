@@ -1,6 +1,6 @@
 ---
-title: "Down to the River to Pray"
-sort_title: "Down to the River to Pray"
+title: "Down To The River To Pray"
+sort_title: "Down To The River To Pray"
 artist: "George Allan"
 key: "G"
 libraries: ["all", "spiritual", "kids"]

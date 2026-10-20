@@ -1,6 +1,6 @@
 ---
-title: "Peaches and Cream"
-sort_title: "Peaches and Cream"
+title: "Peaches And Cream"
+sort_title: "Peaches And Cream"
 artist: "Jim Butler Trio"
 key: "G"
 youtube: "https://www.youtube.com/watch?v=0p56vq1beSo&ab_channel=RicardoRamos"

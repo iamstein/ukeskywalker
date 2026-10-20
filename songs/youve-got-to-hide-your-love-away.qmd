@@ -1,6 +1,6 @@
 ---
-title: "You've got to Hide Your Love Away"
-sort_title: "You've got to Hide Your Love Away"
+title: "You've Got To Hide Your Love Away"
+sort_title: "You've Got To Hide Your Love Away"
 artist: "The Beatles"
 key: "G"
 libraries: ["all"]

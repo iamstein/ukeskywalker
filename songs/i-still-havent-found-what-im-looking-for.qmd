@@ -1,6 +1,6 @@
 ---
-title: "I Still Haven't Found what I'm Looking For"
-sort_title: "I Still Haven't Found what I'm Looking For"
+title: "I Still Haven't Found What I'm Looking For"
+sort_title: "I Still Haven't Found What I'm Looking For"
 artist: "U2"
 key: "C"
 libraries: ["all", "spiritual"]

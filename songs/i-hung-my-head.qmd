@@ -1,6 +1,6 @@
 ---
-title: "I Hung my Head"
-sort_title: "I Hung my Head"
+title: "I Hung My Head"
+sort_title: "I Hung My Head"
 artist: "Johnny Cash"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=0M53FcPoWtA"

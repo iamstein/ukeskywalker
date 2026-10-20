@@ -1,6 +1,6 @@
 ---
-title: "If You Want to Sing Out"
-sort_title: "If You Want to Sing Out"
+title: "If You Want To Sing Out"
+sort_title: "If You Want To Sing Out"
 artist: "Cat Stevens"
 key: "C"
 youtube: "https://www.youtube.com/watch?v=eBLVw92feas"

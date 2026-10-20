@@ -1,6 +1,6 @@
 ---
-title: "Blowin' in the Wind"
-sort_title: "Blowin' in the Wind"
+title: "Blowin' In The Wind"
+sort_title: "Blowin' In The Wind"
 artist: "Bob Dylan"
 key: "C"
 alt_keys: ["G"]

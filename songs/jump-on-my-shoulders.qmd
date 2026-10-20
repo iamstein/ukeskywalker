@@ -1,6 +1,6 @@
 ---
-title: "Jump on my Shoulders"
-sort_title: "Jump on my Shoulders"
+title: "Jump On My Shoulders"
+sort_title: "Jump On My Shoulders"
 artist: "AWOLNATION"
 key: "F"
 key_note: "shifted up from E"

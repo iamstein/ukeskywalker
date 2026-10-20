@@ -1,6 +1,6 @@
 ---
-title: "If You're Happy and You Know It"
-sort_title: "If You're Happy and You Know It"
+title: "If You're Happy And You Know It"
+sort_title: "If You're Happy And You Know It"
 key: "D"
 libraries: ["all", "kids", "kids-motions"]
 difficulty: 1

@@ -1,6 +1,6 @@
 ---
-title: "Father and Son"
-sort_title: "Father and Son"
+title: "Father And Son"
+sort_title: "Father And Son"
 artist: "Cat Stevens"
 key: "G"
 youtube: "https://www.youtube.com/watch?v=Q29YR5-t3gg"
