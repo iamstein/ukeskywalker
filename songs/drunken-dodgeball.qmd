@@ -1,9 +1,9 @@
 ---
 title: "Drunken Dodgeball"
 sort_title: "Drunken Dodgeball"
-artist: "Firefly"
+artist: "Andy Stein - Firefly"
 key: "C"
-libraries: ["all"]
+libraries: ["all", "andy-original"]
 difficulty: 1
 fun: 1
 skill: 4
