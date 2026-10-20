@@ -43,3 +43,8 @@ site remembers your choice.
 The site is built with [Quarto](https://quarto.org/) from plain text files in
 [github.com/iamstein/ukeskywalker](https://github.com/iamstein/ukeskywalker).
 Each song is one file in the `songs/` folder.
+
+## Andy's other website
+
+Andy also has a pharmacometrics website,
+[TrinityMetrics.com](https://trinitymetrics.com).
