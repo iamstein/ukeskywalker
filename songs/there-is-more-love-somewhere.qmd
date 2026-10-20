@@ -1,0 +1,20 @@
+---
+title: "There Is More Love Somewhere"
+sort_title: "There Is More Love Somewhere"
+artist: "Traditional"
+key: "G"
+libraries: ["all", "spiritual"]
+added: "2026-10"
+---
+
+```{.song}
+# Traditional African American spiritual
+[G] There is more love some-[C]where, [G]
+[G] There is more love some-[D]where.
+I'm gonna [G] keep on till I [C] find it,
+There is [G] more love [D] some-[G]where.
+
+There is more hope somewhere...
+There is more peace somewhere...
+There is more joy somewhere...
+```

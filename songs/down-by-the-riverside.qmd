@@ -1,0 +1,24 @@
+---
+title: "Down by the Riverside"
+sort_title: "Down by the Riverside"
+artist: "Traditional"
+key: "G"
+libraries: ["all", "spiritual"]
+added: "2026-10"
+---
+
+```{.song}
+# Traditional African American spiritual
+I'm gonna [G] lay down my sword and shield, down by the riverside,
+[D] Down by the riverside, [G] down by the riverside.
+I'm gonna [G] lay down my sword and shield, down by the riverside,
+[D] Ain't gonna study war no [G] more.
+
+Chorus:
+I ain't gonna [C] study war no more, I ain't gonna [G] study war no more,
+I ain't gonna [D] study war no [G] more.
+I ain't gonna [C] study war no more, I ain't gonna [G] study war no more,
+I ain't gonna [D] study war no [G] more.
+
+I'm gonna walk with my friends in peace, down by the riverside...
+```

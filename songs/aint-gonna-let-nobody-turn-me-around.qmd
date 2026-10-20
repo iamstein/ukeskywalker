@@ -1,0 +1,20 @@
+---
+title: "Ain't Gonna Let Nobody Turn Me Around"
+sort_title: "Ain't Gonna Let Nobody Turn Me Around"
+artist: "Traditional"
+key: "G"
+libraries: ["all", "spiritual"]
+added: "2026-10"
+---
+
+```{.song}
+# Traditional African American spiritual, sung in the civil rights movement
+[G] Ain't gonna let nobody [C] turn me a-[G]round,
+Turn me a-[D]round, turn me a-[G]round.
+[G] Ain't gonna let nobody [C] turn me a-[G]round.
+I'm gonna keep on a-walkin', keep on a-[D]talkin',
+Marchin' [D7] up to freedom [G] land.
+
+Ain't gonna let hatred turn me around...
+Ain't gonna let fear turn me around...
+```

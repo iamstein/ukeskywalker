@@ -1,0 +1,21 @@
+---
+title: "We Are Building Up a New World"
+sort_title: "We Are Building Up a New World"
+artist: "Vincent Harding"
+key: "G"
+libraries: ["all", "spiritual"]
+added: "2026-10"
+---
+
+```{.song}
+# Words: Vincent Harding. Music: traditional African American ("Jacob's Ladder")
+We are [G] building up a new [C] world, [G]
+We are building up a new [D] world, [D7]
+We are [G] building up a new [C] world, [G]
+[D] Builders must be [G] strong.
+
+[G] Courage, sisters, don't get [C] weary, [G]
+Courage, brothers, don't get [D] weary, [D7]
+[G] Courage, people, don't get [C] weary, [G]
+[D] Though the way be [G] long.
+```

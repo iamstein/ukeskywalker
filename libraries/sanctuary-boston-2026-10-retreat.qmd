@@ -13,12 +13,12 @@ format:
 # Each item is one printed page. The songs come from songs/<name>.qmd,
 # printed with chords and without melody.
 songbook:
-  - [love-will-hold-us-together]
-  - [the-rose, ive-got-peace-like-a-river, this-little-light-of-mine]
+  - [this-little-light-of-mine, ive-got-peace-like-a-river, there-is-more-love-somewhere, glory-glory]
+  - [we-are-building-up-a-new-world, aint-gonna-let-nobody-turn-me-around, woke-up-this-morning, down-by-the-riverside]
 ---
 
 ::: {.sheet-actions}
-Four songs on one sheet of paper, printed front and back.
+Eight songs on one sheet of paper, printed front and back.
 
 <div class="form-check form-switch">
 <input class="form-check-input" type="checkbox" role="switch" id="chords-switch" checked>
