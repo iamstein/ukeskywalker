@@ -4,6 +4,7 @@ sort_title: "Open Shut Them"
 youtube: "https://youtu.be/0ETr_5NhX5Q"
 libraries: ["all", "kids", "kids-motions"]
 source_doc: "https://docs.google.com/document/d/1j3Y6XWbm9uKRRHL3szarxyvMEXzfhDnthDGbKNvfcWo/edit"
+added: "2022-06"
 ---
 
 ```{.song}

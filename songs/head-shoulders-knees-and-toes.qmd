@@ -3,6 +3,7 @@ title: "Head Shoulders Knees And Toes"
 sort_title: "Head Shoulders Knees And Toes"
 libraries: ["all", "kids", "kids-motions"]
 source_doc: "https://docs.google.com/document/d/1ZPmEefPcMWN2W64DhjyROgfczdmhAe-iQPiGAoQuofE/edit"
+added: "2022-06"
 ---
 
 ```{.song}

@@ -4,6 +4,7 @@ sort_title: "Criss Cross Applesauce"
 youtube: "https://youtu.be/EBXgsfM1RWY"
 libraries: ["all", "kids", "kids-motions"]
 source_doc: "https://docs.google.com/document/d/1v7mtS3TZUCBLUBDfYXzXeTpUVUOD-ymd3tqvSVKFUL0/edit"
+added: "2022-06"
 ---
 
 ```{.song}

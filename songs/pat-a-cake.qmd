@@ -3,6 +3,7 @@ title: "Pat-a-cake"
 sort_title: "Pat-a-cake"
 libraries: ["all", "kids", "kids-motions"]
 source_doc: "https://docs.google.com/document/d/1aGyIZbuENleV-9hWzfR5bHAp607vj7XhUkSQV7hlRoo/edit"
+added: "2022-06"
 ---
 
 ```{.song}

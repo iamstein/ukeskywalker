@@ -23,7 +23,7 @@ C5 = 0033,            AmC = 2003,           F5 = 2013
 Ch = 008(10)         Gh2 = 777(10)        Fmaj7 = 5557
 
 Chorus (sung after each verse):
-[C5] Arirang, [AmC]   Arirang, [F5] Arari-[G]-yo,        5. 6. 5.        1 2 1        3 2 1 5.
+[C5] Arirang, [AmC]   Arirang, [F5] Arari-[G]-yo, | 5. 6. 5.        1 2 1        3 2 1 5.
 [AmC] Crossing the [F5] hills of Ari-[C5]-rang. | 1 2 1 3        1 1 2 1
 
 Verses (Chorus sung after each verse)
@@ -33,8 +33,8 @@ Verses (Chorus sung after each verse)
 [Ch] Oh, my [Gh2] country men, why are [Fmaj7] your voices [G] hushed.
 [AmC] Only the [F5] waterfalls and [C5] fountains sing free.
 
-[Ch] Countless [Gh] stars [Fmaj7] shine in the [G]] night,
-[Am]] Endless [F]] sorrows live in our [C5] hearts.
+[Ch] Countless [Gh] stars [Fmaj7] shine in the [G] night,
+[Am] Endless [F] sorrows live in our [C5] hearts.
 
 [Ch] In my [Gh] home land of [Fmaj7] 3000 [G] li,
 [AmC] Peace and a-[F5]-bundance will flower at [C5] last.
