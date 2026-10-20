@@ -80,6 +80,7 @@ songs/_metadata.yml       # settings every song page shares: filter, CSS, script
 _filters/song.lua         # turns the {.song} block and front matter into the page
 _filters/song-render.lua  # {.song} block -> HTML, shared by song.lua and songbook.lua
 _filters/songbook.lua     # builds a printable sheet from the songs it lists
+_filters/song-count.lua   # home page: []{.song-count} -> number of song files, counted at each render
 assets/chords.js          # chord parsing and transposing, shared by tools and song pages
 assets/song.js            # song toolbar: chords (inline/above/off), melody, key
 assets/song.css           # screen and print layout for song pages
