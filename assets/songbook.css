@@ -28,6 +28,9 @@
   .sheet-page { break-after: page; border: none !important; margin: 0 !important; padding: 0 !important; }
   .sheet-page:last-child { break-after: auto; }
   .sheet-columns { columns: 2; column-gap: 0.4in; }
+  /* Zero top margins, or the first column starts lower than the second
+     (a column break drops the margin, the top of the first column keeps it). */
+  .sheet-song, .sheet-title { margin-top: 0 !important; padding-top: 0 !important; }
   .sheet-song { margin-bottom: 0.3in; }
   .sheet-title { font-size: 18pt; }
   .sheet-about { font-size: 10.5pt; margin-bottom: 0.08in; }
