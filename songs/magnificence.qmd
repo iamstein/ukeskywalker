@@ -9,13 +9,19 @@ added: "2026-10"
 
 ```{.song}
 # Words: Peter Makena. Music: Johann Pachelbel (Canon in D).
-# The chords loop under every line. Sing the parts one after another, or layer them.
-[D] [A] [Bm] [F#m] [G] [D] [G] [A]
 
-Wash me away, so that all that's left is love.
+Sing in a round
 
-There is so much magnificence in the ocean.
-Waves are coming in, waves are coming in.
+[D] Wash [A] me a-[Bm]-way, so that 
+[G] all that's [D] left is [A] love. Great Spirit
 
-Allelu, alleluia...
+[D] Hallelu, [A] Hallelujah, [Bm] Hallelu, Halleluja
+[G] Hallelu, [D] Hallelujah [A]
+
+[D] Hal-[A]-le-[Bm]-lujah,
+[G] Hal-[D]-le-[A]-lujah.
+
+[D] There is [A] so much mag-[Bm]-nificence 
+In the [G] ocean. [D] [A] Waves are coming in, waves are coming in.
+
 ```
