@@ -260,6 +260,9 @@ def fetch_doc(doc_id, offline):
         download(f"https://docs.google.com/document/d/{doc_id}/export?format=txt", path)
     if path.exists() and not path.read_bytes()[:200].lstrip().startswith(b"<"):
         return path.read_text(encoding="utf-8-sig", errors="replace")
+    # A sign-in page, not the Doc: drop it so the next run tries again.
+    if path.exists() and not offline:
+        path.unlink()
     return None
 
 
