@@ -36,3 +36,12 @@
   .sheet-columns .song { font-size: 12pt; }
   .song .chord { color: #000; }
 }
+
+/* Key menu from assets/songbook.js: on screen it replaces the "Key of G" text;
+   the text comes back when printed. */
+.sheet-key-tool { display: inline-flex; vertical-align: middle; white-space: nowrap; }
+.sheet-key.has-tool { display: none; }
+@media print {
+  .sheet-key-tool { display: none !important; }
+  .sheet-key.has-tool { display: inline; }
+}

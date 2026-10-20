@@ -321,8 +321,10 @@ each song's file and prints it with chords and without the melody; a song
 edit shows up on the sheet at the next render.
 
 A Chords switch (on by default) hides the chords, the lines that hold only
-chords, and the extra hyphen in words like `re-[Em]-member`. Print uses
-whatever the switch shows. The publish workflow runs `_scripts/make_pdfs.sh`
+chords, and the extra hyphen in words like `re-[Em]-member`. Each song has
+its own key menu (`assets/songbook.js`, the same − / menu / + as a song page).
+Print uses whatever the switch and the key menus show; the PDFs are in the
+keys as written. The publish workflow runs `_scripts/make_pdfs.sh`
 after rendering, which prints the page with headless Chrome to
 `sanctuary-boston-2026-10-retreat.pdf` and, with `?chords=off`, to
 `sanctuary-boston-2026-10-retreat-lyrics.pdf`. The old address

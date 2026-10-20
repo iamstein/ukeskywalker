@@ -9,6 +9,7 @@
 --
 -- Each song is read from songs/<name>.qmd and printed with its chords but
 -- without the melody. Each list item starts a new printed page.
+-- assets/songbook.js adds a key menu to each song.
 
 local R = dofile(pandoc.path.join({ pandoc.path.directory(PANDOC_SCRIPT_FILE), "song-render.lua" }))
 local esc, str, song_html = R.esc, R.str, R.song_html
@@ -36,11 +37,14 @@ local function song_section(name)
   if not meta then return "" end
   local about = {}
   local artist = str(meta.artist)
-  if artist and artist ~= "-" then about[#about + 1] = esc(artist) end
-  if str(meta.key) then about[#about + 1] = "Key of " .. esc(str(meta.key)) end
+  if artist and artist ~= "-" then about[#about + 1] = '<span class="sheet-artist">' .. esc(artist) .. '</span>' end
+  if str(meta.key) then
+    about[#about + 1] = '<span class="sheet-key" data-key="' .. esc(str(meta.key)) .. '">Key of '
+      .. esc(str(meta.key)) .. '</span>'
+  end
   return '<section class="sheet-song">'
     .. '<h2 class="sheet-title"><a href="../songs/' .. esc(name) .. '.html">' .. esc(str(meta.title) or name) .. '</a></h2>'
-    .. (#about > 0 and ('<div class="sheet-about">' .. table.concat(about, " · ") .. '</div>') or "")
+    .. (#about > 0 and ('<div class="sheet-about">' .. table.concat(about, '<span class="sheet-sep"> · </span>') .. '</div>') or "")
     .. (code and song_html(code, { melody = false }) or "")
     .. '</section>'
 end

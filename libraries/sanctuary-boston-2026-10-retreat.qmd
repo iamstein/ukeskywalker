@@ -10,6 +10,10 @@ format:
     css:
       - ../assets/song.css
       - ../assets/songbook.css
+    include-after-body:
+      - text: |
+          <script src="../assets/chords.js"></script>
+          <script src="../assets/songbook.js"></script>
 # Each item is one printed page. The songs come from songs/<name>.qmd,
 # printed with chords and without melody.
 songbook:
