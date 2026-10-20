@@ -9,21 +9,20 @@ listing:
     contents: songs/*.qmd
     type: table
     sort: "sort_title"
-    sort-ui: [title, artist, key, added]
-    filter-ui: [title, artist, key]
+    sort-ui: [title, artist, added]
+    filter-ui: [title, artist]
     page-size: 500
     table-striped: true
     table-hover: true
-    fields: [title, artist, key, added]
+    fields: [title, artist, added]
     field-display-names:
       title: "Song"
       artist: "Artist"
-      key: "Key"
       added: "Added"
 ---
 
 ![](assets/banner.jpg){.home-banner fig-alt="A wooden ukulele floating in a starry purple and blue sky, with glowing ribbons of light swirling around it"}
 
-Every song on the site, A to Z. Type in the box to find a song by title,
-artist or key, or use the search in the top bar to find one by a line of its
+Every song on the site, A to Z. Type in the box to find a song by title
+or artist, or use the search in the top bar to find one by a line of its
 lyrics. Click a column heading to sort.
