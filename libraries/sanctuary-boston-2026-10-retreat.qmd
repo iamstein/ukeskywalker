@@ -18,11 +18,11 @@ format:
 # printed with chords and without melody.
 songbook:
   - [this-little-light-of-mine, ive-got-peace-like-a-river, there-is-more-love-somewhere, weve-already-started-to-sing]
-  - [the-storm-is-passing-over, magnificence, if-i-had-a-hammer]
+  - [the-storm-is-passing-over, magnificence]
 ---
 
 ::: {.sheet-actions}
-Seven songs on one sheet of paper, printed front and back.
+Six songs on one sheet of paper, printed front and back.
 
 <div class="form-check form-switch">
 <input class="form-check-input" type="checkbox" role="switch" id="chords-switch" checked>
