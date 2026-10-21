@@ -17,7 +17,7 @@
     });
     const button = (text, aria, step) => {
       const b = document.createElement("button");
-      Object.assign(b, { type: "button", className: "btn btn-sm btn-outline-secondary", textContent: text });
+      Object.assign(b, { type: "button", className: "btn btn-sm btn-outline-primary", textContent: text });
       b.setAttribute("aria-label", aria);
       b.addEventListener("click", () => setKey(C.shiftKey(select.value, step)));
       return b;

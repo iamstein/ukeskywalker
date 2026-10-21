@@ -58,8 +58,8 @@
       song.dataset.key = key;
     };
     select.addEventListener("change", () => setKey(select.value));
-    const down = el("button", { type: "button", class: "btn btn-sm btn-outline-secondary", "aria-label": "Down a semitone", text: "−" });
-    const up = el("button", { type: "button", class: "btn btn-sm btn-outline-secondary", "aria-label": "Up a semitone", text: "+" });
+    const down = el("button", { type: "button", class: "btn btn-sm btn-outline-primary", "aria-label": "Down a semitone", text: "−" });
+    const up = el("button", { type: "button", class: "btn btn-sm btn-outline-primary", "aria-label": "Up a semitone", text: "+" });
     down.addEventListener("click", () => setKey(C.shiftKey(select.value, -1)));
     up.addEventListener("click", () => setKey(C.shiftKey(select.value, 1)));
     bar.appendChild(el("div", { class: "song-tool song-key" }, [
@@ -83,7 +83,7 @@
       input.checked = m === mode;
       input.addEventListener("change", () => { mode = m; save("layout", m); apply(); });
       group.appendChild(input);
-      group.appendChild(el("label", { class: "btn btn-outline-secondary", for: "chords-" + m, text }));
+      group.appendChild(el("label", { class: "btn btn-outline-primary", for: "chords-" + m, text }));
     });
     apply();
     bar.insertBefore(el("div", { class: "song-tool song-chords" }, [

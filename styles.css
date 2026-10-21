@@ -17,3 +17,9 @@
 
 /* Round ukulele next to the site name */
 .navbar-brand img.navbar-logo { border-radius: 50%; max-height: 34px; }
+
+/* One blue for links, chords, switches and buttons: Cosmo's primary. */
+:root {
+  --bs-link-color: #2780e3;
+  --bs-link-color-rgb: 39, 128, 227;
+}
