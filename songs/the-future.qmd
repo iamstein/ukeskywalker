@@ -24,7 +24,7 @@ Am = 2000, Dm = 2210, G6 = 0202, E7 = 1202
 C  = 0003, F  = 2010, Fm = 1013,
 
 Verse 1:
-[Am] Give me back my broken night, my [Dm] mirrored room, my secret life | 1….1
+[Am] Give me back my broken night, my [Dm] mirrored room, my secret life | 1...1
 it's [G6] lonely here, there's no [E7] one left to [Am] torture | 1 2 2 2         1 2 1 2 1 3m 1
 Give me absolute control [Dm] over every living soul | (repeat)
 And [G6] lie beside me baby, that's an [Am] order!

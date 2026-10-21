@@ -1,0 +1,5 @@
+/*-- scss:defaults --*/
+// A deeper blue than Cosmo's #2780e3, for contrast on white (about 5:1).
+$primary: #1b6ac9;
+// Setting $primary would also turn the navbar blue; keep it light gray.
+$navbar-bg: #f8f9fa;
