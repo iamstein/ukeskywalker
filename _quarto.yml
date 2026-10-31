@@ -43,6 +43,8 @@ website:
           - text: "---"
           - href: libraries/sanctuary-boston-2026-10-retreat.qmd
             text: Sanctuary Boston Oct 2026 Retreat
+          - href: libraries/sanctuary-boston-song-ideas.qmd
+            text: Sanctuary Boston Song Ideas
       - href: tools/compressor.qmd
         text: Compressor
       - href: tools/transposer.qmd

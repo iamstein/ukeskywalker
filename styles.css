@@ -23,3 +23,6 @@
   --bs-link-color: #1b6ac9;
   --bs-link-color-rgb: 27, 106, 201;
 }
+
+/* Lines written with "| " in markdown: leave a gap before the next paragraph. */
+.line-block { margin-bottom: 1rem; }
