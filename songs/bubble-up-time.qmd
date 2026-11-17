@@ -4,7 +4,7 @@ sort_title: "Bubble Up Time"
 artist: "Andy Stein and Michelle Stein"
 key: "G"
 libraries: ["all", "andy-original", "andy-michelle", "kids"]
-added: "2026-11"
+added: "2026-04"
 source_doc: "https://docs.google.com/document/d/1ipN3aH1j8tznokCXNe5C6kvnyDLexyPlIRlZPyAEgcE/edit"
 ---
 
