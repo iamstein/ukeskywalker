@@ -1,0 +1,52 @@
+---
+title: "Spooky Spooky Halloween"
+artist: "Andy Stein and Michelle Stein"
+key: "G"
+youtube: "https://www.youtube.com/watch?v=OWm4ad9w_hI"
+libraries: ["all", "andy-original", "kids"]
+added: "2026-11"
+source_doc: "https://docs.google.com/document/d/16rsU8PIoBuuOwJrGRDAn2fIq-hWlA5zZJQ3xvr80ypA/edit"
+---
+
+```{.song}
+Verse 1:
+The hallo-[Em]-ween decor-[C]-ations are [G] out.
+It's [Em] time to go [C] trick-or-treat-[G] in'
+[Em] The [C] door bell [G] rings <ding dong - G E>
+[Em] Give us all your [C] candy to-[G]-night.
+
+Chorus:
+For we only eat [G] candy [C] now [D]
+We won't eat [G] anything [C] else at [D] all.
+Chocolate and [G] gummies are [C] all that we [D] need [C]
+So [G] let's get a [C] full [D] basket
+
+Verse 2:
+I saw an [Em] eyeball walkin [C] down the [G] street
+Very scary [Em] villains comin' [C] up from be-[G]-hind
+[Em] The [C] door bell [G] rings <ding dong - G E>
+Zombies and [Em] skeletons are [C] coming in-[G]-side.
+[Em] And so is [C] Franken-[G]-stein.
+
+Chorus:
+For we only eat [G] candy [C] now [D]
+We won't eat [G] anything [C] else at [D] all.
+Chocolate and [G] gummies are [C] all that we [D] need [C]
+So [G] let's get a [C] full [D] basket
+
+Instrumental:
+[Em] [C] [G] x4
+[G] [C] [D] x4
+
+Outro:
+[G] Oh no! Our basket has [Em] overflown
+But [C] we got 25 plastic [D] bags!
+Just [G] barely enough to hold [Em] every piece
+Of [C] candy that we [D] have.
+
+Chorus:
+For we only eat [G] candy [C] now [D]
+We won't eat [G] anything [C] else at [D] all.
+Chocolate and [G] gummies are [C] all that we [D] need [C]
+So [G] let's get a [C] full [D] basket <ding dong - G E>
+```
