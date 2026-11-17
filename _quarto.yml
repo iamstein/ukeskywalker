@@ -34,12 +34,14 @@ website:
             text: All Songs
           - href: libraries/spiritual.qmd
             text: Spiritual Songs
-          - href: libraries/andy-originals.qmd
-            text: Andy Originals
-          - href: libraries/yeastbombs.qmd
-            text: Trendy Wendy and the Yeastbombs
           - href: libraries/kids.qmd
             text: Kid Songs
+          - href: libraries/yeastbombs.qmd
+            text: Trendy Wendy and the Yeastbombs
+          - href: libraries/andy-originals.qmd
+            text: Andy Originals
+          - href: libraries/andy-michelle-originals.qmd
+            text: Andy and Michelle Originals
           - text: "---"
           - href: libraries/sanctuary-boston-2026-10-retreat.qmd
             text: Sanctuary Boston Oct 2026 Retreat

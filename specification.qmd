@@ -40,7 +40,7 @@ The navbar, left to right:
 | Tab | Page | Content |
 |---|---|---|
 | Songs | `index.qmd` | Every song, A–Z, in a searchable, sortable table |
-| Libraries | menu | All Songs, Spiritual Songs, Andy Originals, Trendy Wendy and the Yeastbombs, Kid Songs, Sanctuary Boston Oct 2026 Retreat (a printable song sheet), Sanctuary Boston Song Ideas (notes on songs Andy might lead) |
+| Libraries | menu | All Songs, Spiritual Songs, Kid Songs, Trendy Wendy and the Yeastbombs, Andy Originals, Andy and Michelle Originals, Sanctuary Boston Oct 2026 Retreat (a printable song sheet), Sanctuary Boston Song Ideas (notes on songs Andy might lead) |
 | Compressor | `tools/compressor.qmd` | Chords-over-lyrics in, inline `[C]` chords out |
 | Transposer | `tools/transposer.qmd` | Paste a song, pick a new key |
 | About | page | `about.qmd`: what the site is, how to read a song page and the melody numbers. This specification is not in the navbar; it is at `specification.html` and in the repo. |
@@ -166,9 +166,11 @@ is not read again; see "Import from Google".
 comment saying what goes there, followed by an empty song block. To add a
 song, copy it to `songs/<slug>.qmd` and fill in what you know.
 
-Only `title` is required. Every other field may be left empty or deleted, and
-the song page and tables skip a field with no value, so a song entered with a
-title, artist and chords looks finished. The compressor's output (see "Tools")
+Only `title` and `sort_title` are needed. The song tables sort by
+`sort_title`, and a song without one sorts after Z, so it is the title itself,
+or the title with a leading "The" or "A" moved to the end. Every other field
+may be left empty or deleted, and the song page and tables skip a field with
+no value, so a song entered with a title, artist and chords looks finished. The compressor's output (see "Tools")
 is the same template with the song block filled in.
 
 Files are excluded from rendering when their folder name starts with `_`, so
@@ -294,6 +296,7 @@ Quarto listing of the songs that carry that value.
 | All Songs | `all` | Every song | 260 |
 | Spiritual Songs | `spiritual` | Spiritual column ≥ 1, plus songs Andy adds by hand | 60 |
 | Andy Originals | `andy-original` | Artist is Andy Stein, or the song is in Trendy Wendy and the Yeastbombs; six more added by hand | 18 |
+| Andy and Michelle Originals | `andy-michelle` | Added by hand: songs by Andy Stein and Michelle Stein, who are also in Andy Originals | 2 |
 | Trendy Wendy and the Yeastbombs | `yeastbombs` | Artist is Trendy Wendy and the Yeastbombs | 5 |
 | Kid Songs | `kids` | Listed on the Google Site home page under "All Kid-Friendly Songs" or "Dance Moves or Motions" | 104 |
 | (inside Kid Songs) | `kids-motions` | Listed under "Kids Songs with Dance Moves or Motions" | 18 |

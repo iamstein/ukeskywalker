@@ -1,0 +1,23 @@
+---
+title: "Andy and Michelle Originals"
+toc: false
+listing:
+  - id: andy-michelle-originals
+    contents: ../songs/*.qmd
+    type: table
+    sort: "sort_title"
+    sort-ui: [title, artist, added]
+    filter-ui: [title, artist]
+    page-size: 500
+    table-striped: true
+    table-hover: true
+    fields: [title, artist, added]
+    field-display-names:
+      title: "Song"
+      artist: "Artist"
+      added: "Added"
+    include:
+      libraries: andy-michelle
+---
+
+Songs written by Andy Stein and Michelle Stein.

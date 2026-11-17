@@ -1,9 +1,10 @@
 ---
 title: "Spooky Spooky Halloween"
+sort_title: "Spooky Spooky Halloween"
 artist: "Andy Stein and Michelle Stein"
 key: "G"
 youtube: "https://www.youtube.com/watch?v=OWm4ad9w_hI"
-libraries: ["all", "andy-original", "kids"]
+libraries: ["all", "andy-original", "andy-michelle", "kids"]
 added: "2026-11"
 source_doc: "https://docs.google.com/document/d/16rsU8PIoBuuOwJrGRDAn2fIq-hWlA5zZJQ3xvr80ypA/edit"
 ---

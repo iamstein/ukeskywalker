@@ -35,12 +35,19 @@
     return out.join("\n").replace(/\n{3,}/g, "\n\n").trim();
   }
 
+  // How a title sorts in the song tables: "The Storm" -> "Storm, The".
+  function sortTitle(title) {
+    const m = (title || "").match(/^(The|An|A)\s+(.+)$/i);
+    return m ? `${m[2]}, ${m[1]}` : title || "";
+  }
+
   // The compressed song as a new song file, ready to save in songs/.
   function asSongFile(body, title, artist) {
     const key = C.guessKey(body) || "";
     return [
       "---",
       `title: "${title || ""}"`,
+      `sort_title: "${sortTitle(title)}"`,
       `artist: "${artist || ""}"`,
       `key: ${key}`,
       "youtube: \"\"",

@@ -1,16 +1,17 @@
 ---
 # Copy this file to songs/<title-of-song>.qmd and fill in what you know.
-# Only `title` is required. Leave any other field empty, or delete it, and the
-# song page skips it.
+# Fill in `title` and `sort_title`; the song tables sort by `sort_title`, and a
+# song without one sorts last. Leave any other field empty, or delete it, and
+# the song page skips it.
 
 title: ""             # capitalize the first letter of every word: "Bird On A Wire"
-sort_title: ""        # how it sorts, e.g. "Banana Boat Song, The"; empty = title
+sort_title: ""        # how it sorts: the title, or "Banana Boat Song, The"
 artist: ""
 key: ""               # key the song is written in below, e.g. G or Em
 alt_keys: []          # other keys to list first in the key menu, e.g. [C]
 key_note: ""          # e.g. "easier for Andy to sing"
 youtube: ""           # full YouTube URL
-libraries: [all]      # add any of: spiritual, andy-original, yeastbombs, kids, kids-motions
+libraries: [all]      # add any of: spiritual, andy-original, andy-michelle, yeastbombs, kids, kids-motions
 
 difficulty:           # 0–5
 practice:             # 1–7: how much Andy wants to practise it

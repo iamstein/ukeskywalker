@@ -11,12 +11,14 @@ local esc, str, song_html = R.esc, R.str, R.song_html
 local LIBRARY_NAMES = {
   ["spiritual"] = "Spiritual Songs",
   ["andy-original"] = "Andy Originals",
+  ["andy-michelle"] = "Andy and Michelle Originals",
   ["yeastbombs"] = "Trendy Wendy and the Yeastbombs",
   ["kids"] = "Kid Songs",
   ["kids-motions"] = "Kid Songs with Motions",
 }
 local LIBRARY_PAGES = {
   ["spiritual"] = "spiritual", ["andy-original"] = "andy-originals",
+  ["andy-michelle"] = "andy-michelle-originals",
   ["yeastbombs"] = "yeastbombs", ["kids"] = "kids", ["kids-motions"] = "kids",
 }
 
