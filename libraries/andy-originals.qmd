@@ -20,4 +20,4 @@ listing:
       libraries: andy-original
 ---
 
-Songs written by Andy Stein with his family and friends.
+Songs written by Andy Stein, sometimes in collaboration with family and friends.
