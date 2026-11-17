@@ -2,7 +2,7 @@
 title: "Bubble Up Time"
 sort_title: "Bubble Up Time"
 artist: "Andy Stein and Michelle Stein"
-key: "D"
+key: "G"
 libraries: ["all", "andy-original", "andy-michelle", "kids"]
 added: "2026-11"
 source_doc: "https://docs.google.com/document/d/1ipN3aH1j8tznokCXNe5C6kvnyDLexyPlIRlZPyAEgcE/edit"
@@ -10,20 +10,20 @@ source_doc: "https://docs.google.com/document/d/1ipN3aH1j8tznokCXNe5C6kvnyDLexyP
 
 ```{.song}
 Chorus (sing twice):
-[D] Bubble up time, Spidey Team
-[D] Bubble up time, Spidey Team
+[G] Bubble up time, Spidey Team
+[G] Bubble up time, Spidey Team
 [C] Soap monster here and it's causing a scene
-[D] Bubble up time, spidey team.
+[G] Bubble up time, spidey team.
 
 Bridge:
-Sometimes [G] bad guys pop all the bubbles and
-[C] He can see again
-[G] Gwen and Miles are sick today
-It's [C] only Peter and Michelle
+Sometimes [C] bad guys pop all the bubbles and
+[D] He can see again
+[C] Gwen and Miles are sick today
+It's [D] only Peter and Michelle
 
 Chorus again:
-[D] Bubble up time, Spidey Team
-[D] Bubble up time, Spidey Team
+[G] Bubble up time, Spidey Team
+[G] Bubble up time, Spidey Team
 [C] Soap monster here and it's causing a scene
-[D] Bubble up time, spidey team.
+[G] Bubble up time, spidey team.
 ```
